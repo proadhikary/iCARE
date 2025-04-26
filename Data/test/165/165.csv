@@ -1,0 +1,94 @@
+speaker,start,end,text
+SPEAKER_00,22.376,25.618," Hi Victor, I'm Dr. Sawyer."
+SPEAKER_00,28.42,29.895," Victor, can you tell me how old you are?"
+SPEAKER_01,34.095,34.195, I'm 20.
+SPEAKER_00,35.4,35.562, You're 20.
+SPEAKER_00,36.006,36.269,Okay.
+SPEAKER_00,36.471,36.996,Where do you live?
+SPEAKER_01,39.776,40.118, At home.
+SPEAKER_00,40.824,41.329, You live at home?
+SPEAKER_00,41.39,41.915,Who do you live with?
+SPEAKER_01,43.565,47.4," Um, my mom, my dad, my sister."
+SPEAKER_00,47.964,50.38," Okay, so you live with your mom, dad, and sister."
+SPEAKER_00,50.42,52.776," Um, what do you do for work?"
+SPEAKER_01,54.546,55.39, I go to a co-op.
+SPEAKER_00,57.44,61.4," Okay, so you came to me to see me because I'm a doctor."
+SPEAKER_01,61.48,62.403, I didn't come to you.
+SPEAKER_01,62.945,66.035,My mom and dad and my sister drove me here.
+SPEAKER_01,66.056,67.32,I didn't want to come.
+SPEAKER_00,67.602,68.996," Okay, are your mom and dad and sister here?"
+SPEAKER_01,69.42,69.482, Yes.
+SPEAKER_00,70.4,73.4," Okay, so I'll let you go back to them in a few minutes, but let's just get through a few questions."
+SPEAKER_01,73.865,74.673, I want to get done now.
+SPEAKER_00,75.42,78.109," So Victor, tell me, how's your sleep been?"
+SPEAKER_00,78.731,81.32,"What about, have you been experiencing any lack of joy?"
+SPEAKER_01,82.52,83.282," Yes, I have."
+SPEAKER_01,84.004,85.707,My teachers have been mean to me.
+SPEAKER_01,86.469,91.26,My educational assistants have been mean to me.
+SPEAKER_01,91.5,93.448, They always put me in timeouts.
+SPEAKER_01,93.649,94.874,I'm really pressured.
+SPEAKER_00,96.4,98.38," Victor, are you going to calm down?"
+SPEAKER_01,98.481,99.511, I will not calm down.
+SPEAKER_00,100.4,103.199," Victor, if you don't stay in your seat, I'm going to have to call security."
+SPEAKER_01,103.48,104.203, I never yell.
+SPEAKER_01,104.223,106.049,This is the first time I'm yelling.
+SPEAKER_01,106.089,109.34,This is the first time I'm pouring out my feelings on you.
+SPEAKER_00,109.561,112.315, You're yelling at me right now and I need you not to yell.
+SPEAKER_00,112.335,113.219,Are you on any medications right now?
+SPEAKER_01,113.44,116.194, My mom and dad and my sister are on medications.
+SPEAKER_01,116.696,117.36,Thank you.
+SPEAKER_00,117.562,119.238," Yes or no, are you on any medications?"
+SPEAKER_01,119.4,119.584," Yes, I am."
+SPEAKER_00,120.762,123.4," Okay, I need you to bring me a list of your medications later."
+SPEAKER_00,123.561,128.34, So I'm going to give you a prescription for an antidepressant medication.
+SPEAKER_00,129.606,132.4, Can you bring it home to your mom and show it to her and then get it filled?
+SPEAKER_01,133.246,133.809, I'll take that.
+SPEAKER_01,133.83,135.4,It's none of your business.
+SPEAKER_00,136.062,142.219," Okay, so I'm just going to go to my computer and put it in and then my receptionist will print you off the medication."
+SPEAKER_00,142.865,143.026, Okay?
+SPEAKER_00,143.046,144.4,"So good luck, Victor."
+SPEAKER_00,174.509,175.029," Hi, Victor."
+SPEAKER_00,175.049,177.231,I'm Dr. Sawyer.
+SPEAKER_00,177.251,177.291,Hi.
+SPEAKER_00,179.253,181.515,I'm a psychiatrist.
+SPEAKER_00,182.136,183.617,Do you know what a psychiatrist is?
+SPEAKER_01,183.637,183.677,No.
+SPEAKER_00,184.899,186.04,Okay.
+SPEAKER_00,186.56,194.859," So a psychiatrist is a doctor who deals with people who are feeling sad or mad, different feelings that they might have."
+SPEAKER_00,195.661,200.557, We'll talk for a little bit and we'll talk about some things that might have been difficult in your life over the past little bit.
+SPEAKER_00,201.42,205.155," And our goal is to try to make things, see how we can make things a little bit easier for you."
+SPEAKER_01,206.706,206.91, Okay.
+SPEAKER_00,207.42,207.645, Okay.
+SPEAKER_01,208.4,212.029," When I'm at school, I feel like they're not doing anything."
+SPEAKER_01,212.049,216.119,They're not listening to me about how my feelings are.
+SPEAKER_00,216.4,217.329, So you feel pretty unheard.
+SPEAKER_01,218.741,220.285, I feel unheard at school.
+SPEAKER_01,221.068,224.277,My parents and my sister are hearing me.
+SPEAKER_00,225.4,226.646, So you said you've been feeling pretty sad.
+SPEAKER_00,226.807,228.335,How long have you been feeling sad for?
+SPEAKER_01,230.48,234.965," Well, there's one teacher."
+SPEAKER_01,234.985,242.735,"I won't give out any names, but she doesn't listen to me."
+SPEAKER_01,242.975,243.375,Okay?
+SPEAKER_01,244.056,247.4,She just tries to keep me down.
+SPEAKER_00,247.984,249.373, How long have you had this teacher for?
+SPEAKER_01,250.862,255.079, About four years.
+SPEAKER_00,255.4,255.681, Four years.
+SPEAKER_00,255.982,259.677,So have you been feeling sad for this entire four years or a shorter period of time?
+SPEAKER_01,260.905,262.299, Shorter period of time.
+SPEAKER_00,262.42,265.4," So has it been a couple weeks, a couple months, a couple days?"
+SPEAKER_01,266.044,266.809, A couple months.
+SPEAKER_00,268.4,275.4," So Victor, I want to tell you some of my thoughts of what I think is going on, but I want to invite your sister in because I need to find out a little bit about your medical history."
+SPEAKER_00,275.521,278.4," So I'm just going to get her and then I'll come back, okay?"
+SPEAKER_01,278.89,279.237, Okay.
+SPEAKER_00,281.161,292.639," So I've been talking to Victor and he's been telling me about how he's had less interest in things, he's having trouble sleeping, he's feeling sad all the time."
+SPEAKER_00,293.882,298.4, And it does sound like he's been suffering from what we call a major depression.
+SPEAKER_00,298.42,302.095, And there's a couple of treatments that I want to talk about.
+SPEAKER_00,302.115,303.4,Do you know what medications Victor is on?
+SPEAKER_02,303.842,307.035," Yeah, so I actually brought a list because there's quite a few."
+SPEAKER_02,307.356,308.36,I can certainly give you all.
+SPEAKER_00,308.584,309.053, Thank you.
+SPEAKER_00,309.52,316.38," Okay, so on this list it says about sort of what medical illnesses he's had and hospitalizations and surgeries as well."
+SPEAKER_00,316.5,319.427, There's a couple of treatments for depression.
+SPEAKER_00,320.108,325.36,One is medication and one is also doing some interventions within the school and within the family.
+SPEAKER_00,327.125,332.119," And there's a lot of things to think about, but it seems like things in the school have been really not going well."
+SPEAKER_00,332.741,336.376, And that's been a major contribution to his sadness.

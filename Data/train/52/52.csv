@@ -1,0 +1,209 @@
+speaker,text,start,end
+SPEAKER_00," Hey Lisa, How are you doing today?",0.0,0.461
+SPEAKER_01," Good, how are you?",7.0,7.321
+SPEAKER_00," I'm doing well, thanks for asking.",14.945,16.229
+SPEAKER_00, How has the anxiety been going?,20.5,22.771
+SPEAKER_01, Since last session it seems to be in check.,24.74,27.011
+SPEAKER_01, Nothing really major has been going on with it.,29.001,31.135
+SPEAKER_01, I think I'm getting to a point where it's under control.,31.94,36.237
+SPEAKER_00, It's subsided a bit?,36.94,37.818
+SPEAKER_01, Yes.,37.981,38.247
+SPEAKER_01, That's good.,39.104,39.818
+SPEAKER_00, How has things been going at work lately?,41.185,42.992
+SPEAKER_01, Work is a little bit of a different story.,44.92,46.387
+SPEAKER_01, We have our daily meetings.,49.0,50.306
+SPEAKER_01, I actually had to pull one of my coworkers aside because I feel like they undermine me all the time.,54.241,62.698
+SPEAKER_01, They don't give me the respect that I deserve.,65.944,69.332
+SPEAKER_01, I took her outside after the meeting and laid into her about it.,73.321,78.992
+SPEAKER_01," Afterwards, the next day, because we have these meetings every day, she came back and came at me again.",83.321,92.297
+SPEAKER_01," But it was worse, even after talking to her.",94.864,97.836
+SPEAKER_00," So talking to her, that didn't improve your situation?",99.161,102.659
+SPEAKER_01, No.,102.92,103.041
+SPEAKER_00,"So , You have these daily meetings.",106.407,107.493
+SPEAKER_00, You mentioned that she's not showing you respect and that you deserve respect.,109.261,115.699
+SPEAKER_00, Something to that effect.,116.849,117.9
+SPEAKER_00, Tell me about that belief.,118.021,119.188
+SPEAKER_00, Remember we talked about ABC before activating events and beliefs and consequences in REBT.,121.101,127.86
+SPEAKER_00, Tell me about that belief.,128.625,129.933
+SPEAKER_01, I just feel that I do a good job and I deserve to be respected by my coworkers.,132.061,145.754
+SPEAKER_00, Are there levels of respect?,152.521,153.924
+SPEAKER_00,Is there a certain level of respect that you demand or need?,154.585,160.217
+SPEAKER_01," I don't know if there's a certain level, but I feel just like I deserve it.",162.762,166.592
+SPEAKER_00, What did she do that convinced you that she wasn't meeting that level of respect?,170.501,177.88
+SPEAKER_01," She was shooting down my ideas and just kind of made me feel like a fool, basically.",178.601,187.818
+SPEAKER_01, So I just didn't understand.,188.96,191.855
+SPEAKER_00, So she had criticisms of your ideas.,193.241,197.478
+SPEAKER_00," A few of them, it sounds like.",198.804,199.767
+SPEAKER_00,That would upset anybody.,200.611,202.659
+SPEAKER_00, But were those criticisms unusual given the tone of these meetings?,203.562,209.017
+SPEAKER_00, Is this a type of meeting where people criticize each other or attempt to in a constructive way?,210.08,215.593
+SPEAKER_01," I mean, I guess.",218.92,219.526
+SPEAKER_00, Have you criticized other coworkers?,221.242,224.88
+SPEAKER_01, Yeah.,225.524,225.705
+SPEAKER_00," So do you think that her criticism was within normal limits, like within what you've kind of seen there regularly?",228.541,238.136
+SPEAKER_01," I mean, now that you point it out, I mean, I guess I can view it in that way, that it wasn't...",241.201,249.497
+SPEAKER_00," It wasn't too far out of line the first time, right?",251.181,254.136
+SPEAKER_00," But then after you talked to her, you said that it got worse.",254.98,258.739
+SPEAKER_01, Yeah.,259.08,260.063
+SPEAKER_01,"It just felt like she was purposely trying to nitpick, if you will.",260.605,265.9
+SPEAKER_00, Trying to get at you a little bit.,266.263,267.476
+SPEAKER_00," So maybe the second time around, correct me if I'm wrong, maybe she was actively showing you disrespect just because of what you had done,  because you came after her and... Or was that within normal limits too?",268.481,284.47
+SPEAKER_01,I don't know.,284.49,285.171
+SPEAKER_01," I mean, I guess I may have gone at her a little harshly, but I felt at the time that it was reasonable.",290.361,304.759
+SPEAKER_00, At the time when you were...,306.162,306.849
+SPEAKER_01, When I was talking to her outside of the meeting.,308.262,310.094
+SPEAKER_00," So you felt that she was a bit harsh, you talked to her about it, but then she's become more harsh.",312.424,318.76
+SPEAKER_00," So where do you stand with her now, like with the meetings and such?",320.106,322.9
+SPEAKER_01," Well, I've just been trying not to talk to her.",323.161,326.693
+SPEAKER_01," And obviously in a work situation, it doesn't really help.",329.402,334.92
+SPEAKER_00, That's not convenient.,334.96,336.145
+SPEAKER_00,Yeah.,336.426,336.687
+SPEAKER_00,It might not help.,337.771,338.354
+SPEAKER_00,All right.,338.374,338.876
+SPEAKER_00, So let's work this through using the ABC model that we used for the anxiety that you had before.,340.381,347.499
+SPEAKER_00, That was troublesome to you before.,348.222,349.611
+SPEAKER_00, What would the activating event be here in this situation?,351.522,354.871
+SPEAKER_01, So I guess the confrontation I had with her.,358.762,361.611
+SPEAKER_00," Well, you could look at that as an activating event.",365.422,368.193
+SPEAKER_00, Another way to look at it is her criticism of you could have been the activating event.,370.0,374.814
+SPEAKER_00, And your conversation with her could have been the consequence.,377.302,379.852
+SPEAKER_00, But these things are cyclical.,382.584,383.913
+SPEAKER_00, So it's sometimes hard to know where to cut in and put the A and the B and the C.,385.322,388.357
+SPEAKER_00, But let's just work it through with the activating event being what she said.,390.065,393.739
+SPEAKER_00, Let's just try that and see how that works out.,393.96,397.397
+SPEAKER_00, Would that be reasonable?,398.061,399.173
+SPEAKER_00," That could have been kind of what started it, was this criticism.",400.442,405.92
+SPEAKER_01, Yeah.,405.981,406.102
+SPEAKER_00, So then what would the belief...,409.021,410.334
+SPEAKER_00, So all activating events are filtered through our belief system.,411.121,414.759
+SPEAKER_00, So what would your beliefs be in that scenario?,415.302,418.317
+SPEAKER_01, So she criticized me and I felt disrespected.,419.622,424.499
+SPEAKER_00, That's a feeling.,425.546,426.213
+SPEAKER_01," And I feel, or my belief is that I deserve respect.",426.94,432.619
+SPEAKER_00, Right.,433.945,434.327
+SPEAKER_00,And that came first.,434.508,435.352
+SPEAKER_00," So you have the activating event, which is her criticism, processed through your belief,  which is that you must have respect, you deserve respect.",437.04,447.656
+SPEAKER_00, You mentioned the feeling.,448.92,449.744
+SPEAKER_00,So tell me about the feelings.,450.769,451.593
+SPEAKER_01," So that being upset and disrespected and, you know, aggravation.",452.92,462.86
+SPEAKER_00, It was aggravation.,462.96,464.152
+SPEAKER_00,Frustration.,464.375,464.88
+SPEAKER_00, So that would be one of the consequences of how you processed her behavior.,467.143,473.92
+SPEAKER_00, Does that make sense?,473.92,475.88
+SPEAKER_00," The feeling, the frustration feeling, would be one of the consequences, like an ABC.",476.181,481.92
+SPEAKER_00," So you have the activating event, she criticizes you, your belief is that you deserve respect,  and that clearly she violated that belief.",482.502,489.88
+SPEAKER_00, She didn't show you the respect that you deserved according to your belief system.,492.004,495.639
+SPEAKER_00," And then one of the consequences, therefore, was this feeling of frustration.",496.342,499.498
+SPEAKER_00, Were there any other consequences?,500.383,501.792
+SPEAKER_01," Well, if we go forward, it's the kind of disarray, or the tension, I guess, now in the office.",505.841,518.8
+SPEAKER_00, So that's definitely a consequence.,520.663,522.571
+SPEAKER_00,"I'm thinking there's an intermediate consequence, though.",523.032,524.92
+SPEAKER_00," So you had that feeling of frustration, and what's the next thing you did after that meeting was over?",525.261,529.699
+SPEAKER_01," Oh, well, I confronted her.",530.061,531.415
+SPEAKER_00, You confronted her.,531.92,532.704
+SPEAKER_00,So you have kind of those two consequences.,532.744,534.553
+SPEAKER_00," And that confrontation, it would appear, has led her to kind of come on more strongly with her criticisms,  which is another activating event.",536.121,545.631
+SPEAKER_00," You could also think of it as a consequence, but like I said, this is cyclical.",547.101,550.458
+SPEAKER_00," So you see how the A and the B and the C, that paradigm, can fit in to what happened here at work for you.",551.401,558.82
+SPEAKER_00, Does that make some sense?,562.243,563.354
+SPEAKER_01, It does.,564.08,564.482
+SPEAKER_01,"Yeah, and I mean, when you put it that way, and then you say it's cyclical, then you just,  I can visualize it going around like a carousel.",565.224,575.779
+SPEAKER_00," Sure, exactly.",577.002,577.864
+SPEAKER_00,"So it helps you to kind of see what caused what, and maybe what could have been changed,  or could be changed in the future, right?",577.904,587.669
+SPEAKER_00,"Because we can't go back and change that, but we can work on the future.",587.689,590.759
+SPEAKER_00," So her criticism of you, there's no direct way to change that.",591.782,596.175
+SPEAKER_00,The consequence is a consequence.,596.195,597.619
+SPEAKER_00," So that leaves the belief system, which is the deserving respect.",598.06,604.9
+SPEAKER_00, One of the things we try to do in REBT is help people move from rigid thinking to more flexible thinking.,605.02,615.92
+SPEAKER_00," So kind of a rigid belief system would be, and not that you said it in this way, but I demand and deserve respect.",618.842,625.92
+SPEAKER_00, Right?,627.322,627.522
+SPEAKER_00,"At this particular level, and people aren't meeting it.",627.603,629.711
+SPEAKER_00,Would you say that's a fair?,630.715,631.559
+SPEAKER_01, Yeah.,631.92,632.083
+SPEAKER_00, Okay.,633.361,633.842
+SPEAKER_00,"Maybe a more flexible way of thinking would be that you'd like respect, right?",633.862,640.92
+SPEAKER_00," Respect's good, respect's healthy in work environments, certainly, but if you don't get it, you can still function.",640.96,648.519
+SPEAKER_00, And it's tough for you.,652.347,653.089
+SPEAKER_00,I can see that's tough.,653.109,655.015
+SPEAKER_00,Tell me about that.,655.476,655.977
+SPEAKER_01," I mean, I understand what you're saying.",659.244,660.746
+SPEAKER_01,I get it.,661.347,661.868
+SPEAKER_01,"I guess it's just kind of like the anxiety, with the anxiety we worked on.",663.23,667.296
+SPEAKER_01,It's just getting there.,667.376,669.539
+SPEAKER_00, Are you willing to think of and challenge your beliefs in this instance?,671.922,679.018
+SPEAKER_01, Yes.,682.287,682.512
+SPEAKER_00, Yeah.,682.92,683.12
+SPEAKER_00,It's tough though.,683.882,684.764
+SPEAKER_00,"As you mentioned, with the anxiety, it's just tough.",685.144,686.848
+SPEAKER_00,"How long have you had this belief, kind of this mentality of, I deserve respect?",688.651,692.92
+SPEAKER_01," Oh, gosh.",693.1,694.103
+SPEAKER_01,Since I was like a teenager.,694.203,699.015
+SPEAKER_01,"So, a long time.",699.035,700.88
+SPEAKER_00," This has been a relatively persistent part of your life, this belief system.",701.181,706.494
+SPEAKER_00,"So, changing it's going to be work.",706.554,707.998
+SPEAKER_01, Yeah.,708.94,709.675
+SPEAKER_00," So, if you can apply a different philosophy, apply more flexible thinking the next time you're in a meeting.",712.142,721.077
+SPEAKER_00,She still criticizes you in the meetings?,721.097,722.92
+SPEAKER_01, Yeah.,723.002,723.185
+SPEAKER_00," So, if you filtered that through a belief system, now your first urge might be, I would think, to be, I'm being disrespected again, right?",725.623,732.374
+SPEAKER_00,It probably comes on that way.,734.097,735.179
+SPEAKER_00,You kind of feel it.,735.319,735.92
+SPEAKER_01, Yeah.,736.181,736.624
+SPEAKER_01,It starts in my stomach and then goes all the way up.,737.448,739.699
+SPEAKER_00," So, that'll be your first physiological reaction, right?",740.761,745.445
+SPEAKER_00,An emotional reaction.,745.485,746.486
+SPEAKER_00,"But if you can kind of pause that moment and apply more flexible thinking, like I talked about, which is, I'd like respect, but I can survive and function without it.",747.828,760.76
+SPEAKER_00," At some level, I can accept that I'm not going to get it all the time.",762.301,766.43
+SPEAKER_00,Are there other areas of your life where you do get respect?,768.054,770.279
+SPEAKER_01, Yeah.,772.021,773.083
+SPEAKER_01,"For my friends and my family, I feel like they give me, it's actually mutual respect.",773.904,781.754
+SPEAKER_01,"They give me respect, I give them respect.",782.576,784.578
+SPEAKER_00," So, that need, if that's a need, that's being met, right?",786.42,789.563
+SPEAKER_00,"Maybe not by this one coworker, right?",791.345,794.108
+SPEAKER_00,"So, maybe she's being disrespectful.",794.929,796.41
+SPEAKER_00,"Or, as we talked about before, maybe that's the way you're interpreting it and she never really intended to be disrespectful because criticism is part of what happens in those meetings.",796.59,806.7
+SPEAKER_01, True.,808.334,808.617
+SPEAKER_00," So, you don't, you know, I don't really know which is which and you may not either at this point.",809.08,813.386
+SPEAKER_00,"So, what do you think would happen if you could take that criticism the next time it occurs and run it through that more flexible belief system?",814.807,823.378
+SPEAKER_00,What would be the consequences?,823.398,824.72
+SPEAKER_01," Well, I think over time, if I learned to do that, first starting with inside of me, I wouldn't get that initial punch to the gut.",828.164,842.459
+SPEAKER_01, And I wouldn't have the urge to lash out at her.,846.083,850.226
+SPEAKER_01,Especially if it is trying to be constructive criticism resulting in a situation where there's that tension in our office.,854.17,864.459
+SPEAKER_00, Right.,867.26,867.761
+SPEAKER_00,"So, if you could filter through that belief system and it would help if it was constructive, that would help you filter it through that, to be at that belief system.",868.301,877.63
+SPEAKER_00,Functioning in the office would improve for you.,879.832,881.954
+SPEAKER_00,Stress would be reduced for you.,882.215,883.476
+SPEAKER_00,Ultimately.,884.977,885.418
+SPEAKER_00, Is there a way to kind of patch things up with this co-worker to maybe explain that you understand a little more about her criticisms and maybe just try to smooth things over?,888.481,907.279
+SPEAKER_01, I think I'd be able to do that.,909.301,910.922
+SPEAKER_01,I think I'd be able to approach her and maybe ask her if she'd want to get coffee or something and maybe sit down and kind of talk it over with her.,912.443,922.05
+SPEAKER_01,"Maybe I misunderstood her in the first meeting and she really didn't mean to undermine me, as I said.",924.832,932.577
+SPEAKER_01,And then go from there.,932.597,936.84
+SPEAKER_00," So, I think a good way of gathering the information, meaning having a discussion with her, would be helpful because you may find that you really see things alike and it was just a disagreement in terms of her criticism and the way you interpret it.",937.92,952.874
+SPEAKER_00,"Or she may have been trying to be critical and you'll know that too.You really can,t control someone else's behaviour but it would give you an idea of maybe what her intentions were and how you can go forward to repair that relationship so that it functions. Yeah?",953.554,957.358
+SPEAKER_00," So, I think it's a good way to sort out your own.",959.92,961.683
+SPEAKER_01, Yeah.,971.04,972.663
+SPEAKER_01,I certainly don't want our upper management to get involved and there be a bigger issue.,972.683,980.998
+SPEAKER_00, You don't want them to have to come and sort that out.,982.401,984.724
+SPEAKER_00,You can sort out your own.,985.084,986.146
+SPEAKER_00,And that would be a good application of coping skills and flexible thinking.,987.668,991.933
+SPEAKER_00,"So, is that something you feel like you can try over the course of the next week?",993.395,996.76
+SPEAKER_01, I will definitely try.,998.081,999.45
+SPEAKER_00," So, really our plan moving forward has a couple parts.",1001.541,1004.284
+SPEAKER_00,"So, one would be spoon things over in a sense, discussing this with her, letting her know you're aware of what's going on and you want to try to resolve it.",1004.845,1017.78
+SPEAKER_00," And the second part would be trying to move a little bit away from the rigid, you know, I deserve respect to, I would like respect but I'll function adequately without respect from everyone.",1018.721,1035.419
+SPEAKER_00, I know that's tough.,1038.663,1040.085
+SPEAKER_00,That's going to be the challenge.,1040.466,1042.048
+SPEAKER_00,"But this will be, this will give us good information and give you some practice.",1044.851,1048.696
+SPEAKER_00,Does it all make sense to you?,1050.558,1051.76
+SPEAKER_01, Yeah.,1052.683,1052.964
+SPEAKER_01,It's pretty clear.,1053.265,1055.314
+SPEAKER_01,You explained it really well.,1055.494,1056.538
+SPEAKER_00, Thank you.,1057.481,1057.801
+SPEAKER_00,"So, let's work on those two, those two elements.",1059.503,1062.908
+SPEAKER_00,"And next time you come in, we'll check in on those two and make any needed modifications to our strategy and we'll kind of move forward from there.",1063.809,1071.9
+SPEAKER_01, Okay.,1072.328,1072.573
+SPEAKER_00, That sound good?,1072.92,1073.369
+SPEAKER_01, Sounds great.,1073.92,1074.818
+SPEAKER_00, Thanks Lisa.,1074.981,1075.553
+SPEAKER_01, Thanks.,1075.981,1076.647

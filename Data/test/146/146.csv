@@ -1,0 +1,96 @@
+speaker,start,end,text
+SPEAKER_00,14.357,14.637," Hi, Sandra."
+SPEAKER_00,14.657,15.338,How are you doing today?
+SPEAKER_01,19.273,19.957," I'm okay, I guess."
+SPEAKER_00,20.58,20.927, Just okay?
+SPEAKER_01,21.56,22.233, Yeah.
+SPEAKER_00,22.921,23.122, All right.
+SPEAKER_00,23.142,26.956,I'm going to ask you some questions and give you some problems to solve.
+SPEAKER_00,26.976,30.828,Please  try to answer them as best as you can.
+SPEAKER_00,33.736,34.478,What year is this?
+SPEAKER_01,35.16,36.16,2014
+SPEAKER_00,36.16,37.16, 2014?
+SPEAKER_01,37.221,38.16, Yeah.
+SPEAKER_00,39.382,41.406, What season of the year is this?
+SPEAKER_01,49.352,49.716, Summertime.
+SPEAKER_00,52.401,52.864, Summertime?
+SPEAKER_00,53.989,55.597,What is the date today?
+SPEAKER_01,58.026,61.678, May 10th.
+SPEAKER_00,62.466,62.711, May 10th?
+SPEAKER_01,63.384,63.507, Yeah.
+SPEAKER_00,66.529,68.879, What is the day of the week?
+SPEAKER_01,74.137,74.598, Thursday.
+SPEAKER_00,76.251,77.079, What month is this?
+SPEAKER_01,78.736,78.918, May.
+SPEAKER_00,81.766,83.995, Can you tell me what country we're in?
+SPEAKER_01,86.716,87.16, Delaware.
+SPEAKER_00,89.59,90.533, What county are we in?
+SPEAKER_01,93.554,94.019, Delaware.
+SPEAKER_00,95.824,99.072, What is the name or the address of this building?
+SPEAKER_01,103.487,103.969, Say that again.
+SPEAKER_00,106.822,108.749, What floor of the building are we on?
+SPEAKER_01,112.405,112.813, Bottom one.
+SPEAKER_00,113.691,114.14, Bottom floor?
+SPEAKER_01,114.421,114.602, Yeah.
+SPEAKER_00,119.2,120.824, I am going to name three objects.
+SPEAKER_00,121.807,125.135,"After I've said them, I want you to repeat them back to me."
+SPEAKER_00,127.5,131.065," Apple, table, penny."
+SPEAKER_00,138.354,139.355,Can you repeat them back to me?
+SPEAKER_01,143.361,143.623, Penny.
+SPEAKER_00,146.867,147.493, Let me go again.
+SPEAKER_01,148.303,149.078, Okay.
+SPEAKER_00,149.34,151.787," Apple, table, penny."
+SPEAKER_01,157.32,168.138," Apple, table, apple."
+SPEAKER_00,169.301,170.271, Let me try again.
+SPEAKER_00,171.422,173.375," Apple, table, penny."
+SPEAKER_01,181.183,186.14," Apple, table, penny."
+SPEAKER_00,187.201,187.362, Okay.
+SPEAKER_00,187.522,187.742,Good.
+SPEAKER_00,189.584,194.53,Remember what they are because I'm going to ask you to name them again in a few minutes.
+SPEAKER_00,202.961,208.605, Now I'm going to give you a word and ask you to spell it forward and backward.
+SPEAKER_00,210.186,213.028,The word is world.
+SPEAKER_00,214.789,216.531,"First, can you spell it forward?"
+SPEAKER_01,229.584,230.251, Can you say it again?
+SPEAKER_00,231.682,232.525, The word is world.
+SPEAKER_01,236.601,236.901, W-U-R-A-D.
+SPEAKER_00,250.36,252.084," Now, can you spell it backward?"
+SPEAKER_01,261.16,263.099, What was the word again?
+SPEAKER_00,263.16,263.723, The word is world.
+SPEAKER_01,267.501,267.761, D-R-W.
+SPEAKER_00,278.561,278.782, Okay.
+SPEAKER_00,286.421,288.708, What were the three objects I asked you to remember?
+SPEAKER_01,292.2,295.167," Table, world."
+SPEAKER_00,301.16,301.984, What is this called?
+SPEAKER_01,305.242,305.507, Bracelet.
+SPEAKER_00,306.16,306.543, Bracelet.
+SPEAKER_00,309.501,310.124, What is this called?
+SPEAKER_01,314.361,314.823, Marker.
+SPEAKER_00,318.16,320.004, I would like you to repeat a phrase after me.
+SPEAKER_00,320.926,324.815,"The phrase is no ifs, ands, or buts."
+SPEAKER_01,327.16,330.326," No ifs, ands, or buts."
+SPEAKER_00,337.16,342.269, Read the words on this page and do what it says.
+SPEAKER_00,348.481,349.465, Thank you.
+SPEAKER_00,353.16,354.365, Are you right-handed or left-handed?
+SPEAKER_00,358.548,358.874, Left-handed.
+SPEAKER_00,359.16,359.642, You're left-handed?
+SPEAKER_00,363.2,371.208," Take this paper in your left hand, fold the paper once with both hands, and put the paper down on your lap."
+SPEAKER_00,384.665,384.907, Okay.
+SPEAKER_00,386.2,387.846, Can you pick up the notebook beside you?
+SPEAKER_00,392.5,395.363, Can you write any complete sentence on that piece of paper for me?
+SPEAKER_00,412.026,412.69, Can I see the sentence?
+SPEAKER_00,415.125,415.306, Okay.
+SPEAKER_00,418.461,419.363, Hang on to the pen there.
+SPEAKER_00,425.16,425.681, Here's a drawing.
+SPEAKER_00,426.922,430.806,Please copy this drawing on that same piece of paper.
+SPEAKER_01,444.262,444.65, Copy it?
+SPEAKER_00,445.362,446.978, Copy it on the same piece of paper.
+SPEAKER_01,447.303,447.731, On this one?
+SPEAKER_00,449.962,450.223, Yeah.
+SPEAKER_01,463.16,463.67, Can I start over?
+SPEAKER_00,464.18,464.38, Sure.
+SPEAKER_00,483.805,488.16, Can I take a look at it?
+SPEAKER_00,488.16,488.26, Okay.
+SPEAKER_00,488.321,488.602,Thank you.
+SPEAKER_00,493.423,495.14, That concludes this assessment.
+SPEAKER_00,495.744,497.818," Sandra, I want to thank you for your participation."
+SPEAKER_01,499.13,499.493, Thank you.

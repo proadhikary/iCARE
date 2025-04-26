@@ -1,0 +1,118 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.16," Hi, Sasha."
+SPEAKER_00,0.181,0.562,How you doing today?
+SPEAKER_01,14.615,15.617," I'm all right, thanks."
+SPEAKER_01,16.198,16.599,How are you?
+SPEAKER_00,17.14,18.664,I'm doing okay.
+SPEAKER_00,18.764,19.627,Thank you for asking.
+SPEAKER_00,20.389,25.748,I understand that you've been having some difficulty with  some symptoms.
+SPEAKER_00,25.768,26.96,Is that right?
+SPEAKER_01,26.98,27.144,Yeah.
+SPEAKER_00,28.92,30.88,Can you tell me about what's been going on?
+SPEAKER_01,30.94,45.489," Yeah, for the past maybe couple weeks, I guess, few weeks, I have these morning meetings once  a week at work and I have to make a presentation."
+SPEAKER_01,45.509,53.253,"And every time I go to present, it's my turn  and I start getting really nervous."
+SPEAKER_00,56.682,58.146,Start getting really nervous.
+SPEAKER_00,58.167,65.82,"So, morning meeting at work and so does each person at  the meeting present in a row?"
+SPEAKER_01,65.961,66.567," Yeah, yeah."
+SPEAKER_01,66.688,67.88,We all take turns.
+SPEAKER_00,68.261,69.043,You all take turns.
+SPEAKER_00,70.185,77.798,And when you start to feel nervous when it's your time to talk or before  or after that?
+SPEAKER_01,78.081,82.86," No, usually the kind at the start of the meeting because I know I'm going to have to."
+SPEAKER_00,82.88,83.656,All right.
+SPEAKER_01,84.84,93.894,I've been to about 10 of us and I always seem to be one of the last few to go like six or  seven kind of in line to present.
+SPEAKER_00,95.585,95.867,All right.
+SPEAKER_00,95.988,97.719,"So, there's around 10 people at the meeting?"
+SPEAKER_01,98.003,98.289,Yeah.
+SPEAKER_00,99.142,102.659," And as luck would have it, you tend to be toward the end."
+SPEAKER_01,102.84,103.024,Mm-hmm.
+SPEAKER_00,104.222,104.462,All right.
+SPEAKER_00,104.744,110.84,"So, can you describe what's happening, let's say, from the beginning of the meeting  in terms of what you're experiencing?"
+SPEAKER_01,111.86,124.473," So, when I walk in, I'm usually okay and say good morning to everybody and then my boss  calls me to order and that's usually when it starts."
+SPEAKER_01,124.854,128.084,It kind of starts like maybe like  butterflies in my stomach kind of.
+SPEAKER_01,128.947,145.389,"And then after he makes his report and then it just  starts going around the room and my heart starts to beat faster, my palms get sweaty  and I just start to feel really nervous."
+SPEAKER_01,145.409,156.298,"I've realized that I might be, I kind of, I start  to tune out some of the other presentations because I start to become focused on how I'm feeling."
+SPEAKER_00,158.72,167.72," So, you're focused on the physical sensation being nervous and the mental sensation and  you're not really hearing what they're saying?"
+SPEAKER_01,167.72,167.863,Yeah.
+SPEAKER_00,168.72,169.72,Is that what they're saying?
+SPEAKER_01,169.72,169.883,Yeah.
+SPEAKER_00,170.921,171.362,All right.
+SPEAKER_00,171.402,172.746,"So, go on."
+SPEAKER_00,172.766,177.72,"So, you have these physical symptoms, this nervousness, what happens then?"
+SPEAKER_01,178.001,178.642,Yeah.
+SPEAKER_01,180.085,189.144,"By the time it's my turn to present, I start, I just, I'm almost like just almost  shaking."
+SPEAKER_01,189.164,199.754,I notice that my hands are a little off and so I'll keep my hands down like in  my lap and just so that I don't want anybody to see them shaking like that.
+SPEAKER_01,199.815,218.836,"I have a paper  in front of me that I just kind of read from but when I start reading, my voice is a little  shaky and I kind of stutter and trip over my words and I just, I feel like I'm not making  good presentations and that it's not looking good to my boss."
+SPEAKER_00,220.121,220.623,All right.
+SPEAKER_00,221.064,231.057,"So, in the moment when it's your turn to present, you're still feeling that  same nervousness like that doesn't go away at all."
+SPEAKER_01,231.66,232.334,No.
+SPEAKER_00,232.7,237.439,And you're trying to hold your body kind of still like almost like keep control.
+SPEAKER_01,237.742,238.109,Yeah.
+SPEAKER_01,238.416,238.62,Yeah.
+SPEAKER_00,239.362,247.398," And then your voice is kind of, sounds like crackly or breaking up as you're trying to  present like bullet points like on a..."
+SPEAKER_01,247.987,248.191,Yeah.
+SPEAKER_00,248.64,249.375,Like an outline.
+SPEAKER_01,249.66,250.579,Yeah.
+SPEAKER_00,250.64,250.821,All right.
+SPEAKER_00,250.841,253.876,What happens when you have read the last point?
+SPEAKER_01,254.66,284.873," Well, when I'm done, it takes a little bit for everything to calm down but then I'm consumed  by the idea that my boss thinks I did a terrible job and that he's regretting putting me in  this position and that I can't make good reports or that I didn't report the right stuff, the  right information to him and so it doesn't really go away."
+SPEAKER_01,285.174,289.197,It's almost like my mind just  shifts on what I'm anxious about.
+SPEAKER_00,290.643,290.924,All right.
+SPEAKER_00,290.944,296.38,"So, the nervousness, that stronger feeling of nervousness, that goes away."
+SPEAKER_00,296.4,303.98,It's  replaced by a more general feeling of nervousness about how your boss will think of you.
+SPEAKER_01,305.44,305.624,Yeah.
+SPEAKER_00,306.44,307.838,Because of the presentation quality.
+SPEAKER_01,308.0,308.184,Yeah.
+SPEAKER_00,309.381,317.373," Because as you're presenting and kind of staying still and your voice is crackling, he's picking  up on that and you're aware of that."
+SPEAKER_01,318.969,319.173,Yeah.
+SPEAKER_00,320.141,321.665,All right.
+SPEAKER_00,321.946,326.76,How long have you noticed these symptoms that appear in this way?
+SPEAKER_01,329.284,356.227," You know, when I was an undergrad in college, I had to make some presentations from time  to time and I would get nervous when I would make the presentations and I just, maybe most  people are afraid of public speaking so I kind of thought that maybe that's what it  was, you know, just doing a presentation in front of like 30 something people and so it  didn't really bother me then."
+SPEAKER_01,356.649,363.651,I figured it was just normal and I always got decent grades  on my presentation so it never really bothered me.
+SPEAKER_01,364.935,369.739,So I really feel like it's only been an  issue in the last few weeks.
+SPEAKER_00,370.542,372.709,The last few weeks is when you noticed this.
+SPEAKER_00,372.769,375.277,You had some nervousness before presenting.
+SPEAKER_00,376.98,380.711,You were in college but you just kind of thought of it as normal.
+SPEAKER_00,380.732,384.767,It didn't really impair your  ability to present.
+SPEAKER_00,384.787,386.638,It didn't affect your grades or anything.
+SPEAKER_01,386.94,387.736,Right.
+SPEAKER_00,388.541,388.842,All right.
+SPEAKER_00,390.085,397.942,Do you have any other symptoms that you think may be related or even unrelated  to what's going on?
+SPEAKER_01,403.64,406.689,I'm not sure if it has any bearing.
+SPEAKER_01,406.709,410.219,"My mom, she doesn't like to speak in public."
+SPEAKER_01,410.239,428.459,"I know  I used to talk to her about how I feel nervous about making presentations in school and she  would say, oh, you can buy it on as honey and so I don't know if that means anything."
+SPEAKER_00,429.48,433.578," So whatever you have going on, you think that maybe she has that going on too."
+SPEAKER_01,434.101,434.999,Maybe.
+SPEAKER_00,435.382,438.058,The same set of symptoms at least.
+SPEAKER_01,438.4,438.721,Yeah.
+SPEAKER_01,439.504,456.434,"I mean I've asked her, I've told her about this and she hasn't been in a situation  where she's had to do this kind of presentations like in a small group like this and so I can't  compare it to that but I mean she has said that she's gotten nervous before."
+SPEAKER_00,458.1,461.174,Any feelings of sadness or anything like that?
+SPEAKER_01,462.56,462.881,Yeah.
+SPEAKER_01,462.941,478.284,"Like after I make the presentation at work and then I do start feeling really sad,  like I said, because then I feel like my boss isn't satisfied with my performance and that  he's going to regret his decision to give me this position and so yeah, it definitely  makes me sad."
+SPEAKER_01,478.325,479.613,I feel disappointed in myself.
+SPEAKER_00,481.603,485.838," Do you have any substance use going on, alcohol, anything else?"
+SPEAKER_01,486.54,486.821,No.
+SPEAKER_01,487.062,488.867,I have a drink every now and then.
+SPEAKER_01,488.887,490.512,"It's very, very rare."
+SPEAKER_00,493.922,504.457," I know this is something recent for you but in these meetings so far, has the nervousness  ever caused you to leave the room before they came around to your turn?"
+SPEAKER_01,505.58,505.741,No.
+SPEAKER_01,505.901,511.939,I've managed to control it I guess to where I can stay there.
+SPEAKER_01,511.959,538.446,"Like I said, I've  zoned out sometimes when other people have been presenting and I feel bad about that  too because I feel like they have important information to share with me and I should  give them the same respect of paying attention but I become focused on what's going on inside  like my heart beating and my hands and so I zone out on them sometimes but no, I push  through it and I do my presentation."
+SPEAKER_00,543.44,545.29,Are you ever worried about what they're thinking about?
+SPEAKER_00,545.33,547.983,You mentioned what your boss could  be thinking about you.
+SPEAKER_00,548.244,553.28,Have you ever worried about what the other workers at the table  are thinking about you?
+SPEAKER_01,553.28,565.575," Yeah, sometimes because I feel like I'm the newest member of the management team and so  I feel like they're kind of like, what is up with this chick?"
+SPEAKER_00,565.635,567.099,Why can't she get it together?
+SPEAKER_01,568.541,586.072," But there's been one person who's been really supportive and she's been like, hey, you did  great today and great information and things like that so that kind of helps me feel better  but I guess at the end of the day to me, it's really my boss's opinion that matters because  he's my boss."
+SPEAKER_00,588.501,592.798," Have you ever felt, you mentioned you were nervous at the beginning of the meeting."
+SPEAKER_00,592.818,595.692,Have  you ever felt nervous well in advance of the meeting?
+SPEAKER_01,599.006,614.996," When I'm preparing like that morning to go to work and it's one of those like, okay,  I got this meeting at nine and I start to think about it like on my way into work but  I don't start feeling anything until I'm actually in the room."
+SPEAKER_00,618.561,626.581," Alright, so you have this nervousness, it's fairly intense, pretty much only at these  meetings."
+SPEAKER_00,627.845,629.31,It's been bothering you for a few weeks.
+SPEAKER_00,630.795,632.721,"Something new, something a little frightening  for you."
+SPEAKER_00,632.742,636.033,"Alright, we'll get you set up with treatment."
+SPEAKER_00,636.996,641.179,I'll get you in to see somebody  in the next few days if that works for you.
+SPEAKER_01,641.321,641.953," Yeah, that'd be great."
+SPEAKER_00,642.3,643.836,And I appreciate you spending this time with me.
+SPEAKER_00,643.856,644.24,It's been helpful.
+SPEAKER_01,644.402,645.056,Thank you.
+SPEAKER_00,645.3,646.178," Thanks, Sasha."

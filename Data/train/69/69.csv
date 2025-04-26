@@ -1,0 +1,164 @@
+speaker,text,start,end
+SPEAKER_00," Hey Rhonda, how are you doing today?",14.799,15.54
+SPEAKER_01, I'm fine.,16.131,16.438
+SPEAKER_00, You're fine?,17.131,17.499
+SPEAKER_01, Yeah.,17.825,18.029
+SPEAKER_00, I'm glad you could come in today for this intake.,19.324,22.338
+SPEAKER_00, I want to explain a little about the process.,23.505,25.237
+SPEAKER_00, I understand you've already completed the informed consent.,26.244,28.299
+SPEAKER_01, Yes.,28.787,29.032
+SPEAKER_01," Yeah, I've done this before.",29.88,30.778
+SPEAKER_01, You've done this before?,30.88,31.553
+SPEAKER_00, Yeah.,32.513,32.615
+SPEAKER_00, So you understand my obligations to report certain things.,32.88,34.653
+SPEAKER_00, Okay.,36.07,36.315
+SPEAKER_00, Okay.,36.662,37.54
+SPEAKER_00, So you answered some other questions in that packet that you filled out with the informed  consent.,37.62,43.729
+SPEAKER_00, It's actual type questions.,45.386,46.613
+SPEAKER_00," Information might be on your driver's license or insurance card, things like that.",48.02,51.116
+SPEAKER_00, I'm going to be asking you more emotionally oriented questions as part of this part of  the intake.,51.94,60.96
+SPEAKER_01, Okay.,61.45,61.572
+SPEAKER_00, All right.,62.511,62.756
+SPEAKER_00, Some of the topics we'll be covering are sensitive for many people and you may not want to talk  about it and that's okay.,62.96,69.638
+SPEAKER_01, All right.,70.148,70.515
+SPEAKER_00," So if I stumble upon one of those topics, you know, I discuss it, just let me know and  we don't have to talk about it.",70.8,78.018
+SPEAKER_01, Okay.,78.935,79.139
+SPEAKER_00," If there's an area that you don't want to talk about right now but you want to talk  about later, we can talk about it later.",79.54,84.855
+SPEAKER_01, Okay.,85.764,86.07
+SPEAKER_00, Does that make sense?,86.601,87.213
+SPEAKER_01, Yeah.,87.744,87.866
+SPEAKER_00, Okay.,89.397,89.519
+SPEAKER_00, So how are you referred here to our agency?,89.56,91.976
+SPEAKER_01," Well, I have this friend that I've known her forever and she told me that she was really  concerned about the way I was living my life and that, you know, I should be coming here.",92.821,103.439
+SPEAKER_01," So as a favor to her, I'm here.",103.56,105.073
+SPEAKER_00, All right.,106.572,106.858
+SPEAKER_00, So you're here as a favor to your friend.,107.04,108.608
+SPEAKER_00, Do you feel committed to counseling?,110.84,114.9
+SPEAKER_01," I mean, I guess there's some things I can work on, but I mean, they have problems that  I really just don't have.",116.203,123.569
+SPEAKER_00," And when you say they, who are you referring to?",125.946,128.72
+SPEAKER_01," Some of my other friends, the friend that referred me.",128.72,130.933
+SPEAKER_00, All right.,132.992,133.418
+SPEAKER_00," So there's some elements that they're observing and reporting to you, but you're not quite  seeing them.",133.56,141.55
+SPEAKER_01, Yeah.,142.04,142.122
+SPEAKER_00, And you think they might not be there at all?,143.342,144.653
+SPEAKER_01, Yeah.,145.825,145.968
+SPEAKER_00, Okay.,146.56,147.499
+SPEAKER_00, Fair enough.,147.56,147.864
+SPEAKER_00, So I want to talk about what we refer to as the presenting problem.,149.081,153.976
+SPEAKER_00," I know you indicated you're here because a friend referred you, but in terms of the,  any symptoms or any problems, issues that might be going in your life, are any of those  you can identify, you could talk about?",155.621,169.457
+SPEAKER_01," Well, I mean, I will admit I do get angry a lot.",169.84,173.238
+SPEAKER_00, Anger?,173.802,173.985
+SPEAKER_01, Okay.,174.904,175.067
+SPEAKER_01, Yeah.,175.72,175.904
+SPEAKER_01," And sometimes when I get mad, I break a few things.",176.72,179.459
+SPEAKER_01," I'll punch a wall, I won't hit anybody.",179.56,182.278
+SPEAKER_01," So I mean, that's not a problem, you know, but I'll take it out on something that doesn't  feel pain.",182.64,189.089
+SPEAKER_01, I thought that was a good thing.,189.721,191.479
+SPEAKER_00, So inanimate objects are the target of some physical and angry behavior.,192.862,199.96
+SPEAKER_00, Yeah.,200.305,200.469
+SPEAKER_00, But not people.,201.04,201.632
+SPEAKER_01," No, not people.",202.04,202.909
+SPEAKER_00, So do you view anger as a problem you want to work on?,203.92,208.316
+SPEAKER_01, I guess I could work on being less angry.,209.581,211.737
+SPEAKER_01," I don't think I have a anger problem, but I can be less angry.",212.16,216.735
+SPEAKER_00, Okay.,218.12,218.281
+SPEAKER_00, So one of the symptoms would be anger.,220.44,224.597
+SPEAKER_00," You don't necessarily feel like it's a large problem, but you could be less angry.",225.36,230.44
+SPEAKER_01, Yeah.,230.642,231.275
+SPEAKER_01, You'd be okay.,231.602,231.928
+SPEAKER_01," I mean, I think everybody can work on being a little more peaceful.",232.52,234.594
+SPEAKER_00, Okay.,235.663,235.867
+SPEAKER_00, That makes sense.,236.52,237.52
+SPEAKER_00, Anything else?,237.52,237.949
+SPEAKER_01," Now, this is something I have tried to stop before, but I'm having a problem.",240.447,243.639
+SPEAKER_01, I do smoke marijuana a lot.,244.1,246.919
+SPEAKER_01, I'm not even going to lie to you.,247.883,248.998
+SPEAKER_01, A lot.,249.202,249.385
+SPEAKER_01," Um, and recently I've been getting into like snorting some drugs.",250.763,254.599
+SPEAKER_00, Can you tell me what drugs?,256.03,256.918
+SPEAKER_01, Like Xanax.,257.16,257.763
+SPEAKER_01," And I've tried to stop before and it didn't work, but I mean, I like it.",260.84,266.059
+SPEAKER_01, So it's kind of like that.,266.4,268.216
+SPEAKER_01, Do I really want to give it up?,269.285,270.274
+SPEAKER_01, I don't know.,271.103,271.715
+SPEAKER_01, Sure.,272.082,272.94
+SPEAKER_00, You seem a little more torn on that.,272.96,275.479
+SPEAKER_01, Yeah.,275.741,275.925
+SPEAKER_00, So you say a lot of marijuana.,277.661,279.429
+SPEAKER_00, And that can mean something different depending on the person.,282.28,284.279
+SPEAKER_00, What's it mean to you?,284.4,284.966
+SPEAKER_01, Several times during the day.,286.16,287.25
+SPEAKER_01," Even when I'm at work, I'll go to my car on break.",288.4,290.472
+SPEAKER_00, Does anybody notice that?,292.0,292.89
+SPEAKER_01," I mean, the place I work at isn't very professional, I guess.",293.92,297.818
+SPEAKER_01," I mean, there are managers that I hide it from, but everybody there pretty much knows.",298.28,302.173
+SPEAKER_00, They're okay with it.,305.124,305.892
+SPEAKER_00, And you mentioned specifically Xanax and Benzodiazepine.,307.443,311.057
+SPEAKER_00, Any other drugs?,311.84,314.058
+SPEAKER_01," Uh, no.",315.088,315.351
+SPEAKER_01, It's just mainly the marijuana and then I've started the Xanax.,317.705,321.418
+SPEAKER_00, That seems like it's more recent.,322.14,323.195
+SPEAKER_01, Yeah.,323.622,324.03
+SPEAKER_01," I mean, within the past four months, a friend introduced it to me and started to like it.",324.52,329.214
+SPEAKER_00, How often do you use that?,331.24,333.44
+SPEAKER_01," About once less often, I'd have to say about maybe twice every weekend.",333.76,341.058
+SPEAKER_00, Okay.,341.801,341.923
+SPEAKER_00, And the marijuana sounds more like an everyday thing.,343.324,345.376
+SPEAKER_01, Yeah.,346.123,346.838
+SPEAKER_00, Okay.,347.327,347.776
+SPEAKER_00, Any other drugs?,347.96,348.96
+SPEAKER_00, Pretty much it?,349.062,349.94
+SPEAKER_01, No.,349.96,350.001
+SPEAKER_01, No more drugs.,351.021,351.715
+SPEAKER_00, All right.,352.593,352.797
+SPEAKER_00, How about in your past?,352.98,353.878
+SPEAKER_01," In my past, I have experimented with cocaine, but I kind of got in trouble with the DUI  for that.",354.161,362.47
+SPEAKER_01, Had to stop that.,363.501,364.113
+SPEAKER_00, All right.,364.644,364.909
+SPEAKER_00, Anything else?,366.175,366.44
+SPEAKER_00, No.,366.481,366.542
+SPEAKER_01, No.,367.93,368.113
+SPEAKER_00, Any other problems you identify to work on?,369.144,371.716
+SPEAKER_01," Um, I can sometimes let my pride get in my way.",373.003,375.154
+SPEAKER_00, Pride?,376.726,376.889
+SPEAKER_00, Tell me a little bit about that.,377.44,378.065
+SPEAKER_01, I don't like being told I'm doing something wrong.,379.801,382.64
+SPEAKER_01," Because most of the time I'm not or I'm doing it in a way, like just because I'm not doing  it your way doesn't mean I'm doing it wrong.",383.062,388.831
+SPEAKER_01, I know what I can do and I know what I'm capable of.,390.58,393.674
+SPEAKER_00, All right.,395.243,395.607
+SPEAKER_00, So is somebody telling you that you're acting in a way that's proud?,396.84,401.537
+SPEAKER_01, Yeah.,402.706,402.91
+SPEAKER_01, I've had several people.,403.866,404.717
+SPEAKER_01," I've lost a few friends because over, you know, little things that I won't budge on.",404.96,411.395
+SPEAKER_01," For example, things like, you know, like what the best TV show is.",413.4,419.158
+SPEAKER_01, I know what the best TV show is and anybody who says any different is wrong.,419.82,422.814
+SPEAKER_01, But I've lost friends.,424.12,424.807
+SPEAKER_01, But you know what?,426.12,426.875
+SPEAKER_01, Maybe they're not real friends.,427.12,429.2
+SPEAKER_00," So you're indicating pride, but it sounds like maybe inflexibility is a part of it too.",429.42,436.398
+SPEAKER_01, I guess.,437.181,437.508
+SPEAKER_00, Has anybody ever said that to you?,438.564,439.655
+SPEAKER_01," I mean, not in that word, but I mean, now that you say it, I guess, yeah.",440.18,444.133
+SPEAKER_00, You think that's kind of together with the pride?,446.08,448.275
+SPEAKER_01, Yeah.,449.082,449.306
+SPEAKER_00," You feel like, okay.",450.0,451.8
+SPEAKER_00," Is that a fair adjective, inflexible?",451.8,454.997
+SPEAKER_01, Yeah.,455.541,456.031
+SPEAKER_00, Okay.,456.909,457.378
+SPEAKER_00, All right.,458.811,459.174
+SPEAKER_00," So we have anger, mostly the objects though.",459.92,463.538
+SPEAKER_00, Not at people.,464.344,464.808
+SPEAKER_00," Marijuana, a lot.",466.02,467.67
+SPEAKER_00," Xanax, not as much.",469.28,470.752
+SPEAKER_01, Occasionally.,471.883,472.434
+SPEAKER_00, Occasionally.,472.761,473.455
+SPEAKER_00, And then inflexibility and pride.,474.524,477.297
+SPEAKER_01, Yeah.,477.961,478.124
+SPEAKER_00, Does that sound like an accurate?,479.122,480.153
+SPEAKER_01," I mean, yeah, that really would.",480.921,482.557
+SPEAKER_00, Accurate list.,482.901,483.33
+SPEAKER_01, Not that I hate to admit it.,483.881,484.84
+SPEAKER_01, It does.,484.983,485.452
+SPEAKER_00, So it's tough for you to talk about this part?,485.88,488.176
+SPEAKER_01, Yeah.,488.843,489.068
+SPEAKER_01, Yeah.,489.909,490.118

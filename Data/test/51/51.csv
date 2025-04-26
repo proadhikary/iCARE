@@ -1,0 +1,105 @@
+speaker,start,end,text
+SPEAKER_00,14.639,15.5,"Hi Sherry, how you're doing today."
+SPEAKER_01,15.823,16.389," Good, how are you?"
+SPEAKER_00,17.5,19.053," I'm doing well, thanks for asking."
+SPEAKER_01,20.753,21.098," Good, good."
+SPEAKER_00,21.2,25.617, Your brother brought you in today and he had some concerns about your mood.
+SPEAKER_01,26.32,31.537, I mean he has but it's kind of weird because it's actually been great.
+SPEAKER_01,32.522,33.438, It's been great.
+SPEAKER_01,34.23,34.575, It's been great.
+SPEAKER_01,35.12,50.8," I used to have issues with mood but I don't anymore and now I just, for the last couple  days at least, maybe about a week, I don't know I haven't been paying attention but I  have felt awesome."
+SPEAKER_01,51.042,52.21, I've gotten so much done.
+SPEAKER_01,53.82,57.456," I do stuff at work, I do stuff at home, I went shopping."
+SPEAKER_01,58.601,62.779," I am doing great with, well kind of great with my interpersonal relationships."
+SPEAKER_01,62.92,66.753," I was thinking about at work this week, I thought I was so proud of myself."
+SPEAKER_01,68.76,80.818," Firstly I got a promotion and also I was happy with that but then another one of my coworkers,  he had his birthday so I was like, oh let me do something nice for him and I went home  and I baked him a cake."
+SPEAKER_01,81.221,91.278," But it was kind of annoying because when I got there he got mad, which is stupid, because  he said, he didn't appreciate the fact that it said over the hill but he's like old."
+SPEAKER_01,91.74,94.156, So I thought it would be funny but it wasn't apparently.
+SPEAKER_01,94.82,98.053," But so, yeah besides that this week's been awesome."
+SPEAKER_01,99.62,112.56," Like I said I got my promotion and I made a lot of money with a nice increase I should  say and I just, yeah so I've been feeling awesome, getting a lot done."
+SPEAKER_00,113.803,120.999," Yeah, I feel like you're getting a lot accomplished at work and at home and what types of things  have you been doing?"
+SPEAKER_01,121.06,123.179, So there's a couple projects at work that I've been working on.
+SPEAKER_01,123.722,124.646, I got all those done.
+SPEAKER_01,127.941,138.039," And I, at home I have been working on unpacking because I moved in kind of a while ago but  I still have boxes sitting around and stuff."
+SPEAKER_01,138.12,140.08, So I got that all taken care of.
+SPEAKER_01,140.12,141.127, I'm completely unpacked.
+SPEAKER_01,142.84,153.376, Over the weekend I went and bought some home decor stuff so it really makes my house look  just like I want it to look and I'm happy with it.
+SPEAKER_00,155.283,156.307," Alright, so your mood is up."
+SPEAKER_00,159.04,162.152, Your brother specifically had concerns about spending money.
+SPEAKER_01,164.381,167.719, I mean he's worried because I went on a shopping spree.
+SPEAKER_01,167.92,174.046, So he doesn't really know how much I am making with this new promotion and I didn't really  want to tell him.
+SPEAKER_01,175.641,177.217, I might actually because I'm proud of myself.
+SPEAKER_01,177.62,181.833, I deserve it and I've worked so hard for so long at this company.
+SPEAKER_01,184.12,186.596, So with the shopping spree I was kind of like treating myself.
+SPEAKER_01,187.481,189.753, And so I went out and I did spend a lot of money.
+SPEAKER_01,191.321,194.44, I actually maxed out one of my credit cards but I don't have a lot of bills right now.
+SPEAKER_01,194.621,197.837, I paid off all my debts and I finished paying off my student loans too.
+SPEAKER_01,198.38,200.075, So I could pay for it.
+SPEAKER_01,200.6,201.893, So that's why he's worried.
+SPEAKER_01,202.64,215.678, And I called him because I ran out of space in my car and I was going to try to put this  table that I was going to buy on top of my car but it didn't have one of those things  to attach it.
+SPEAKER_01,216.166,217.078, So it didn't work out.
+SPEAKER_01,217.22,221.079, And so I think he kind of got worried because he thought I was buying too much.
+SPEAKER_01,221.722,225.919, But I returned that item because obviously I couldn't fit it in my car and he couldn't  come help me.
+SPEAKER_01,225.98,226.808, But besides that I've been fine.
+SPEAKER_00,229.103,234.639, Alright so you haven't gotten any trouble at work or at home or anything?
+SPEAKER_01,235.003,235.758, No not at all.
+SPEAKER_01,235.9,237.856, I mean like I said I got a promotion at work.
+SPEAKER_01,238.3,243.736," My bosses are extremely happy with how productive I've been, how much I'm getting done, the  quality of my work."
+SPEAKER_01,244.563,250.067, I'm able to like look over the reports and everything I turn in several times before  I do it and I always make sure I do.
+SPEAKER_00,252.42,252.603, Okay.
+SPEAKER_00,253.62,255.448, Any changes with your sleep habits?
+SPEAKER_01,258.38,258.829, Yes and no.
+SPEAKER_01,259.923,263.5, I mean yes because I haven't really been sleeping as much as I used to.
+SPEAKER_01,263.6,268.939, I think I used to sleep too much but like I haven't needed to this week.
+SPEAKER_01,270.551,271.5, But it hasn't been an issue.
+SPEAKER_01,271.54,272.688, It's actually been a good thing.
+SPEAKER_00,274.5,275.951, So how much did you sleep last night?
+SPEAKER_01,277.281,278.35, Just about an hour and a half.
+SPEAKER_00,279.54,280.518, You feel rested?
+SPEAKER_01,280.701,281.531, I do feel rested.
+SPEAKER_01,282.441,285.016, I might take a nap later like a 30 minute nap but then I'll be fine.
+SPEAKER_00,286.408,287.297, So you have a lot of energy?
+SPEAKER_01,287.641,287.784, I do.
+SPEAKER_00,289.925,293.4, Do you have any feelings of depression or anything like that?
+SPEAKER_00,293.5,294.337," Sadness, anything?"
+SPEAKER_00,294.867,295.255, Nothing?
+SPEAKER_01,295.765,296.398," I feel great, yeah."
+SPEAKER_00,297.051,297.418, You feel great.
+SPEAKER_00,297.5,298.375, Have you ever had anything like that?
+SPEAKER_01,298.802,299.639, I have actually.
+SPEAKER_01,300.381,309.772, In the past I was diagnosed with depression and so I know what it feels like and I know  that I don't have anything like that right now.
+SPEAKER_00,312.089,312.814, How long ago was that?
+SPEAKER_01,313.844,314.558, A few years ago.
+SPEAKER_00,314.66,315.407, A few years ago.
+SPEAKER_00,316.882,318.298, Alright.
+SPEAKER_00,318.46,321.278, Any thoughts about death or dying or anything related to that?
+SPEAKER_01,321.62,322.355," No, not really."
+SPEAKER_01,322.64,329.6," I mean, no, I mean obviously you hear about people dying on TV or like friends and family  members but I don't dwell on it."
+SPEAKER_01,329.861,333.174, I feel like in the past I might have but I haven't been.
+SPEAKER_00,334.66,335.694, Any drug or alcohol use?
+SPEAKER_01,336.18,336.262, No.
+SPEAKER_00,337.323,337.609, Nothing?
+SPEAKER_00,338.2,339.139, How are you doing medically?
+SPEAKER_00,339.486,340.139, Anything medically going on?
+SPEAKER_01,340.404,340.813," No, I'm healthy."
+SPEAKER_00,341.18,341.731, You're healthy?
+SPEAKER_01,342.486,342.751, Mm-hmm.
+SPEAKER_00,343.18,343.507, Alright.
+SPEAKER_00,345.223,350.899," And do you see or hear anything that, things that other people can't see or hear?"
+SPEAKER_01,351.527,351.588, No.
+SPEAKER_00,352.2,352.935, Nothing like that?
+SPEAKER_00,353.221,354.017, Has it ever happened?
+SPEAKER_01,354.323,354.384, No.
+SPEAKER_00,355.18,355.262, No.
+SPEAKER_00,356.78,358.38," Alright, Sherry."
+SPEAKER_00,358.42,360.675, You answering these questions for me has been helpful.
+SPEAKER_00,361.44,368.338, I know that you're feeling well but I'd like you to talk to a counselor if that's okay.
+SPEAKER_00,369.16,372.82, I know that you're aware your brother's concerned.
+SPEAKER_01,373.206,373.492, Mm-hmm.
+SPEAKER_01,374.022,374.778, That's why I'm here for him.
+SPEAKER_00,375.329,375.757, You're here for him?
+SPEAKER_00,375.982,376.288, Okay.
+SPEAKER_00,376.98,383.638," So if it'd be okay with you, I'd like you to speak with a counselor at least for a little  bit and I can arrange that in just a few moments if that's okay."
+SPEAKER_01,384.063,384.369, That's fine.
+SPEAKER_00,384.961,385.206, Thanks.
+SPEAKER_01,385.9,386.517, Thanks.

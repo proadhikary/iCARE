@@ -1,0 +1,170 @@
+speaker,start,end,text
+SPEAKER_00,2.266,3.149," Hello, Mr. Batsby."
+SPEAKER_01,3.189,3.49,Hello.
+SPEAKER_00,3.691,5.135,My name's Dr. Vanita Gavies.
+SPEAKER_01,5.415,5.636,Right.
+SPEAKER_00,5.696,7.603,And I'm one of the psychiatrists  who works here.
+SPEAKER_01,7.643,8.044,"Right, OK."
+SPEAKER_00,8.426,10.314,"OK, can you tell me what's brought you here today?"
+SPEAKER_01,10.334,13.746,"Yeah, well,  I was referred to you by my GP."
+SPEAKER_00,14.207,14.508,Right.
+SPEAKER_01,14.829,21.788,"And he referred me to you because, erm, well,  my wife thinks I'm drinking too much."
+SPEAKER_00,22.27,22.973,"Right, I see."
+SPEAKER_00,23.716,24.78,And do you think you're drinking too  much?
+SPEAKER_01,24.8,34.604,"Er, well, I... Yeah, I... Looking at it from her point of view, I suppose I do  like a drink, yeah."
+SPEAKER_00,34.785,35.086,Right.
+SPEAKER_00,35.508,37.537,Maybe we can just explore that a little bit more.
+SPEAKER_00,37.557,37.638,Yeah.
+SPEAKER_01,37.758,37.859,How  much would you say you drank in a day?
+SPEAKER_01,40.306,41.77,Now?
+SPEAKER_00,42.031,42.432,Yeah.
+SPEAKER_01,43.816,45.04,"Oh, it's crept up over the years."
+SPEAKER_01,45.06,45.12,Erm...
+SPEAKER_01,48.845,53.999," Well, I suppose if I'm... If I'm honest, er, yeah, I drink about a bottle of vodka a day."
+SPEAKER_00,55.24,55.421,Yeah.
+SPEAKER_00,55.562,57.433,And how long have you been drinking that much for?
+SPEAKER_01,57.634,62.651,"Well, as I say, it's crept  up, erm, er, a few years now."
+SPEAKER_00,62.992,63.594,A few years.
+SPEAKER_00,64.276,65.439,Can you make it a bit more specific?
+SPEAKER_00,65.459,67.525,"Two years,  three years, five years?"
+SPEAKER_01,67.566,69.014,"Well, I mean, as I say, it's crept up."
+SPEAKER_01,69.115,73.251,"I mean, initially I  just used to have a couple of drinks after work."
+SPEAKER_00,73.472,73.773,Right.
+SPEAKER_01,74.596,79.611,"Cos I got a pretty responsible  job and, erm, I just found a drink calmed me down, you know."
+SPEAKER_01,80.754,88.493,"And, erm, then I got more  responsibility and I found a bit more alcohol helped me, so, yeah."
+SPEAKER_01,89.476,91.603,"Yes, I'm drinking about  a bottle a day now."
+SPEAKER_00,91.984,92.366,OK.
+SPEAKER_00,92.747,95.88,"So you'd say you've had about the last two years, three years?"
+SPEAKER_01,95.88,96.723," Yeah, about that."
+SPEAKER_00,96.743,97.446,"About that, OK."
+SPEAKER_00,97.948,99.816,And do you drink anything else apart from vodka?
+SPEAKER_01,100.358,110.104,"Yeah,  erm, after work I normally go to the pub and, er, I have two to four pints of bitter or  lager."
+SPEAKER_00,110.485,111.188,"Right, OK."
+SPEAKER_00,111.489,112.412,And would that be every day?
+SPEAKER_01,112.432,113.495,Yeah.
+SPEAKER_01,113.897,116.486,"Well, especially, you know, Monday  to Friday when I'm working."
+SPEAKER_01,117.31,121.425,But at weekends I normally go down the local pub and I have  a few at lunchtime.
+SPEAKER_00,121.907,122.107,Right.
+SPEAKER_00,122.148,123.211,And how much is a few?
+SPEAKER_01,123.873,125.037,"OK, only about two to four pints."
+SPEAKER_00,125.358,125.619,"Right,"
+SPEAKER_00,126.161,126.763,OK.
+SPEAKER_00,127.104,134.473,"And then, so, on a weekday, you take about, you have about two to four pints after work  and then you come home and drink about a bottle of vodka?"
+SPEAKER_01,134.513,137.826,"Yeah, well, no, well, I don't come  home and drink a bottle of vodka."
+SPEAKER_01,138.989,141.476,"I drink, erm, I drink during the day."
+SPEAKER_00,141.496,144.914,"So would you  drink throughout... Not when I'm working, mind you."
+SPEAKER_00,144.934,145.618,Not when you're working?
+SPEAKER_01,145.659,146.763,Apart from  lunchtime.
+SPEAKER_00,146.783,147.265,OK.
+SPEAKER_01,147.345,148.308,Not when I'm at work.
+SPEAKER_00,148.649,150.636,So when do you start drinking during the day?
+SPEAKER_00,150.656,150.716,Erm...
+SPEAKER_00,151.92,152.703,On an average day?
+SPEAKER_01,154.047,157.76,"Well, after I'm up and dressed and have me breakfast at home."
+SPEAKER_00,157.78,157.88,"Right,"
+SPEAKER_00,158.442,159.547,so after breakfast.
+SPEAKER_00,159.808,161.093,"And again, when did that start?"
+SPEAKER_01,161.113,162.619,A couple of years ago.
+SPEAKER_00,162.639,164.204,"A couple of  years ago, OK."
+SPEAKER_00,164.927,165.97,And what about the weekend?
+SPEAKER_00,165.99,167.255,Is it the same at the weekend?
+SPEAKER_01,167.275,167.315,Mm.
+SPEAKER_00,168.559,175.832,"And would  you drink, you go to the pub at lunchtime at the weekend, would you drink more than  a bottle of vodka during the day at the weekend?"
+SPEAKER_01,175.852,175.952,"Er, no."
+SPEAKER_00,175.992,178.362,"It would be about the same, would  it?"
+SPEAKER_01,178.383,178.523,Yeah.
+SPEAKER_00,178.543,179.267,OK.
+SPEAKER_00,179.609,182.041,And are there ever regular times when you drink more than what you've told  me?
+SPEAKER_01,182.061,182.201,No.
+SPEAKER_00,182.221,183.726,There aren't?
+SPEAKER_00,183.887,184.77,OK.
+SPEAKER_00,184.87,187.117,"And is it just beer and vodka, would you drink wine?"
+SPEAKER_01,187.138,187.86,"No, I don't."
+SPEAKER_01,188.422,196.555," We used to drink wine, my wife used to, when we had an evening meal together, sometimes  we had a bottle of red or a bottle of white together, half a bottle."
+SPEAKER_01,197.338,207.013,"But since she started  complaining that she thought I was, you know, really shoving it down my throat, er, she  sort of nailed that on the head, so we don't do that any more."
+SPEAKER_00,208.137,212.113,And would you say you have  to drink more to get the same effect from the alcohol?
+SPEAKER_01,212.153,214.422,"Yeah, the same calming effect,  yeah."
+SPEAKER_00,214.442,215.426,Same calming effect?
+SPEAKER_01,215.446,215.788,Yeah.
+SPEAKER_00,216.691,219.502,"Do you ever have days where you don't drink, or periods  where you don't drink?"
+SPEAKER_01,219.764,219.924,Mm-hm.
+SPEAKER_00,220.346,221.832,When was the last time you had that?
+SPEAKER_01,221.852,230.525,"Er, a few months ago  now, when she really had had a go at me and I thought to myself, well, maybe I'll give  it a try again."
+SPEAKER_01,230.545,235.86,"It wasn't the first time, but erm... "
+SPEAKER_00,236.462,237.547,How long did that last for?
+SPEAKER_01,237.928,238.952,"Oh, about three days."
+SPEAKER_00,239.173,239.615,Three days.
+SPEAKER_00,239.695,243.531,"And in that time, did you  experience any, any physical feelings at all?"
+SPEAKER_01,243.571,244.073,"Yes, I did."
+SPEAKER_01,244.153,253.462,"I mean, I was shaking, I  got very shaky, I got... I was on edge all the time, I, I was not working properly and  I was sweating."
+SPEAKER_00,253.482,254.306,Right.
+SPEAKER_01,254.406,256.053,And I just felt absolutely lousy.
+SPEAKER_00,256.093,257.157,So you had to take time off work?
+SPEAKER_01,257.338,260.513,"No,  I didn't take time, I couldn't, I didn't dare take time off work."
+SPEAKER_01,260.895,262.563,I just said I had  a bit of a cold.
+SPEAKER_00,262.583,262.743,Right.
+SPEAKER_01,263.085,266.599,"Erm, but erm, I thought to myself, well, I can't carry on like this."
+SPEAKER_01,267.583,270.233,And so I had a couple of large vodkas.
+SPEAKER_00,270.253,270.414,Right.
+SPEAKER_00,270.434,271.619,"And that, that made you feel better?"
+SPEAKER_01,271.659,273.647,And that  got me back on the straight and narrow.
+SPEAKER_00,274.39,278.928,"Did you ever feel, do you ever get those similar  sorts of feelings in the morning when you wake up?"
+SPEAKER_01,279.751,279.932,Yeah.
+SPEAKER_00,280.294,280.735,You do?
+SPEAKER_01,280.856,281.338,"Nowadays, yeah."
+SPEAKER_00,281.358,281.418,"And what, what happens when you have the drink in the morning that makes you feel better?"
+SPEAKER_01,285.88,286.463," Yes, it does."
+SPEAKER_00,286.945,287.207,Right.
+SPEAKER_01,287.247,287.408,Yeah.
+SPEAKER_00,287.669,289.779,"If you don't have that drink in the morning, what happens?"
+SPEAKER_01,289.8,289.88,"Well,"
+SPEAKER_01,290.642,296.699," by the time I get to work, I just feel, again, I feel pretty shaky and very on edge."
+SPEAKER_00,296.74,296.86,Right.
+SPEAKER_01,297.824,302.322," And as I say, I don't touch it when I'm at work because I've got a pretty responsible  job."
+SPEAKER_01,303.366,305.274,"And I don't, as I say, I don't touch it at work."
+SPEAKER_00,305.615,306.86,And you work as a bank manager?
+SPEAKER_01,306.9,307.763," I do, yeah."
+SPEAKER_00,307.903,308.245,OK.
+SPEAKER_00,308.706,312.097,"Has anyone, has anyone commented apart from your wife about your drinking?"
+SPEAKER_00,313.483,316.398,Have you ever had any more serious health problems from your drinking?
+SPEAKER_00,316.558,325.41,"Have you ever  seen the doctor or had, sometimes people get loss of memory or fits, very serious shakes,  they need to go into hospital."
+SPEAKER_00,325.43,326.316,Have you ever had anything like that?
+SPEAKER_01,326.336,328.128,"No, no, no, no, no,  no, no, I've touched it with nothing like that."
+SPEAKER_00,328.148,328.189,OK.
+SPEAKER_00,328.45,330.964,"And have you ever seen, you went  to your GP?"
+SPEAKER_01,331.044,331.224,Yeah.
+SPEAKER_00,331.365,334.917,Did you do any physical health tests at all?
+SPEAKER_01,334.977,335.88,He does some blood tests.
+SPEAKER_00,336.603,337.848,And did that show anything at all?
+SPEAKER_01,337.908,339.294,He said the liver wasn't too good.
+SPEAKER_00,339.735,340.097,Right.
+SPEAKER_01,340.458,343.835,"And then  because of my, you know, my wife threatened to leave me basically."
+SPEAKER_01,344.036,347.168,That's what got me  to see the GP.
+SPEAKER_01,347.188,352.347,"And he did some blood tests and he said, your liver's, you know, and he  told me I've got to cut it down a bit."
+SPEAKER_00,353.011,353.754,What did he say about?
+SPEAKER_01,353.895,357.209,And then he said he was  going to refer me to somebody to talk about it.
+SPEAKER_00,357.39,357.731,Right.
+SPEAKER_00,358.013,358.414,OK.
+SPEAKER_00,358.936,360.04,And how did you feel about  that?
+SPEAKER_01,362.706,365.292,"Well, I wasn't exactly over the moon when he suggested it."
+SPEAKER_01,365.412,378.402,"But, well, I suppose,  you know, if it's a choice of coming to see you and then or my wife leaving me, I came  to see you."
+SPEAKER_01,378.964,380.089,I don't want to lose you.
+SPEAKER_00,380.551,382.639,So I can see that it's had quite an impact at home.
+SPEAKER_01,382.88,382.98,Yeah.
+SPEAKER_00,383.0,384.125,What about outside the home?
+SPEAKER_00,384.225,387.679,How's your drinking affected jobs or anything else?
+SPEAKER_01,387.8,387.88,It
+SPEAKER_01,388.281,389.525,hasn't affected my job.
+SPEAKER_00,390.828,394.338,"What about relationships other than your wife with family, friends?"
+SPEAKER_00,394.88,397.089," Well, any other serious consequences?"
+SPEAKER_01,397.109,400.441,"I suppose, yeah, I have to go to family dues and dragged  along there."
+SPEAKER_01,400.521,402.586,"But I mean, I don't."
+SPEAKER_01,402.887,408.479,"I mean, I avoid mixing with my work colleagues socially."
+SPEAKER_01,409.221,416.568," I find that bores me because, you know, if I'm in the pub with them, I've tried it once  and I found I needed a drink."
+SPEAKER_01,416.609,420.004,"And, you know, I thought, well, I'm going to put me foot  in it if I carry on like this."
+SPEAKER_01,420.888,423.318,And I left early and I just make excuses.
+SPEAKER_01,423.378,424.463,I don't socialise  with them anymore.
+SPEAKER_00,424.483,424.945,All right.
+SPEAKER_00,424.986,425.046,OK.
+SPEAKER_00,425.066,426.473,Thanks for coming to talk to me today.
+SPEAKER_01,426.754,427.076,Thank you.

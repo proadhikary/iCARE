@@ -1,0 +1,113 @@
+speaker,start,end,text
+SPEAKER_00,12.896,15.099,"Hi , how you're doing today."
+SPEAKER_01,16.633,16.939, Okay.
+SPEAKER_00,17.163,17.245, Okay.
+SPEAKER_00,18.08,22.199, I understand you've been having some symptoms which have been bothersome.
+SPEAKER_00,22.781,24.086, Can you tell me about those?
+SPEAKER_01,28.0,30.899, The main thing is I'm just sleeping all the time.
+SPEAKER_01,31.282,32.007, I'm really tired.
+SPEAKER_01,35.262,49.588," You know, I'm tired when I have to go to work and then I go home and I just sleep a lot  and I think it's abnormal."
+SPEAKER_01,52.242,53.96, I haven't been eating as much lately.
+SPEAKER_01,54.441,63.738, I've lost a bit of weight and it's just affecting my life so I just want to come in.
+SPEAKER_00,65.163,65.408, All right.
+SPEAKER_00,66.0,69.0, So you have excessive sleep.
+SPEAKER_00,69.482,71.693, You feel like what is excessive sleep?
+SPEAKER_01,73.545,74.414, Like just hours.
+SPEAKER_01,75.722,91.271, I'll get home from work and I'll take a three-hour nap and then I'll wake up and do something  that I enjoy but then it will be bedtime again and I'll be ready for bed even though I took  a nap and I'll sleep in at any chance I can.
+SPEAKER_01,93.02,94.47, I don't wake up early or anything.
+SPEAKER_00,96.121,97.576, And you mentioned your appetite as well.
+SPEAKER_01,98.082,98.306, Yeah.
+SPEAKER_01,99.04,106.0," I just, I don't know if it's just because I'm sleeping so much I'm not eating but I  just like when I wake up it's not like, well I'm hungry, nothing."
+SPEAKER_01,106.04,106.808, Like I just.
+SPEAKER_00,108.286,108.49, All right.
+SPEAKER_00,109.081,111.678, How long have these symptoms been present?
+SPEAKER_01,116.81,121.038, I mean I would say I've noticed it in the last two weeks or so.
+SPEAKER_00,122.768,123.616, Over the last two weeks?
+SPEAKER_01,124.469,124.633, Yeah.
+SPEAKER_01,125.141,126.367, I've noticed that it's been getting worse.
+SPEAKER_00,129.12,133.016," Out of, I'd say one week, how many days do you have these symptoms?"
+SPEAKER_01,135.232,136.0, Probably every day.
+SPEAKER_00,136.224,136.796, Every day?
+SPEAKER_01,137.061,137.306, Yeah.
+SPEAKER_00,138.02,138.306, All right.
+SPEAKER_00,139.903,144.639," All right, so I'm going to ask you some other questions related to this, okay?"
+SPEAKER_00,145.624,147.195, Just provide me the best answer you can.
+SPEAKER_00,148.601,157.459," In the last two weeks have you found yourself depressed, sad, hopeless, anything like that?"
+SPEAKER_01,158.02,158.061, No.
+SPEAKER_00,159.306,159.429, No?
+SPEAKER_01,160.061,160.592, Not really.
+SPEAKER_00,161.182,162.051, All right.
+SPEAKER_00,163.0,167.754, Have you lost interest in activities that used to be fun for you?
+SPEAKER_01,171.208,171.289, No.
+SPEAKER_01,173.201,180.178," No, I mean I still like all the things I did, like all my hobbies, I like hanging out with friends and stuff."
+SPEAKER_01,181.902,192.9," Sometimes it's hard for me to remember to make plans with people and I just end up sleeping instead, but I genuinely enjoy it still."
+SPEAKER_01,193.883,197.032, I'd like to go and see people do those things.
+SPEAKER_00,200.541,209.873," Do you ever feel agitated in terms of movement, like you can't stop moving or find yourself trying to resist moving?"
+SPEAKER_01,215.541,216.022, I guess.
+SPEAKER_01,216.462,223.674,"I guess like not so much I can't stop moving, but I do try to like stop."
+SPEAKER_01,223.775,226.619,"Yeah, I guess I do try to like stop myself from fidgeting."
+SPEAKER_00,227.551,227.796, Okay.
+SPEAKER_00,228.102,228.939, That's been happening?
+SPEAKER_01,229.102,229.714, Yeah.
+SPEAKER_00,232.707,236.075, Any changes in terms of your level of energy?
+SPEAKER_01,238.36,241.444," Yeah, I mean like I said I'm tired all the time."
+SPEAKER_01,241.464,253.458,Sometimes I just can't get up and late to work just because I haven't had the energy to get up and stop sleeping and wake up.
+SPEAKER_00,255.622,260.679," Alright, so the excessive sleep has affected your level of energy?"
+SPEAKER_01,261.429,261.939, Yeah.
+SPEAKER_00,263.563,263.663, Yeah.
+SPEAKER_00,263.683,268.794,How about any type of feeling of worthlessness or anything like that?
+SPEAKER_01,272.08,282.612," I mean I guess yeah, I mean I'm not, it sounds harsh, but I'm not really a valuable person really."
+SPEAKER_01,282.633,285.476,I don't have a very important job or anything.
+SPEAKER_01,285.496,287.959,No one really depends on me.
+SPEAKER_00,289.685,290.953, You don't feel yourself as valuable?
+SPEAKER_01,292.08,295.492," I mean no, not really, but it is what it is."
+SPEAKER_00,298.423,299.43, How long have you felt this way?
+SPEAKER_01,303.423,310.373," You know for a while, you know, and you know when you don't contribute very much."
+SPEAKER_01,311.495,313.197,So it is what it is.
+SPEAKER_00,315.823,318.672, How about your concentration?
+SPEAKER_00,318.692,320.96,Have you found any changes there in your ability to concentrate?
+SPEAKER_01,321.869,322.96," At work, yes, definitely."
+SPEAKER_00,323.041,323.388, Yeah.
+SPEAKER_01,325.0,348.379," Because I'll be tired and yawning and even when it comes to like outside of work I guess I'll forget to make plans with friends or forget, I don't know, little things, just little things that I do forget a lot and it's hard for me to pay attention to movies."
+SPEAKER_01,350.0,352.013," I don't know if it's because I'm tired or not, like I just..."
+SPEAKER_00,353.242,355.0, Do you have trouble focusing?
+SPEAKER_01,355.531,355.714, Yeah.
+SPEAKER_00,358.281,363.0, Do you ever have any thoughts of death or dying?
+SPEAKER_01,366.286,366.429, No.
+SPEAKER_00,368.204,368.878, Nothing like that?
+SPEAKER_01,369.143,369.286, No.
+SPEAKER_00,372.623,378.511, You mentioned that these symptoms have been causing problems at work.
+SPEAKER_00,379.452,385.119,"Any other areas where they've been causing you trouble, like limiting your functioning?"
+SPEAKER_01,388.488,391.799," You mean like, like social life?"
+SPEAKER_00,392.442,396.418," Social life, relationships, life at home."
+SPEAKER_01,397.881,409.94," Yeah, I mean I live on my own and you know like sleeping all the time, like I don't see anyone else and you know it's hard to meet new people if I was looking for a relationship."
+SPEAKER_01,410.2,422.96," Yeah, I would say it affects it because I'm not like putting myself out there or anything and you know I forget or I'll sleep instead of making plans with friends on a Friday night so that can't be good."
+SPEAKER_00,427.221,428.747, How about substances?
+SPEAKER_00,428.767,430.835,Do you use any alcohol or drugs?
+SPEAKER_00,431.418,431.88,You know like that?
+SPEAKER_01,432.623,435.618," No, I mean I'll drink socially but I haven't really."
+SPEAKER_01,436.725,437.067, Done that.
+SPEAKER_00,437.812,439.0,How about medical conditions?
+SPEAKER_01,439.816,439.959, None.
+SPEAKER_00,440.02,440.204, None?
+SPEAKER_00,443.462,448.318, Do you ever see or hear things that other people can't see or hear?
+SPEAKER_01,449.082,449.122, No.
+SPEAKER_00,450.082,450.959, Have you ever had that happen?
+SPEAKER_01,451.0,451.143, No.
+SPEAKER_00,452.102,452.286, No?
+SPEAKER_00,452.429,452.653,Alright.
+SPEAKER_00,454.741,464.158, Have you ever had a period in your life where you're having it now where you're extremely happy and have a lot of energy?
+SPEAKER_01,466.737,466.899, No.
+SPEAKER_00,467.367,467.98, Has that ever happened?
+SPEAKER_01,468.866,469.007, No.
+SPEAKER_00,471.946,472.611, Nothing like that?
+SPEAKER_00,472.631,473.557,Alright.
+SPEAKER_00,478.746,479.327," Alright, Sherry."
+SPEAKER_00,479.908,482.512,I'm going to refer you to see a counselor.
+SPEAKER_00,483.052,487.659,I'll just schedule it in so you can see them in the next couple days if that works for you.
+SPEAKER_01,488.566,489.859," Yeah, that works fine."
+SPEAKER_00,490.221,490.764, That works fine.
+SPEAKER_00,491.206,492.915,I appreciate you answering these questions.
+SPEAKER_00,492.935,493.638,This has been helpful.
+SPEAKER_01,494.367,494.653, Thank you.
+SPEAKER_00,495.0,495.212, Thanks.

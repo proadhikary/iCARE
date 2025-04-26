@@ -1,0 +1,191 @@
+speaker,text,start,end
+SPEAKER_00," Hi Jackie, how you doing today?",14.399,15.26
+SPEAKER_01, I'm great.,15.927,16.397
+SPEAKER_00, You're great?,16.744,17.376
+SPEAKER_01," Yeah, I am.",17.56,18.233
+SPEAKER_01,How are you?,,
+SPEAKER_00," I'm doing okay, thanks for asking.",20.289,21.556
+SPEAKER_00, I see that you signed a release so I could talk to your mother and I see she took you  in here today.,22.42,27.174
+SPEAKER_01," Yeah, she brought me.",27.48,28.337
+SPEAKER_00, She brought you in?,29.031,29.48
+SPEAKER_01, Yeah.,30.205,30.45
+SPEAKER_00, Can you tell me what's going on?,30.96,31.899
+SPEAKER_01," Ah, she's not happy with me.",32.564,34.879
+SPEAKER_00, No?,35.715,35.94
+SPEAKER_01, No.,36.103,36.225
+SPEAKER_01, She doesn't like how I smoke.,38.126,39.935
+SPEAKER_00, She doesn't like how you smoke?,41.505,42.516
+SPEAKER_01, Yeah.,42.98,43.184
+SPEAKER_01, Yeah.,44.123,44.511
+SPEAKER_01," But, I don't know.",46.047,47.718
+SPEAKER_01, Yeah.,48.082,48.389
+SPEAKER_01," You know, it's...",49.103,49.96
+SPEAKER_01, I don't want her to be mad at me.,50.08,55.177
+SPEAKER_01," But, who cares, you know?",56.483,58.114
+SPEAKER_00," So, you're concerned somewhat, but...",60.546,62.937
+SPEAKER_01," Yeah, yeah.",63.44,64.011
+SPEAKER_01," I mean, I love my mom, you know, but I just kind of came here to make her happy, so...",66.245,71.758
+SPEAKER_00," And what are you smoking, how is her concerned?",73.525,75.395
+SPEAKER_01," Ah, just weed.",76.644,77.44
+SPEAKER_00, Yeah.,77.44,77.644
+SPEAKER_01," It's no big deal, really.",78.44,79.379
+SPEAKER_01, I don't know why she's so upset.,80.104,81.695
+SPEAKER_00, She's upset about that?,83.147,83.975
+SPEAKER_01," Yeah, yeah.",84.848,85.318
+SPEAKER_01," She's been on me for a while about it, so...",86.101,87.629
+SPEAKER_00, Are there any other drugs or alcohol or anything that you consume?,90.382,93.9
+SPEAKER_01," Well, yeah, I drink sometimes, too.",94.122,95.476
+SPEAKER_00, You drink sometimes?,96.144,96.92
+SPEAKER_01, Yeah.,96.92,97.002
+SPEAKER_01," But, no, like, yeah.",97.98,100.794
+SPEAKER_00, Not something she's concerned with?,102.425,103.577
+SPEAKER_01," Um, well, I mean, nah.",104.443,107.719
+SPEAKER_01," She's more concerned about the, ah, the weed, so...",108.824,112.398
+SPEAKER_00, Are you concerned with the alcohol or marijuana?,113.702,116.415
+SPEAKER_01, No.,119.4,119.441
+SPEAKER_01, No.,120.543,120.645
+SPEAKER_01, I don't think it's a problem.,121.743,123.117
+SPEAKER_00, You don't think it's a problem?,123.42,124.4
+SPEAKER_01, No.,124.665,124.849
+SPEAKER_00, Can I ask you a few questions about it?,125.865,127.198
+SPEAKER_01," Yeah, yeah.",127.829,128.318
+SPEAKER_01, Sure.,128.584,128.767
+SPEAKER_00, Okay.,129.42,129.788
+SPEAKER_01, Of course.,130.461,131.298
+SPEAKER_00," Can you tell me when you first started using it, how that came about?",131.42,133.772
+SPEAKER_01," Um, I think it was, ah, like, my sophomore year of high school.",135.861,141.578
+SPEAKER_01," One of my friends offered it to me, so, you know, I was kind of feeling, having some anxiety,  um, maybe had some anxiety about starting it, but, so I tried it.",143.902,157.74
+SPEAKER_01," Um, yeah, it made me feel great.",158.403,160.216
+SPEAKER_01," So, it made my anxiety go away, so...",161.463,163.975
+SPEAKER_00, It took the anxiety away?,164.88,165.737
+SPEAKER_01, Mm-hmm.,165.88,166.145
+SPEAKER_01," Yeah, so I...",166.962,167.839
+SPEAKER_00, How long did you have the anxiety before the marijuana use?,167.88,171.88
+SPEAKER_01," You know, probably during my adolescence, a couple years.",172.38,177.079
+SPEAKER_00, A couple years?,177.482,177.972
+SPEAKER_01, Yeah.,178.36,178.503
+SPEAKER_01," It wasn't anything crazy, but, you know, it affected my life a little bit, so I think  it makes me feel a lot better now that I smoke it.",179.681,189.817
+SPEAKER_01, It gets rid of that feeling.,190.622,192.212
+SPEAKER_00," So, you started, you started marijuana because a friend offered it to you and because you  were anxious?",193.46,200.136
+SPEAKER_01, Mm-hmm.,200.605,200.85
+SPEAKER_01, Yeah.,201.86,202.105
+SPEAKER_00," And then, how about from then on?",202.86,203.84
+SPEAKER_01," Um, you know, I don't want to feel that anxiety anymore.",205.105,208.72
+SPEAKER_00, Mm-hmm.,208.86,209.085
+SPEAKER_01," I don't want to have to take any pills or anything, so I've kind of just kept doing  it to make me feel great.",210.462,218.155
+SPEAKER_00, Mm-hmm.,218.84,218.983
+SPEAKER_01, It's great.,220.371,220.799
+SPEAKER_01," Yeah, so, I think it's great.",220.961,222.84
+SPEAKER_00, All right.,222.84,223.126
+SPEAKER_00, When was the last time you used?,224.042,225.093
+SPEAKER_01," Mm, this morning.",226.971,227.82
+SPEAKER_00, This morning?,228.167,228.799
+SPEAKER_01, Yeah.,228.922,229.228
+SPEAKER_01, Yeah.,229.942,230.146
+SPEAKER_00, Did anything happen in particular that you think motivated your mother to bring in today?,232.162,237.498
+SPEAKER_01," Mm, no, no.",240.863,243.134
+SPEAKER_01, I think she kind of wants me to get out and get a job and everything.,245.264,248.637
+SPEAKER_00, Mm-hmm.,249.993,250.136
+SPEAKER_01," But, you know, I'm living my life.",250.32,252.28
+SPEAKER_01," It's perfectly fine, really.",252.521,254.756
+SPEAKER_01," I've got a little bit of money, but I'm not worried.",256.284,259.436
+SPEAKER_00," So, what do you want to happen?",260.881,262.8
+SPEAKER_00, What would your goal be?,264.189,264.995
+SPEAKER_01, I don't know.,266.164,267.719
+SPEAKER_01," I want to make my mom happy, but I don't really want to stop.",269.744,275.377
+SPEAKER_00," In order to make her happy, would you have to stop?",277.322,279.109
+SPEAKER_01, Mm-hmm.,281.82,282.188
+SPEAKER_01," I guess, but maybe she could learn to deal with it if I just acted a little differently  when I was on it.",288.487,297.77
+SPEAKER_01," I don't really want to stop because it makes me feel a little better, so.",298.841,304.255
+SPEAKER_00," She wants you to get a job, too?",306.28,307.229
+SPEAKER_01," Yeah, ideally she would like me to.",308.763,310.515
+SPEAKER_00, Mm-hmm.,311.28,311.443
+SPEAKER_00, Would employment involve drug screening?,312.881,315.015
+SPEAKER_01," I mean, probably some of them.",318.76,319.76
+SPEAKER_00, Some?,320.066,320.27
+SPEAKER_01," Some, if I tried, yeah.",320.8,321.568
+SPEAKER_01, I haven't really made a big effort to look for anything.,322.76,326.515
+SPEAKER_00, You're not too worried about that right now?,328.022,329.572
+SPEAKER_01," No, I mean, I think every day is a new day, a new chance for greatness, and it's going  great so far, so.",331.402,338.79
+SPEAKER_00, Do you mind if I ask you a few questions about your marijuana use?,341.245,343.577
+SPEAKER_01," Yeah, that's fine.",344.322,345.016
+SPEAKER_01, Yeah.,346.342,346.832
+SPEAKER_00, Have you ever tried to cut down?,347.24,349.435
+SPEAKER_01," No, no.",351.992,352.253
+SPEAKER_00," Have you ever taken in larger amounts than you wanted to, or for longer periods?",356.087,360.498
+SPEAKER_01," Yeah, I mean, sometimes I'll smoke more than I usually do.",361.862,365.996
+SPEAKER_01," If I'm hanging out, or maybe one of those anxiety days are a little worse, I'll smoke  some more.",368.502,375.169
+SPEAKER_00," How much time do you spend obtaining, using, recovering from marijuana?",377.364,384.5
+SPEAKER_01, A good amount of time.,388.306,389.538
+SPEAKER_00, Yeah?,389.822,390.047
+SPEAKER_01," I love it, so it's something I love to do.",391.243,393.176
+SPEAKER_00, It's a big part of your life?,393.74,394.72
+SPEAKER_01, Yeah.,395.414,395.557
+SPEAKER_01, It's like my best friend.,395.72,396.393
+SPEAKER_00, Do you have a craving for marijuana?,397.22,398.412
+SPEAKER_01," Yeah, I would say so.",401.2,402.715
+SPEAKER_01," I want to do it, yeah, so.",403.2,404.891
+SPEAKER_00, Has it led to any social problems for you?,406.2,408.032
+SPEAKER_01," I used to hang out with my friends a little more than I do, but I guess some of them think  I do it a little too much.",413.24,421.978
+SPEAKER_00, Do they?,422.322,422.629
+SPEAKER_01, Yeah.,423.506,423.873
+SPEAKER_00, Has the marijuana use caused you to give up activities that were important to you?,425.041,429.496
+SPEAKER_01," It is my important activity, you know?",430.841,433.353
+SPEAKER_01, So not really?,436.17,436.613
+SPEAKER_01, No.,437.68,438.068
+SPEAKER_00, Has the marijuana use caused any activity to become dangerous?,439.362,444.958
+SPEAKER_01, Like what?,446.731,447.094
+SPEAKER_00," Like driving while under the influence, or anything like that?",447.921,451.656
+SPEAKER_01," Yeah, I've done that.",453.16,454.15
+SPEAKER_01," That's dangerous, that's no big deal.",455.602,457.431
+SPEAKER_00, That's dangerous?,459.425,460.017
+SPEAKER_01," Yeah, I'm fine.",460.261,461.13
+SPEAKER_01," I usually drive, but everybody does that.",464.63,466.578
+SPEAKER_00, Everybody does that?,467.726,468.776
+SPEAKER_01, Yeah.,469.731,469.833
+SPEAKER_00," Now your mother, she drove you in today?",470.16,471.16
+SPEAKER_01," Yeah, yeah, she came with me.",471.704,473.334
+SPEAKER_00, Was she worried that you were under the influence of marijuana?,474.26,477.752
+SPEAKER_01," Probably, but she's kind of a little used to it, I guess.",480.64,485.359
+SPEAKER_01," Not used to it, but...",485.903,486.852
+SPEAKER_00, She's aware of it?,487.844,488.436
+SPEAKER_01," Yeah, she's, yeah.",488.64,489.546
+SPEAKER_00, Do you have any history of mental health disorders?,492.222,496.258
+SPEAKER_01, Just some anxiety.,497.949,499.076
+SPEAKER_00, Just anxiety?,499.64,500.048
+SPEAKER_00, How about medical problems?,500.923,501.832
+SPEAKER_01, No.,502.864,503.313
+SPEAKER_00, No?,503.885,503.987
+SPEAKER_01," No, they're the worst.",504.885,505.64
+SPEAKER_00, Alright.,505.946,506.273
+SPEAKER_00," Do you notice that when you stop using, you have physical symptoms or anxiety?",507.401,512.997
+SPEAKER_01," Well, yeah, I get the anxiety when I stop, you know.",514.683,517.879
+SPEAKER_00, What's the longest you have stopped for?,518.683,520.592
+SPEAKER_01, I don't know.,524.202,524.671
+SPEAKER_01, Just kidding.,525.508,525.998
+SPEAKER_01," Yeah, I smoke every day, so a couple hours when I sleep.",527.825,532.278
+SPEAKER_00, When you sleep?,533.426,533.916
+SPEAKER_01," A couple hours throughout the day, you know.",534.6,535.607
+SPEAKER_00," So, it's an everyday activity for you?",537.721,541.017
+SPEAKER_01, Yeah.,541.722,541.865
+SPEAKER_00, And it's been that way for a while?,542.6,543.6
+SPEAKER_01," Yeah, yeah.",543.661,544.212
+SPEAKER_01," For the past couple years, I would say.",545.889,547.56
+SPEAKER_00, Couple years?,547.804,548.253
+SPEAKER_01, Yeah.,548.6,548.702
+SPEAKER_00," Alright, Jackie, I know that your mom wants you to get counseling here.",550.363,554.898
+SPEAKER_00, Are you open to it?,555.661,556.226
+SPEAKER_01, I don't really think I need it.,559.729,561.214
+SPEAKER_01," But I'm sure she's, once I leave here, she's going to say you need to come back.",565.246,568.816
+SPEAKER_01," So, we'll see, I guess.",571.668,573.859
+SPEAKER_00, You okay with giving it a try?,574.704,576.395
+SPEAKER_01," Yeah, we'll see.",577.08,578.999
+SPEAKER_00, Alright.,579.345,579.651
+SPEAKER_00, I'll get you scheduled to see a counselor and we'll see where that goes from after your  first appointment.,580.221,585.233
+SPEAKER_01," Alright, I think.",585.58,586.233
+SPEAKER_00, Is that alright?,586.947,587.58
+SPEAKER_01," Yeah, yeah.",587.6,588.274
+SPEAKER_00, Alright.,588.866,589.131
+SPEAKER_00," I want to thank you for telling me what's going on, for answering my questions.",589.58,592.479
+SPEAKER_00, It's been helpful.,592.58,593.111
+SPEAKER_01," Alright, thank you.",593.6,594.58

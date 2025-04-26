@@ -1,0 +1,152 @@
+speaker,start,end,text
+SPEAKER_00,6.512,6.792, Come in.
+SPEAKER_00,7.934,8.575,Mrs. Olsen.
+SPEAKER_01,8.675,9.397,Hello Doctor.
+SPEAKER_00,9.417,10.399,Hello I'm Doctor O'Connor.
+SPEAKER_00,10.439,11.461,Would you like to take a  seat?
+SPEAKER_01,11.541,12.263,Yes thank you.
+SPEAKER_00,12.283,15.452,How are you today?
+SPEAKER_01,15.713,18.742,Oh Doctor I've not been feeling very well at  all.
+SPEAKER_01,18.762,25.11,Feeling really tired and run down and I've been having this breathlessness you know  and I've really been worried about it.
+SPEAKER_00,25.471,28.244,You came in to see one of my colleagues about  that recently didn't you?
+SPEAKER_01,28.344,29.448,I did yes.
+SPEAKER_00,29.488,30.873,And she sent you for a blood test.
+SPEAKER_01,30.973,31.997,That's right Doctor.
+SPEAKER_00,32.8,34.164, We think you might be anaemic.
+SPEAKER_01,34.606,36.893,Oh gosh yes.
+SPEAKER_00,37.134,46.174,So what I want to do today was firstly to  give you your blood test results and then talk to you a little bit about the condition  of anaemia and then talk about some potential treatments.
+SPEAKER_01,46.355,47.459,Oh right Doctor yes.
+SPEAKER_00,47.519,47.72,Does that
+SPEAKER_00,47.78,48.584, sound ok with you?
+SPEAKER_01,48.605,50.193,That sounds fine yes Doctor.
+SPEAKER_00,50.454,52.262,Great so shall we have a look at your blood  test results?
+SPEAKER_01,52.503,52.744,Yes.
+SPEAKER_00,54.129,54.691,Here it is.
+SPEAKER_00,54.711,57.822,So what we're testing for is the level of haemoglobin in  your blood.
+SPEAKER_00,58.003,58.364,Right.
+SPEAKER_00,58.545,65.55,And just to show you the normal range for women is between 11.5 and  16 grams per deciliter of haemoglobin.
+SPEAKER_00,65.651,66.233,Right.
+SPEAKER_00,66.735,70.388,And this is your level of haemoglobin it's  8.7.
+SPEAKER_01,68.641,70.388,Oh that's low isn't it?
+SPEAKER_00,70.648,72.776,It's a bit lower than we would like.
+SPEAKER_00,72.896,73.539,Oh dear yes.
+SPEAKER_00,73.579,76.872,So what we'll  be looking to do is to get that back within the normal range.
+SPEAKER_00,77.193,78.177,Right ok.
+SPEAKER_00,78.237,87.489,Just to reassure  you iron deficiency anaemia which I think you've got is fairly common up to around 15%  of women can experience this type of anaemia.
+SPEAKER_01,87.509,88.132,Right.
+SPEAKER_00,88.232,89.718,And it's very treatable as well.
+SPEAKER_00,89.738,89.999,Yes
+SPEAKER_01,90.28,91.223, yeah yeah.
+SPEAKER_01,91.865,95.917,Oh yes I mean this tiredness that's just getting me down Doctor.
+SPEAKER_00,95.957,99.454,It must be it  must be because you've got quite a busy lifestyle haven't you?
+SPEAKER_01,99.474,102.566,I have yes yeah and I just feel  as though I can't cope much longer with it.
+SPEAKER_00,102.807,103.188,Ok.
+SPEAKER_00,105.194,106.599,Shall I tell you a bit more about anaemia?
+SPEAKER_00,106.96,108.447, Do you know anything about the condition?
+SPEAKER_01,108.467,112.124,I don't know I mean I've heard of it but I  don't know what it is.
+SPEAKER_00,112.144,114.574,Well it's a condition related to your blood.
+SPEAKER_01,114.936,115.377,Right.
+SPEAKER_00,115.659,118.452,And within your  blood there's several components one of which is plasma.
+SPEAKER_00,118.834,120.963,Within the plasma you have your  red blood cells.
+SPEAKER_00,120.983,121.746,Right.
+SPEAKER_00,121.766,128.43,And within that you have a protein called haemoglobin which carries  the oxygen around your body to all the different organs.
+SPEAKER_00,128.57,128.691,Ok.
+SPEAKER_00,129.233,137.022,"Now if that's not working efficiently  you start to experience the kind of symptoms that you've been having like breathlessness,  tiredness."
+SPEAKER_01,137.323,138.567,Yeah definitely.
+SPEAKER_00,139.268,139.569,Yes.
+SPEAKER_00,140.692,145.085,One of the causes can be blood loss so I wondered about  your periods how are they?
+SPEAKER_01,145.105,149.059,Well they've been heavy these last few months really heavy yeah.
+SPEAKER_01,149.361,155.52, I've put it down to my age you know they start getting irregular and heavy and but you might
+SPEAKER_00,155.6,156.725, be right there yes.
+SPEAKER_00,156.825,157.749,That may be a factor.
+SPEAKER_00,157.769,158.753,Yeah yeah.
+SPEAKER_00,159.576,161.345,So I want to talk to you about  treatments now.
+SPEAKER_00,161.365,161.425,Yes.
+SPEAKER_00,162.289,164.42,There are a couple of things that I would suggest that you try.
+SPEAKER_00,164.822,168.96, The first thing we'd like you to do is to increase the amount of iron in your diet.
+SPEAKER_00,169.121,171.273, Can you tell me a bit about this sort of diet you have at the moment?
+SPEAKER_01,171.454,178.296,Well I mean I'm really  busy and I think they have a reasonable you know a well-balanced diet.
+SPEAKER_01,178.337,187.156,We eat a lot of ready meals  and then on a weekend we always have a good breakfast it was cooked bacon butters.
+SPEAKER_00,187.176,187.276,No so
+SPEAKER_01,189.64,192.129, I think it's quite quite a good diet.
+SPEAKER_00,192.149,194.878,Right with your teenage children they keep you busy.
+SPEAKER_01,195.039,206.153,Oh they  do yes I mean you know it's like having a taxi service you what with that and and then at work  you know so busy at work it's just just so tired.
+SPEAKER_01,206.173,208.32,Mmm just keep feeling tired it must be hard for
+SPEAKER_00,208.38,209.405, you to do all those things.
+SPEAKER_00,209.445,212.46,Yes yeah it's difficult though it just feels like I can't cope anymore.
+SPEAKER_00,212.48,221.395, Yeah now you mentioned ready meals I can understand you relying on those for convenience  but the problem is sometimes you don't get the proper balance of nutrients.
+SPEAKER_00,221.556,222.379,All right doctor.
+SPEAKER_00,222.741,228.524, So what I'd ask you to do is perhaps to adapt your diet slightly and include more iron rich  foods in your diet.
+SPEAKER_00,229.085,230.41,Oh right okay.
+SPEAKER_00,230.63,234.845,Before I tell you about what some of those foods are can I ask  if you're a vegetarian?
+SPEAKER_01,234.925,235.427,No no.
+SPEAKER_00,235.548,236.25,You're not.
+SPEAKER_00,237.094,241.729,The reason I ask that is because one of the best  sources of iron in your diet is lean red meat.
+SPEAKER_00,242.13,244.517,Oh yes yeah yeah like steak.
+SPEAKER_00,244.698,245.48,Yeah exactly.
+SPEAKER_01,246.784,248.148, Also liver is a good source.
+SPEAKER_01,248.168,251.116,Oh no no no no no no couldn't eat liver.
+SPEAKER_00,251.417,255.113,What about something like steak  that you mentioned would you consider eating that a bit more regularly?
+SPEAKER_01,255.273,258.686,Well yes I mean steak wouldn't  take long to cook would it at all?
+SPEAKER_01,258.706,258.747,No.
+SPEAKER_01,258.787,260.291,You could give that a go.
+SPEAKER_00,260.432,261.656,Good good.
+SPEAKER_00,262.057,266.834,There's also leafy green  vegetables things like kale and spinach are good sources of iron.
+SPEAKER_01,266.975,268.26,Oh the kids wouldn't eat that.
+SPEAKER_01,269.945,275.502, But I mean they like sweet corn so they can have the sweet corn couldn't they with the  green vegetables.
+SPEAKER_01,275.522,278.135,I could go for the leafy the green vegetables.
+SPEAKER_00,278.176,279.04,Do you think you could give that a try?
+SPEAKER_01,279.08,279.642, Broccoli.
+SPEAKER_01,279.682,280.545,So it's broccoli.
+SPEAKER_01,280.565,281.649,Yes broccoli.
+SPEAKER_01,281.669,282.533,Yeah I like broccoli.
+SPEAKER_00,282.633,283.596,Oh good good.
+SPEAKER_01,283.616,284.439,I'll have a go with that.
+SPEAKER_00,284.6,289.922, There's other things too you might want to consider things like fortified cereals which  have iron.
+SPEAKER_01,290.263,291.787,Oh right what are those?
+SPEAKER_00,291.827,298.67,Well if you look on the ingredients panel of cereals you'll see some are enriched with  iron so you could perhaps incorporate some of those.
+SPEAKER_01,298.951,301.32,Oh yes yes I'll have a look at the supermarket.
+SPEAKER_01,301.981,308.223, If I got some of those we could have that at weekend and that give me more time I wouldn't have to cook  would I?
+SPEAKER_00,308.243,309.81,It could make your life a bit easier.
+SPEAKER_00,309.83,310.574,Yeah definitely.
+SPEAKER_00,310.594,311.779,That would be a help wouldn't it?
+SPEAKER_00,311.96,312.722, It would yes.
+SPEAKER_00,312.963,315.391,Wholemeal bread is a good source of iron as well.
+SPEAKER_01,315.411,324.06,Oh yes you know they only like white bread  only them they buy white bread but I could buy myself some brown bread cobs and have it for lunch.
+SPEAKER_00,324.843,325.505, Yes yeah.
+SPEAKER_00,325.866,326.268,Oh good.
+SPEAKER_00,326.288,328.355,So do you think you could give some of those things a try?
+SPEAKER_01,328.416,330.062,Yes I would try doctor  definitely.
+SPEAKER_00,330.102,331.146,Great great.
+SPEAKER_00,331.568,334.539,The other thing I'd like you to consider is taking a course of iron tablets.
+SPEAKER_00,335.081,336.645, Oh I'm not into tablets why?
+SPEAKER_00,336.665,347.032,Okay this can be a really effective treatment for iron deficiency anemia  and what it does is it supplements the amount of iron you're getting in your diet.
+SPEAKER_01,348.095,349.439,So would that be short term?
+SPEAKER_00,350.081,354.655, Yes yes often people respond very well to those you can have some side effects.
+SPEAKER_01,354.796,355.358,Oh dear.
+SPEAKER_00,355.638,361.683,Sometimes they can  upset your tummy if you have them on you know on an empty stomach so what you do is you take them  after a meal.
+SPEAKER_01,361.843,364.513,Oh right yeah I do remember to do that yes yeah.
+SPEAKER_00,364.533,371.24,I think those two things adapting  your diet and taking a course of iron tablets I think you might respond very well to those treatments.
+SPEAKER_00,371.32,373.81, Yes yeah I'll have a go at that doctor.
+SPEAKER_00,374.091,376.199,How do you feel about the information I've given you so far?
+SPEAKER_01,376.48,381.435, That's fine yes I'll definitely try if it makes me feel any better it's worth it.
+SPEAKER_00,381.556,383.482,Yes excellent yeah  excellent.
+SPEAKER_00,383.883,391.171,I've given you quite a lot of information about anemia today I've got a leaflet here about  anemia which I thought you might like to take home and read in your own time.
+SPEAKER_01,391.191,402.869,Oh thank you yes yeah oh  yes yeah I'll read this doctor it's it's sometimes difficult to remember what what you tell so yes  having a look at this at home would be really helpful.
+SPEAKER_01,402.889,405.74,That's right yes that's right so just
+SPEAKER_00,405.8,411.708, to check that I've explained things to you correctly do you think you could just recap  on the the two treatments that you're going to try?
+SPEAKER_01,412.45,424.56,Well you said that the anemia is due to a  lack of iron and I can get this from having some red meat I mean steak lunchops would that be?
+SPEAKER_01,424.7,425.804, Yeah trim the fat off.
+SPEAKER_01,425.844,434.47,Yeah and green vegetables and wholemeal bread and if I have these iron  tablets and you know hopefully I'll feel better.
+SPEAKER_00,435.072,441.336,Thank you yes excellent so what I'd like you to  do is come back in a couple of weeks and then we can see how you're doing.
+SPEAKER_01,441.417,442.18,I'll do that yes.
+SPEAKER_00,442.862,443.926, Have you got any questions?
+SPEAKER_00,443.946,446.395,Are there any other tests I'll have to have?
+SPEAKER_00,447.218,467.222,I think at this stage  when you come back to see me again we'll do another blood test and check on your hemoglobin  level then if you haven't if it hasn't gone back into the normal range it might be then that we'd  look at doing some other investigations but I don't want to worry about that at this stage I  think let's see how you do with the dietary change in the iron tablet so we can discuss that next  time.
+SPEAKER_00,467.443,468.226,Right thank you.
+SPEAKER_00,468.346,469.652,Yes is there anything else?
+SPEAKER_00,469.993,471.259,No I think that's it thank you.
+SPEAKER_00,471.399,473.591,Okay  well good to see you and I'll see you again in a few weeks.
+SPEAKER_00,473.671,474.415,Okay thank you.
+SPEAKER_00,474.697,474.918,Bye.
+SPEAKER_01,474.938,474.998,Bye.

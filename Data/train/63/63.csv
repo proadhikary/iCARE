@@ -1,0 +1,143 @@
+speaker,text,start,end
+SPEAKER_00," Jessica, how are you doing today?",0.0,0.622
+SPEAKER_01, I'm well.,7.0,7.162
+SPEAKER_00, You're doing well?,9.0,9.342
+SPEAKER_01," That's right, that's good, yes.",14.569,15.431
+SPEAKER_00, I understand you've been having some difficulties recently that have brought you into the agency.,19.365,24.0
+SPEAKER_01, Yes.,24.0,24.082
+SPEAKER_00, Can you tell me about that?,25.283,26.03
+SPEAKER_01," Well, I was in a car accident about a month and a half ago.",27.401,32.619
+SPEAKER_01, And I've just been having these issues that are preventing me from doing the things I'm used to doing.,33.881,43.638
+SPEAKER_00, Can you tell me about the accident?,45.061,46.152
+SPEAKER_01," Well, I was on my way home from work and I was sitting at a stop sign and waiting for my term to go.",47.682,55.98
+SPEAKER_01," And as I proceeded through the stop sign, a car just came and blew through and hit me on the side and pushed me straight through the stop sign.",56.942,67.74
+SPEAKER_00, Were you hurt?,69.273,69.818
+SPEAKER_01," Not too bad, no.",71.148,72.477
+SPEAKER_00, Not too bad?,73.0,73.939
+SPEAKER_01, No.,74.0,74.041
+SPEAKER_00," Scary though, huh?",75.102,75.735
+SPEAKER_01, It was very scary.,76.465,77.495
+SPEAKER_00, And when was this?,79.611,80.517
+SPEAKER_01, This was about a month and I guess maybe two months ago.,81.402,84.739
+SPEAKER_00, About two months ago?,85.082,86.0
+SPEAKER_01, Yeah.,86.101,86.262
+SPEAKER_00, All right.,89.342,89.583
+SPEAKER_00,And when did the symptoms start?,90.045,91.653
+SPEAKER_01, Shortly after.,93.381,94.183
+SPEAKER_01,I've been feeling pretty bad for about a month or so.,94.203,101.158
+SPEAKER_00, All right.,102.463,102.685
+SPEAKER_00,Can you tell me about those feelings?,102.705,103.631
+SPEAKER_01," I've had a lot of anxiety, especially when it comes to getting in my car and going places.",105.801,115.214
+SPEAKER_01,I just get really overwhelmed with fear.,115.234,119.219
+SPEAKER_01, Just scared that I'm going to get into another car accident.,120.04,123.554
+SPEAKER_00, All right.,125.281,125.724
+SPEAKER_00,You are still driving?,125.905,126.769
+SPEAKER_01, Not a lot.,129.204,129.939
+SPEAKER_00, Not a lot?,130.0,130.673
+SPEAKER_01," Not a lot, no.",131.041,131.735
+SPEAKER_00, All right.,132.261,132.462
+SPEAKER_00,"You're not driving a lot, but you are able to drive.",132.482,134.349
+SPEAKER_00,"But when you do drive, there's a lot of anxiety.",135.012,136.94
+SPEAKER_01, Yes.,137.143,137.245
+SPEAKER_00, There's a lot of fear.,138.0,138.735
+SPEAKER_01, Yes.,139.469,139.653
+SPEAKER_00, Are you more aware of what's going on around you?,140.0,142.154
+SPEAKER_01, Definitely.,143.0,143.361
+SPEAKER_01,"I think I'm, I would say, over aware.",143.381,147.827
+SPEAKER_01,"I can't, sometimes I can't even focus on where I'm going because I'm just paying attention to all the drivers on the road.",147.968,155.439
+SPEAKER_01," Just, you know, making sure that I don't get hit again.",156.562,158.932
+SPEAKER_00, All right.,161.241,161.782
+SPEAKER_00,So you're driving with more awareness of what's going on around you?,161.902,166.312
+SPEAKER_00,Anxious?,167.735,168.136
+SPEAKER_00,Any irritability?,168.717,169.459
+SPEAKER_01, Yes.,170.803,171.145
+SPEAKER_01,Yes.,171.867,172.229
+SPEAKER_01,A lot more than usual.,172.349,174.378
+SPEAKER_00, Can you tell me about that?,175.0,175.646
+SPEAKER_01," Well, I have two dogs and I love my dogs.",177.16,182.687
+SPEAKER_01,"And just lately, everything they do just gets on my nerves.",182.987,186.671
+SPEAKER_01,"You know, just barking, walking.",187.432,189.775
+SPEAKER_01,"I mean, everything just, and I don't know where that's coming from.",189.795,194.0
+SPEAKER_01," I've never been like that with them before, but they just, they bother me so much that I don't even want them around sometimes.",194.361,204.556
+SPEAKER_00," Have you, since the accent, or since the symptoms started, have you had positive feelings like happiness, joy?",207.361,219.278
+SPEAKER_01," No, everything just depresses me anymore.",221.882,224.889
+SPEAKER_00,Everything.,226.352,226.853
+SPEAKER_01,Nothing seems to be going right at all.,227.575,229.419
+SPEAKER_00, No?,230.302,230.482
+SPEAKER_00,Not since the symptoms started.,231.769,233.638
+SPEAKER_01, Yeah.,234.483,235.631
+SPEAKER_00," Do you know how when something surprises you and you're startled, right, that's natural for everybody, have you noticed that that startle response is different now after the accent?",237.821,251.0
+SPEAKER_01, It is.,251.842,252.182
+SPEAKER_01,Everything startles me.,252.262,253.444
+SPEAKER_01,"Just, you know, a knock at the door or the phone ringing or anything just, yeah, just kind of scares me out of my skin.",253.525,262.0
+SPEAKER_00, So that's more so than it would have in the past?,262.987,265.0
+SPEAKER_01," Yeah, I've never been like that before.",265.687,267.0
+SPEAKER_00, Any changes in your concentration?,269.034,270.0
+SPEAKER_01, I can't seem to focus on anything.,270.22,273.684
+SPEAKER_01,"I'm in school and when I have readings to do for school, I just, I get so distracted.",276.406,282.152
+SPEAKER_01,I have to close the book and do something else.,282.172,285.756
+SPEAKER_01,"I can't, yeah, I definitely can't focus when it comes to my schoolwork.",285.836,289.9
+SPEAKER_00," So when you're having trouble concentrating, what kind of thoughts are you being distracted toward?",291.14,296.696
+SPEAKER_01," If I have somewhere to go, I'm thinking about, you know, getting in the car and driving and, you know, the possibility of being in another accident.",298.36,308.35
+SPEAKER_01,"I just, a lot of my thoughts seem to focus on being in my car and just the accident.",308.37,317.78
+SPEAKER_01, I can't seem to shake that.,318.404,319.697
+SPEAKER_00, So you've tried to kind of push the thoughts aside and then they're still there?,321.205,324.578
+SPEAKER_01, Yeah.,325.02,325.265
+SPEAKER_00, Any trouble sleeping?,327.329,328.034
+SPEAKER_01, Somewhat.,332.246,332.847
+SPEAKER_01,"I don't have any trouble getting to sleep, but I have trouble staying to sleep.",333.428,339.259
+SPEAKER_00, So you wake up several times?,342.094,343.0
+SPEAKER_01, Yeah.,343.082,343.429
+SPEAKER_00, At night?,344.204,344.51
+SPEAKER_01, Yeah.,346.0,346.122
+SPEAKER_00, How about your relationship with other people?,349.321,351.526
+SPEAKER_00,Do you feel there's the same distance or do you feel closer or more detached?,351.546,357.138
+SPEAKER_01," Well, my mom is probably the person I'm closest to and I haven't really wanted to spend a lot of time with her anymore.",358.721,368.793
+SPEAKER_01,I'm really just staying in the house and just staying to myself.,368.814,373.079
+SPEAKER_00, All right.,376.321,376.561
+SPEAKER_00,How about dreams?,377.023,377.805
+SPEAKER_00,"Any change in dreams, like the events of the accident come up?",377.985,383.699
+SPEAKER_01," Well, one night there was this dream that stuck out to me.",385.18,388.946
+SPEAKER_01,I was driving home from work and I was just about to get on the highway and I heard sirens coming.,389.306,398.98
+SPEAKER_01, And I stopped to see where the sirens were going and they got closer and closer to me and they seemed to surround me.,399.962,407.94
+SPEAKER_01," And I was like, wait, what's going on?",408.32,411.004
+SPEAKER_01,"And I woke up and I was like, oh my gosh, I felt like I was right back there in that moment where I was in a car accident and the police responded to the accident.",411.264,424.0
+SPEAKER_01, But it was so much more intensified.,424.16,429.953
+SPEAKER_01,I've never had a dream like that before.,430.955,432.96
+SPEAKER_01," And when you woke up, it sounds like you were alarmed and distressed.",434.644,436.819
+SPEAKER_01, I was.,437.162,437.384
+SPEAKER_01,I was.,437.404,437.566
+SPEAKER_00, Has that ever happened when you weren't asleep instead of like a dream?,439.621,442.985
+SPEAKER_00,Have you ever had a moment where you're kind of back in the car accident?,443.005,448.933
+SPEAKER_00,"You know, in the car as the accident is happening, like it feels like you're really back there?",449.975,453.64
+SPEAKER_01," Maybe once or twice, but not really, no.",455.743,459.9
+SPEAKER_00, Not sure?,460.408,460.878
+SPEAKER_01, No.,461.061,461.735
+SPEAKER_00, Do you have any medical problems?,465.724,468.94
+SPEAKER_01, No.,469.673,469.714
+SPEAKER_00, Nothing coming on?,470.623,471.427
+SPEAKER_00,Any use of drugs or alcohol?,472.553,473.739
+SPEAKER_01, No.,474.571,474.633
+SPEAKER_00, Nothing like that?,475.0,475.449
+SPEAKER_00,Alright.,475.469,476.0
+SPEAKER_00, Alright.,480.722,480.962
+SPEAKER_00,Do you remember all the details of the accident or do you feel like there's pieces of that memory that are missing?,481.023,488.0
+SPEAKER_01, I really can't remember the details.,490.842,493.645
+SPEAKER_01,I just know I got hit.,495.287,496.368
+SPEAKER_01,I don't know.,497.269,497.789
+SPEAKER_01,"I can't remember back to what happened and people keep asking me and I just, I can't remember at all really what happened.",497.809,507.84
+SPEAKER_00," Alright, so there's some memory loss surrounding that?",510.309,512.0
+SPEAKER_01," Yeah, definitely.",512.081,514.0
+SPEAKER_00," Do you ever have, or since the symptoms have come on, do you ever feel like you're not really yourself, you're separated from yourself, kind of an unreal experience, or you're separated from the world?",517.183,531.499
+SPEAKER_00,Either one of those?,531.519,531.9
+SPEAKER_01, No.,534.163,534.204
+SPEAKER_00, Nothing like that?,535.061,535.857
+SPEAKER_01, No.,536.0,536.122
+SPEAKER_00, Okay.,537.02,537.224
+SPEAKER_00, Okay.,538.26,538.461
+SPEAKER_00,"Alright, Jessica, based on our conversation here, I'm going to set you up to see a counselor if that's something you're open to.",538.481,550.0
+SPEAKER_01, Okay.,550.02,550.204
+SPEAKER_00, And I want to thank you for taking the time to tell me what happened and answer my questions.,551.883,556.997
+SPEAKER_00,It's been very helpful.,557.037,557.739
+SPEAKER_01, Thank you.,558.694,559.0
+SPEAKER_00, Thanks.,559.347,559.592

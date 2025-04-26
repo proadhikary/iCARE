@@ -1,0 +1,79 @@
+speaker,start,end,text
+SPEAKER_00,27.839,29.96," So Steph, I know you just want to go home."
+SPEAKER_00,30.526,31.738, And you don't want to be admitted.
+SPEAKER_00,32.02,36.819," However, I'm really concerned that you swallowed a whole bottle of pills last night because you were feeling down."
+SPEAKER_00,37.687,38.819, Do you think you're going to do that again?
+SPEAKER_01,39.742,42.009," No, I'm feeling a lot better now."
+SPEAKER_01,42.029,43.934,It was a stupid thing to do.
+SPEAKER_01,45.037,45.88,I'm not going to do it again.
+SPEAKER_00,46.522,50.96, I'm still really concerned about you and I need to know that you're going to be safe when you leave here.
+SPEAKER_00,51.06,56.96, I need you to fill out the safety plan to ensure that you have strategies in place to cope when you're feeling down.
+SPEAKER_01,57.302,60.096, I don't really feel like filling out a plan.
+SPEAKER_01,60.116,60.538,I don't need a plan.
+SPEAKER_00,62.344,64.249," Well, I think that you do need a plan."
+SPEAKER_00,64.63,67.96,You obviously needed a plan last night when you swallowed that whole bottle of pills.
+SPEAKER_00,68.903,73.96, And I want you to fill out the safety plan to ensure you have strategies in place in case you feel like this again.
+SPEAKER_00,74.485,75.839, It's a condition of your discharge.
+SPEAKER_01,77.192,77.899, I really don't want to.
+SPEAKER_00,78.925,80.653," This is really concerning for me, Steph."
+SPEAKER_00,81.136,81.96,Perhaps you need to be admitted.
+SPEAKER_01,82.061,84.819," Fine, I'll fill out the plan."
+SPEAKER_00,84.96,85.04, Okay.
+SPEAKER_00,110.522,114.418," So Steph, I know you probably want to get out of here and go home and that you don't want to be admitted."
+SPEAKER_00,115.121,117.416, It must have been a really scary experience for you.
+SPEAKER_00,117.96,124.96," I want you to know though that any time you're feeling unsafe or at risk of harming yourself, you're always welcome to come back to the emergency department."
+SPEAKER_00,125.502,130.338, I'm wondering what you think might have been helpful for you if this happens again.
+SPEAKER_01,131.301,132.906, I don't think it'll happen again.
+SPEAKER_01,132.927,136.639,I was feeling really down but I don't really want to die.
+SPEAKER_00,137.685,139.9, Must have been a really hard experience to go through.
+SPEAKER_00,141.744,149.539, I'm wondering if you think it would be helpful to have some kind of plan in place or some strategies if by chance you feel like this again.
+SPEAKER_01,151.334,151.596, Yeah.
+SPEAKER_00,152.301,157.358, What do you think might be helpful for you to think about or to do if you did feel like this again?
+SPEAKER_01,159.005,160.171, I don't know.
+SPEAKER_01,160.412,161.518,I guess I could have called someone.
+SPEAKER_00,162.643,164.05," Oh, so that's a good idea."
+SPEAKER_00,164.653,165.88,Who do you think you might have called?
+SPEAKER_01,166.723,168.048, Maybe my Aunt Jenny.
+SPEAKER_01,168.731,169.273,She's great.
+SPEAKER_01,169.333,170.819,She's really easy to talk to.
+SPEAKER_00,171.261,173.93, So it's good you have someone in your life that you can talk to.
+SPEAKER_00,174.632,176.96,What do you think stopped you from calling her last night?
+SPEAKER_01,177.301,179.244, It was so late.
+SPEAKER_01,179.605,181.669,I didn't want to call at like 3 in the morning.
+SPEAKER_01,181.689,187.94,It would have woken her and my uncle and all of my cousins up and they'd probably just be mad.
+SPEAKER_00,188.862,190.245, So you're worried about disturbing them.
+SPEAKER_00,191.247,197.96,I imagine that your Aunt Jenny probably would have been okay with you calling her given the circumstances and how you were feeling.
+SPEAKER_00,198.822,204.8, Do you think you'd be okay with maybe having a conversation with her about her being an emergency contact for you?
+SPEAKER_01,206.071,206.718, I don't know.
+SPEAKER_00,207.703,211.96, I'm wondering maybe if I could bring your dad in right now and we could maybe all talk about this together.
+SPEAKER_01,212.122,213.839," Yeah, okay."
+SPEAKER_00,214.041,214.627, That's okay?
+SPEAKER_00,214.93,215.172,Okay.
+SPEAKER_00,220.284,220.686, Hi Tom.
+SPEAKER_00,221.428,224.96,Steph and I are just having a conversation about safety planning and I'm wondering if you want to join us.
+SPEAKER_02,225.511,225.695, Sure.
+SPEAKER_00,225.96,226.164, Great.
+SPEAKER_00,228.963,235.96," So Tom, Steph and I were just talking about who she might contact in the future if she was ever to feel this way again and she mentioned her Aunt Jenny."
+SPEAKER_02,237.185,238.932," Yes, I think that sounds good."
+SPEAKER_02,239.574,240.719,Steph and Jenny are pretty close.
+SPEAKER_00,241.602,246.96," I'm wondering Steph, are there any other things you can think of that would help you in the moment if you're feeling this down again?"
+SPEAKER_01,247.241,248.343, I don't know.
+SPEAKER_01,248.384,254.96,I haven't been doing the stuff I usually do for fun like reading or going outside or hanging out with my friends even.
+SPEAKER_02,256.343,264.92, She also likes going for walks late at night when she can't sleep or isn't feeling good but I'm just not that comfortable with that.
+SPEAKER_00,265.748,266.819, So that's concerning for you?
+SPEAKER_01,267.141,268.913, It helps a lot.
+SPEAKER_01,268.953,269.96,The fresh air clears my head.
+SPEAKER_00,271.1,276.659," I'm wondering Tom, is there anything that Steph could do to make you feel more comfortable with her going for a walk?"
+SPEAKER_02,277.401,279.284, I guess.
+SPEAKER_02,279.424,287.94,"If she were to let me know before she left and maybe text me part way through to let me know where she is and when she might be home, that would help."
+SPEAKER_00,288.784,289.186, Okay.
+SPEAKER_00,289.468,291.297,"Steph, is that an okay compromise for you?"
+SPEAKER_01,292.384,293.192," Yeah, I guess."
+SPEAKER_00,294.542,299.96," Okay, so we've talked about a few strategies today and sometimes people find it helpful to write them down."
+SPEAKER_00,301.003,305.96, I actually have a template for a safety plan so we could write down what we talked about.
+SPEAKER_00,306.261,309.311, The other option is you could use the notes section of your phone.
+SPEAKER_00,309.652,311.699,Do either of those sound helpful for you?
+SPEAKER_01,312.583,314.975, Maybe using the notes section on my phone.
+SPEAKER_01,315.216,315.96,I always have it with me.
+SPEAKER_00,316.282,317.088," Okay, great."
+SPEAKER_00,317.49,318.96,So let's recap what we talked about today.

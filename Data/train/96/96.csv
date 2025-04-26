@@ -1,0 +1,156 @@
+speaker,start,end,text
+,0.0,0.184," Hi, Jackie."
+,1.0,1.469, How are you doing today?
+,2.0,2.245, I guess okay.
+,3.0,3.082, Okay.
+,4.0,4.082, Yeah.
+,5.0,6.684, I understand you've had some recent difficulties that have brought you in here today.
+SPEAKER_00,14.673,14.918, Yeah.
+SPEAKER_01,15.06,19.192," Well, my physician, I've been seeing her, meeting with her."
+SPEAKER_00,22.0,23.246," She suggested I come see you, so."
+SPEAKER_01,26.04,27.737, Why do you think she did that?
+SPEAKER_01,28.04,28.906," Well, I'm sick, I think."
+SPEAKER_01,31.0,37.458," So we've been running some tests and things, and she couldn't find anything."
+SPEAKER_01,38.0,40.774, So she's already working on it.
+SPEAKER_01,42.384,43.96, I'm not sure what she's doing.
+SPEAKER_01,44.04,48.395," We've been running some tests and things, and she couldn't find anything."
+SPEAKER_01,50.724,53.98, So she thought maybe I should come talk to you.
+SPEAKER_01,54.181,60.819," I guess maybe my concerns are, you know, coming from somewhere else, I think, is what she thinks."
+SPEAKER_01,61.322,63.537, But I don't know.
+SPEAKER_01,64.301,68.779, Maybe whatever illness I have is making me feel this way.
+SPEAKER_00,69.523,72.457, So you believe you have a physical illness?
+SPEAKER_01,73.0,75.215," Yeah, I just know there's something not right."
+SPEAKER_00,76.643,80.438, And your physician has run a series of tests?
+SPEAKER_01,81.242,81.667, Yeah.
+SPEAKER_01,83.04,86.253, We've done like blood work and all the scans and everything.
+SPEAKER_01,88.322,91.417," She said she didn't find anything, but I just know there's something there."
+SPEAKER_00,92.662,98.0," So what was her, other than coming to see me, what was her suggestion for treatment?"
+SPEAKER_00,98.422,100.673," So she ran tests, she didn't find anything?"
+SPEAKER_01,103.302,106.598," Well, yeah, she didn't have anything for me."
+SPEAKER_00,107.343,109.0, So she's saying there's no physical illness?
+SPEAKER_01,109.404,110.354," Yeah, that's what she says."
+SPEAKER_00,111.061,112.333, You're not as sure?
+SPEAKER_01,113.342,114.631," No, I think she's missing something."
+SPEAKER_01,116.102,116.286, So...
+SPEAKER_00,117.742,121.515, How long have you believed that you had a physical illness?
+SPEAKER_01,125.384,130.539," About a year, I think, is when my first appointment with my physician was."
+SPEAKER_01,132.548,134.739," Yeah, when she started running some tests and things."
+SPEAKER_00,135.564,137.678," So about a year ago, you went to her."
+SPEAKER_00,138.922,145.398, She started running tests and there was no findings of a disorder?
+SPEAKER_01,146.384,147.798," No, she hasn't found anything yet."
+SPEAKER_00,148.342,151.598, Was it just one disorder that you thought you had or have there been several?
+SPEAKER_01,154.261,156.95," You know, I kind of started with MS."
+SPEAKER_01,160.381,171.98," I read some things about that and about how people just, people my age,  they've had it and they don't even know that they have it and then all of a sudden their life is changed by it."
+SPEAKER_01,172.603,175.98, So I was concerned about that.
+SPEAKER_01,176.542,186.859," And then I guess after some tests and things, I kind of, I don't know,  I guess I started to think maybe it wasn't that and it was something else."
+SPEAKER_01,188.827,190.474, I think it's cancer.
+SPEAKER_01,190.494,192.0,That's what I'm worried about.
+SPEAKER_01,192.0,192.796, You think it's cancer?
+SPEAKER_01,193.694,193.837, Yeah.
+SPEAKER_01,195.385,206.318," You know, even though I don't really have some of the symptoms,  I can just lie in you and you have no idea and just one day, you know."
+SPEAKER_00,207.702,213.358, And your physicians run tests for all these disorders you thought you had or you think you had?
+SPEAKER_01,214.482,215.324," Yeah, yeah."
+SPEAKER_01,215.425,224.036,"But I mean, what if that test that I took a year ago,  what if it didn't show up on that because it hasn't gotten that severe yet and now it is?"
+SPEAKER_00,225.143,225.612, So you're worried?
+SPEAKER_01,226.0,226.122, Yeah.
+SPEAKER_00,229.384,234.98, So you saw the physician for the first time regarding this a year ago.
+SPEAKER_00,236.611,237.96, Did you have anxiety or worry before that?
+SPEAKER_01,238.04,240.749, I don't know.
+SPEAKER_01,240.769,244.0,"I'm just worried that it started, got that feeling that I was sick."
+SPEAKER_01,244.141,246.553, So that was just what I was worried about.
+SPEAKER_01,247.176,247.94,But nothing other than that.
+SPEAKER_00,248.242,249.349, All right.
+SPEAKER_00,249.631,251.0,But you were worried about the illness?
+SPEAKER_01,251.347,251.633, Mm-hmm.
+SPEAKER_00,252.02,252.959, Nothing else though?
+SPEAKER_00,253.0,253.082, No.
+SPEAKER_00,257.789,261.0, Do you have any physical symptoms?
+SPEAKER_01,263.786,264.106, No.
+SPEAKER_01,265.309,267.553,But that happens to people.
+SPEAKER_01,268.094,269.377,They don't experience any symptoms.
+SPEAKER_01,269.397,270.058,They have no idea.
+SPEAKER_01,270.078,271.0,No idea.
+SPEAKER_01,271.081,274.0," And then it just, you're dead."
+SPEAKER_00,276.086,280.96, Do you find yourself checking often to see if you have physical symptoms?
+SPEAKER_01,281.522,282.345," Yeah, yeah."
+SPEAKER_01,282.827,286.0,"I've read a lot of stuff, a lot of different people's stories."
+SPEAKER_01,286.0,286.306, Mm-hmm.
+SPEAKER_01,287.762,294.779," Go to the internet, check the symptoms, and I keep track of that, make sure I'm not having anything that they list."
+SPEAKER_00,296.586,299.94, Are you active on the internet forums where they discuss illnesses?
+SPEAKER_01,300.562,301.466," Yeah, yeah."
+SPEAKER_01,301.586,313.719,"I've read a lot of people's stories on there about how they had maybe one symptom,  but they didn't really think anything of it, you know, and then they have a severe diagnosis."
+SPEAKER_01,314.783,318.896," So I'm just worried I'm going to miss something, you know, so I check a lot and check to make sure."
+SPEAKER_00,321.126,322.915, So you read the forms a lot.
+SPEAKER_00,322.935,323.497,Do you ever post?
+SPEAKER_01,325.063,327.99," Yeah, yeah, about my concerns."
+SPEAKER_01,328.772,331.158,Sometimes people get a little frustrated with me.
+SPEAKER_01,331.178,331.98,They're not very nice.
+SPEAKER_00,332.122,332.653, Tell me about that.
+SPEAKER_01,335.045,338.0, Just because I'm not really experiencing anything.
+SPEAKER_01,338.184,338.837, Mm-hmm.
+SPEAKER_01,340.925,346.98," They think that I don't have anything to worry about, and they keep telling me, but I think I do have something to worry about."
+SPEAKER_01,348.085,350.357, I just have this feeling that there's something wrong.
+SPEAKER_01,350.558,351.0,I just know it.
+SPEAKER_00,353.463,355.94, What would you like us to do here at the agency?
+SPEAKER_01,358.123,363.551, I would just like to feel comfortable that I'm not sick.
+SPEAKER_01,363.951,370.0,"I don't want to worry anymore, but I just really think there's something wrong."
+SPEAKER_00,370.301,374.475," Yeah, you're worried you have a physical health disorder."
+SPEAKER_00,374.535,375.88,Are you worried you have a mental health disorder?
+SPEAKER_00,376.08,376.281, Maybe.
+SPEAKER_01,376.401,380.114,Some people have said that.
+SPEAKER_01,382.06,384.779, Are you worried about that?
+SPEAKER_01,386.422,392.692, It's a little concern that I might be feeling a little extra worried.
+SPEAKER_01,392.872,397.84,Maybe that's a symptom of the whatever illness I have.
+SPEAKER_00,398.281,402.0, So you're concerned that the worry could be a symptom of a physical illness?
+SPEAKER_00,402.0,402.303," Mm-hmm, yeah."
+SPEAKER_00,406.742,408.547," So again, what would your goal be here?"
+SPEAKER_00,408.567,410.713,What do you want to change through counseling?
+SPEAKER_01,415.986,418.252, I guess my worry.
+SPEAKER_01,418.312,420.559,It doesn't make me feel good.
+SPEAKER_00,421.929,422.576, You want to worry less?
+SPEAKER_01,423.0,423.962," Yeah, yeah."
+SPEAKER_01,424.904,429.192,I don't want to be sick.
+SPEAKER_01,430.214,432.96,I don't want to be mentally ill either.
+SPEAKER_00,436.264,445.559," All right, so you've had worry for at least a year, specifically about being physically ill."
+SPEAKER_00,446.281,451.0," There have been no findings of physical illness, but you're still worried about it."
+SPEAKER_00,452.987,457.0, And you might be a little worried that you have a mental health disorder.
+SPEAKER_01,458.281,461.112," Yeah, I think something might be off."
+SPEAKER_01,461.133,462.839,Something might be going on.
+SPEAKER_00,463.523,466.0, And you want to be able to stop worrying about the physical health disorders?
+SPEAKER_00,466.303,467.495," Mm-hmm, yeah."
+SPEAKER_00,469.281,469.542, All right.
+SPEAKER_00,471.087,474.639,Are you worried right now that you have a physical health disorder?
+SPEAKER_01,475.837,475.959, Yeah.
+SPEAKER_00,477.148,478.517, What disorder do you think you might have now?
+SPEAKER_01,480.484,481.346," Cancer, I think."
+SPEAKER_01,483.411,486.278,Some part of my body that is worried that it's spreading.
+SPEAKER_00,487.603,490.276, And you've been tested for this by your physician?
+SPEAKER_01,491.341,494.675," Yeah, but sometimes tests don't find things."
+SPEAKER_00,497.201,504.679," Are you ever reassured when you get negative test results back, when they say there's nothing going on?"
+SPEAKER_01,508.888,512.559," No, I think they might have missed something."
+SPEAKER_01,515.344,523.559," My family physician, she's really frustrated with me because she won't even see me anymore, honestly."
+SPEAKER_01,524.361,525.706, She's not very nice when I go in.
+SPEAKER_01,526.448,529.518,But I want her to do those tests again.
+SPEAKER_00,530.122,530.98, You want her to rerun tests?
+SPEAKER_00,531.0,531.102, Yeah.
+SPEAKER_00,532.265,533.0, And look again?
+SPEAKER_01,533.082,533.347, Mm-hmm.
+SPEAKER_00,536.141,536.402, All right.
+SPEAKER_00,537.426,540.659,"So, you're open to counseling here?"
+SPEAKER_01,542.301,542.581, Yeah.
+SPEAKER_01,543.363,550.158,"Yeah, I think maybe you can help me a little bit and find out what's wrong and what's going on."
+SPEAKER_00,552.824,556.0, Would you be okay signing release so that I could talk to your physician?
+SPEAKER_01,556.141,557.838," Yeah, yeah, that's fine."
+SPEAKER_00,558.02,558.822, All right.
+SPEAKER_00,560.426,563.855,"So, I'll get you scheduled."
+SPEAKER_00,563.895,565.96,"Now, I'll schedule you either way, whether you want to sign a release or not."
+SPEAKER_00,566.0,566.122, Okay.
+SPEAKER_00,567.221,571.0, But that's just something I think might be helpful for me to better understand what's going on.
+SPEAKER_00,571.02,571.204, Okay.
+SPEAKER_00,572.823,575.253, But I'll get you in to see a counselor.
+SPEAKER_00,575.273,576.257,It'll just take a couple days.
+SPEAKER_00,576.277,577.0,We'll get that worked out now.
+SPEAKER_00,577.0,577.306," Okay, great."
+SPEAKER_01,578.02,578.449, All right?
+SPEAKER_01,579.041,579.306, Thank you.
+,580.0,581.0, Thanks.

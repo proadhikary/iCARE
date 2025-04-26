@@ -1,0 +1,217 @@
+speaker,text,start,end
+SPEAKER_00," Hi Lisa, how are you doing today?",14.778,15.86
+SPEAKER_01," I'm well, how are you?",16.121,16.949
+SPEAKER_00," I'm doing well, thanks for asking.",18.04,19.212
+SPEAKER_00," It's nice to meet you, I'm glad you could come in to the agency.",20.181,22.678
+SPEAKER_00, Could you tell me what brings you here today?,23.564,25.195
+SPEAKER_01," Um, well, I am here now because I was caught stealing money.",26.321,34.717
+SPEAKER_01, And now I have to pay the price I guess.,37.343,41.895
+SPEAKER_00," Alright, so were you ordered by a court?",44.462,47.799
+SPEAKER_01, Yeah.,48.362,48.705
+SPEAKER_00, How long ago did the crime occur?,51.823,56.839
+SPEAKER_01, About a month ago.,57.505,58.152
+SPEAKER_00, About a month ago?,59.02,60.737
+SPEAKER_00, So I'm going to try to get an idea of what's going on with you to see where you fit in in terms of treatment.,62.243,68.599
+SPEAKER_00," So it's an assessment, so I'll be asking you some questions about your history and things that you've done, any feelings you've had, thoughts you've had.",70.082,78.0
+SPEAKER_01, Like diagnosing?,78.263,79.071
+SPEAKER_00, Like diagnosing.,80.727,81.212
+SPEAKER_00,Is that okay with you?,81.232,81.98
+SPEAKER_01, Sure.,82.0,82.081
+SPEAKER_00, Alright.,84.343,84.606
+SPEAKER_00,So how old are you now?,84.626,85.98
+SPEAKER_01,25,86.0,88.0
+SPEAKER_00,25?,88.181,90.948
+SPEAKER_00,Alright.,88.341,90.948
+SPEAKER_00,"So you say about a month ago you got in some trouble, can you tell me what happened there?",91.65,94.84
+SPEAKER_01," Um, well I stole money from a friend of mine and you know, I just needed the money.",95.841,105.474
+SPEAKER_01,They had more money than me so I took it.,106.355,108.939
+SPEAKER_00, So you needed the money?,110.566,111.657
+SPEAKER_01, Mm hmm.,112.04,113.899
+SPEAKER_00, And this was a friend of yours?,114.061,114.918
+SPEAKER_01, Yeah.,115.424,116.414
+SPEAKER_00, How do things stand between you and your friend now?,117.0,119.0
+SPEAKER_01," Well, she turned me in so we're no longer friends.",119.704,122.96
+SPEAKER_00, No longer friends.,123.401,124.062
+SPEAKER_00,Alright.,126.947,127.227
+SPEAKER_00,Have you had any other trouble with the law?,130.032,132.215
+SPEAKER_01," Well, basically when I was younger, I got, I used to get into a lot of fights.",135.983,141.86
+SPEAKER_00, Mm hmm.,142.664,143.752
+SPEAKER_00,"Um, who's they?",144.074,144.899
+SPEAKER_01, My family.,145.581,146.381
+SPEAKER_01,"Um, I used to get into a lot of physical altercations and there was this one time when I beat this girl up and they told me that they had to pull me off of her.",146.401,162.378
+SPEAKER_01,So.,163.68,163.86
+SPEAKER_00, You remember doing it?,164.727,165.556
+SPEAKER_01," Uh, yeah I remember doing it.",166.966,168.094
+SPEAKER_00,Yeah.,168.114,168.215
+SPEAKER_01, Mm hmm.,169.141,169.823
+SPEAKER_00,Alright.,171.249,171.53
+SPEAKER_00,And how old are you when that happened?,172.112,173.639
+SPEAKER_00,Do you remember?,173.659,174.0
+SPEAKER_01,I was about 12.,174.081,175.131
+SPEAKER_00,About 12 years old.,176.06,176.902
+SPEAKER_00,Were you ever treated for that?,179.028,181.454
+SPEAKER_00,Like any type of mental health treatment?,181.474,183.84
+SPEAKER_01," Uh, well, they put me in some sort of detention center.",185.261,191.479
+SPEAKER_00, Mm hmm.,192.082,192.857
+SPEAKER_01," Um, and I guess they gave me some sort of therapy one on one.",193.0,200.21
+SPEAKER_01,"But nothing any, like nothing serious or like I'm doing now.",201.011,205.898
+SPEAKER_00, Are you aware of any diagnosis that you've been given related to mental health in the past?,207.382,211.297
+SPEAKER_01, No.,212.49,212.694
+SPEAKER_00, No?,213.1,213.301
+SPEAKER_00,Alright.,217.369,218.491
+SPEAKER_00,"So you got into the, sounds like a fairly serious fight when you were 12.",218.511,222.96
+SPEAKER_01, Mm hmm.,223.0,223.184
+SPEAKER_00,And you're 25 now.,225.102,226.064
+SPEAKER_00,Can you tell me what's happened in terms of any other problems between 12 and 15?,226.084,232.956
+SPEAKER_01," Um, I guess the usual.",236.041,238.866
+SPEAKER_01,"I mean, I drank and got into some drugs and would use and do stuff like that.",238.886,247.438
+SPEAKER_01,So.,247.458,247.498
+SPEAKER_00," Any other thefts or, or assaults or anything?",250.867,253.96
+SPEAKER_01," I mean, yeah, I still kept getting into fights and stuff.",254.34,258.987
+SPEAKER_01,"But, yeah, I think my last real fight was when I was about 20.",259.087,265.295
+SPEAKER_01,"So, yeah.",265.375,265.595
+SPEAKER_00, Alright.,271.467,271.748
+SPEAKER_00,"Um, and how much danger were the people that you were fighting?",272.67,275.639
+SPEAKER_01, Um.,279.171,279.251
+SPEAKER_00," Like, did you seriously hurt them?",282.566,283.98
+SPEAKER_01, Yeah.,284.714,284.857
+SPEAKER_00, Yeah.,285.241,285.442
+SPEAKER_00,How many times did that happen where you seriously hurt somebody?,287.329,289.498
+SPEAKER_01, Probably every fight that I ever gotten into.,291.823,294.488
+SPEAKER_01,"So, many.",294.608,295.47
+SPEAKER_01,"Um, I don't have a number.",295.49,297.714
+SPEAKER_01,But.,297.734,297.794
+SPEAKER_00, Can you explain what happened?,301.161,302.447
+SPEAKER_00,"Like, what caused the fight?",302.487,303.995
+SPEAKER_01," So, the one girl, she just, I felt looked at me wrong and I didn't like it.",305.882,313.415
+SPEAKER_01,"So, I punched her in the mouth.",313.495,315.96
+SPEAKER_01, And continued to do so.,317.283,319.167
+SPEAKER_01,Until she was on the ground.,319.187,321.472
+SPEAKER_01,And then I still continued to do so.,321.673,323.156
+SPEAKER_00, What are your feelings about that?,325.946,327.195
+SPEAKER_01, She deserved it.,328.161,328.826
+SPEAKER_00, Because of the way she looked at you?,331.606,332.657
+SPEAKER_01, Right.,333.982,336.929
+SPEAKER_00,"Do you ever, um, have any feelings of guilt or remorse about it?",336.949,341.98
+SPEAKER_01, No.,342.121,342.181
+SPEAKER_00, Have you ever apologized to any people that were hurt?,345.964,348.835
+SPEAKER_01," I've apologized, but just to appease, uh, people so that I didn't get into any more trouble.",350.842,360.439
+SPEAKER_01," Also, in some of these situations apologizing was kind of required?",362.161,366.598
+SPEAKER_00, Yeah.,367.182,367.444
+SPEAKER_00," So, you apologized to them but you didn't, didn't really mean it?",369.421,374.395
+SPEAKER_00,Or what were you thinking?,374.696,375.98
+SPEAKER_01, I didn't mean it.,376.204,376.939
+SPEAKER_00, You didn't mean it?,377.061,377.571
+SPEAKER_01, No.,378.04,378.12
+SPEAKER_01,It was just to get out of trouble and go on with myself.,378.14,383.616
+SPEAKER_00, Were you successful in getting out of trouble?,385.04,386.495
+SPEAKER_01, Absolutely.,387.0,387.408
+SPEAKER_00, Yeah.,389.333,389.535
+SPEAKER_00," You say that, um, kind of with a little pride.",390.241,395.095
+SPEAKER_01,Something to take pride in?,395.857,396.739
+SPEAKER_01, Yeah.,397.122,397.51
+SPEAKER_00, Yeah?,398.0,398.121
+SPEAKER_00,Being able to get out of trouble?,399.772,400.779
+SPEAKER_01, Yeah.,401.201,401.705
+SPEAKER_00,"I mean, wouldn't you?",402.51,403.074
+SPEAKER_00, So that's like something you look at as like a skill that you have?,404.604,407.0
+SPEAKER_01, Absolutely.,407.592,408.0
+SPEAKER_01, Yeah.,408.081,408.303
+SPEAKER_00,Alright.,408.424,409.354
+SPEAKER_00," Have you ever, for like the theft type activities, you ever felt any guilt or remorse there?",412.742,418.799
+SPEAKER_01, No.,419.061,419.184
+SPEAKER_01, Yeah.,422.195,422.275
+SPEAKER_00,It's kind of the same thing?,422.295,423.0
+SPEAKER_01, Same thing.,423.422,424.004
+SPEAKER_01,"They, I mean, they had more money than me, so why not?",424.084,428.0
+SPEAKER_01, They probably would have done the same thing to me.,428.842,430.387
+SPEAKER_01,"So, I did it to them before they could do it to me.",431.39,433.536
+SPEAKER_00, Were you ever the victim of a crime?,436.168,437.497
+SPEAKER_01, No.,438.821,439.062
+SPEAKER_01,"I'm smarter than most people, so I can probably, I can one-up people.",439.643,447.917
+SPEAKER_01,So.,447.937,447.977
+SPEAKER_00, Okay.,450.521,450.862
+SPEAKER_00,"Do you feel that you're good in working with people, like in terms of social skills?",452.725,460.219
+SPEAKER_01," I mean, getting what I want.",463.104,464.127
+SPEAKER_01,I can always get what I want.,464.147,466.936
+SPEAKER_00, So you're effective at managing relationships to get what you want?,468.603,472.0
+SPEAKER_01, Yeah.,472.061,472.184
+SPEAKER_00, Yeah.,473.0,473.862
+SPEAKER_00,Alright.,476.247,476.528
+SPEAKER_00,How would you describe your mood most of the time?,478.813,481.238
+SPEAKER_01, Hmm.,483.401,483.721
+SPEAKER_01,I don't know.,483.741,488.23
+SPEAKER_01,I guess I can get a little irritable.,488.731,492.319
+SPEAKER_00, A little irritable?,493.0,493.959
+SPEAKER_01, Mm-hmm.,494.02,494.163
+SPEAKER_00, How often does that happen?,495.323,496.293
+SPEAKER_01, A few times a week.,500.263,501.071
+SPEAKER_00, Alright.,503.662,503.883
+SPEAKER_00,"Does that irritability ever lead to, or has ever led to some of the aggressiveness?",504.405,508.619
+SPEAKER_01, Yeah.,509.184,509.388
+SPEAKER_01, Yeah.,510.857,511.0
+SPEAKER_00, So you're more likely to be aggressive when you've been irritable for a while?,511.685,513.98
+SPEAKER_01, Yeah.,514.041,514.245
+SPEAKER_00, When was the last time you were involved in a physical fight?,517.582,522.819
+SPEAKER_01,So that was around 20.,523.687,524.98
+SPEAKER_00, About five years ago?,525.04,526.374
+SPEAKER_01, Yeah.,527.102,527.245
+SPEAKER_00, What do you think has caused that to stop?,528.503,531.618
+SPEAKER_01," Uh, I guess I'm moving on to bigger and better things.",533.361,539.017
+SPEAKER_00, What type of things?,541.152,541.818
+SPEAKER_01," Um, stealing.",542.482,545.437
+SPEAKER_00, So the stealing's more gratifying than the fighting?,549.341,553.036
+SPEAKER_01, Yeah.,554.0,554.143
+SPEAKER_00, Yeah.,555.02,555.714
+SPEAKER_00," So irritable, and any other emotions, any other feelings?",560.287,565.459
+SPEAKER_01," Uh, I'm not sure.",567.071,567.939
+SPEAKER_00, Not sure?,568.0,568.245
+SPEAKER_01, Mm-hmm.,569.0,569.184
+SPEAKER_00, Alright.,573.747,573.949
+SPEAKER_00,You have a job?,573.97,574.495
+SPEAKER_01, Yeah.,575.788,576.071
+SPEAKER_01,"Well, I did.",576.556,577.0
+SPEAKER_00, You did?,577.143,577.469
+SPEAKER_01, Mm-hmm.,578.388,578.714
+SPEAKER_00, Can you tell me about your work performance and your experience there?,579.0,581.638
+SPEAKER_01," Well, you know, I show up when I need to most of the time, and do what I have to do.",582.882,592.479
+SPEAKER_00, You show up most of the time?,593.99,594.879
+SPEAKER_01, Yeah.,595.184,595.408
+SPEAKER_00, How would your employer describe you as an employee?,598.503,601.839
+SPEAKER_01," I mean, I'm pretty good at doing what I do, but I guess my boss would like me to be there more.",603.341,612.998
+SPEAKER_01," But when I'm not there, they'll go on without me.",616.462,620.676
+SPEAKER_01, So...,623.163,623.286
+SPEAKER_00, Alright.,624.782,625.063
+SPEAKER_00,"So in terms of your feelings about missing work, that's not too worrisome for you?",625.083,631.0
+SPEAKER_01, No.,631.02,631.061
+SPEAKER_00, No?,632.041,632.265
+SPEAKER_00,Alright.,632.49,632.714
+SPEAKER_00, How many jobs have you had?,635.061,636.091
+SPEAKER_01," Probably, like, six.",644.161,647.136
+SPEAKER_00, Six jobs?,648.735,649.0
+SPEAKER_01, Mm-hmm.,649.143,649.551
+SPEAKER_00, What age did you first start working?,650.303,651.677
+SPEAKER_01,"Um, 19.",652.869,653.071
+SPEAKER_00,19,655.027,657.0
+SPEAKER_00,So six jobs in about six years?,655.55,657.0
+SPEAKER_01, Yeah.,657.02,657.224
+SPEAKER_00, And would you say that your experience with all the employers was the same in terms of how you showed up for work and missing work?,659.281,668.599
+SPEAKER_00, Were any of them different?,670.57,671.275
+SPEAKER_01," They wanted me... they tried to get me to conform, I feel.",674.2,681.213
+SPEAKER_01,And I'm just not a conformist.,681.634,684.199
+SPEAKER_00, Kind of doing things your own way?,685.0,686.0
+SPEAKER_01, Yeah.,686.0,686.102
+SPEAKER_00, What do you want to gain out of treatment here?,688.502,692.498
+SPEAKER_01, I just want to get out of trouble.,695.663,697.01
+SPEAKER_00, You're in trouble now?,700.0,701.0
+SPEAKER_01, Mm-hmm.,701.0,701.122
+SPEAKER_00, And you like to get out of trouble?,702.0,702.98
+SPEAKER_01, Yeah.,703.0,703.245
+SPEAKER_00, Alright.,704.469,704.694
+SPEAKER_00," Lisa, this has been helpful.",707.461,708.584
+SPEAKER_00,I'm going to get you scheduled for treatment.,708.604,711.57
+SPEAKER_00,And they'll probably get you in about a week.,712.773,714.156
+SPEAKER_00,And we can go from there.,715.078,715.86
+SPEAKER_01, Okay.,716.306,716.878
+SPEAKER_00, Thank you.,717.0,717.224
+SPEAKER_01, Thank you.,718.182,719.0

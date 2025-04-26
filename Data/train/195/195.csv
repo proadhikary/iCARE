@@ -1,0 +1,173 @@
+speaker,text,start,end
+SPEAKER_00," Oh, hello there.",11.596,12.297
+SPEAKER_00,"Mrs Dawes, is that right?",12.537,13.618
+SPEAKER_01,Yeah.,14.039,14.219
+SPEAKER_00," Oh, good.",14.88,15.207
+SPEAKER_00,Yeah.,15.247,15.329
+SPEAKER_00, I'm Dr David.,16.702,17.384
+SPEAKER_00,How can I help you today?,17.685,18.508
+SPEAKER_01,I'm sorry I might be wasting your time a  bit but I've come because I'm not sleeping very well.,18.528,26.609
+SPEAKER_01,"I'm just exhausted and I just  wondered if you could give me something, anything to help me sleep, some sleeping tablets.",26.629,35.374
+SPEAKER_00, Okay.,37.16,37.502
+SPEAKER_00,It would really help me if I could ask a few more questions about how you're feeling  and some of your symptoms and then we can sort of see how I can help you.,38.887,46.039
+SPEAKER_00,Would that  be okay?,46.059,46.986
+SPEAKER_01,"Yeah, that's fine.",47.127,47.854
+SPEAKER_01,Thank you.,47.894,48.237
+SPEAKER_01,Yes.,48.278,48.419
+SPEAKER_00, So why don't you tell me a bit more about what's brought you here today?,53.082,55.45
+SPEAKER_01, About a year ago my husband was split up and since then I've just not been coping very  much.,58.4,67.761
+SPEAKER_00,I'm sorry to hear that.,67.782,71.978
+SPEAKER_01, I'm just tired all the time and the kids and the job and I just don't feel like managing  very well.,72.721,81.923
+SPEAKER_01,I can't sleep.,82.224,83.128
+SPEAKER_00,Okay.,83.851,84.253
+SPEAKER_00,"Well, why don't we just look at one  of those things at a time?",84.374,87.604
+SPEAKER_00,"Tell me a bit more about, um, you say having trouble sleeping.",88.246,91.474
+SPEAKER_01, I just lie awake at night.,93.96,96.846
+SPEAKER_01,"I don't know what time it is, but just seems to go on and on  and on the night.",96.866,104.302
+SPEAKER_01,I know I must've got sleep in the morning.,104.322,107.511
+SPEAKER_01,I just feel so dreadful.,107.551,108.634
+SPEAKER_00, Okay.,111.36,111.48
+SPEAKER_00,And you having problems with your appetite?,111.5,113.345
+SPEAKER_01,Yeah.,115.109,115.43
+SPEAKER_01,"I make the kids to dinner, but I just  can't be bothered.",116.373,120.062
+SPEAKER_01,Not bothered at all about it.,120.143,121.728
+SPEAKER_00, And what about sort of life in general?,126.364,128.351
+SPEAKER_00,Have you kind of lost your get up and go?,128.472,130.359
+SPEAKER_01," Sorry, I don't understand.",131.864,133.368
+SPEAKER_00,"You get up and go, your energy levels, have  you found that they're kind of low?",133.709,138.766
+SPEAKER_01,"Um, yeah, I used to enjoy swimming with the  kids and stuff, but I just want to be on my own.",138.786,145.868
+SPEAKER_01,I just can't be bothered.,145.928,147.571
+SPEAKER_01,"I just, I'm  just not been a very good mum at the moment as well.",149.355,153.746
+SPEAKER_01,I just so exhausted really.,155.35,156.794
+SPEAKER_00," Can you just going back to your sleep, can you tell me a bit more about that?",158.96,163.078
+SPEAKER_00,How much  sleep you're getting each night?,163.119,164.904
+SPEAKER_01,"I just lie awake and just think about him  and her together, things that we used to do.",166.248,174.126
+SPEAKER_01,I just wake up exhausted.,174.146,177.592
+SPEAKER_00, Sounds like your lack of energy and lack of sleep and lack of appetite.,182.44,188.496
+SPEAKER_00,It seems to me  that things seem to be really getting you down.,189.479,191.525
+SPEAKER_01,I'm just such a mess at the moment.,193.49,196.88
+SPEAKER_01," I'm just not coping, I'm just exhausted.",200.067,202.051
+SPEAKER_00,You say you're a mess.,202.071,205.598
+SPEAKER_01," Well, look at me.",206.62,207.723
+SPEAKER_01,"I just, you know, I just need some sleep.",211.853,214.34
+SPEAKER_00, It would be helpful for me just to sort of find out a bit more about home life and work  life and ask a few questions in that area.,221.041,227.513
+SPEAKER_00,Would that be okay?,227.695,228.379
+SPEAKER_01," Yeah, it's fine.",228.64,229.344
+SPEAKER_01,Sorry.,229.364,229.645
+SPEAKER_01,Yeah.,229.887,230.47
+SPEAKER_00,"So, so do you work?",230.691,231.917
+SPEAKER_01," Um, I work in a job centre.",232.741,235.327
+SPEAKER_01,It gets a bit stressful at times.,235.347,238.395
+SPEAKER_01,"Um, we've got to see so  many people.",238.937,240.902
+SPEAKER_01,Of course they're stressed.,241.784,242.947
+SPEAKER_00,"Um, I've got some patients who work in the same  environment.",244.892,248.364
+SPEAKER_00,"It's very high pressure, isn't it?",248.384,249.814
+SPEAKER_01, Yeah.,250.901,251.041
+SPEAKER_01,"Um, someone is, I just can't be bothered to get out of bed and um, it's um, that's  worrying me because I've fallen sick and you know, it's not good to have a sick record,  is it?",251.061,265.845
+SPEAKER_01,It's not like me.,265.885,266.607
+SPEAKER_00,And who else is at home with you?,268.493,269.616
+SPEAKER_01, I've got two kids.,270.8,271.702
+SPEAKER_01,"Um, one's one girl, one boy.",273.727,275.771
+SPEAKER_01,Richard is the youngest.,275.791,278.577
+SPEAKER_01,He's seven.,278.617,279.179
+SPEAKER_01," Anne-Marie, she's nine.",280.542,282.589
+SPEAKER_00,Do they get to their father much?,283.993,285.639
+SPEAKER_01," Um, no, he can't be bothered now.",286.722,288.769
+SPEAKER_01,He's got a new family.,288.809,289.912
+SPEAKER_01,He doesn't see them at all.,290.574,291.658
+SPEAKER_01, They're very good kids.,292.641,293.704
+SPEAKER_00,It must be quite hard on both you and them.,294.908,297.256
+SPEAKER_01, I try and be a good mum but it's very difficult.,299.661,302.375
+SPEAKER_00, Do you get any help or support from anyone else?,303.361,306.34
+SPEAKER_01," My mum, she's wonderful but she has arthritis.",306.36,312.293
+SPEAKER_01,"So she, you know, she does what she can.",313.275,315.039
+SPEAKER_00, Does she live locally?,315.584,316.34
+SPEAKER_01," Yeah, she's just around the corner and she picks the kids up from school.",316.561,319.671
+SPEAKER_01,"And um, yeah,  she's an angel.",320.674,323.948
+SPEAKER_01,She helps me a lot.,323.968,325.396
+SPEAKER_00, What about you?,326.04,326.542
+SPEAKER_00,What about your hobbies and things you enjoy doing?,326.562,329.695
+SPEAKER_01, I used to enjoy going to the cinema with my friends.,330.92,333.129
+SPEAKER_01,"Even line dancing, we used to go  down to the village for line dancing.",334.514,338.467
+SPEAKER_01,But that's been a while ago.,339.63,340.834
+SPEAKER_01,"I just, nobody wants  a bit of misery around, do they?",340.874,344.703
+SPEAKER_01,And I'd rather be on my own now.,344.783,346.567
+SPEAKER_01,Yeah.,348.21,348.43
+SPEAKER_01,Thank you.,353.279,353.66
+SPEAKER_00," Well, I know you've, you're not a doctor and, but you must have had thoughts about  what's causing all these feelings.",363.51,372.344
+SPEAKER_00,"Um, had you thought about, about these, those type  of things?",373.046,379.61
+SPEAKER_01, I guess I was on automatic pilot when he first left.,380.682,383.451
+SPEAKER_01,I guess that's why I'm in the  state I am now.,384.395,386.903
+SPEAKER_01,I don't know.,386.923,390.131
+SPEAKER_01,Could I resent the kids?,390.251,391.254
+SPEAKER_01,I don't know.,391.294,391.815
+SPEAKER_01,But I suppose that's  why I keep going down and I just feel everything's useless.,391.895,399.114
+SPEAKER_01,"I can't sleep, you know.",399.154,400.538
+SPEAKER_00, What tends to bother you the most?,401.48,402.746
+SPEAKER_00,"Is it the sleep or the, your appetite or the energy  or not coping with the kids?",402.807,406.56
+SPEAKER_01," Sleep, I just feel if I had a bit more energy, if I could just have something just to, you  know, help me out with them so I can do the normal things.",408.004,418.12
+SPEAKER_00, That was going to be really what I was going to ask next.,418.562,420.955
+SPEAKER_00,"I mean, what, what were your  thoughts about how he could help you today?",421.055,423.769
+SPEAKER_01," Well, I just thought with, with one of these other things, but sleeping tablets, I thought  they might help.",425.92,433.519
+SPEAKER_00," Would it be a good idea perhaps if we think about all the options and available to you  and then decide which, which ones may be best for you?",439.027,445.775
+SPEAKER_01, Okay.,446.6,447.828
+SPEAKER_01,"What, what, what are the other options?",447.868,449.66
+SPEAKER_00," Well, you might have heard of some of the, the talking therapies, um, being able to sit  down and talk with a sort of a trained counsellor about, about your feelings and about what's  been happening.",450.142,459.871
+SPEAKER_01," People that help my sleep, will that make me be able to cope the next day through sleep?",460.38,466.377
+SPEAKER_00, It may help you deal with some of your feelings.,467.64,469.727
+SPEAKER_00,"Um, I take on board about the thought about  using a sleeping tablet.",470.509,475.345
+SPEAKER_00,I think that could be another option.,475.967,477.713
+SPEAKER_00,"Um, obviously one of the  concerns we have is that we don't want to have you on sleeping tablets for a long period  of time because there are issues about becoming dependent on them and reliant on them.",477.733,489.499
+SPEAKER_00," We can use them for a short period of time, say for a week to help you get back into a  bit more of a normal sleep pattern.",490.02,496.513
+SPEAKER_01, Yeah.,497.36,497.561
+SPEAKER_01,"Um, that sounds good.",498.586,500.877
+SPEAKER_00," I mean, what about those two options as the option, the counsellor or perhaps trying to  short course of sleeping?",501.5,507.618
+SPEAKER_01, She had counselling.,507.74,508.342
+SPEAKER_01,She had counselling.,508.362,509.284
+SPEAKER_01,"Um, I'd like, I mean, I just feel if I had some  sleeping tablets, that might just, just give me a spur really.",510.066,519.655
+SPEAKER_01,"And, and, and, and I'm  quite happy with the counselling as well.",519.856,523.359
+SPEAKER_00, Okay.,524.002,524.243
+SPEAKER_00,So you'd like to try both.,524.263,525.268
+SPEAKER_00,"Um, I think that, that, that, that sounds a good idea.",525.288,527.798
+SPEAKER_00," Uh, would you be happy to the counsellor here at the surgery?",528.562,531.34
+SPEAKER_01," Yes, that'd be fine.",531.725,532.678
+SPEAKER_00, Okay.,533.041,533.262
+SPEAKER_00,So I can organise that.,533.282,534.227
+SPEAKER_00,I can speak to her and ask her to contact you to make  an appointment.,534.247,537.513
+SPEAKER_01, Okay.,538.758,538.88
+SPEAKER_00," Um, it'd also be really helpful for me as well if you could complete, uh, one of our  HADS questionnaires.",538.88,543.72
+SPEAKER_01," What's, what's a HADS, what's a question, HADS questionnaire?",544.684,548.12
+SPEAKER_00," Uh, sorry.",548.22,548.722
+SPEAKER_00,It's a short questionnaire.,549.304,550.368
+SPEAKER_00,"Just, um, asking some questions about your feelings  and it'll help me to find out, um, if there's any more help I can give you when I next see  you.",550.388,558.103
+SPEAKER_00,Is that okay?,558.389,558.96
+SPEAKER_01, Yeah.,559.042,559.205
+SPEAKER_00,"From what you've told me today, I mean, it sounds ready for the last 12 months or so  you felt really low since split from your husband.",566.012,573.951
+SPEAKER_00,Your sleep's not been good.,575.035,576.078
+SPEAKER_00,Your  appetite's not been good.,576.098,577.858
+SPEAKER_01, Yeah.,577.96,579.031
+SPEAKER_01,I'm a mess.,579.051,579.536
+SPEAKER_00," Um, it sounds to me your self esteem's taken a real knock, hasn't it?",580.521,585.392
+SPEAKER_00,"Um, I certainly think  the help we can give you with some counselling, which we have a counsellor that comes here  in the surgery that will be, I think will be a benefit to you.",586.355,596.055
+SPEAKER_00,And then we'll try this  short course of a sleeping tablet to try and get you back into a sleep pattern.,596.075,600.716
+SPEAKER_00,"And then  maybe I can see you in about two, three weeks time.",601.178,605.412
+SPEAKER_00,And I don't want you to think that you  have to sort of manage all this by yourself.,605.432,610.09
+SPEAKER_00,"I mean, that's why we're here.",610.171,611.135
+SPEAKER_00,We're here  to help and support you further.,611.156,613.569
+SPEAKER_00, Let me do the prescription then.,615.48,616.483
+SPEAKER_00,It's 12 Hadfield Close.,616.503,617.065
+SPEAKER_01, Yep.,622.221,622.466
+SPEAKER_00, Okay.,624.482,624.843
+SPEAKER_00,So that's gone to reception now so you can put that up on the way out.,624.864,627.396
+SPEAKER_01,Okay.,627.497,627.838
+SPEAKER_00,"And  um, I'll give you one of the Had's questionnaires as well.",628.039,632.953
+SPEAKER_01,Okay.,633.194,633.675
+SPEAKER_00,Complete that before we see  you next time.,633.695,636.163
+SPEAKER_01,Okay.,636.264,636.545
+SPEAKER_01,Thank you doctor.,636.625,637.349
+SPEAKER_01,Thank you for that.,637.831,638.433
+SPEAKER_00,Okay.,638.695,638.976
+SPEAKER_00,See you next time.,639.116,639.719
+SPEAKER_00,Thank  you.,639.739,640.186
+SPEAKER_01,Okay.,640.227,640.453
+SPEAKER_00,Bye bye.,640.473,640.76

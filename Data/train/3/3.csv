@@ -1,0 +1,146 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.602," Hi Sam, how are you doing today?"
+SPEAKER_01,7.0,7.403," I'm good, how are you?"
+SPEAKER_00,14.909,16.772," I'm doing well, thanks for asking."
+SPEAKER_00,21.201,25.0, So you're here at the agency today to seek counseling services?
+SPEAKER_01,25.965,28.477," Yeah, my boss sent me over, so I figured I'd come."
+SPEAKER_00,29.0,30.0, Your boss sent you over?
+SPEAKER_01,30.102,30.592, Mm-hmm.
+SPEAKER_00,32.027,34.0, What reason do you think your boss had for doing that?
+SPEAKER_01,35.148,36.98, There was this issue with a couple of the people I wanted to team with.
+SPEAKER_01,37.16,46.0," They couldn't relate to my ideas, and my boss saw it as being kind of, you know, not working super well,  so she wanted me to come over and talk about it."
+SPEAKER_00,48.027,52.0, She wanted you to come over and talk about your relationship with your coworkers?
+SPEAKER_01,52.0,61.975," I think more just so that, you know, my ideas were just kind of higher than what they could really understand,  so maybe learn how to talk to other people so that they can understand me."
+SPEAKER_00,63.1,64.466," Okay, and what do you mean by higher?"
+SPEAKER_00,65.691,66.855,"Like, your ideas were higher?"
+SPEAKER_01,68.323,69.576," You know, just a little bit more intelligent."
+SPEAKER_01,70.362,73.095," You know, I'm just at a level that other people can't always reach to."
+SPEAKER_01,74.0,82.675," You know, just a little bit higher, sometimes a lot higher, but just on this team,  they just couldn't understand, you know, my language or what I was saying, and I couldn't see the vision that I had."
+SPEAKER_00,84.02,91.176," Okay, so they were unable to reach your level of expression for this, it was like a project you were working on?"
+SPEAKER_01,93.592,93.898," Yeah, yeah."
+SPEAKER_00,94.102,94.306, Was it?
+SPEAKER_00,94.327,94.429,Okay.
+SPEAKER_00,95.02,98.91, And your boss recognized this difference and thought that the counseling may be helpful?
+SPEAKER_01,103.878,103.98, Yeah.
+SPEAKER_00,105.0,106.859," Do you think, you know, counseling will be helpful?"
+SPEAKER_01,108.042,125.659," I think it's good, you know, so that my boss is happy that I went, but I think it could also be useful in the sense of, you know,  other people are just jealous of me a lot and they just can't really relate to me, so it might be, you know,  great to learn how to really, you know, like, kind of understand what they're going through at their level."
+SPEAKER_00,126.02,130.571," Again, you say at their level, so are you meaning, again, that they're kind of below you with your skills and-"
+SPEAKER_01,134.0,138.859," Yeah, they're just, they haven't accomplished as much, you know, they don't know as many people,"
+SPEAKER_01,139.0,147.873," they're not hanging out with those prestigious ranks, you know, they haven't been educated to the quality that I have been,  so they just, sometimes it's hard for them to understand where I'm coming from or, you know, what I can see happening."
+SPEAKER_00,150.221,151.872," Okay, so counseling can help you bridge that gap?"
+SPEAKER_00,153.201,158.0," Okay, so counseling can help you bridge that gap to communicate more effectively?"
+SPEAKER_01,158.1,160.43," Yeah, so I can, you know, so I can be even better."
+SPEAKER_01,161.454,163.0,"You know, I'm here, but I want to be like here."
+SPEAKER_00,163.0,167.732," Alright, so when you say you're here at the first level-  Not first, but like, still more."
+SPEAKER_01,169.204,169.551, Still more.
+SPEAKER_01,170.122,170.531, Still more.
+SPEAKER_00,171.221,177.0," So like, where you are, tell me where you are currently in terms of how you perceive yourself, like how you look at yourself."
+SPEAKER_01,177.782,180.43," Maybe like a seven, but I want to like blow it out of the park."
+SPEAKER_01,180.851,183.398,"You know, like if ten is here, I want to be higher than that."
+SPEAKER_00,184.302,186.638, How would you plan on accomplishing that?
+SPEAKER_01,187.582,193.98," Well, you know, I'm always getting recruited for these really prestigious classes and to speak places and people are always calling."
+SPEAKER_01,194.12,199.0," I have a really large social media presence, so people are constantly asking me for advice, you know, just about everything."
+SPEAKER_01,199.763,207.819," Because, you know, I've just accomplished so much that I'm just, I can really help people because I just, you know,  I've just been really lucky to just be good at so many things."
+SPEAKER_00,208.886,210.98," Okay, so it sounds like you have a lot of strengths."
+SPEAKER_01,211.909,212.677," Yeah, yeah."
+SPEAKER_00,214.203,221.78, And that maybe from your understanding that people are just getting jealous because you seem to succeed in so many things.
+SPEAKER_01,222.1,227.0," Yeah, you know, like sometimes people just, it's hard to admit that you're just not as good, or like you can't do it."
+SPEAKER_01,227.141,230.775, Maybe people don't want to admit that and I think I make them uncomfortable because I can.
+SPEAKER_00,232.681,250.88," So counseling will help you to relate to them in a way that, so how would they, in a more productive way, how would they describe you, you know, given this level of difference that you're talking about,  how would they describe you if I were to ask them, if I could ask them, could you describe Sam what they say?"
+SPEAKER_01,251.481,265.0," I think they would say that I have a lot of people that look up to me, that I'm excellent at my job, that, you know, like I should really be vice president, if not president, but I mean I don't own the company, but I should really have a more significant position."
+SPEAKER_01,266.483,275.88," That a lot of the presentations that are happening that I could probably do, but they don't want to, you know, other people need opportunities, but it would be clear for everyone if I just did them."
+SPEAKER_00,277.596,278.0, It would be easier?
+SPEAKER_01,278.14,285.759," Yeah, you know, easier, better, more people, it would just be, it would be a great presentation if I did it, so it would just cut away all the other stuff."
+SPEAKER_00,287.148,288.919," All the other stuff, that's what your co-workers would include?"
+SPEAKER_01,289.224,290.0," Yeah, yeah."
+SPEAKER_00,291.329,292.779, Things that maybe detract from the...
+SPEAKER_01,294.122,297.468," Right, like if, you know, if I was doing the sales pitches, we would blow it out of the park."
+SPEAKER_01,297.588,299.231,"I mean, we'd be multi-millionaires by now."
+SPEAKER_01,299.812,304.0,"So, you know, it would get rid of all that, you know, the grunt work type of stuff if I just did it myself."
+SPEAKER_00,305.461,309.272, Does it frustrate you that you're not called on for every task?
+SPEAKER_00,310.736,311.659,Are you not recognized?
+SPEAKER_01,312.18,332.399," Sometimes, but I've gotten really good at reminding people that they should be calling on me for every task, because, you know, sometimes you just have to show them, you know, I'm better than that person or I could do it better, and I'm really good at that type of communication, so I've been able to secure a lot of positions that weren't given to me at first because they realize, like, oh, she's better at it."
+SPEAKER_00,333.321,334.505, So they can see your talent.
+SPEAKER_00,335.769,338.458,So they recognize you much of the time?
+SPEAKER_01,339.122,339.918," I mean, most of the time."
+SPEAKER_01,340.0,340.571, Most of the time.
+SPEAKER_01,341.04,341.525," Yeah, definitely."
+SPEAKER_00,344.266,346.799, How long have you been with this particular employer?
+SPEAKER_01,347.949,349.0, Maybe like six months.
+SPEAKER_01,349.551,349.98, Six months.
+SPEAKER_01,350.245,350.98, Maybe eight.
+SPEAKER_00,351.1,352.765," Eight months, okay."
+SPEAKER_00,353.246,357.819,"Can you tell me about the job you had prior, like what happened there?"
+SPEAKER_01,359.24,359.902, I outgrew them.
+SPEAKER_01,361.304,370.76,"So I got it to a really, you know, large leadership position, and then, you know, the other VP couldn't really see what I was going for."
+SPEAKER_01,371.802,378.86," She couldn't relate to me, and she, you know, she wasn't from the same type of like collegiate background, so that was kind of an issue."
+SPEAKER_01,379.341,386.9," So I just outgrew what they had to offer, and then this company came in and made this tremendous offer with, you know, it was just fantastic."
+SPEAKER_01,387.682,393.639," So I just had to make a move that was more strategic for me, and, you know, that I could even reach more."
+SPEAKER_01,394.463,396.275," You know, I didn't want to be satisfied there."
+SPEAKER_00,398.124,400.793, You wanted to shoot higher.
+SPEAKER_00,400.813,402.699,You wanted to accomplish something greater.
+SPEAKER_01,403.143,403.429, Yeah.
+SPEAKER_00,404.224,404.939, And you still wanted to.
+SPEAKER_01,405.261,405.561, Yeah.
+SPEAKER_01,406.163,409.11,"I want to be remembered, legendary, you know."
+SPEAKER_01,409.13,410.754,I want my name to be out there.
+SPEAKER_01,411.977,412.98,"It's already out there, but more so."
+SPEAKER_01,413.429,413.898, But more so.
+SPEAKER_00,414.102,414.429, More so.
+SPEAKER_00,415.0,416.919, You've already achieved some level of popularity.
+SPEAKER_01,417.342,417.685, Yeah.
+SPEAKER_01,418.128,418.409,Yeah.
+SPEAKER_01,418.812,419.859,More than most people my age.
+SPEAKER_00,420.603,423.96," More than most people your age, and you really want to take it further."
+SPEAKER_01,424.562,424.842, Yeah.
+SPEAKER_01,425.023,430.96,"You know, like even with like my social media platforms or whatever, people really rely on what I have to say, you know."
+SPEAKER_01,431.04,435.254," So the more people that are following me, the more people that are with me, you know, that's what I need."
+SPEAKER_00,437.982,438.904, All right.
+SPEAKER_00,438.924,445.519,"So your last employer, the one before the place you work now, you just outgrew that."
+SPEAKER_00,446.482,448.209, Can you tell me how that interaction went?
+SPEAKER_01,448.289,451.0,Like did you quit or did they kind of encourage you to leave?
+SPEAKER_00,451.262,453.617, Like what happened kind of at the last moments of that job?
+SPEAKER_01,455.882,460.392," Well, I mean, I mean I quit."
+SPEAKER_01,461.454,461.615,Yeah.
+SPEAKER_01,461.655,462.978,"I mean like, yeah, I quit."
+SPEAKER_01,462.998,463.98,I was the one that initiated that.
+SPEAKER_01,464.201,468.799," I mean they had some issues, but I was the one that initiated it because I needed to go elsewhere."
+SPEAKER_00,469.482,469.783, All right.
+SPEAKER_00,469.803,471.508,So you initiated it and you quit.
+SPEAKER_01,472.171,473.856,"At the same time, they had a few issues."
+SPEAKER_00,474.077,474.94,What type of issues did they have?
+SPEAKER_01,478.886,485.0, They just said I talked too much or something like that or I think there was an issue with somebody I was working with or something.
+SPEAKER_01,485.602,490.378," But it was really, it was another situation that just didn't, we just weren't communicating well."
+SPEAKER_01,492.043,494.068," But in the end, I had to do what was best for me."
+SPEAKER_01,494.669,499.0,"So, because afterwards they were calling me and trying to get me back, but I was already here, so I wasn't going to go back there."
+SPEAKER_00,499.382,503.0," So after you quit, they pursued you to come work for them again?"
+SPEAKER_01,503.162,504.879," Yeah, which I told them was going to happen."
+SPEAKER_00,505.505,506.98, You had predicted that when you left?
+SPEAKER_01,507.0,507.201," Yeah, yeah."
+SPEAKER_01,507.261,511.659,"I was like, you're going to miss me because I'm the reason this company is flourishing."
+SPEAKER_00,514.39,516.92, So what did you tell them when they offered you the job back?
+SPEAKER_01,518.544,525.0," That I was, had gotten a phenomenal job and it was way better and that they lost it and they could just deal with it."
+SPEAKER_00,525.0,525.909, So you rejected them at that point?
+SPEAKER_01,527.122,527.367, Oh yeah.
+SPEAKER_00,531.344,541.0," So, you feel as though you could benefit from the counseling here to better relate to people who are different levels, different ability levels?"
+SPEAKER_01,541.881,554.9," Yeah, and I, you know, I want to make my boss happy, but I feel like it would be good, you know, I don't want to make people feel bad because they're inferior to me and because they're not as successful, so if I could learn how to, you know, talk with them so that I'm not, you know, so they don't feel bad about themselves."
+SPEAKER_00,556.621,560.007," Is your boss putting, I mean, she encouraged you to come here today."
+SPEAKER_00,560.568,562.151,Is she putting any pressure on you?
+SPEAKER_00,562.191,566.84,"Like, is this something that's strongly encouraged, mandatory?"
+SPEAKER_01,568.103,574.0," I think it's, I think it's strongly encouraged, but I think she has a promotion for me in mind, so it's probably just to set me up for that."
+SPEAKER_01,575.205,578.799, So she's trying to help you for the future for another advancement.
+SPEAKER_01,579.143,579.306, Yeah.
+SPEAKER_00,581.722,585.214," So Sam, I'm going to get you on the calendar as to see a counselor."
+SPEAKER_00,585.234,586.298,I'm hoping later this week.
+SPEAKER_00,586.318,587.0,Does that work for you?
+SPEAKER_01,587.02,587.857," Yeah, okay."
+SPEAKER_00,588.041,588.224, That does?
+SPEAKER_00,588.286,588.531,Are you sure?
+SPEAKER_01,589.041,589.347, Yeah.
+SPEAKER_00,591.404,592.446, So I'll get you set up for that.
+SPEAKER_00,592.466,594.431,I really appreciate you taking the time with me.
+SPEAKER_00,594.491,595.073,It was helpful.
+SPEAKER_00,595.093,598.0,We'll get you into see a counselor and we'll go from there.
+SPEAKER_01,598.0,598.306, Okay.
+SPEAKER_00,599.592,599.776, Thanks.
+SPEAKER_01,600.159,600.5, Thank you.

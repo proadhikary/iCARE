@@ -1,0 +1,237 @@
+speaker,text,start,end
+, Music,0.22,0.901
+SPEAKER_00," Okay Marsha, so how can I help you today?",20.302,23.719
+SPEAKER_01," Well, I'm working full time, I'm a part time student.",24.503,27.779
+SPEAKER_01, I've just gotten engaged and I live at home.,28.302,30.919
+SPEAKER_01," There's just so much stress in my life, I have everything happening all at once.",31.482,35.518
+SPEAKER_01," Just to top it all off, I failed an exam, a really big exam.",36.161,41.0
+SPEAKER_01," And I just feel like I can't do anything anymore, I can't do anything right.",41.542,45.398
+SPEAKER_01," I've just got so much stress and I feel like such a disappointment, such a failure.",46.12,50.478
+SPEAKER_01, And I've embarrassed my family by failing.,51.221,53.537
+SPEAKER_01, I just don't know what to do anymore.,55.067,56.456
+SPEAKER_01, I guess I've come here today to tell you I want to leave uni.,57.361,62.759
+SPEAKER_01, I guess that's why I've come here today.,63.141,65.174
+SPEAKER_00, So it sounds like a whole lot of stuff is on top of you at the moment?,66.141,69.578
+SPEAKER_01," Yeah, just so much, just all piling on.",70.06,72.07
+SPEAKER_00," So you're working full time, plus part time study, and then you've got your wedding preparation.",74.0,81.0
+SPEAKER_01," Yeah, just got engaged and wedding's just a month away now.",81.0,84.739
+SPEAKER_01, So I've just got so much happening.,85.362,87.899
+SPEAKER_01, Work is really demanding.,88.322,89.611
+SPEAKER_01," Just failed this exam, don't know what to do.",91.081,93.859
+SPEAKER_00, All too much.,94.545,95.232
+SPEAKER_01, So I imagine you've been sweating on this for a while and it's all been swirling around in your head?,96.181,101.0
+SPEAKER_01," Yes, just been building up and building up.",101.0,103.0
+SPEAKER_01, And so much pressure with everything.,103.302,105.436
+SPEAKER_01," I'm living at home, so my parents, a lot of pressure.",106.121,108.839
+SPEAKER_01, I need to do everything right.,109.242,110.611
+SPEAKER_01," By failing this, I feel like I've just embarrassed them and disappointed them.",112.522,116.016
+SPEAKER_01, I just don't feel like I'm good enough to go on studying.,117.04,120.578
+SPEAKER_00, Okay.,121.061,121.384
+SPEAKER_00, Have they said much to you about failing your exam?,123.0,125.295
+SPEAKER_01, They haven't said much.,126.303,127.697
+SPEAKER_01," I was really scared to tell them actually, because I knew they'd just be so disappointed  and just embarrassed by the fact that I did fail.",128.12,134.973
+SPEAKER_01," Yeah, I've never failed anything before.",136.0,137.993
+SPEAKER_00, Wow.,139.0,139.163
+SPEAKER_01, It's really hard.,140.141,141.535
+SPEAKER_01," Yeah, so it's new and you don't like it at all?",142.0,145.0
+SPEAKER_01," Not at all, no.",145.0,145.707
+SPEAKER_01," I think leaving uni will just be the way out, just so I don't have to go through it again.",147.642,153.0
+SPEAKER_00," Right, okay.",153.687,154.616
+SPEAKER_00," Well, I'm glad you've come to counselling, because it's good for us to get an outsider's opinion  when we've got so much on our plate and we're confused as to what to do and our emotions can get in the way.",155.361,169.0
+SPEAKER_00, And you've just said earlier that a whole lot of stuff's on your plate at the moment.,169.764,173.0
+SPEAKER_01," Yeah, a lot of stuff, yeah.",173.141,174.556
+SPEAKER_00, So I'm glad you've come here.,175.081,177.013
+SPEAKER_00," Here at the clinic, we use the ABC model, which is a cognitive behavioural therapy model.",178.883,184.98
+SPEAKER_01, Okay.,185.0,185.082
+SPEAKER_00," So, Marsha, some counsellors have put together a list of beliefs that we often use  and we don't realise that we're using those beliefs and they tend to be faulty ones.",186.622,196.719
+SPEAKER_01, Okay.,197.02,197.184
+SPEAKER_00, Here's the list here.,198.0,199.091
+SPEAKER_00, Have a look through that to see if there are any beliefs that you might be operating on at the moment.,200.0,206.416
+SPEAKER_01, I think number two.,208.242,209.172
+SPEAKER_00, Okay.,210.061,210.673
+SPEAKER_00, Read that one out for me.,211.061,211.98
+SPEAKER_01, That it's necessary to have a high degree of order and certainty in order to be happy and perform well.,212.221,217.0
+SPEAKER_00," Yeah, yeah, you mentioned that earlier.",217.242,218.859
+SPEAKER_00, Yeah.,219.02,219.796
+SPEAKER_01, Number four.,220.081,222.94
+SPEAKER_01, That it's necessary to be competent and successful in all those things which are attempted.,223.863,228.0
+SPEAKER_00," Yeah, that's an expectation from your family.",229.349,231.0
+SPEAKER_01, Yeah.,231.143,231.367
+SPEAKER_01, Possibly number eight.,235.855,236.819
+SPEAKER_00, Okay.,237.224,237.49
+SPEAKER_01," That life should be entirely pleasant and enjoyable and that any frustration, discomfort or pain would be unbearable.",238.0,243.639
+SPEAKER_00, Yeah.,244.02,244.444
+SPEAKER_00," Which one of those stands out the most for you at the moment, Marsha?",246.422,250.739
+SPEAKER_01, Probably number four.,251.202,252.192
+SPEAKER_00, Okay.,253.653,253.959
+SPEAKER_01, Yeah.,254.0,254.184
+SPEAKER_00, How would you put that in your own words?,255.121,256.737
+SPEAKER_01, That I need to be successful all the time in everything that I do.,257.563,260.94
+SPEAKER_01, Yeah.,261.081,261.303
+SPEAKER_00, Yeah.,263.224,263.571
+SPEAKER_00, And is that different from what's happening in your life at the moment?,264.281,267.775
+SPEAKER_01," Well, failing that exam, I mean, I wasn't successful with that.",269.241,272.859
+SPEAKER_01," So, yeah, I mean, it just throws out, I guess even number two, because it throws out all the order in my life.",273.0,278.0
+SPEAKER_01," I need to have everything, you know, so I need to know what I'm doing, where I'm going.",278.321,283.96
+SPEAKER_01," Yeah, so.",284.101,284.747
+SPEAKER_00, Okay.,286.571,286.816
+SPEAKER_00," So if number four is an expectation that your family have and that you have of yourself, how do you measure up next to number four?",287.1,295.98
+SPEAKER_01, I don't feel like I'm good enough.,296.828,298.0
+SPEAKER_00, Okay.,298.327,298.469
+SPEAKER_01, Yeah.,299.347,299.653
+SPEAKER_00, All right.,300.735,300.98
+SPEAKER_00," Well, what I'd like to do is put some of those ideas on the board under the ABC and I'll explain as we go along.",301.0,306.9
+SPEAKER_01, Okay.,307.0,307.122
+SPEAKER_00, Okay.,308.49,308.796
+SPEAKER_00, Yeah.,309.02,309.327
+SPEAKER_00, So what do you think the trigger point might be or the activating event for you at the moment?,310.08,313.658
+SPEAKER_01," I mean, there are a lot of things, but I think obviously failing the exam was the main one.",314.0,319.0
+SPEAKER_00, Okay.,319.02,319.347
+SPEAKER_01, Yeah.,320.102,320.224
+SPEAKER_00, All right.,321.041,321.857
+SPEAKER_00, And the consequence is you thinking of leaving?,322.844,325.96
+SPEAKER_01," I live in uni, yeah.",326.02,326.878
+SPEAKER_00, Okay.,327.673,327.837
+SPEAKER_00, All right.,328.041,328.429
+SPEAKER_00, And that statement that you made earlier about I'm not good enough.,329.864,333.0
+SPEAKER_01," I'm not good enough, yeah.",333.0,333.98
+SPEAKER_00," Yeah, that's the B one.",334.0,335.0
+SPEAKER_00, That's the crucial one.,335.041,336.0
+SPEAKER_01, Okay.,336.0,336.122
+SPEAKER_00, And I'll explain it shortly when I get up to the board.,337.081,339.919
+SPEAKER_01, Okay.,340.102,340.388
+SPEAKER_00, All right.,341.02,341.959
+SPEAKER_00, Okay.,342.041,342.143
+SPEAKER_00, I think I'll put it up there now for you so we can work through that.,343.0,346.739
+SPEAKER_01, Mm-hmm.,347.653,347.837
+SPEAKER_00," So, Marsha, the activating event, which is what you stated earlier.",348.02,352.0
+SPEAKER_01, I failed my exam.,352.545,353.616
+SPEAKER_00, That's right.,354.12,354.681
+SPEAKER_00, And the kind of decision that you're thinking about is?,365.02,368.216
+SPEAKER_01, Leaving uni.,369.143,369.796
+SPEAKER_00," That's right, yeah.",370.1,371.003
+SPEAKER_00, Okay.,378.303,378.606
+SPEAKER_00, So it's important that we consider the jump from here over to here and the kind of thinking that you've been swirling around in your head affects the consequence.,380.2,392.279
+SPEAKER_00, And you've mentioned earlier that number four seems to fit.,393.221,397.0
+SPEAKER_01, Mm-hmm.,397.0,397.122
+SPEAKER_00, And you put that in your own words.,398.02,398.959
+SPEAKER_00, What were your words before?,399.0,399.939
+SPEAKER_01, That I'm not good enough.,400.061,400.98
+SPEAKER_00," Yeah, good.",401.08,401.561
+SPEAKER_00, It's really important for us to consider that kind of thinking.,420.045,423.0
+SPEAKER_01, Mm-hmm.,423.0,423.161
+SPEAKER_00," Okay, Marsha, it's good that we've got those things on the board.",428.685,431.0
+SPEAKER_01, Mm-hmm.,431.02,431.429
+SPEAKER_00, And what I'd like to do now is focus stepping out a bit from your situation and looking at it from another point of view.,432.381,441.98
+SPEAKER_01, Okay.,442.0,442.571
+SPEAKER_00, To me it sounds like you're doing a whole lot of things really well.,444.305,448.0
+SPEAKER_00, Can you list all of the things that you're doing really well?,448.886,451.0
+SPEAKER_01, I'm working.,452.424,452.828
+SPEAKER_01, It's a really demanding job and I'm keeping up with it.,454.744,458.0
+SPEAKER_00," Great, yeah.",458.449,458.898
+SPEAKER_01, So I guess work.,459.0,459.959
+SPEAKER_01," Things with my fiance, I mean, we're engaged, so planning the wedding.",462.607,467.0
+SPEAKER_01, That's going really well.,467.04,468.717
+SPEAKER_01," It's stressful, but it's going well.",469.747,471.0
+SPEAKER_00, Mm-hmm.,471.0,471.143
+SPEAKER_00, And all of your other university subjects?,474.05,475.839
+SPEAKER_01," Yeah, I've never felt anything before.",476.302,479.0
+SPEAKER_01," This is the first one, so I guess all the other subjects, yeah.",479.241,482.98
+SPEAKER_00," Yeah, yeah.",483.122,484.0
+SPEAKER_00, And you're succeeding in all of those things.,485.047,486.94
+SPEAKER_01, Yeah.,487.0,487.327
+SPEAKER_00, Put together.,488.082,488.918
+SPEAKER_01, Yeah.,489.408,489.735
+SPEAKER_00," You're juggling it and it's a lot on your plate at the moment, but it sounds like you've been able to cope up until this point of the one exam.",490.18,499.0
+SPEAKER_01, Yeah.,499.02,499.388
+SPEAKER_01, This one just threw me off balance.,500.525,502.0
+SPEAKER_01," Yeah, just failing, yeah.",502.429,503.0
+SPEAKER_00, Mm-hmm.,503.592,503.755
+SPEAKER_00, So would you describe yourself as successful most of the time?,505.06,509.518
+SPEAKER_01," Yeah, most of the time.",510.828,512.0
+SPEAKER_01, Yeah.,512.367,512.612
+SPEAKER_00, Yeah.,513.02,513.551
+SPEAKER_00, And what's the evidence for that?,514.0,514.869
+SPEAKER_01, Passing all my exams all the time.,516.02,517.838
+SPEAKER_00, Yeah.,518.02,518.163
+SPEAKER_01," Just passing my subjects, not just exams.",519.0,520.919
+SPEAKER_00," Yeah, that's right.",521.0,522.0
+SPEAKER_01," Getting that full-time job, it's a great job that I'm doing.",522.382,525.94
+SPEAKER_00, Yeah.,526.102,526.347
+SPEAKER_00, You're getting married.,528.071,528.919
+SPEAKER_01," Yeah, that's right.",529.388,529.98
+SPEAKER_01, Yeah.,530.0,530.306
+SPEAKER_00, Yeah.,531.163,531.449
+SPEAKER_00, So how do all of those successes compare to that belief that I've written on the board for you?,532.341,539.597
+SPEAKER_01," I guess in comparison, I am good enough.",541.984,545.92
+SPEAKER_00," Yeah, that's right.",546.224,546.939
+SPEAKER_01, Yeah.,547.204,547.633
+SPEAKER_00, And all the evidence is there.,548.727,549.899
+SPEAKER_00, All of the subjects that you've passed in first year and now second year.,550.302,554.0
+SPEAKER_01, Yeah.,554.061,554.306
+SPEAKER_00, You're a full-time job.,555.0,556.778
+SPEAKER_00, That's a success.,557.02,557.551
+SPEAKER_01, Yeah.,558.061,558.204
+SPEAKER_01, It's great.,559.286,559.878
+SPEAKER_00," Yeah, good.",560.184,561.0
+SPEAKER_00, Okay.,561.184,561.898
+SPEAKER_00," Well, what I'd like to do is get you to write that on the board.",563.065,566.0
+SPEAKER_01, All right.,566.163,566.429
+SPEAKER_00, To dispute that belief.,567.949,569.0
+SPEAKER_01, Okay.,569.0,569.286
+SPEAKER_00, Okay?,570.061,570.551
+SPEAKER_01, Yeah.,571.0,571.204
+SPEAKER_00, Would you do that?,572.082,572.918
+SPEAKER_01, All right.,573.408,573.633
+SPEAKER_00," Well done, Marsha.",599.318,600.0
+SPEAKER_00, That's a powerful statement.,600.141,601.717
+SPEAKER_00, What kind of decision goes along with that?,602.342,604.477
+SPEAKER_01, Staying at uni.,606.01,606.758
+SPEAKER_00, Good.,607.265,607.469
+SPEAKER_00, Okay.,608.612,608.878
+SPEAKER_00, Write that on the board for us.,609.0,609.837
+SPEAKER_00, Okay.,610.449,610.531
+SPEAKER_00, Great.,622.899,623.7
+SPEAKER_00, That's good.,623.861,626.155
+SPEAKER_00, Good.,627.383,627.523
+SPEAKER_00, Okay.,630.904,631.005
+SPEAKER_00," So you've made a bit of a decision there, haven't you?",634.341,637.815
+SPEAKER_01, Yeah.,639.102,639.347
+SPEAKER_00, Tell me about it.,640.102,641.0
+SPEAKER_00, Does it feel okay?,641.606,642.475
+SPEAKER_01, Yeah.,643.531,643.755
+SPEAKER_01, I feel like I should stay.,644.646,646.0
+SPEAKER_00, Okay.,646.041,646.735
+SPEAKER_00, Why is that?,647.848,648.354
+SPEAKER_01, I can try again.,649.612,650.0
+SPEAKER_00, Right.,650.0,650.102
+SPEAKER_01," I mean, everything doesn't have to be 100% all the time.",651.0,652.993
+SPEAKER_00," Good, good.",654.02,654.837
+SPEAKER_00, Yeah.,655.061,655.306
+SPEAKER_01," So, I mean, I could re-sit the exam.",656.081,657.96
+SPEAKER_00, Okay.,658.02,658.408
+SPEAKER_00," Yeah, yeah.",659.202,660.414
+SPEAKER_00, And we've talked about all your successes.,661.889,662.96
+SPEAKER_01, Yeah.,663.02,663.102
+SPEAKER_00, So it's harder now to believe that top statement that I'm not good enough.,665.12,669.799
+SPEAKER_01, Yeah.,670.367,670.735
+SPEAKER_01," I mean, I am good enough compared to all the things that you helped me realize with all  the successes that I've had.",671.0,677.495
+SPEAKER_00, That's right.,678.0,678.918
+SPEAKER_01, I am good enough.,679.0,679.571
+SPEAKER_00, Yeah.,680.0,680.184
+SPEAKER_00, Good.,681.163,681.429
+SPEAKER_00, Okay.,682.061,682.265
+SPEAKER_00," And so this idea about staying at uni, tell me about that.",683.261,686.96
+SPEAKER_01," Yeah, I'll say.",687.02,687.469
+SPEAKER_01," I mean, I am good enough, so I'm sure I can give it another go and see how I go from there.",688.301,693.0
+SPEAKER_01, I can re-sit the exam and I'm sure I'll be fine.,693.02,694.99
+SPEAKER_00, Okay.,697.0,697.184
+SPEAKER_00, Good.,698.735,698.898
+SPEAKER_00, Okay.,699.531,699.816
+SPEAKER_00," What I'd like you to do is to keep saying that statement, I am good enough.",700.301,705.0
+SPEAKER_00, Say it in front of the mirror two or three times a day so that you build up your confidence  because it's going to take some time to reprogram your computer up here with that kind of positive  belief about yourself rather than carrying around that other belief.,706.104,723.297
+SPEAKER_00," And we tend to carry those other beliefs for years and years and years, and so it's going  to take a bit of work on your part to deliberately change your thinking and change your belief  system.",724.02,734.531
+SPEAKER_01, Okay.,735.245,735.408
+SPEAKER_00," But you've made a great start here today, so congratulations.",736.0,738.49
+SPEAKER_01, Thank you.,741.101,742.106
+SPEAKER_00, Bye.,747.485,747.725

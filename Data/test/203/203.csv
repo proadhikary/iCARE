@@ -1,0 +1,129 @@
+speaker,start,end,text
+SPEAKER_00,1.464,3.731, So this is a Breaking Bad News consultation.
+SPEAKER_00,4.633,13.843,It's a case of a 47 year old man who has been  seen by one of my colleagues who had an ultrasound scan requested for some right upper quadrant  pain.
+SPEAKER_00,14.325,31.669,And the scan was reported as saying that there was a potential mass in the head of  the pancreas so the ultrasound department requested an urgent CT and I'm on call and  the facts have just come through to me suggesting that there is a mass in the head of the pancreas  and some potential liver metastases.
+SPEAKER_00,32.05,56.718,"I have waited until the end of my morning surgery,  booked a double appointment and let the girls know not to disturb me now that I'm not on  call, and have rung the patient up and asked him to come in, told him that there's something  on the scan that we need to discuss, offered for him to bring somebody with him and give  him a bit of a warning shot and he's just arrived."
+SPEAKER_00,60.163,60.408, Come in.
+SPEAKER_00,63.06,63.544, Hi!
+SPEAKER_01,63.745,64.409,Hi there Doc.
+SPEAKER_00,64.651,65.134,Have a seat.
+SPEAKER_00,67.106,68.894, So we just spoke on the phone didn't we?
+SPEAKER_00,68.915,69.859,My name is Dr. Evers.
+SPEAKER_01,70.02,70.724, Right yes.
+SPEAKER_00,70.945,73.839,I know you've previously been seeing my colleague haven't you?
+SPEAKER_01,74.401,83.94," Yes, yes I saw Dr O'Donovan and he did that scan for gallstones."
+SPEAKER_00,84.161,88.314," Okay. So, what happened from there then?"
+SPEAKER_00,88.334,91.0,Just tell me a little bit about what's happened so  that I'm up to speed.
+SPEAKER_01,91.763,95.334, I went for that scan and then I was a bit surprised actually.
+SPEAKER_01,95.395,104.559,They actually rang me  up a few days afterwards and said that I needed another scan to check things out.
+SPEAKER_01,104.599,115.816,"So  I was there, it was on Monday this week, when I went and they put me through that doughnutty  thing and then you gave me room."
+SPEAKER_00,117.462,124.879,"Okay. So, in between the scan happening and the second scan happening, was it the department that  had rung you or had you spoken to Dr O'Donovan about it?"
+SPEAKER_01,125.201,132.697," No, no it was a nice old sound girl who rang me saying they were booking this appointment  for this extra scan."
+SPEAKER_00,133.101,135.839, And did they give you any idea why they needed to do an extra one?
+SPEAKER_01,136.281,142.737," No they didn't actually, I mean I tried to ask you always do, and like sweet talk a lady  but she was not for telling."
+SPEAKER_00,143.04,148.0, Okay and had you had any thoughts yourself or any worries about why they were calling you back?
+SPEAKER_01,148.0,149.576, I guessed it was something in the gallstones.
+SPEAKER_00,152.666,160.775," So just tell me a little bit about what symptoms you've been having then, but we do have your  scan result here today and there is something we need to discuss on it."
+SPEAKER_00,160.855,165.857,I'd just like to  make sure that I know what's been happening to you first of all and then we'll go into  the detail.
+SPEAKER_01,166.06,173.45, It all started a few months ago really with this tummy pain and then I saw your colleague  and he said we'd better get his scan.
+SPEAKER_01,173.831,184.899,"So I went for that scan, it was only about two  weeks ago and then I got literally four or five days later got the phone call that I  needed this additional scan so I went on Monday and had that done."
+SPEAKER_00,185.02,188.0," Okay, and so do you still have pain at the minute?"
+SPEAKER_01,188.805,190.98," Yes, yeah I mean it's just there all the time."
+SPEAKER_00,191.381,199.0," Okay, well as I said your scan result has come through to me today and I'm afraid there  is something that's potentially a little bit worrying on it."
+SPEAKER_01,199.0,199.347, Really?
+SPEAKER_00,200.816,200.939, Yeah.
+SPEAKER_01,201.0,202.939, I didn't expect that.
+SPEAKER_01,203.245,203.286, No.
+SPEAKER_01,206.41,208.378, So what's the worrying thing that you found?
+SPEAKER_00,209.201,221.278," Well, if I take you back to the first scan, first of all, so what it appears that that  showed is that there was something suspicious on what we call the pancreas gland."
+SPEAKER_01,222.122,222.714, Suspicious?
+SPEAKER_00,223.0,223.161, Yeah.
+SPEAKER_00,223.984,228.612,So there is a gland at the top of your abdomen here which is quite close to your  gallbladder and called the pancreas.
+SPEAKER_01,229.612,229.735, Right.
+SPEAKER_00,231.422,236.0, And when they did the ultrasound scan which is a good scan but isn't particularly detailed.
+SPEAKER_01,236.082,236.429, Right.
+SPEAKER_00,237.06,240.256, There was something on it that they saw that they wanted a little bit more information
+SPEAKER_00,241.367,241.857, about.
+SPEAKER_01,242.286,242.49, Right.
+SPEAKER_00,243.0,244.0, So that's why they called you back for the second scan.
+SPEAKER_01,244.081,245.879," Doesn't sound good, does it?"
+SPEAKER_00,246.984,252.0, That was a CT scan which is a detailed one so that we could see what it is that we're  likely to be talking about.
+SPEAKER_01,252.204,252.449, Right.
+SPEAKER_00,253.823,258.88, So this second scan has shown that there definitely is something on your pancreas gland.
+SPEAKER_01,260.816,261.0, Really?
+SPEAKER_00,263.321,269.212," And when I say something, what we need to worry about is whether or not this could be  a type of cancer."
+SPEAKER_01,270.531,270.837, God.
+SPEAKER_01,272.869,273.879, I didn't expect that.
+SPEAKER_01,274.429,274.755, God.
+SPEAKER_01,275.222,275.687, I'm only 47.
+SPEAKER_01,277.0,277.122, Cancer.
+SPEAKER_00,279.141,287.49, And I'm really sorry to have to break it to you like this but I felt that it was important  that as soon as I knew that I communicated that to you and that you knew what we were  thinking as well.
+SPEAKER_01,288.694,288.98, God.
+SPEAKER_00,292.602,296.98, So I mean I know that I've just dropped a big bombshell on you.
+SPEAKER_01,297.222,298.939," Oh yes, God."
+SPEAKER_00,299.303,300.798, Have you got any questions at the minute?
+SPEAKER_00,301.0,302.818, Have you got anything that you've...
+SPEAKER_01,304.843,315.579," Erm, what's the pancreas and if I have got cancer, what can they, can they cut it out?"
+SPEAKER_00,316.424,317.778," Erm, it depends."
+SPEAKER_00,319.024,328.734," Basically your pancreas is a gland that sort of sits at the top of the abdomen as I said  and it controls some of the sort of the hormones, the fluids that your body makes."
+SPEAKER_00,331.261,339.296," Erm, because it's at the back of the abdomen, often we don't know very much about it until  it starts causing a bit of a problem like your pain that you've been getting."
+SPEAKER_00,340.0,344.839, So that probably explains why you've not had many other symptoms as well.
+SPEAKER_01,345.286,345.633," Right, right."
+SPEAKER_00,346.521,355.96," Erm, the answer is I don't know what could be done about it but we need to ask a specialist  what could be done about it."
+SPEAKER_00,358.547,363.878, What we usually do in this situation is ask a specialist to see your scan and I'll let  them know today.
+SPEAKER_01,364.388,364.612, Okay.
+SPEAKER_00,365.0,369.041, To have a look at your scan and to see you and to have a think about what this could  be.
+SPEAKER_01,370.224,370.469, Right.
+SPEAKER_00,371.0,374.102, Do they agree that it could be potentially cancer and how do we find out what it definitely  is.
+SPEAKER_01,375.449,375.776, Okay.
+SPEAKER_00,376.02,377.0, And then from that what we do about it.
+SPEAKER_01,377.245,377.653, Okay.
+SPEAKER_00,378.51,378.735, Okay.
+SPEAKER_00,382.53,387.98, So I understand that I've just thrown a whole lot of information at you and that a lot of  it is very worrying information.
+SPEAKER_01,388.482,391.534," Oh yeah, God, I just hadn't expected that at all."
+SPEAKER_00,393.918,394.0, Yeah.
+SPEAKER_00,394.0,403.88," Erm, I mean is there anybody that you could, that you could bring in with you and we could  have another bit of a chat maybe tomorrow when you've had a bit more time?"
+SPEAKER_01,405.444,409.576," I suppose I could, I'll ask my mum because I hope by myself."
+SPEAKER_00,411.061,411.531, Yeah
+SPEAKER_01,412.201,415.96," Erm, no, I'll come by myself actually."
+SPEAKER_00,416.245,416.939, You sure?
+SPEAKER_01,417.143,417.612, Yeah.
+SPEAKER_00,418.143,418.286, Okay.
+SPEAKER_01,419.0,420.0, It'll just be easier.
+SPEAKER_01,420.0,422.436," She'll just, you know, she'll just flat."
+SPEAKER_00,423.0,423.163, Yeah.
+SPEAKER_00,424.221,427.055, I mean I think it's important to say that we don't know for definite what this is.
+SPEAKER_00,428.1,433.699, We have to imagine that it is something like a cancer until we can prove what it is.
+SPEAKER_01,434.082,434.347, Right.
+SPEAKER_00,435.102,436.0," Erm, so we do everything very quickly."
+SPEAKER_01,436.041,436.184, Yeah.
+SPEAKER_00,437.0,437.98, And try and get some answers for you.
+SPEAKER_01,438.714,438.939, Right.
+SPEAKER_00,439.0,440.0," Erm, but we don't know any definite nothing certain at the minute."
+SPEAKER_00,440.0,441.0," Erm, but I do appreciate that I've just given you."
+SPEAKER_01,441.0,441.204, Okay.
+SPEAKER_00,442.0,443.0, Some scary news.
+SPEAKER_00,443.0,443.102, Yeah.
+SPEAKER_00,444.0,445.0," Erm, and they'll probably take a little bit of time."
+SPEAKER_00,445.0,446.0," Erm, so my door is open and I wonder if maybe we can get some answers."
+SPEAKER_01,446.0,446.082, Okay.
+SPEAKER_00,447.38,476.898," Erm, I've taken the liberty of printing off a little bit of something about pancreatic  cancer if that's what this is."
+SPEAKER_00,477.0,478.0," Erm, for you to have a bit of a read through."
+SPEAKER_01,478.49,478.735, Okay.
+SPEAKER_00,479.0,480.816," Some of it's a little bit, a little bit scary and as I said we don't know as nothing certain  yet."
+SPEAKER_00,481.0,482.0, But I wonder if you might want to have a bit of a read through of it.
+SPEAKER_01,482.265,482.551, Okay.
+SPEAKER_00,483.0,483.735, Before coming back to see me.
+SPEAKER_00,484.0,485.0," Erm, so what this does is it just explains a little bit about what the pancreas is."
+SPEAKER_01,485.02,485.469," Right, okay."
+SPEAKER_00,486.0,487.0, A bit more detailed than I've been able to today.
+SPEAKER_00,487.0,488.0," Erm, and it talks about cancer in general."
+SPEAKER_01,488.327,488.918, Mm hm.
+SPEAKER_00,489.061,489.204,"And types of ways in which it can affect the pancreas and what sorts of treatments you can get. And then, how we diagnose it, different forms of scans"
+SPEAKER_01,490.0,491.0,Okay.
+SPEAKER_00,491.592,491.898,"Do you want to have a read through of this and then maybe, come back and see me tomorrow?"
+SPEAKER_01,492.0,493.0,"Yeah I'll be back tomorrow, yeah."
+SPEAKER_00,493.143,494.0,Yeah? Okay.
+SPEAKER_00,494.0,495.0,I'm sorry to have to break this news to you like this
+SPEAKER_01,495.0,495.102,"Okay, I'll see you tomorrow"
+SPEAKER_00,496.1,498.542,Okay.

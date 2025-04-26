@@ -1,0 +1,402 @@
+speaker,text,start,end
+SPEAKER_00," Hello, Liz.",14.897,15.117
+SPEAKER_00,How are you doing today?,15.137,15.938
+SPEAKER_01,I'm okay.,16.178,16.659
+SPEAKER_01,How are you?,16.679,17.019
+SPEAKER_00, I'm doing well.,17.76,18.182
+SPEAKER_00,Thanks for asking.,18.202,18.825
+SPEAKER_00,How have things been going?,18.845,20.874
+SPEAKER_01, They've been all right.,22.18,23.405
+SPEAKER_00,"Last time we were talking, it sounded like  you were still having some difficulty with the quizzes.",24.631,30.853
+SPEAKER_00,Is that still the case?,31.976,32.819
+SPEAKER_01," Yeah, it's still panic when I take them.",33.12,36.014
+SPEAKER_00,You're still in panic?,36.436,37.019
+SPEAKER_01, Mm-hmm.,37.16,37.462
+SPEAKER_00,Can you tell me about the process of taking  the quizzes?,37.985,40.864
+SPEAKER_00,I know we've touched on this a little bit before.,40.905,42.4
+SPEAKER_01, Okay.,43.183,43.444
+SPEAKER_01,So I'm going to class.,43.986,44.91
+SPEAKER_01,I'm fine.,44.99,45.392
+SPEAKER_01,I sit down to take the test.,45.432,46.496
+SPEAKER_01,I'm fine.,46.556,46.978
+SPEAKER_01,The test  is in front of me.,47.038,48.142
+SPEAKER_01,"Question one, I'm not going to get that answer.",48.203,51.293
+SPEAKER_00, So you're looking down.,53.4,54.286
+SPEAKER_00,So you take these quizzes in class?,54.307,56.059
+SPEAKER_01, Yes.,56.5,56.602
+SPEAKER_00,Like a paper pencil?,56.623,57.439
+SPEAKER_01, Mm-hmm.,57.5,57.702
+SPEAKER_00,Okay.,58.004,58.206
+SPEAKER_00,With other students around?,58.912,59.82
+SPEAKER_01, Yes.,59.94,60.161
+SPEAKER_00,All right.,60.382,62.371
+SPEAKER_00,Is having other students around distracting to you?,62.572,64.42
+SPEAKER_01," No, it's happened in previous online classes.",65.104,67.397
+SPEAKER_01,It's the same.,67.417,67.9
+SPEAKER_00, All right.,68.0,68.543
+SPEAKER_00,So you're pretty sure it's the quiz itself and not some external?,68.583,72.52
+SPEAKER_01, Mm-hmm.,72.62,72.741
+SPEAKER_00,Okay.,72.761,72.862
+SPEAKER_00,So it's paper and pencil.,74.35,75.395
+SPEAKER_00,You're seated.,75.415,76.26
+SPEAKER_00, You're in the room.,76.28,77.225
+SPEAKER_00,The room's relatively distraction-free?,77.245,79.617
+SPEAKER_01, Yeah.,80.361,80.783
+SPEAKER_01,"Yeah, everybody's quiet.",80.823,81.686
+SPEAKER_00,All right.,81.767,83.534
+SPEAKER_00,"And you're looking down at,  really, the first item on the quiz.",83.554,88.308
+SPEAKER_00,And what's happening then as you look down and you read  that first item?,89.671,94.504
+SPEAKER_00,What's happening at a thought level?,95.829,97.315
+SPEAKER_00,We'll start at a thought level.,97.336,98.259
+SPEAKER_00,What's  happening?,98.279,98.826
+SPEAKER_00,What are you thinking?,98.846,99.739
+SPEAKER_01," I'm thinking, I'm reading the question and I'm thinking, oh my God, there's four.",100.743,104.736
+SPEAKER_01,Okay.,104.756,104.936
+SPEAKER_01, So it's got to be one of them.,106.24,108.549
+SPEAKER_01,And I am not going to pick the right one.,108.609,111.339
+SPEAKER_01,I'm going to  think I picked the right one.,111.359,112.506
+SPEAKER_01,And it's going to be the one of my second choices.,112.526,114.118
+SPEAKER_01,And I  am not going to pick the right one.,114.198,115.623
+SPEAKER_00,Okay.,116.646,116.927
+SPEAKER_00,So your thought is that you're going to select  the wrong response and therefore get that quiz item wrong.,116.947,125.789
+SPEAKER_00,How about behavior?,126.351,130.539
+SPEAKER_00,"Like,  do you notice anything physically going on as you're thinking about that quiz item and  how you're going to get it wrong?",130.559,139.364
+SPEAKER_01,I'd say my palms are probably sweaty.,139.384,143.118
+SPEAKER_01,"Like,  probably a little tense.",143.138,148.09
+SPEAKER_00,A little tense?,148.11,148.871
+SPEAKER_01,Yeah.,149.032,149.373
+SPEAKER_01,That's really it.,152.059,152.68
+SPEAKER_00, All right.,152.68,153.583
+SPEAKER_00,"So what it could be is that this thought of, I'm going to get this item wrong,  is leading to these uncomfortable feelings, the physical feelings.",153.623,165.174
+SPEAKER_00,All right.,165.514,167.158
+SPEAKER_00,So what happens  when you answer item one?,167.178,171.831
+SPEAKER_00,"Like, you don't know if you have it right or wrong immediately, right?",172.353,174.64
+SPEAKER_00, Because it's a paper and pencil.,174.66,175.644
+SPEAKER_00,So you answer item one and you move on to item two.,176.427,178.896
+SPEAKER_00,What happens  then?,179.698,180.281
+SPEAKER_01,It starts all over again.,181.827,182.911
+SPEAKER_01,"I'm already like, well, I already got the first one wrong and now  I'm, my chances are higher of getting this one wrong.",182.951,187.786
+SPEAKER_00,"So you feel like it because you thought  that you got the first one wrong, that your chances of getting the second one wrong actually  increase.",187.806,198.442
+SPEAKER_01,Yeah.,198.743,199.104
+SPEAKER_00,Okay.,199.385,199.666
+SPEAKER_01,I feel like I got one wrong the whole test.,200.388,202.916
+SPEAKER_01,It's all going to be wrong.,203.458,204.12
+SPEAKER_00," Have you ever had a quiz that you've taken where you were confident that you got the first item,  right?",205.907,209.7
+SPEAKER_01,I'm sure I have.,213.648,214.39
+SPEAKER_01,I can't remember any.,214.47,215.652
+SPEAKER_00,But eventually you're going to come to one item that  you're going to have these doubts about.,216.354,220.525
+SPEAKER_01,Yes.,220.585,220.806
+SPEAKER_01,Inevitably it happens.,221.51,222.514
+SPEAKER_00,There's going to be one  that's maybe a little more difficult or difficult for you.,223.198,226.01
+SPEAKER_00,"So it seems like what you're saying is  that when you reach that item where you have that thought, from that point on, the next item is more  difficult because you're having a similar thought.",227.255,239.665
+SPEAKER_00,Does that pattern continue?,240.99,242.154
+SPEAKER_01,"Throughout the test,",242.174,243.92
+SPEAKER_01, yes.,244.0,244.261
+SPEAKER_00,"So explain to me what, like let's just go with the example of the first item, like just  to keep it more simple.",246.887,254.988
+SPEAKER_00,"So you have the first item and that didn't work out for you, that thought,  right?",255.188,258.941
+SPEAKER_00,"The second one you thought was, I have even a greater chance of missing.",259.483,263.917
+SPEAKER_00,So what happens after  you respond to that second item?,264.318,266.424
+SPEAKER_01,It just compounds.,267.106,267.969
+SPEAKER_01,"I just start, I feel worse and worse as the quiz,  as I continue.",269.493,273.225
+SPEAKER_00,That's awful.,273.526,274.068
+SPEAKER_00,"So it's an awful feeling for you, right?",274.088,275.955
+SPEAKER_00,So by the time you get  to item five or six.,276.618,279.105
+SPEAKER_01,I'm convinced it's over.,280.428,282.393
+SPEAKER_01,I've gotten a zero.,282.433,283.375
+SPEAKER_01,"If it's the first, I've gotten a  zero.",283.696,285.541
+SPEAKER_01,I've gotten a bad grade.,285.581,286.584
+SPEAKER_00,All right.,286.604,288.632
+SPEAKER_00,So that's what's on your mind.,288.652,289.635
+SPEAKER_01,Yeah.,289.976,290.558
+SPEAKER_00,And how about those  physical symptoms?,290.599,292.003
+SPEAKER_00,"Are they the same, different, are there new symptoms?",292.304,294.61
+SPEAKER_01,"If it like, if it's, if it  like starts early at the beginning of the test, my heart's like pounding at this point, but I still  have a sweaty palms.",296.375,303.402
+SPEAKER_01,I'm still like tensing.,303.462,305.606
+SPEAKER_00,So it really just gets mentally and physically more  unpleasant for you the whole time.,307.571,314.185
+SPEAKER_00,"So when you just, when you're saying panic, the panic's really  occurring a few items in after you have the first one that you thought you missed.",316.11,325.672
+SPEAKER_00,"And this has been  happening for a while as you described, right?",328.739,331.006
+SPEAKER_01,Yeah.,331.308,331.528
+SPEAKER_00,"Well, how about your grades?",333.135,333.978
+SPEAKER_00,How have you  actually been doing on the quizzes?,334.078,335.823
+SPEAKER_01,I've been a pretty solid B student.,337.686,340.411
+SPEAKER_01,"So, and I feel, I wish I  did better.",340.431,345.501
+SPEAKER_01,"I wish I got A's, but I mean, these are fine.",345.561,351.492
+SPEAKER_01,"But when I take those quizzes, it's not,  it doesn't, I don't know how it translates.",353.997,359.57
+SPEAKER_00,How about your study habits?,360.652,362.216
+SPEAKER_00,You consider yourself  effective at studying?,362.878,365.444
+SPEAKER_01,"I've tried, I've taken workshops on studying.",366.587,370.135
+SPEAKER_01,"I've, I, I think I'm  pretty effective at studying.",370.155,373.684
+SPEAKER_01,I've found what doesn't work.,373.764,375.77
+SPEAKER_01,"So I try to study by reading the  chapters, taking outlines, reviewing flashcards, which has, I think the best results, but.",376.312,387.778
+SPEAKER_00,Okay.,387.798,388.64
+SPEAKER_00, So your study habits are good and your quiz scores are good.,388.861,394.655
+SPEAKER_01,Yeah.,395.016,395.317
+SPEAKER_00,But you're still having these  distressing thoughts and these uncomfortable physical sensations when you take the quizzes.,395.638,404.9
+SPEAKER_00, Is that about right?,406.002,406.643
+SPEAKER_01,"Yeah, that's absolutely right.",406.804,407.966
+SPEAKER_00,"So really, you don't necessarily need  your performance to change.",409.47,414.723
+SPEAKER_00,"You just, you just need your, your thoughts and feelings and behaviors  to change.",415.706,421.821
+SPEAKER_01,Yeah.,422.944,423.284
+SPEAKER_00,"So how you, how you're reacting to the quizzes, maybe.",425.068,428.496
+SPEAKER_01,"Yeah, because I get B's,  like I said.",429.397,431.401
+SPEAKER_01,So yeah.,431.461,432.543
+SPEAKER_00,And B is good.,434.146,435.088
+SPEAKER_01,Yeah.,435.328,435.608
+SPEAKER_00,"So, all right.",436.049,438.053
+SPEAKER_00,So I want to take you back to the moment  when you're looking at the first item.,438.093,445.73
+SPEAKER_00,Let's go back to that for a second.,446.191,447.415
+SPEAKER_00,Okay.,447.455,447.736
+SPEAKER_00,"So you're taking  a quiz and you're having those thoughts surrounding that first item, which I'm not mistaken,  the automatic thought.",448.418,462.969
+SPEAKER_00,"We talked about this, right, with the cognitive behavioral therapy.",462.989,465.22
+SPEAKER_00," The automatic thought is that I'm, I'm not going to get this one right or something to that effect.",465.822,471.4
+SPEAKER_01, Right.,471.58,471.861
+SPEAKER_00,What does that mean to you?,473.424,475.068
+SPEAKER_01,"It means once I don't get that right, I'm not going to get  anything else right.",478.235,481.162
+SPEAKER_00,All right.,483.287,483.468
+SPEAKER_00,So what that thought means to you is that you're going to  miss that item and then you're going to miss all the rest of the items.,483.548,491.109
+SPEAKER_00,"So you're, you're  going to fail the whole quiz.",493.075,496.244
+SPEAKER_01,The whole thing.,496.264,496.845
+SPEAKER_01,Yeah.,497.106,497.287
+SPEAKER_00,Okay.,498.269,498.41
+SPEAKER_00,"So looking at that, let's, let's call  that an intermediate belief, right?",499.753,504.886
+SPEAKER_00,"It's more of a rule or an expectation, right?",504.946,508.555
+SPEAKER_00,What does that  mean to you?,510.419,511.501
+SPEAKER_01,"It just gets worse if I fail the quiz, then I'm like, Oh my God, I'm going to fail  the final.",514.589,519.361
+SPEAKER_01,I'm going to fail the course.,519.381,520.504
+SPEAKER_01,And that's going to affect my GPA.,522.088,524.213
+SPEAKER_00,"So it just keeps  stacking, right?",526.379,527.743
+SPEAKER_00,"So we have other, other beliefs.",527.823,529.508
+SPEAKER_00,"So you're going to fail the course and, or you're  going to fail the final rather than you're going to fail the course.",529.648,535.77
+SPEAKER_00,"So if you failed the course,  what would that mean to you?",536.895,540.665
+SPEAKER_01,That I'm not going to graduate.,542.87,543.792
+SPEAKER_00,You're not going to graduate.,545.355,546.197
+SPEAKER_00,So we've  moved from failing the quiz.,547.079,550.188
+SPEAKER_00,"If we just look at the meaning, right, to fail on the final, to fail  on the course, and now to not graduating.",550.629,557.608
+SPEAKER_00,"So if you didn't graduate, what would that mean to you?",558.27,562.72
+SPEAKER_01," I can't, I can't be a teacher.",562.74,564.887
+SPEAKER_01,I can't do what I want to do.,564.907,565.85
+SPEAKER_00,So your chosen vocation to be a  teacher would be not possible.,567.776,571.004
+SPEAKER_01,Right.,571.285,571.486
+SPEAKER_00,Right.,571.987,572.207
+SPEAKER_00,"So we go a step further and say, what would it mean to  you if you couldn't be a teacher?",573.851,578.443
+SPEAKER_01,I don't know who I'd be at that point.,580.728,584.157
+SPEAKER_01,That's what I always  saw as my career.,584.217,586.484
+SPEAKER_01,So I don't know what my future would look like at that point without that.,586.504,591.34
+SPEAKER_00," So if you were to phrase it and kind of, I think back as we, to the CBT techniques and the kind of  conceptualization we've covered, if you were to phrase that as an I am statement, right, what  would you, what would you be if you couldn't be a teacher?",594.045,612.147
+SPEAKER_00,What would that make you?,619.759,620.48
+SPEAKER_01, I am a person who didn't make it.,623.382,626.308
+SPEAKER_01,"I'm a person that failed, like we said earlier.",626.328,629.796
+SPEAKER_00,I'm a person  that didn't make it.,631.359,632.662
+SPEAKER_00,I'm a person who failed.,633.323,634.325
+SPEAKER_00,So in a way you're saying I'm a failure.,635.648,638.916
+SPEAKER_01,Mm-hmm.,638.936,639.577
+SPEAKER_00,Right.,639.597,640.78
+SPEAKER_01, Mm-hmm.,641.221,641.542
+SPEAKER_00,"You know, is that, is that close?",641.662,643.265
+SPEAKER_01,Yeah.,643.285,643.806
+SPEAKER_00,So remember we talked before about core beliefs.,646.271,649.719
+SPEAKER_01,Mm-hmm.,649.739,650.34
+SPEAKER_00," And how these core beliefs drive these intermediate beliefs, which combine with situations like in  your case taking a quiz to form these automatic thoughts.",650.801,661.992
+SPEAKER_00,Yeah.,662.414,662.614
+SPEAKER_00,So one of your core beliefs may  be that you're a failure.,662.815,667.987
+SPEAKER_00,You may believe that.,669.169,669.951
+SPEAKER_00,Does that seem like something that you've said  to yourself before or thought before?,671.534,678.008
+SPEAKER_01,"I didn't think about it like that until we did the step  up to it now, but I, I can relate to that.",678.028,686.489
+SPEAKER_01,Mm-hmm.,686.93,687.13
+SPEAKER_01,"Because a lot of times I do feel like, oh, I'm not  gonna be able to do this.",689.195,692.763
+SPEAKER_01,"Because it's me, I won't be able to do it.",694.287,696.192
+SPEAKER_00,"Not because it's challenging or  difficult, but something to do with you.",697.816,700.948
+SPEAKER_01,Mm-hmm.,700.988,701.269
+SPEAKER_00,Right.,701.289,701.43
+SPEAKER_00,"So that's where kind of like the, you're  personalizing.",701.811,704.602
+SPEAKER_01,Right.,704.622,705.384
+SPEAKER_00,"So you're saying to yourself at a variety of levels, I'm gonna be unsuccessful,  I'm gonna fail.",706.587,712.462
+SPEAKER_01,Mm-hmm.,712.482,712.823
+SPEAKER_00,Does that make sense?,712.844,715.251
+SPEAKER_01,Yeah.,715.813,715.954
+SPEAKER_01,Yeah.,715.974,716.134
+SPEAKER_00,And you think that's what's happening?,716.776,717.88
+SPEAKER_01, It must be.,721.186,721.847
+SPEAKER_01,"Because like I said, I study.",723.69,725.213
+SPEAKER_00,Mm-hmm.,725.533,725.694
+SPEAKER_01,I get good grades.,726.094,726.755
+SPEAKER_01,I've been tested years ago.,728.198,729.3
+SPEAKER_01,"I  don't have ADHD, anything intrinsic that would prohibit me.",729.32,734.414
+SPEAKER_00,So you're able to focus and concentrate  well?,734.695,736.721
+SPEAKER_01,Yes.,736.761,737.081
+SPEAKER_01,Yes.,737.101,737.161
+SPEAKER_01,"I can do all of that, but when it comes to it, I'm like, I can't do it.",737.262,741.85
+SPEAKER_00,"So somewhere,  somewhere is this core belief.",745.677,751.971
+SPEAKER_00,"And it's possible that it has something to do with you  believing that you are a failure, unsuccessful.",752.311,759.045
+SPEAKER_01,Yeah.,759.286,759.506
+SPEAKER_00,Right.,759.927,760.107
+SPEAKER_00,"How do you think your, say, friends  or family would interpret that?",761.63,768.567
+SPEAKER_00,"Like if, and I'm not suggesting telling them that, but if they were  to somehow know that, that you believed you were a failure, how would they react?",768.607,775.929
+SPEAKER_01,I don't think they  would see the connection.,779.779,782.507
+SPEAKER_01,"I don't, I think they would be like, well, you do well in school, I don't  understand.",782.527,787.802
+SPEAKER_00,So they wouldn't believe that you're a failure?,787.822,790.829
+SPEAKER_01,No.,790.869,791.049
+SPEAKER_00,You may believe it.,791.972,792.794
+SPEAKER_01,"Yeah, I, yeah.",794.217,795.46
+SPEAKER_00, Right.,795.841,796.021
+SPEAKER_00,"And similarly, if you had a classmate that was in the same situation, and you know,  struggled with these disturbing thoughts and feelings and behaviors during quizzes,  how would you evaluate them?",797.184,813.124
+SPEAKER_01,"I guess I'd say the same thing that my family would say, like,  you're, look at the evidence, you're not a failure.",819.456,824.59
+SPEAKER_00,"You'd say, look at the evidence.",824.61,826.777
+SPEAKER_01,Yeah.,826.797,827.399
+SPEAKER_00,"And you'd,  you'd evaluate that they weren't a failure.",827.479,829.745
+SPEAKER_01,Right.,829.946,830.267
+SPEAKER_00,"But with yourself, you're being a little more  harsh.",831.611,834.941
+SPEAKER_01,Yeah.,835.622,835.942
+SPEAKER_00,Which isn't uncommon.,837.605,838.586
+SPEAKER_00,"So there's a few levels at which I think we can go after this,  what I'll call a problem.",840.89,849.906
+SPEAKER_00,"But really, it's a series of thoughts and beliefs.",850.628,852.814
+SPEAKER_00,Okay.,853.415,853.716
+SPEAKER_00,The first  is that the comic at the ground level.,854.939,858.707
+SPEAKER_00,"And that's when you are taking the quiz, and you have that  automatic thought that says, I'm, I'm going to miss this item.",859.488,871.255
+SPEAKER_01,I'm not gonna get it right.,871.556,872.759
+SPEAKER_00,"Yeah,  I'm not gonna get it right.",872.819,873.963
+SPEAKER_00,That's your thought.,874.505,874.987
+SPEAKER_00,I'm not gonna get it right.,875.027,875.831
+SPEAKER_00,"In these situations,  I like to encourage clients to apply what's called an adaptive response or self talk.",877.156,884.599
+SPEAKER_00,"So it's a,  now if you're in a quiz in a quiet classroom, it wouldn't literally be self-taught.",884.619,890.639
+SPEAKER_01,"Right,  right.",890.659,891.222
+SPEAKER_00,But it's a thought that you're consciously applying.,891.482,894.955
+SPEAKER_00,"So the other thought, that's automatic.",895.035,896.36
+SPEAKER_01, Right.,896.601,896.841
+SPEAKER_00,"That just pops in your head, right?",897.022,898.126
+SPEAKER_01,Okay.,898.407,898.647
+SPEAKER_00,This one would be one that you deliberately think.,899.671,902.38
+SPEAKER_01, I make myself.,902.66,903.341
+SPEAKER_00,"So what could you think to yourself that would be a counter to that  automatic thought that you're having, that you're gonna get that item wrong?",904.824,920.06
+SPEAKER_01," I guess that in my past quizzes, like, chances are, I have a good chance of getting it right.",925.201,931.44
+SPEAKER_00, Okay.,932.664,932.884
+SPEAKER_00,"So just looking at the probabilities based on your past performance, even though I'm  thinking I'm going to get it wrong.",933.165,939.847
+SPEAKER_01,Right.,939.867,940.249
+SPEAKER_00,"Chances are, I'm gonna get it right.",940.911,942.257
+SPEAKER_01,Right.,942.338,942.558
+SPEAKER_01,Somehow I  still have a B. So.,942.599,944.084
+SPEAKER_00,"So you are getting most of them, right?",944.104,947.315
+SPEAKER_01,Right.,947.496,947.736
+SPEAKER_01,So I have a good chance.,947.777,948.76
+SPEAKER_00," So I like that adaptive response, right?",951.187,953.593
+SPEAKER_00,Do you think that makes sense for you?,953.694,954.957
+SPEAKER_01,Yeah.,955.077,955.458
+SPEAKER_00,I think  you did well there.,955.819,956.942
+SPEAKER_00,"So the next time you're taking a quiz, I want you to apply that adaptive response.",957.785,962.96
+SPEAKER_00," Now this takes work, right?",963.462,964.847
+SPEAKER_00,"So this automatic thought's gonna come upon you, and before you  know it, you're gonna have that feeling.",964.867,970.067
+SPEAKER_01,Yeah.,970.248,970.63
+SPEAKER_00,Right.,970.851,971.091
+SPEAKER_00,"The physical symptoms you discussed,  the sweaty palms, right?",971.192,974.463
+SPEAKER_00,"And the feeling of, I think you mentioned, tense.",975.747,978.033
+SPEAKER_01,Yeah.,978.073,978.414
+SPEAKER_00,So don't let  it discourage you.,979.216,981.583
+SPEAKER_00,Those symptoms come on so quickly.,981.603,983.411
+SPEAKER_01,Okay.,983.431,984.034
+SPEAKER_00,Right?,984.094,984.255
+SPEAKER_00,"There is an intervening  thought, and you've identified it.",984.596,986.984
+SPEAKER_01,Okay.,987.004,987.325
+SPEAKER_00,All right.,987.605,988.668
+SPEAKER_00,"So you will have an opportunity, most likely,  to apply that automatic thought at some point.",989.47,996.149
+SPEAKER_01,Okay.,996.47,996.691
+SPEAKER_00,"But the first few times it might be, might  be a little rough.",996.992,999.822
+SPEAKER_01,Yeah.,999.963,1000.204
+SPEAKER_01,Doesn't count.,1000.545,1001.087
+SPEAKER_00,"I guess the nice thing about a quiz is, I mean, how many  items are on these quizzes?",1001.609,1005.484
+SPEAKER_01,"Yeah, like 15.",1005.966,1007.492
+SPEAKER_00,15,1007.532,1007.492
+SPEAKER_00,So you have a few different chances to apply that,1007.552,1009.46
+SPEAKER_00, adaptive response.,1009.6,1010.263
+SPEAKER_01,Right.,1010.284,1010.424
+SPEAKER_01,Right.,1010.444,1010.625
+SPEAKER_01,It's more than one.,1010.686,1011.289
+SPEAKER_00,Yeah.,1011.57,1011.751
+SPEAKER_00,"So, you know, you would like to get,  on the first time, where you have the automatic thought, where you identify the automatic thought,  but if you don't, it's not a big deal.",1011.791,1020.488
+SPEAKER_01,Okay.,1020.95,1021.491
+SPEAKER_00,Right?,1021.512,1021.652
+SPEAKER_00,"So, you know, later on, maybe it takes  item two or three, and then you might remember, hey, I have this.",1021.712,1029.775
+SPEAKER_01,Yeah.,1030.176,1030.417
+SPEAKER_01,"Oh, wait.",1030.477,1030.858
+SPEAKER_01,I'm supposed to  be thinking this.,1030.878,1032.382
+SPEAKER_00,Yeah.,1033.425,1033.565
+SPEAKER_00,"And my hope is that as you apply this adaptive response more and more,  you can reduce the probability that that automatic thought's going to come in.",1033.626,1042.97
+SPEAKER_01,Yeah.,1043.692,1044.394
+SPEAKER_00,So that's one  level that I want you to go after it.,1045.537,1048.847
+SPEAKER_00,Does that make sense?,1049.108,1050.492
+SPEAKER_01,It does.,1050.693,1051.074
+SPEAKER_01,I think I can do that.,1051.134,1052.298
+SPEAKER_00,That's  something you feel like you could do?,1052.318,1054.805
+SPEAKER_01,It is.,1054.825,1054.925
+SPEAKER_00,"At the other level, I guess you'd call this a deeper  level, but it's all really, you know, in your brain.",1056.55,1063.49
+SPEAKER_00,Right?,1063.911,1064.052
+SPEAKER_00,It's this core belief.,1064.092,1065.777
+SPEAKER_01,Right.,1066.038,1066.279
+SPEAKER_00,Okay.,1066.539,1066.76
+SPEAKER_00," And why I use the word deeper is because we think of core beliefs as more stubborn,  like they don't change as easily.",1067.761,1074.146
+SPEAKER_01,Right.,1074.327,1074.708
+SPEAKER_00,As automatic thoughts might.,1075.51,1076.553
+SPEAKER_01,Okay.,1077.797,1077.918
+SPEAKER_00,"I'd like you to,  and this is really just more reflection, reflect on the evidence or evaluate the evidence that  supports and refutes this idea that you are unsuccessful, that you're a failure.",1078.038,1092.678
+SPEAKER_01,Okay.,1092.699,1092.98
+SPEAKER_00, Right?,1094.081,1094.242
+SPEAKER_00,I think cognitively you kind of understand that you're not.,1094.643,1098.14
+SPEAKER_00, Right?,1100.34,1100.561
+SPEAKER_00,"But in another sense, you feel like you are.",1100.963,1103.192
+SPEAKER_01,Right.,1103.252,1103.533
+SPEAKER_00,Right?,1103.935,1104.096
+SPEAKER_00,"So in a way, cognitively,  you're... ",1104.136,1105.2
+SPEAKER_01,There's that discrepancy.,1105.361,1106.827
+SPEAKER_00,Right.,1106.908,1107.852
+SPEAKER_00,There's a little bit of both.,1108.193,1109.017
+SPEAKER_00,"You know,",1109.158,1109.479
+SPEAKER_00," you can tell me that your family would say that's not the case, but you still...",1109.801,1113.84
+SPEAKER_01, Right.,1114.541,1114.741
+SPEAKER_01,"On paper, technically, I would, I'm not, but I still, I guess, feel that way.",1114.842,1119.82
+SPEAKER_00, There's a part of you that still feels that way.,1120.041,1121.65
+SPEAKER_00,There's a part of you that still believes  that cognitively.,1121.67,1125.366
+SPEAKER_00,There's also a part of you that thinks through that and says that's not accurate.,1125.386,1130.54
+SPEAKER_01, Right.,1130.72,1131.041
+SPEAKER_00,So I want you to weigh the validity of that core belief.,1131.563,1136.356
+SPEAKER_01,Okay.,1136.657,1136.817
+SPEAKER_00,Right?,1137.158,1137.419
+SPEAKER_00,"And actually,  I think what this is helpful to write down evidence that would support it.",1137.519,1141.914
+SPEAKER_00,Right?,1141.934,1142.998
+SPEAKER_00,"And  that's certainly something to note, but also, and this is really more important, evidence that  refutes it.",1143.018,1149.884
+SPEAKER_01,Okay.,1149.904,1149.984
+SPEAKER_00,Right?,1150.024,1150.567
+SPEAKER_00,Evidence that runs counter.,1151.35,1152.394
+SPEAKER_01,Right.,1152.575,1152.856
+SPEAKER_00,"But record both, and we'll  meet next time, and we'll look at the evidence.",1153.198,1159.714
+SPEAKER_01,Okay.,1159.955,1160.176
+SPEAKER_00,And we'll evaluate it.,1160.677,1161.239
+SPEAKER_01,"Yeah, we can do that.",1161.259,1161.68
+SPEAKER_00," So there's two steps you feel like you're comfortable with, and they make sense to you.",1165.263,1171.18
+SPEAKER_00, They make sense to you?,1171.341,1172.104
+SPEAKER_01,"Yeah, they do.",1172.265,1172.948
+SPEAKER_01,They do.,1172.968,1174.254
+SPEAKER_01,I definitely think I can do those.,1174.295,1175.42
+SPEAKER_00, When's the next time you'll be taking a quiz?,1176.321,1177.866
+SPEAKER_01,I think next week.,1177.886,1180.295
+SPEAKER_00,Next week.,1180.496,1180.857
+SPEAKER_00,Okay.,1180.897,1181.098
+SPEAKER_00,You have these  quizzes often.,1181.118,1182.302
+SPEAKER_01,Yeah.,1182.483,1182.884
+SPEAKER_00,All right.,1183.004,1183.285
+SPEAKER_00,So we'll set up a session for next week.,1183.967,1186.475
+SPEAKER_00,Let's try to get to where  it's after your next quiz.,1186.936,1189.367
+SPEAKER_01,Okay.,1189.387,1189.568
+SPEAKER_00,"So we'll have that to talk about, because I think that's the  next area to make, it sounds like the next area would be good to try to make progress on.",1189.869,1195.717
+SPEAKER_01,Yeah.,1195.737,1196.039
+SPEAKER_00," I mean, it seems like that's what you want to work on.",1196.501,1198.408
+SPEAKER_01,Yeah.,1198.749,1199.01
+SPEAKER_00,So we'll go from there.,1199.412,1201.138
+SPEAKER_00,"So I'll  set you up an appointment for just after that quiz, try the adaptive response.",1201.218,1208.137
+SPEAKER_01,Okay.,1208.157,1208.618
+SPEAKER_00,And try,1208.699,1208.96
+SPEAKER_00, evaluating evidence with the core belief.,1209.1,1211.59
+SPEAKER_01,Yes.,1211.61,1211.67
+SPEAKER_00,Does that sound good?,1211.951,1212.955
+SPEAKER_01,I can do that.,1213.135,1213.517
+SPEAKER_00,All right.,1213.557,1214.38
+SPEAKER_00," I also have the appointment up, and I appreciate you coming in and working through this.",1216.301,1220.898
+SPEAKER_01,"Yeah,  thank you so much.",1221.24,1222.109

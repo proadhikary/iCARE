@@ -1,0 +1,225 @@
+speaker,text,start,end
+SPEAKER_00," Hi, Lucy.",0.02,0.16
+SPEAKER_00, Nice to meet you.,20.16,20.814
+SPEAKER_01, Hi.,21.08,21.223
+SPEAKER_00, So I understand that you were referred here by your GP because you've been feeling quite  down recently.,22.08,27.953
+SPEAKER_01," Yeah, I thought I should.",28.481,29.432
+SPEAKER_01, I've been feeling quite bad for quite a while.,30.161,32.24
+SPEAKER_01, So I thought maybe it's time to see someone about it because I don't want to feel like this anymore.,32.421,37.359
+SPEAKER_00, Okay.,37.884,38.298
+SPEAKER_00," So from your notes, I saw that you saw the GP about three months ago.",38.561,43.079
+SPEAKER_01, Yeah.,43.441,43.626
+SPEAKER_00, So how long have you been feeling down altogether?,44.221,46.578
+SPEAKER_01," Quite a few months before that as well, actually.",47.484,49.999
+SPEAKER_01, But it's gotten pretty bad these past few months.,50.16,53.738
+SPEAKER_01, So that's kind of why I came.,54.241,55.493
+SPEAKER_00, Okay.,56.405,56.739
+SPEAKER_00, So has it got worse since you saw your GP?,56.881,59.079
+SPEAKER_01, Yeah.,59.16,59.385
+SPEAKER_01, Yeah.,60.265,60.43
+SPEAKER_00, Okay.,60.76,60.846
+SPEAKER_00," So tell me, how are things at the moment?",61.181,63.592
+SPEAKER_01," Well, it kind of started just feeling a bit low and wound up about things.",65.32,69.86
+SPEAKER_01," But I don't know, just recently I just can't really be bothered to do anything at all.",70.02,76.66
+SPEAKER_01, I kind of find it hard to get motivated for things.,76.881,79.039
+SPEAKER_01," And I want to be, I really want to be better, but it's just kind of reaching the end now where I  just want to do something about it.",79.2,88.395
+SPEAKER_00, Okay.,89.304,89.6
+SPEAKER_00," So you said that you're feeling really down, really sad.",89.781,93.259
+SPEAKER_01, Yeah.,93.603,93.789
+SPEAKER_00, And you feel like you haven't got any motivation.,94.361,96.731
+SPEAKER_00," But, are you okay?",98.781,100.437
+SPEAKER_01," Yeah, I'm fine.",100.823,101.48
+SPEAKER_01, Sorry.,101.561,101.744
+SPEAKER_00, Okay.,102.92,103.225
+SPEAKER_00," And you haven't got any motivation, but it sounds like you put quite a lot of pressure on yourself to try and feel a bit better.",104.16,109.159
+SPEAKER_01, Yeah.,109.605,109.819
+SPEAKER_01," I just, it's kind of hard as well because there's not really anyone to talk to about it.",109.92,114.04
+SPEAKER_01," So I just kind of stay on my own trying to, I don't like to think about it, but I don't know.",114.16,121.838
+SPEAKER_00," So you say you've been, you're feeling quite isolated.",122.721,125.52
+SPEAKER_00, There's not many people around.,125.602,126.52
+SPEAKER_01," Yeah, there's no one I can talk to about it.",126.56,129.098
+SPEAKER_01, No one would listen or understand anyway.,129.541,131.175
+SPEAKER_00, Okay.,131.763,132.04
+SPEAKER_00, So I'm just going to try and find out a little bit more about you.,132.221,134.96
+SPEAKER_00, So I understand that you're an English student at uni.,135.081,138.358
+SPEAKER_01, Yeah.,138.864,139.03
+SPEAKER_00, And you live away from home with some friends.,139.541,142.36
+SPEAKER_00, Is that right?,142.463,143.039
+SPEAKER_01, Yeah.,143.204,143.391
+SPEAKER_01, I live here.,143.742,144.168
+SPEAKER_00, Okay.,145.109,145.236
+SPEAKER_00, So you don't live far from the uni.,145.461,146.932
+SPEAKER_00," But you say you feel like you live with your friends, but you don't feel like you can talk to them.",148.2,151.599
+SPEAKER_01, Yeah.,151.845,152.157
+SPEAKER_01," I mean, they're lovely.",152.402,153.8
+SPEAKER_01," I get on really well with them, but I don't know.",154.744,158.06
+SPEAKER_01," I just recently, whenever they want to go out or stuff, I just, I don't want to bring them down.",158.16,163.48
+SPEAKER_01," I can't, they don't understand what I'm going through.",163.561,165.68
+SPEAKER_01," They kind of, I don't know, they don't make fun of how I feel, but they don't really understand what it's like.",165.76,171.898
+SPEAKER_01," I just, I don't want to go out with them and bring them down or stuff.",172.881,175.575
+SPEAKER_00, Okay.,176.748,176.896
+SPEAKER_00," So it sounds, do you try and hide the way you're feeling from them?",177.101,180.04
+SPEAKER_01, I guess.,180.246,180.639
+SPEAKER_01," I mean, it's easier to hide it than to try and explain it all the time when no one really wants to know.",180.78,187.297
+SPEAKER_00, Okay.,188.787,189.08
+SPEAKER_00, So it sounds like you've been feeling down.,189.141,190.54
+SPEAKER_00, You've been feeling unmotivated.,190.62,192.591
+SPEAKER_00," You feel like you want to be better, but actually it sounds like you feel like you can't reach out for help.",194.301,198.52
+SPEAKER_00, You can't speak to anybody.,198.621,200.198
+SPEAKER_01, No.,200.565,200.749
+SPEAKER_01, I don't really talk to my parents a lot either.,201.381,203.335
+SPEAKER_01, So that's kind of hard.,204.282,205.393
+SPEAKER_00, Okay.,206.247,206.518
+SPEAKER_00, I'm just going to go back in time a little bit.,206.702,208.44
+SPEAKER_00," I suppose I'm just wondering when, when did all of this start?",208.5,211.16
+SPEAKER_00, You said it's been going on for quite a few months.,211.241,213.179
+SPEAKER_01, Yeah.,213.504,213.668
+SPEAKER_01," Um, I guess it kind of started, uh, when I was actually, when I was revising for my exams, um, I guess the stress, I put a lot of stress on myself.",214.4,228.38
+SPEAKER_01, I think I've always wanted to do well for me and I guess for my parents.,228.46,233.359
+SPEAKER_01, So the stress of exams and it was also kind of hard because my parents were going through a bit of a troubled time then.,233.82,241.818
+SPEAKER_00, Okay.,242.867,243.219
+SPEAKER_00," So this would be like last March, last April?",243.381,246.259
+SPEAKER_01," Uh, yeah, I think so.",246.622,248.498
+SPEAKER_00, Around that time.,248.822,249.54
+SPEAKER_00, So about six months-ish.,249.661,250.649
+SPEAKER_00, And it sounds like a lot was happening.,252.222,254.1
+SPEAKER_00," So you had a lot of uni pressure on and, um, and you said that your parents were having marital problems.",254.24,261.36
+SPEAKER_01, Yeah.,261.38,261.602
+SPEAKER_00, Okay.,263.401,263.774
+SPEAKER_00, And it sounds like that was a real shock to you.,264.101,267.057
+SPEAKER_01," Yeah, I guess it was hard as well because I wasn't doing well at uni.",267.66,272.4
+SPEAKER_01, I guess I just felt a bit guilty.,273.689,275.098
+SPEAKER_01," I know it sounds silly, but I felt like maybe if I could do better, then they would get better.",275.802,281.72
+SPEAKER_01, But it just wasn't really happening.,281.821,284.516
+SPEAKER_00, Okay.,285.354,285.44
+SPEAKER_00, So it sounds like you were trying to work hard and be more successful because you thought that that would make them happier and try and fix things.,285.48,293.94
+SPEAKER_01," Yeah, I wanted to make them feel better, but it just kind of backfired a little, I guess.",294.02,299.376
+SPEAKER_00, How did it backfire?,300.681,301.59
+SPEAKER_01, It just ended up with them getting worse and I've just been feeling worse since then.,302.7,307.575
+SPEAKER_00, Okay.,309.221,309.56
+SPEAKER_00," So after the summer, after the exam period, and how did that exam period go for you in the end?",309.7,315.578
+SPEAKER_01, Not very well.,316.461,317.107
+SPEAKER_00, Okay.,318.529,318.658
+SPEAKER_00, That's an awful lot of pressure to put on yourself.,318.761,320.679
+SPEAKER_00, I suppose to think...,321.044,322.319
+SPEAKER_01, It's just annoying because I know I should have done better and I just didn't.,322.36,327.2
+SPEAKER_01, And I guess I beat myself up a lot about it.,327.38,330.514
+SPEAKER_00," So you say, I know, I know I should have done better.",332.041,334.652
+SPEAKER_00," I mean, I suppose hearing it from my perspective, I'm thinking it sounds like you had an awful lot going on at the time.",336.64,342.1
+SPEAKER_00," It'd be understandable, absolutely, that you wouldn't do as well as normal.",342.22,346.138
+SPEAKER_00, I suppose I'm just wondering if you have very high standards for yourself.,346.74,349.632
+SPEAKER_01, Probably maybe more than other people.,351.581,353.993
+SPEAKER_01," My parents have always kind of taught me, not in a loving way, I guess, but that you should do your best, but also get the best.",355.4,364.24
+SPEAKER_01, And I agree with that.,364.421,366.52
+SPEAKER_01, I think that's the right thing to think.,366.822,368.334
+SPEAKER_01," But when I don't do that, I don't know.",369.08,371.673
+SPEAKER_01, It annoys me a lot and I worry that it annoys them.,373.121,375.894
+SPEAKER_00, So it sounds like you feel you should always do your best.,377.341,380.298
+SPEAKER_00, Is that the word you used?,380.7,381.56
+SPEAKER_01, Yeah.,381.58,381.824
+SPEAKER_00, And that there isn't any kind of exceptions for that?,383.08,384.995
+SPEAKER_01, No.,385.803,385.905
+SPEAKER_00, Okay.,386.741,387.085
+SPEAKER_00, So I can see then that that was a really difficult time for you.,388.641,391.28
+SPEAKER_00, And that was when your mood started to get lower and things are still quite bad now.,391.34,396.7
+SPEAKER_00," I mean, what's the situation with your parents at the moment?",396.74,399.612
+SPEAKER_01, I think it doesn't sound good.,401.761,404.74
+SPEAKER_01," I don't really talk to them a lot, but I don't think they're going through very good.",404.82,409.439
+SPEAKER_01, I don't like to talk to them about it because it just makes me feel worse.,409.66,413.476
+SPEAKER_01, But I don't think it's getting any better.,414.481,416.273
+SPEAKER_00, Were you home over the summer?,417.36,418.552
+SPEAKER_01," For a little bit, yeah.",419.401,420.372
+SPEAKER_00, And how was that?,421.141,421.766
+SPEAKER_01, Not very fun.,423.401,424.088
+SPEAKER_01, No.,425.401,425.543
+SPEAKER_01, It was quite tense all the time.,427.221,428.611
+SPEAKER_01," It stressed me out more than relaxed me over the summer, I guess.",429.9,433.173
+SPEAKER_00, Okay.,435.021,435.446
+SPEAKER_00," Okay, so it sounds then like quite a lot has been happening.",436.961,440.0
+SPEAKER_00, You've been feeling very low.,440.041,441.08
+SPEAKER_00, You've had uni pressure on.,441.08,442.935
+SPEAKER_00, You've had problems with your parents' marriage.,443.681,446.34
+SPEAKER_00," And it sounds like you feel like you can't really reach out to anyone,  like you can't understand, but you can't really reach out to your parents right now.",446.46,452.717
+SPEAKER_00, You can't really confide in your friends.,453.3,455.353
+SPEAKER_00," So I suppose I'm just wondering if you can tell me a bit more about how you've been feeling,  I mean, say this past week.",456.501,460.567
+SPEAKER_01," Really not good, to be honest.",462.981,464.572
+SPEAKER_01," I actually, if I don't have to, then I don't really leave the house or get out of.",465.76,472.02
+SPEAKER_01," But I just, I can't find the motivation for the things I used to join.",472.1,476.22
+SPEAKER_01," I used to love doing sports or going out, and now I just prefer to lie in bed and not really do anything.",476.4,482.358
+SPEAKER_00, Okay.,483.244,483.659
+SPEAKER_01," I missed a few lectures this week that I should have gone to, but...",483.76,486.395
+SPEAKER_00, Right.,487.362,487.67
+SPEAKER_00," So I suppose I'm just wondering then, let's see if we can think about one thing, say a lecture.",488.281,495.039
+SPEAKER_00, What kind of thoughts do you have about going to that lecture before it happens?,495.781,498.976
+SPEAKER_01, I don't really see the point anymore.,500.001,501.919
+SPEAKER_01," If I can't do as well as I should be doing, then what's the point in putting myself in those positions?",502.18,510.177
+SPEAKER_01," I just, I can't be bothered anymore to try.",511.641,515.06
+SPEAKER_01, It just stresses me out more than I need to.,515.12,518.216
+SPEAKER_00," Okay, so it sounds like the kind of thoughts you've got in your head are, it's pointless, it's not worth it.",519.04,524.899
+SPEAKER_01, Yeah.,525.264,525.451
+SPEAKER_00, Do you have any other thoughts in your head when you're just at that point before you go to the lecture?,525.72,529.957
+SPEAKER_01," I feel like, I don't know, I don't really even deserve to be here if I can't do well enough.",531.36,539.979
+SPEAKER_01, I see all these other students who are doing well and doing better and want to be there.,540.4,544.672
+SPEAKER_01," I don't know why I'm here even at uni, to be honest.",547.501,551.416
+SPEAKER_00, So it sounds like you feel like you're not as good as other people here.,552.441,555.56
+SPEAKER_01, Yeah.,555.662,555.825
+SPEAKER_00, Okay.,556.801,557.226
+SPEAKER_00," I'm just, sorry, is it okay if I take notes as we go through?",558.761,561.118
+SPEAKER_00," It's just I'm trying to, I guess, understand what you're telling me and it helps me just to write it down  and I'll share this with you later.",561.4,567.228
+SPEAKER_00," Okay, so it sounds like those are some quite negative thoughts to have.",569.521,573.02
+SPEAKER_00," You're kind of saying, you know, it feels like it's pointless, it's more effort than it's worth,  and I don't deserve to be here.",573.16,579.596
+SPEAKER_00," I mean, when you have those thoughts, how do you feel?",580.301,582.328
+SPEAKER_01," Very unworthy probably would be the best way to put it, kind of, I don't know, lower than normal.",585.62,596.879
+SPEAKER_01, Because then it makes me think about all the things that I should have been doing better.,597.8,601.758
+SPEAKER_00," Okay, so what you described there then, you said, I'm unworthy, I should be doing lots of things better.",602.42,607.916
+SPEAKER_00," Those are kind of what I would call thoughts, actually.",609.201,611.76
+SPEAKER_00, I suppose I'm trying to understand what it feels like in your gut.,611.82,614.999
+SPEAKER_00, What kind of emotions do you feel?,615.16,616.493
+SPEAKER_00, Happier?,617.241,617.725
+SPEAKER_00,Do you feel sad?,617.846,618.935
+SPEAKER_00, What kind of emotions are you feeling when you have those thoughts?,619.58,622.292
+SPEAKER_01, Sad.,624.221,624.545
+SPEAKER_01, Not happiness.,625.7,626.65
+SPEAKER_01," No, sad.",627.761,628.487
+SPEAKER_01, A bit of anger and frustration as well.,630.302,632.035
+SPEAKER_00, Okay.,632.8,633.103
+SPEAKER_00," I know you're just kind of telling me this, and I know this is quite a heavy topic, but you're kind of laughing.",637.449,640.8
+SPEAKER_00," And I suppose I wonder a little bit, are you a bit, you know, how do you feel about having these emotions,  talking about these emotions?",641.222,646.992
+SPEAKER_01," I guess, embarrassed.",647.8,649.388
+SPEAKER_01," I've never yet talked about it, so it's quite uncomfortable to be in this situation.",652.021,655.553
+SPEAKER_00," Okay, well you're doing a great job, because I know that this can be difficult.",657.8,661.8
+SPEAKER_00," Okay, so it sounds like some of the thoughts you're describing are, it's pointless, it's more than it's worth,  I don't deserve to be here, I'm unworthy.",661.8,670.353
+SPEAKER_00," And those kind of thoughts, it sounds like they just flip through your mind.",671.8,675.217
+SPEAKER_00, And then you're kind of describing different emotions that those lead to.,675.84,679.78
+SPEAKER_00," You're kind of describing sad, anger, frustration, embarrassed.",679.82,682.78
+SPEAKER_00," What about in your body, what happens?",682.8,684.35
+SPEAKER_00," How do you feel, kind of physically?",685.901,687.109
+SPEAKER_01," I used to be, I think from those emotions, very wound up, very kind of stressed all the time.",690.163,696.8
+SPEAKER_01, But recently it's just been a lot more draining than anything.,696.84,700.418
+SPEAKER_01," Just quite lethargic, and I just can't be bothered anymore, and my body reflects that.",701.061,708.339
+SPEAKER_01, But then when I try and sleep I just can't seem to have a satisfied night's sleep.,708.8,712.833
+SPEAKER_01," It's really, really frustrating.",714.8,716.391
+SPEAKER_00," So it sounds like this is affecting you, it's draining you of your energy, like your body can't be bothered.",718.081,722.78
+SPEAKER_00, I think that's a really good way of describing it.,722.8,724.699
+SPEAKER_00, And you're noticing sleep problems as well.,724.982,726.416
+SPEAKER_00," And then, what do you do?",726.84,727.911
+SPEAKER_00," So this is, so we're back to the point before the lecture.",728.84,731.8
+SPEAKER_00," So you start having these thoughts, these emotions, and you know, your body, I guess it sounds like those thoughts are quite draining,  so it'll be draining your energy.",731.86,738.588
+SPEAKER_00," What then happens, what do you do next?",739.84,741.194
+SPEAKER_01," I kind of focus on the negative thoughts, and I probably should not think about them,",742.8,747.8
+SPEAKER_01, but I focus on them and then I don't really want to do anything.,748.684,751.8
+SPEAKER_01, I kind of stay in bed or...,751.8,752.709
+SPEAKER_00," So you think even more about those kind of worries that you have, so you do a bit of dwelling and you stay in bed.",753.84,758.636
+SPEAKER_00," And it sounds like you don't, you haven't tried speaking to your friends about it.",761.8,764.413
+SPEAKER_01," No, I haven't.",765.841,766.494
+SPEAKER_00, Or speaking to family.,767.426,768.436
+SPEAKER_00," Okay, and then after you've done that, so after you've not gone to the lecture, you've stayed in bed,  you've kind of spent time, as you said, focusing on those thoughts, those negative thoughts.",768.8,776.254
+SPEAKER_00, How do you feel after that?,777.8,778.545
+SPEAKER_00,Do you feel better or do you feel worse?,778.585,780.719
+SPEAKER_01," I guess I feel slightly worse, but then a bit numb, in a way, kind of, I don't know.",782.8,786.047
+SPEAKER_01," Once you've felt that, because I do feel tired all the time, I just try and push it out and then you don't really think about anything,  and it's almost nicer that way than to keep focusing on how much you're getting wrong and how much you can't do stuff.",791.9,804.655
+SPEAKER_01, Sometimes it's better just to not think about it at all.,806.8,810.559
+SPEAKER_00, So it sounds like in some ways it's a bit of a relief to do that.,811.8,814.417
+SPEAKER_01, Yeah.,814.82,814.902
+SPEAKER_00, But in other ways maybe you think it might make things worse.,815.8,818.8
+SPEAKER_01," Probably in the long run, yeah.",819.002,819.911

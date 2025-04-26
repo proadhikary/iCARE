@@ -1,0 +1,149 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.461, How are you doing today?
+SPEAKER_01,14.074,14.395," Good, thanks."
+SPEAKER_01,14.415,14.735,How are you?
+SPEAKER_00,17.22,17.682, I'm doing well.
+SPEAKER_00,17.722,18.424,Thanks for asking.
+SPEAKER_00,19.528,23.629,I understand you had some symptoms recently that have been  bothering you.
+SPEAKER_01,24.16,24.344, Yeah.
+SPEAKER_00,25.242,26.038, Could you tell me about those?
+SPEAKER_01,26.681,39.214," Yeah, probably for the last eight months, maybe a year even, I have this position at  work where I have to make these weekly presentations and it's killing me."
+SPEAKER_01,39.515,40.316,I can't do it anymore.
+SPEAKER_00,41.96,43.774, Tell me about how these presentations are set up.
+SPEAKER_01,44.841,55.394, So it's the executive director and it's ten managers and we're kind of sitting in a circle  and everybody goes around and does like a weekly program update.
+SPEAKER_01,55.895,60.515,"Five minutes or so,  maybe ten at the most if there's an issue that kind of needs to be discussed."
+SPEAKER_01,61.238,66.111,"But everybody  takes turns speaking and it goes around, kind of around in a circle."
+SPEAKER_01,67.434,72.659,And depending on where  you sit is what order you present in basically.
+SPEAKER_00,74.125,74.386, All right.
+SPEAKER_00,74.487,78.084,"And you say that this situation with the presentation, you said it's killing  you."
+SPEAKER_01,78.941,79.064, Yeah.
+SPEAKER_00,80.0,80.857, What do you have in it?
+SPEAKER_01,81.04,84.031, I feel like it's constantly on my mind.
+SPEAKER_01,84.071,97.85,"I'm constantly worried about this presentation  and even though I only have to speak for like five minutes, I'm so consumed by this part  of my job that I can't do anything else."
+SPEAKER_01,97.93,102.924,"And I normally, I feel like I do good in my job  but this."
+SPEAKER_01,102.944,107.514,And it builds up more like every day.
+SPEAKER_01,107.534,115.077,The day before is really bad because  I'm prepping for the meeting and so it really starts to consume me then.
+SPEAKER_01,115.097,124.559,"I don't sleep the  night before and then by the time I get to the meeting, I'm so anxious and so nervous."
+SPEAKER_01,125.303,126.119, I'm panicking.
+SPEAKER_00,126.16,126.589, You're panicking.
+SPEAKER_01,127.561,128.587, And I just can't.
+SPEAKER_01,128.607,129.109,I just can't.
+SPEAKER_00,132.661,134.98, So this is distressing for you.
+SPEAKER_01,135.33,135.495, Yeah.
+SPEAKER_00,135.921,140.732, And this is probably difficult to talk about.
+SPEAKER_00,141.814,145.452,"At the beginning of the meeting, what would  be your anxiety level?"
+SPEAKER_00,145.473,146.08,What's going on then?
+SPEAKER_01,147.361,153.0," By the beginning of the meeting, when I've sat down, I feel like I'm breathing harder."
+SPEAKER_01,154.021,158.576, I'm starting to sweat and I feel like my face is turning red.
+SPEAKER_01,158.616,159.7,My palms are really sweaty.
+SPEAKER_01,159.8,162.847, I'm constantly having to wipe them off on my pants.
+SPEAKER_01,163.989,174.599,"My heart is racing and I feel like,  you know, the closer it gets to being my turn, I feel like everything just gets worse."
+SPEAKER_01,174.64,177.994,I feel  like I'm breathing harder and my heart is beating faster and louder.
+SPEAKER_01,178.015,179.521,I feel like everybody can hear  it.
+SPEAKER_01,181.004,182.788,My stomach just gets in knots.
+SPEAKER_01,183.429,184.371,I feel nauseous.
+SPEAKER_01,184.391,204.96,There have been times that I've  managed to just hold my hands still and just sit really still and I've tried some deep breathing  and just sat and have made it through and have made it to my presentation and been able to speak.
+SPEAKER_01,205.221,218.179," But even then when I speak, I stutter and I stammer over my words and I don't say everything  I need to even though I have a cheat sheet essentially and I can read from it."
+SPEAKER_01,218.199,221.107,I still  feel like I'm missing things and I'm leaving things out.
+SPEAKER_01,222.51,229.789,"My voice doesn't project so I end  up speaking very softly and like I said, I'm stuttering."
+SPEAKER_01,229.809,236.226,"I just can't get it even then, but  it's still, I feel like it's still a mess."
+SPEAKER_00,237.27,240.402,So you're not happy with the quality of your  presentation?
+SPEAKER_01,240.422,240.462,No.
+SPEAKER_00,240.964,245.156,Even when you're able to kind of stay there and conduct it.
+SPEAKER_00,245.718,249.23,So I want to divide  this into the stages.
+SPEAKER_00,249.27,250.554,So we talked about the very beginning.
+SPEAKER_00,250.815,251.999,So you're already having anxiety.
+SPEAKER_00,252.019,254.386,It  sounds like it's fairly intense at that point.
+SPEAKER_00,255.068,268.962,"Tell me about as they go around the table and  give their brief presentations, tell me about what you're feeling as the presentations come  around to you."
+SPEAKER_01,269.986,282.848,"Well, if I manage somehow to get there early enough and I can get an early enough  seat like to sit like right next to my boss or like one or two away, then I'm actually pretty  okay because I can kind of get it over and done."
+SPEAKER_01,283.629,294.76,But so many times I'm so nervous and honestly  a bit hungover because I've been drinking to try and I don't feel anxious when I drink.
+SPEAKER_01,295.981,308.083," So there have been a lot of times that I've woken up a little bit late because I've been drinking  and so by the time I get there, I'm like one of the last, it's one of the last seats,  so I'm one of the last to go."
+SPEAKER_01,310.249,323.099,"And so as it gets closer and closer to me, I just feel more and more  anxious and panicky and here in the, especially in the last few weeks, I've had to leave."
+SPEAKER_01,323.279,324.041,I can  stay.
+SPEAKER_01,324.282,325.405,I've had to go.
+SPEAKER_00,325.425,330.92,"So before the presentations come around to you, you get up and leave the room."
+SPEAKER_00,332.404,349.928," So in those times when you've stayed in the room and you've done the presentation,  so the anxiety, the panic, the heart rate, the sweaty palms, all these symptoms are increasing  as they go around the table or the room."
+SPEAKER_00,350.57,359.32,"And when it comes to you actually giving your presentation,  you're not happy with it, but what's your anxiety level like during your presentation?"
+SPEAKER_01,360.561,390.771," I feel like during the presentation, I feel almost like everything,  it's like everything stops and then when it's done and it goes to whoever's next,  it's like, it's almost like a physical sense of relief, like, okay, that's over and everything  starts to relax and calm down, but then I feel miserable."
+SPEAKER_01,390.792,407.793,"I am so, so upset with how I performed  that more than anybody else that, well, really that everybody is like, what is wrong with her,  but that my boss especially is like, why did I give her this job again?"
+SPEAKER_01,407.813,419.917,"And I feel so,  so miserable that I feel like I've disappointed him and so I've disappointed me."
+SPEAKER_01,419.937,427.778,"And I mean,  this has always, always happened to me for as long as I can remember."
+SPEAKER_01,427.798,430.404,I've never been able to  speak in front of groups.
+SPEAKER_01,430.966,441.409,"And from back in college, if I had to make a presentation,  I would ask the teacher if there was a way out of it."
+SPEAKER_01,442.633,445.0,"And if they refused, then I wouldn't present."
+SPEAKER_01,447.101,459.358, And I had a teacher who insisted that I make the presentation and I dropped the class and I took  it again with a different teacher that wouldn't make me present because I couldn't do it.
+SPEAKER_01,459.379,465.514,"And  high school was the same, that I would, you know, I just wouldn't do it."
+SPEAKER_01,465.795,469.764,"And actually,  this is ridiculous."
+SPEAKER_01,469.784,471.952,"You know, I mentioned drinking."
+SPEAKER_01,472.112,473.718,I've been drinking for a really long time.
+SPEAKER_01,473.738,493.402,"And  when I was like, I don't know, like 13 or 14, I got busted for underage drinking and I had to do  some like adolescent treatment and I had to do this like group therapy with these other kids and  I couldn't do that."
+SPEAKER_01,493.422,496.069,I bolted out of the room.
+SPEAKER_01,496.089,500.6,"And so I've never been able to do this, ever."
+SPEAKER_00,502.081,503.892, So you've had these symptoms for a long time.
+SPEAKER_00,503.912,505.32,They've been frustrating you for a long time.
+SPEAKER_00,507.141,510.5, How about periods of time where you haven't had to be in front of other people?
+SPEAKER_01,512.663,518.356," Well, if I haven't had to be in front of other people, I've been kind of okay."
+SPEAKER_01,518.416,522.667,"You know,  I can go to the movies, but I like to sit on the end."
+SPEAKER_01,522.688,533.018,"You know, I can go out with my family  and my friends and we can go shopping, but I don't like to go to new places."
+SPEAKER_01,533.098,536.268,I like to go  kind of like the same places that I've been.
+SPEAKER_00,536.529,537.373,Familiar with them.
+SPEAKER_01,537.413,537.714,"Yeah, yeah."
+SPEAKER_01,537.734,539.542,Because then I  know them.
+SPEAKER_01,539.582,542.231,"You know, I know the layout of stores and things like that."
+SPEAKER_00,542.251,552.445,"All right, so it interferes  with your functioning maybe a little bit, but if you're not having to present, it's not as big a  deal as it is now for you with this job."
+SPEAKER_00,553.187,554.249,This is really affecting you.
+SPEAKER_00,555.713,567.54,So are you taking any  measures or have you taken any measures other than the drinking you mentioned to avoid the situation?
+SPEAKER_01,567.761,569.61," Oh, definitely."
+SPEAKER_01,569.69,571.68,"I mean, there's, like I said, I mean, I've run out of the meetings."
+SPEAKER_01,572.761,575.913, There's been times that I've called in sick when I haven't been.
+SPEAKER_01,575.954,583.879,"There's been times when I've said  I've had car trouble, arrived so late that it was unreasonable to make my presentation."
+SPEAKER_01,584.52,594.93, I've actually talked to my boss about possibly not doing the presentation and just giving my notes to  him or to brief him before or after.
+SPEAKER_01,595.892,598.999,Because I don't want to say that I have this problem.
+SPEAKER_01,599.019,601.87,"I mean,  normal people don't do this, right?"
+SPEAKER_01,601.89,603.819,"I mean, normal people can make these presentations."
+SPEAKER_01,603.839,605.506,"I mean,  the rest of the staff can do it."
+SPEAKER_01,605.546,606.409,Why can't I?
+SPEAKER_01,607.212,612.146,"And so I don't want to tell him that, you know,  that there's something wrong with me."
+SPEAKER_01,612.166,624.003,"I mean, it's gotten to the point that I've talked to him about,  you know, this other position that's in another department and transferring so that I won't have  to do this anymore."
+SPEAKER_01,624.023,626.429,And it would be a pay cut.
+SPEAKER_01,626.469,627.311,"I mean, it's a demotion."
+SPEAKER_01,627.391,631.0,But I can't live like this.
+SPEAKER_00,631.761,633.165, This is too painful.
+SPEAKER_00,634.168,637.82,"If you had the other job, this other job would involve presentations."
+SPEAKER_00,639.18,641.829, So you'd be happier.
+SPEAKER_00,642.751,645.42,You'd have fewer symptoms in that job.
+SPEAKER_00,648.004,649.89, What's been the result of that discussion?
+SPEAKER_00,649.931,652.279,Has there been anything that's happened as far as?
+SPEAKER_01,652.76,660.58," Well, he's told me that he thinks I'm doing a good job."
+SPEAKER_01,665.22,665.621, Excuse me.
+SPEAKER_01,665.641,667.404,And he doesn't want me to change positions.
+SPEAKER_01,667.424,668.486,But I can't do this anymore.
+SPEAKER_00,678.162,678.643, All right.
+SPEAKER_00,678.663,681.948,So you've tried to cope with anxiety.
+SPEAKER_00,681.968,688.519,"You've had to leave, call in sick or come in late."
+SPEAKER_00,690.14,694.894, You've looked for a different position where it doesn't involve presenting.
+SPEAKER_00,694.914,704.38,"You've had this  problem in other circumstances, the group therapy and in presentations before."
+SPEAKER_00,706.841,711.54, Do you or have you seen any symptoms like this in your parents?
+SPEAKER_01,712.681,715.88," Yeah, both of my parents and my sister actually."
+SPEAKER_01,718.741,722.04, We would kind of joke about it sometimes that we all get so nervous.
+SPEAKER_01,724.801,732.522," And my sister, I don't know how, but she managed to find a job where she doesn't interact with  anybody."
+SPEAKER_01,732.542,737.32,It's her in her office with her computer by herself.
+SPEAKER_01,740.281,742.367, And it's just her.
+SPEAKER_01,742.387,743.932,I don't know how she pulled it off.
+SPEAKER_01,744.152,746.68,"I mean, she hardly talks on the phone."
+SPEAKER_01,748.841,749.744, And she's really happy.
+SPEAKER_01,749.764,753.877,"And my parents, they actually met in college."
+SPEAKER_01,755.64,765.959," When my dad, after my mom made a presentation, my dad, I guess, leaned over and was like,  you know, I could tell you were really nervous, but you did great."
+SPEAKER_01,765.98,772.08,"And  they just, they seemed to bond over this nervousness that they both had."
+SPEAKER_00,774.921,775.161, All right.
+SPEAKER_00,775.181,780.58,"So there may be a history, a family history of symptoms like these."
+SPEAKER_00,784.88,786.205, This is distressing for you.
+SPEAKER_00,787.028,794.28,"You tried to avoid it and deal with it, but you haven't been,  you don't feel you've been very successful coping with it."
+SPEAKER_00,796.881,799.291, We'll get you in for treatment.
+SPEAKER_00,799.311,803.319,"We'll get you in the next couple of days to see a counselor,  if that's what you'd like to do."
+SPEAKER_01,803.523,803.853," Yes, please."
+SPEAKER_00,804.261,805.345, I think that could help.
+SPEAKER_00,806.589,809.059,And I want to thank you for spending this time with me.
+SPEAKER_00,809.079,812.04,It's really  helped me to understand better what you're facing.
+SPEAKER_01,812.966,813.194, Thank you.
+SPEAKER_00,813.587,814.003," Thanks, Sasha."

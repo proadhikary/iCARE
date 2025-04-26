@@ -1,0 +1,295 @@
+speaker,start,end,text
+SPEAKER_00,15.298,16.038, How you doing today?
+SPEAKER_01,17.401,17.85, I'm alright.
+SPEAKER_00,18.401,18.993, You alright?
+SPEAKER_01,19.503,19.789, Yeah.
+SPEAKER_01,20.581,24.035," There's been some changes in my life, but, um, yeah."
+SPEAKER_00,25.16,25.548, Good changes?
+SPEAKER_01,26.384,27.14," Eh, not really."
+SPEAKER_00,27.16,27.874, Not really?
+SPEAKER_01,28.16,28.282, Yeah.
+SPEAKER_00,29.441,31.674, What kind of changes?
+SPEAKER_01,32.64,46.231," You know, just, you know, you know I lost my job, so things are kinda, you know, domino  effects from that, so."
+SPEAKER_00,47.4,49.777, So there's been consequences from those in your job?
+SPEAKER_01,50.862,56.493," Yeah, I mean obviously, that's, you know, you have a job, so you can take care of certain  things, so."
+SPEAKER_00,56.84,56.962, Yeah.
+SPEAKER_00,58.54,59.03, Like what things?
+SPEAKER_01,59.801,65.889," Like, you know, like paying your bills, and that's pretty much it, I guess that's really  why most people have a job."
+SPEAKER_00,68.2,70.815, So you've been unable to pay your bills?
+SPEAKER_01,71.74,71.944, Yeah.
+SPEAKER_01,72.761,73.496," Yeah, definitely."
+SPEAKER_00,74.23,74.373, Yeah.
+SPEAKER_00,78.128,79.13, How's your mood overall?
+SPEAKER_01,83.44,86.14," I mean, what can I say?"
+SPEAKER_01,86.26,87.107, I lost my job.
+SPEAKER_01,89.0,95.279," I'm seeing you because I have a drinking problem, so things are not that great."
+SPEAKER_00,96.246,96.872, Things are not great?
+SPEAKER_01,97.7,97.802, No.
+SPEAKER_00,98.964,99.918, Tell me about the drinking now.
+SPEAKER_00,100.08,100.642, How's it been going?
+SPEAKER_01,104.901,105.649, I drink a lot.
+SPEAKER_01,107.422,116.716," Um, I always say to myself that I'll try to drink less, but at this point it's kind of  like, what have I got to lose, you know?"
+SPEAKER_00,119.23,119.975, Are you drinking more?
+SPEAKER_01,121.685,123.436," Yeah, yeah, yeah."
+SPEAKER_00,125.188,125.611, A lot more?
+SPEAKER_01,127.763,132.275," Yeah, I mean, not a lot more, I mean I guess I have more free time now, so."
+SPEAKER_01,134.28,135.563, Because of not having a job.
+SPEAKER_00,142.6,144.992, What effects do you think that you're experiencing because of the increased drinking?
+SPEAKER_01,148.03,149.58, I don't know.
+SPEAKER_01,149.681,152.56, I don't know.
+SPEAKER_00,153.582,158.953, Are you feeling good about the drinking?
+SPEAKER_01,162.44,168.331," At this point it's kind of like, who cares, like what difference does it really make,  you know?"
+SPEAKER_00,169.584,171.835, So you're indifferent towards the drinking?
+SPEAKER_01,172.88,174.618, Yeah.
+SPEAKER_00,177.56,178.963, When you're drinking does it still feel good?
+SPEAKER_01,185.96,186.817, Nothing really feels good.
+SPEAKER_00,187.389,187.511, No?
+SPEAKER_00,189.128,190.316, Does it just get you back to normal?
+SPEAKER_01,191.869,192.657," Yeah, pretty much."
+SPEAKER_00,194.446,195.309, When's the last time you drank?
+SPEAKER_01,200.334,200.879, This morning.
+SPEAKER_00,201.947,202.329, And how much?
+SPEAKER_01,205.99,207.216," A lot, I don't know."
+SPEAKER_00,208.808,209.354, You don't recall?
+SPEAKER_01,211.556,211.859, No.
+SPEAKER_00,213.689,215.859, Is that typical?
+SPEAKER_01,216.121,220.398," I mean, I don't recall you drinking on the same day that we've had sessions before."
+SPEAKER_01,222.442,228.96," I mean, at a certain point it's like, you know, difficult to wake up and not have a  drink."
+SPEAKER_01,228.96,230.132, Like to get through the day.
+SPEAKER_01,231.723,237.253," So, yeah, I mean I just drink as much as it takes for me to function and I don't really  know how much that is."
+SPEAKER_01,237.96,241.96," Like I don't sit there and count it like, these are my three shots for the morning."
+SPEAKER_01,242.728,243.172, I don't know.
+SPEAKER_01,243.96,247.739," Like I get up, I drink some to make me feel better."
+SPEAKER_01,248.361,258.96," I keep some alcohol by my bed because it's hard when I wake up in the morning, like,  it's just really difficult to like get out of bed without having a drink."
+SPEAKER_01,259.743,263.92," So I'll drink some then, you know, and just to function."
+SPEAKER_01,264.001,264.797, So I don't know how much.
+SPEAKER_01,264.96,265.364, I don't know.
+SPEAKER_00,267.403,269.92," But you feel as though it's worsened, like you're drinking more."
+SPEAKER_01,270.947,271.289, Yeah.
+SPEAKER_00,273.582,276.856, What would you say your attitude toward increased drinking is right now?
+SPEAKER_01,278.728,279.96," I'm pretty indifferent, like I said."
+SPEAKER_01,280.181,283.94," I mean, I just don't, I don't, at this point it's like, what does it matter?"
+SPEAKER_01,284.341,288.112," Like everything else has, I don't know."
+SPEAKER_00,291.402,294.638," So a couple of times you indicated that you're indifferent toward it, right?"
+SPEAKER_00,295.441,302.667, And why I'm curious about that is because that's not been the way that you've appeared  before.
+SPEAKER_00,303.96,307.354, You appeared before to be unhappy that you were drinking.
+SPEAKER_00,309.181,313.418, And now it's more or less something that you don't have strong feelings about one way or the other.
+SPEAKER_01,313.96,317.709, I guess I just don't know why I should keep suffering and like making myself suffer.
+SPEAKER_00,322.021,323.435, So the drinking takes away the suffering.
+SPEAKER_01,324.362,327.538," No, the feeling bad about the drinking makes me suffer."
+SPEAKER_00,327.98,328.96, The feeling bad about the drinking.
+SPEAKER_01,329.241,333.373," And yeah, I mean, yes, the drinking takes away the suffering, but that's not what I meant."
+SPEAKER_00,336.541,343.218," So feeling guilty about drinking, that's what's causing you problems."
+SPEAKER_01,344.0,354.155," That, I mean, I don't know if that's what's causing me problems,  but at this point it just seems pointless to keep making myself feel guilty about it is what I'm saying."
+SPEAKER_00,356.643,357.648, How would you like to feel about it?
+SPEAKER_01,360.684,363.699," I would like to not, I would like to be happy."
+SPEAKER_01,363.96,364.715, I would like to not drink.
+SPEAKER_01,364.96,366.536, I would like to have a good life.
+SPEAKER_01,367.301,377.96," But at this point I'd rather just, I don't know, like why should I keep feeling guilty about it?"
+SPEAKER_01,378.246,378.96, What is the point?
+SPEAKER_01,379.401,388.82," Like what is the point of this life where I have no job and I'm going to lose my house and, you know, I just don't get it."
+SPEAKER_01,388.96,394.9, Like why do you want me to keep feeling guilty about my drinking when everything else is not working?
+SPEAKER_01,395.243,396.738, It's not working.
+SPEAKER_01,397.343,399.839, And so I'm just supposed to like keep trying.
+SPEAKER_01,400.808,401.92, I don't get that anymore.
+SPEAKER_01,402.202,402.768, I don't get it.
+SPEAKER_00,404.863,408.535, So you no longer understand the point of life?
+SPEAKER_01,410.643,413.055," Yeah, I mean, yeah."
+SPEAKER_01,414.806,416.96," As it is, like this just doesn't make any sense to me."
+SPEAKER_01,417.201,424.96," Like why should I keep fighting to be sober if I can't, you know, I lost my job."
+SPEAKER_01,425.505,426.596, It's too late for that.
+SPEAKER_01,426.96,430.96," Like the whole point of coming to you is to, you know, have a better life."
+SPEAKER_01,431.445,432.576, Things are getting worse.
+SPEAKER_01,433.0,434.163, I'm not saying it's your fault.
+SPEAKER_01,434.203,441.96,I'm just saying like what's the point of this if it's not getting better?
+SPEAKER_01,442.341,447.997, And things are getting so bad that even if I was sober I wouldn't be able to handle it.
+SPEAKER_00,450.445,453.535, So what do you see as your options right now?
+SPEAKER_01,456.007,456.45, I don't know.
+SPEAKER_00,459.12,462.871," Can you tell me about some of the things you've been doing recently, like in the last three or four days?"
+SPEAKER_01,465.96,466.99, Sitting at home drinking?
+SPEAKER_00,469.637,469.879, Mm-hmm.
+SPEAKER_01,470.123,470.858, That's about it.
+SPEAKER_01,471.062,471.552, A lot of drinking.
+SPEAKER_00,471.572,471.96,Anything else?
+SPEAKER_01,471.96,472.909," Yeah, going to the liquor store."
+SPEAKER_01,472.95,473.475,That's about it.
+SPEAKER_01,473.96,475.41," I mean, seriously, it's just funny."
+SPEAKER_01,475.45,476.175,Like I don't even...
+SPEAKER_01,477.402,478.669, There is nothing.
+SPEAKER_00,481.582,484.554," Now I know you were working on a few things, like you were working on finding another job."
+SPEAKER_00,486.061,487.617, Have you been doing that?
+SPEAKER_01,488.06,488.742," No, not really."
+SPEAKER_01,488.782,492.092,"I mean, I'm going to lose my house, so I'm just biding my time until that happens."
+SPEAKER_01,492.132,492.794,I don't really know.
+SPEAKER_01,495.322,496.97," Like, yeah, no."
+SPEAKER_01,497.211,498.598,"I'm not looking for a job, no."
+SPEAKER_00,499.202,500.43, So you stopped looking for a job.
+SPEAKER_01,502.103,502.531, Mm-hmm.
+SPEAKER_00,503.081,504.206, And when are you losing your house?
+SPEAKER_01,506.96,507.521, I don't know.
+SPEAKER_01,507.742,513.717,"It's hard to tell, you know, with the banks and everything, but it seems like it will be soon."
+SPEAKER_00,515.384,516.96, And what's your plan for when that happens?
+SPEAKER_01,517.485,518.132, I don't have one.
+SPEAKER_00,519.001,519.736, You don't have one?
+SPEAKER_01,520.021,520.144, No.
+SPEAKER_00,521.662,526.496," Now, before we've talked, and I haven't seen you in a while, you're always pretty careful about planning things out."
+SPEAKER_01,528.481,532.189, I've just decided that I'm not going to worry about it anymore.
+SPEAKER_01,532.31,532.871,I can't.
+SPEAKER_01,533.152,534.595,I just can't do it anymore.
+SPEAKER_00,537.101,538.152, You can't worry anymore?
+SPEAKER_01,539.02,539.222, Yeah.
+SPEAKER_01,541.96,543.703, My whole life is just full of worrying.
+SPEAKER_01,543.783,551.915,"I mean, there's nothing to do except to worry about all of it, you know, my job, my drinking, my house."
+SPEAKER_00,555.302,557.96, So what do you see as your alternative to all this worrying?
+SPEAKER_01,558.502,559.767, There is no alternative.
+SPEAKER_00,563.42,563.841, So what do you do?
+SPEAKER_00,586.582,586.963, You don't know?
+SPEAKER_00,594.481,600.976, I sense at this time you're much more negativistic as compared to what I've seen you before.
+SPEAKER_00,600.996,602.96,Do you recognize that as being the case?
+SPEAKER_01,603.041,603.344, Yes.
+SPEAKER_01,603.606,603.97,Yes.
+SPEAKER_00,605.687,606.94," Like, markedly so."
+SPEAKER_01,607.181,607.462, Yeah.
+SPEAKER_01,607.703,609.41,"Like, I feel like things have taken a turn."
+SPEAKER_00,612.521,613.603, Can you tell me about that turn?
+SPEAKER_01,622.561,622.902, I don't know.
+SPEAKER_01,622.962,631.276,"I just feel like, you know, I'm losing my house, I lost my job, I don't really have anything that needs to be gotten in order."
+SPEAKER_00,634.322,635.146, Got in order for what?
+SPEAKER_01,638.441,650.075," Just, you know, in general, like, I don't know, in my own life, like, if something were to happen to me, there wouldn't be anything that needed to be taken care of."
+SPEAKER_00,654.041,654.886, What's going to happen to you?
+SPEAKER_01,657.001,657.674, Like if I died.
+SPEAKER_00,658.281,658.782, If you died.
+SPEAKER_00,659.785,662.694,"If you died, nothing would have to be taken care of?"
+SPEAKER_01,662.714,663.536,"I mean, like..."
+SPEAKER_01,665.441,675.495," I mean, they probably have a funeral, but, you know, my house is gone, my job is gone, my drinking will be gone."
+SPEAKER_00,679.422,681.49, Would your family miss you?
+SPEAKER_01,684.682,685.564, I don't really care.
+SPEAKER_00,693.382,694.787," Even still, do you think they would miss you?"
+SPEAKER_01,698.16,698.521, Maybe.
+SPEAKER_01,698.701,699.743,"I mean, in their own way."
+SPEAKER_01,699.763,708.858,"They probably would have wished that they would have done different things differently, yeah, but that's not my responsibility."
+SPEAKER_00,710.463,711.789, What's your responsibility right now?
+SPEAKER_01,714.062,714.572, Nothing.
+SPEAKER_00,715.613,715.96, Nothing?
+SPEAKER_01,715.96,716.181, Nothing.
+SPEAKER_01,717.064,717.486,Nothing.
+SPEAKER_01,717.627,717.848,I mean...
+SPEAKER_00,723.523,730.379," So, no one would, correct me if I'm wrong, no one would care if you died?"
+SPEAKER_01,732.205,733.55," I mean, they probably care a little bit."
+SPEAKER_01,733.591,734.856,Do I care if they cared?
+SPEAKER_01,734.916,735.036,No.
+SPEAKER_00,736.582,739.612," So you care a little, but you're not concerned with that."
+SPEAKER_00,742.08,751.873," And you have this sense that you have nothing left to lose because you lost the job, and now, soon, your house."
+SPEAKER_00,757.161,758.946, Do you have anything else that you care about?
+SPEAKER_00,758.966,761.633,Any goals?
+SPEAKER_01,764.582,765.084, I used to.
+SPEAKER_00,769.642,770.044, How about now?
+SPEAKER_00,775.704,775.885, No?
+SPEAKER_00,776.99,777.794,What happened to your goals?
+SPEAKER_01,779.561,780.482, I drank them away.
+SPEAKER_01,781.223,782.384,I lost my job.
+SPEAKER_01,782.864,783.905,I lost my house.
+SPEAKER_01,784.426,795.398,"You know, I was thinking maybe I could find myself a new job, but at this point, I'm just so far gone, like my life is so ruined."
+SPEAKER_01,797.944,800.755, I don't know how you could expect me to come back from this.
+SPEAKER_01,802.642,808.897," I don't know how you can expect me to live a life, how to pick this up and make something of it, like..."
+SPEAKER_01,810.566,811.475, How to redeem yourself.
+SPEAKER_00,811.98,812.164, Mm-hmm.
+SPEAKER_00,813.243,814.576, You can't see a way to do that now.
+SPEAKER_01,817.709,817.809, No.
+SPEAKER_01,817.83,818.391,"I mean, come on."
+SPEAKER_00,822.122,826.231, Because all the things that happened to you overwhelmed you.
+SPEAKER_01,832.0,832.382, I don't know.
+SPEAKER_01,832.402,835.193,"I mean, happened to me, did to myself."
+SPEAKER_01,837.26,848.676," It's just, at this point, it's like I've lost so much of what I worked for, and I don't have one scrap of dignity or anything at all."
+SPEAKER_01,852.241,853.809, I don't have anything.
+SPEAKER_00,856.642,857.364, You don't have anything.
+SPEAKER_00,857.384,858.206,You don't have any worth.
+SPEAKER_00,860.934,861.255,Worthless.
+SPEAKER_00,861.275,862.96,That's how you're feeling?
+SPEAKER_01,863.741,863.981, Yeah.
+SPEAKER_01,864.262,864.682,Alone.
+SPEAKER_01,866.725,867.206,Worthless.
+SPEAKER_01,867.246,871.011,"Yeah, like nothing... There's nothing redeemable."
+SPEAKER_01,871.031,873.875,There's nothing I can build upon.
+SPEAKER_00,878.96,880.243, So you've lost everything.
+SPEAKER_00,881.085,882.79,"You're worthless, and you can't be redeemed."
+SPEAKER_00,887.04,898.139," So of all the time I've been treating you, this is the most severe I've seen in your hopelessness."
+SPEAKER_00,899.061,899.804, Would that be accurate?
+SPEAKER_01,903.241,910.519, This situation is more dire than I ever thought that I would have to experience.
+SPEAKER_01,911.801,925.96," You know, when I started seeing you, I thought, this is as bad as it can get, and I have to fix things now, or, you know, I can't go on like this."
+SPEAKER_01,926.161,932.9," Like, I can't... This is as bad as my life can get, and I cannot let it continue to get any worse."
+SPEAKER_01,933.482,935.952," But things have gotten worse, and... Yeah."
+SPEAKER_00,943.005,945.216," Aaron, have you been thinking about ending your life?"
+SPEAKER_00,951.101,952.455, Are you hesitant to tell me that?
+SPEAKER_00,956.96,957.324, Why is that?
+SPEAKER_01,968.381,972.917, I guess... a lot of reasons.
+SPEAKER_01,975.202,984.279," Um... I know that we have worked together, and I don't want you to feel like you've failed."
+SPEAKER_01,985.641,997.858," I really don't want you to try to do anything, because I feel like nothing that you have tried has worked."
+SPEAKER_01,999.521,1011.74," You know, I'm a hopeless case, and I feel like at this point it shouldn't even be your responsibility to try, because it's not fair to you anymore."
+SPEAKER_01,1012.442,1015.236," And... I don't know, I just..."
+SPEAKER_00,1019.241,1021.972, Are you planning on ending your life?
+SPEAKER_00,1022.313,1023.578,"Like, do you have a plan in place?"
+SPEAKER_01,1023.98,1024.223, Yeah.
+SPEAKER_00,1029.728,1030.697, Can you tell me about the plan?
+SPEAKER_01,1032.51,1033.96, I don't really want to talk about it.
+SPEAKER_00,1035.475,1035.92, But you have a plan.
+SPEAKER_00,1039.287,1041.96, You don't want me to interfere in your plan.
+SPEAKER_01,1045.267,1045.508, No.
+SPEAKER_01,1046.653,1047.779,"No, obviously not."
+SPEAKER_00,1054.663,1057.936, But you're aware that I'm going to try to interfere with your plan.
+SPEAKER_01,1059.606,1060.071, I guess so.
+SPEAKER_00,1069.942,1075.917," You mentioned earlier that you just... I mean, it sounds like what you're saying is you've hit rock bottom."
+SPEAKER_00,1077.645,1079.114, And rock bottom can't be tolerated.
+SPEAKER_00,1081.16,1088.817," And... your family would care if they lost you, but you're indifferent to that."
+SPEAKER_00,1091.103,1091.287, Right?
+SPEAKER_00,1093.906,1094.792, I would care if you died.
+SPEAKER_00,1098.824,1099.025, Alright?
+SPEAKER_00,1099.066,1100.814,I'm going to do everything I can to prevent that.
+SPEAKER_00,1106.267,1111.116, It's hard to see when you have thoughts of worthlessness.
+SPEAKER_00,1111.136,1112.96,It's hard to see strengths.
+SPEAKER_00,1113.0,1115.96, But I see something with strengths.
+SPEAKER_00,1118.924,1122.94, I see a young lady that over the last few months has told me about all kinds of strengths.
+SPEAKER_00,1123.202,1125.779, All kinds of situations where you've been resilient.
+SPEAKER_00,1125.96,1128.718, Do you recall those conversations?
+SPEAKER_01,1131.697,1131.96, I guess.
+SPEAKER_00,1134.347,1136.739," But that's not in the forefront of your mind right now, your strengths."
+SPEAKER_00,1137.967,1138.712, But they're still there.
+SPEAKER_00,1144.885,1147.136, Do you have an intent to commit suicide?
+SPEAKER_00,1153.39,1154.376, And you don't want me to stop you?
+SPEAKER_00,1160.806,1161.591, I'm going to stop you.
+SPEAKER_00,1161.611,1162.96,Alright?
+SPEAKER_00,1166.402,1170.96," I want to, I'm obligated to, and it's really the best thing to be done."
+SPEAKER_00,1170.96,1171.505, Is to prevent it.
+SPEAKER_00,1174.663,1178.819," I know you feel this way now, and I know I can't fully understand that."
+SPEAKER_00,1180.381,1185.599, But I'm fairly sure that you won't feel this way a week or two from now.
+SPEAKER_00,1189.622,1194.86," Feelings of worthlessness, feelings of hitting rock bottom, they cycle just like all feelings."
+SPEAKER_00,1196.342,1197.548, You've had ups and downs before.
+SPEAKER_00,1199.236,1199.498,Remember?
+SPEAKER_00,1206.322,1208.658, I see somebody with a long and productive life ahead of them.
+SPEAKER_00,1210.905,1213.437, Suicide's not the answer.
+SPEAKER_00,1215.522,1217.47, I know it seems like the only option right now.
+SPEAKER_00,1218.394,1218.795,I get that.
+SPEAKER_00,1221.824,1223.211, But there's still some other options.
+SPEAKER_00,1226.624,1227.289, Does that make sense?
+SPEAKER_00,1231.704,1233.292, I know you probably don't want to hear about other options.
+SPEAKER_00,1237.665,1242.96, I think what we should do today is get you over as an impatient.
+SPEAKER_00,1244.627,1245.071, Alright?
+SPEAKER_00,1247.782,1253.459," And they'll probably keep you for five, ten days."
+SPEAKER_00,1256.064,1259.9, And kind of work on getting your mood stable.
+SPEAKER_00,1261.823,1264.876," My guess is when you come out, you'll feel differently on this subject."
+SPEAKER_00,1266.503,1267.307, You'll feel a little better.
+SPEAKER_00,1268.151,1269.96,Maybe a little better place where you can continue.
+SPEAKER_00,1270.461,1270.883, And we will.
+SPEAKER_00,1271.163,1276.017,"I'll see you, we'll schedule this, I'll see you on the day, or the day after you come out."
+SPEAKER_00,1278.061,1278.967, Preferably on the same day.
+SPEAKER_00,1283.885,1284.749, Does that make sense to you?
+SPEAKER_01,1290.402,1293.96," I mean, I guess."
+SPEAKER_00,1295.462,1298.333, Are you disappointed that I'm trying to save your life?
+SPEAKER_00,1302.709,1303.814, Do you understand why I'm doing it?
+SPEAKER_01,1306.182,1306.404, Yeah.
+SPEAKER_00,1309.944,1310.265, Alright.
+SPEAKER_00,1311.47,1313.94,So I'm going to walk you over to one of the other counselors.
+SPEAKER_00,1314.96,1316.369, I'm going to make some phone calls.
+SPEAKER_00,1316.39,1317.437,"And we'll get you over there, okay?"
+SPEAKER_01,1319.047,1319.269, Alright.
+SPEAKER_00,1319.571,1319.973,"Thanks, Aaron."

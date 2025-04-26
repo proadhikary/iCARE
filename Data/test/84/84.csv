@@ -1,0 +1,161 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.622," Jessica, how are you doing today?"
+SPEAKER_01,7.0,7.281, I'm doing okay.
+SPEAKER_00,14.196,14.98, You're doing okay?
+SPEAKER_01,15.0,15.673, Yeah.
+SPEAKER_00,19.108,23.9, I understand you've been having some recent difficulties that brought you into our agency.
+SPEAKER_00,24.422,26.151, Can you tell me about that?
+SPEAKER_01,28.201,31.698," Well, I've been having a lot of anxiety lately."
+SPEAKER_00,32.49,32.898, Anxiety?
+SPEAKER_01,33.101,33.402, Yeah.
+SPEAKER_01,37.0,40.931, Just getting really nervous in the morning when it's time to go to work.
+SPEAKER_01,44.18,50.717, Just like butterflies in my stomach kind of pounding hard.
+SPEAKER_00,52.583,55.638, So you're anxious when you're getting ready to go to work?
+SPEAKER_01,56.122,56.551, Yeah.
+SPEAKER_00,57.121,58.752, Do you know what might be causing that?
+SPEAKER_01,60.16,69.86," Well, I noticed it a little while ago when I went to get in my car to go to work in the morning."
+SPEAKER_01,70.621,80.0, I was putting some stuff in the trunk and I saw some damage that had happened to the car from a previous car accident.
+SPEAKER_01,80.381,86.815, And just out of nowhere I started feeling nervous about driving to work.
+SPEAKER_00,89.602,89.823, All right.
+SPEAKER_00,89.843,94.237,"So you went out to your car, you saw some damage, it reminded you of an accident?"
+SPEAKER_01,95.0,95.622, Yeah.
+SPEAKER_01,95.683,98.976,I was in an accident at the end of last year.
+SPEAKER_01,101.622,103.266, I didn't get hurt.
+SPEAKER_01,103.687,107.476,There was no real damage to the car that I noticed.
+SPEAKER_01,110.043,111.687, I just went on about my business.
+SPEAKER_01,111.767,116.519,I didn't have any issues after the accident.
+SPEAKER_01,117.281,122.438, And now all of a sudden I'm thinking about this car accident again.
+SPEAKER_01,123.141,124.43, And I don't know where that's coming from.
+SPEAKER_00,126.02,129.655, And you said the accident occurred at the end of last year?
+SPEAKER_01,131.02,132.022, Yeah.
+SPEAKER_01,135.65,139.439,"I can't really remember exactly when, but it was cold out when it happened."
+SPEAKER_00,140.0,141.107, So maybe about eight months ago.
+SPEAKER_00,141.128,142.557,Does that sound right?
+SPEAKER_01,143.362,145.874," Yeah, around Halloween or so."
+SPEAKER_00,147.06,152.556," When did the symptoms start, being anxious when you're getting ready to go to work?"
+SPEAKER_01,154.02,158.415," I would say at least a month ago, maybe six weeks."
+SPEAKER_00,160.341,160.562, All right.
+SPEAKER_00,161.526,164.418,And you've been having those continuously from then?
+SPEAKER_01,165.201,165.482, Yeah.
+SPEAKER_01,165.542,169.94,"Every morning I get up, I'm just really nervous about going to work."
+SPEAKER_01,170.201,182.436," And I come out to get in the car and sometimes I can barely get in,  just thinking about being in a car accident again."
+SPEAKER_00,184.221,186.151, Have you ever been late to work because of the anxiety?
+SPEAKER_01,188.465,189.758, I'm late almost every day.
+SPEAKER_00,190.0,190.714, Almost every day?
+SPEAKER_00,191.429,191.653, Yeah.
+SPEAKER_00,192.584,194.537, So this has been a problem for you in a few different ways.
+SPEAKER_01,195.281,195.662, Yeah.
+SPEAKER_01,195.682,199.194,I even called out a couple times because I was just paralyzed.
+SPEAKER_00,201.281,209.599," Have you tried anything to reduce the anxiety, like using another car or anything else?"
+SPEAKER_01,210.08,210.722," Well, yeah."
+SPEAKER_01,210.803,215.458,"I live in a house with multiple cars, so I tried driving my mom's car to work one day."
+SPEAKER_01,216.382,219.538, And I had the same feelings.
+SPEAKER_01,220.562,226.9, And initially I thought it was just my car because I did notice some damage to the back of the car.
+SPEAKER_01,227.0,227.802, I was hit in the back.
+SPEAKER_01,228.303,234.96,And I was going through the trunk one day and I saw that the car was actually pushed in.
+SPEAKER_01,235.04,236.98, I didn't think there was any real damage.
+SPEAKER_01,237.1,245.657," Then I noticed damage to the back of the car and I was like, wow, I could have been seriously hurt in this accident."
+SPEAKER_01,247.583,250.719, And that's when I started having these feelings.
+SPEAKER_01,251.261,255.639, I just started thinking about how bad the accident could have been.
+SPEAKER_01,256.842,260.431, So you ask if I tried to do anything different.
+SPEAKER_01,260.491,262.256,I tried driving my mom's car.
+SPEAKER_01,262.717,263.98,I tried driving my dad's car.
+SPEAKER_01,264.281,267.13, But it seems to be just driving any car.
+SPEAKER_01,267.191,269.559,I'm having all of this anxiety.
+SPEAKER_00,271.787,271.988, All right.
+SPEAKER_00,272.008,274.739,And you're having kind of physical distress too.
+SPEAKER_01,275.429,275.796, Yeah.
+SPEAKER_00,276.364,278.0, Like you're feeling it physically?
+SPEAKER_01,278.0,278.303, Overwhelmed.
+SPEAKER_00,278.343,278.485,Yeah.
+SPEAKER_01,280.04,283.009, I'm feeling a lot of swelling in my chest.
+SPEAKER_01,283.049,284.312,Like really panicky.
+SPEAKER_00,287.0,287.181, All right.
+SPEAKER_00,287.201,291.194,Do you ever have any dreams about the accident or anything related to the accident?
+SPEAKER_01,294.91,295.734," No, not really."
+SPEAKER_00,297.0,305.499, Do you ever have any point when you're not asleep where you feel like you're kind of taken back to the time the accident happened?
+SPEAKER_00,306.04,309.0, Like you're reliving it in any way?
+SPEAKER_01,309.163,309.224, No.
+SPEAKER_00,310.02,310.898, Nothing like that?
+SPEAKER_01,311.282,311.322, No.
+SPEAKER_00,314.161,315.631, Do you remember the accident?
+SPEAKER_01,317.04,318.783," Yeah, I remember it pretty well."
+SPEAKER_01,318.923,326.115,"I was waiting at a stop sign and I think the person behind me, they must not have been paying attention, but they rear-ended me."
+SPEAKER_00,329.0,330.648, Who do you believe is responsible for the accident?
+SPEAKER_01,333.0,333.641, Nobody really.
+SPEAKER_01,333.701,335.384,"I mean, it was an accident."
+SPEAKER_01,335.404,337.268,There was no real damage.
+SPEAKER_01,337.889,339.612,Accidents happen all the time.
+SPEAKER_01,339.893,341.475,It's just a fender bender.
+SPEAKER_00,344.06,355.259," So from the time that you noticed these anxiety symptoms, have you had periods where you were happy and had kind of positive emotional experiences?"
+SPEAKER_01,356.301,360.495, I've been really down since I started having these symptoms.
+SPEAKER_00,362.0,363.584, Have you been down the whole time?
+SPEAKER_00,363.624,367.694,Have there been moments where you haven't been or has it been consistently down?
+SPEAKER_01,370.584,371.329, I would say more down.
+SPEAKER_00,373.02,373.987," More down, but sometimes up?"
+SPEAKER_01,376.182,378.0, I can't really remember any times.
+SPEAKER_01,378.02,378.653, Not sure.
+SPEAKER_01,379.0,379.082, Yeah.
+SPEAKER_00,380.341,381.143, All right.
+SPEAKER_00,381.163,383.429,How about your relationships with other people?
+SPEAKER_00,383.449,386.516,Have they changed from when the anxiety started?
+SPEAKER_01,388.02,388.551," No, not really."
+SPEAKER_00,389.02,390.047, Do you feel detached from people?
+SPEAKER_01,392.362,393.045, Detached?
+SPEAKER_01,393.065,395.859,"You mean like separated, like not wanting to be around?"
+SPEAKER_01,396.0,396.714, Not connecting with people?
+SPEAKER_01,397.122,397.694," No, not really."
+SPEAKER_00,398.204,398.755, Nothing like that.
+SPEAKER_01,399.531,399.612, No.
+SPEAKER_00,400.0,404.378, How about any feelings of irritability or anger outbursts or anything like that?
+SPEAKER_01,405.224,405.347, No.
+SPEAKER_00,406.0,406.163, Nothing?
+SPEAKER_01,408.293,408.455, No.
+SPEAKER_00,409.581,414.253, Do you feel like you've been behaving in a more reckless way at all?
+SPEAKER_01,417.061,418.0, What do you mean by reckless?
+SPEAKER_00,418.261,424.0," Like taking more chances in relationships or another, nothing like that?"
+SPEAKER_01,424.0,424.041, No.
+SPEAKER_00,425.201,425.443, All right.
+SPEAKER_00,428.922,437.98," You're aware of like when something surprises us, we kind of have this startle response, like we jump, it's natural."
+SPEAKER_00,438.843,442.116, Have you noticed that response has changed at all?
+SPEAKER_01,443.361,445.826," Yeah, I have been a little on edge."
+SPEAKER_01,445.886,451.92,"Things have been like scaring me, the phone ringing, people knocking at the door, dogs barking."
+SPEAKER_01,452.0,454.96, It's kind of had me on edge a little bit.
+SPEAKER_00,455.722,461.0," And you feel like your response is more than it used to be, more than just the natural startle response you had?"
+SPEAKER_01,461.242,463.96," Yeah, that's kind of worrying me a little bit too."
+SPEAKER_00,464.265,464.959, That's worrying you?
+SPEAKER_01,465.041,465.184, Yeah.
+SPEAKER_00,466.863,469.072, Any trouble concentrating?
+SPEAKER_01,471.776,471.959, No.
+SPEAKER_00,472.788,473.98, You've been okay concentrating?
+SPEAKER_01,474.204,474.449, Yeah.
+SPEAKER_01,475.323,476.333, Staying focused has been...
+SPEAKER_01,477.262,479.436," Yeah, I'm good in that area."
+SPEAKER_00,480.241,481.987, How about trouble with sleep?
+SPEAKER_00,483.391,484.997,"Trouble falling asleep, staying asleep?"
+SPEAKER_01,486.421,489.628," No trouble falling asleep, but I have had trouble staying asleep."
+SPEAKER_01,490.149,493.837,I've been waking up pretty much around the clock throughout the night.
+SPEAKER_00,495.323,495.788, All right.
+SPEAKER_00,498.12,502.659," So you're getting to sleep okay, you're falling asleep okay, but just having trouble staying asleep."
+SPEAKER_01,503.061,503.755, Yeah.
+SPEAKER_00,505.662,507.768, Are you thinking of anything specific when you wake up?
+SPEAKER_01,512.04,517.534," Not really, just maybe like thinking about going to work in the morning and..."
+SPEAKER_01,520.544,521.792," But no, nothing major."
+SPEAKER_00,524.886,526.638, Any use of drugs or alcohol?
+SPEAKER_01,527.306,527.755, No.
+SPEAKER_00,528.02,528.98, How about medical problems?
+SPEAKER_01,529.224,529.367, No.
+SPEAKER_00,530.0,530.571, Nothing?
+SPEAKER_00,531.721,543.0," Are there ever points from when this anxiety started that you feel kind of outside of your own body, kind of an unreal feeling where you're separated from your own body?"
+SPEAKER_01,546.367,546.571, No.
+SPEAKER_00,547.0,547.061, No.
+SPEAKER_00,548.681,557.84," How about times when you feel disconnected from the environment, like an unreal feeling about what's going on around you?"
+SPEAKER_01,560.041,560.224, No.
+SPEAKER_00,561.485,562.03, Nothing like that.
+SPEAKER_00,562.051,562.596,All right.
+SPEAKER_00,566.08,571.88," All right, Jessica, I'm going to get you in to see a counselor here if you're open to that, if that's something you want to do."
+SPEAKER_01,572.122,572.367, Yes.
+SPEAKER_00,573.462,577.716, And I appreciate you taking the time to tell me what's going on and answer these questions.
+SPEAKER_00,577.796,578.398,It's been helpful.
+SPEAKER_01,579.224,579.959, Thank you for seeing me.
+SPEAKER_00,580.469,580.837, Sure.

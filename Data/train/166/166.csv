@@ -1,0 +1,48 @@
+speaker,start,end,text
+SPEAKER_00,135.442,136.146," Hi, August."
+SPEAKER_00,136.489,137.032,I'm Angie.
+SPEAKER_00,137.093,137.958,I'm one of the nurses here.
+SPEAKER_01,141.22,143.415,I'm not feeling very well.
+SPEAKER_01,145.708,147.798,I'm feeling really sad.
+SPEAKER_01,148.806,149.493,I'm scared.
+SPEAKER_01,151.328,152.938,And I don't know where to go.
+SPEAKER_00,153.362,155.038,What helps you feel better when you're sad?
+SPEAKER_01,155.361,157.677,Coming to the hospital.
+SPEAKER_00,158.523,159.311," Okay, August."
+SPEAKER_00,160.604,166.898," So you've come to the hospital a few times now,  saying that you're feeling sad,  and you're not getting along with your roommate, right?"
+SPEAKER_01,169.129,169.331,Right.
+SPEAKER_01,170.381,180.039," My roommate is mean to me, rude to me,  and I don't know where to go."
+SPEAKER_00,181.489,182.938,Did you talk to your group home worker?
+SPEAKER_01,184.271,184.554,Yes.
+SPEAKER_01,188.086,190.059,He told me to go for a walk.
+SPEAKER_00,193.005,194.052,Mm-hmm.
+SPEAKER_00,194.093,194.757,So you came here?
+SPEAKER_00,196.723,204.798," All right, so this might help you feel better for right now,  but it doesn't help once you go back home, does it?"
+SPEAKER_01,207.604,208.21,A little bit.
+SPEAKER_00,209.629,209.955,Okay.
+SPEAKER_00,210.843,214.18,So I think I should speak to someone in your group home.
+SPEAKER_00,214.361,216.415,Do you know who the manager is?
+SPEAKER_01,217.806,218.735,Her name is Kim.
+SPEAKER_00,219.462,219.985,Okay.
+SPEAKER_00,220.448,222.18,And what's the phone number?
+SPEAKER_00,222.988,223.917,I don't see it in the chart.
+SPEAKER_01,224.2,224.24,416-525-00.
+SPEAKER_01,230.19,230.675,I forgot.
+SPEAKER_00,232.489,234.14," Okay, we'll need to find the number."
+SPEAKER_00,235.048,239.119," Can you give me a few minutes,  and I'll go call the DSO to find the number for your group home?"
+SPEAKER_01,239.685,239.988,Okay.
+SPEAKER_00,244.301,255.395," Okay, August, I just got off the phone with your manager,  and we talked about how you've come to the hospital a couple times,  several times now,  and that you're upset with your roommate."
+SPEAKER_00,256.782,260.856,So we discussed if they could help you make a crisis plan.
+SPEAKER_01,262.564,263.109,What is that?
+SPEAKER_00,264.742,267.935," Okay, so it's a plan that reviews how people can help you."
+SPEAKER_00,269.341,280.376," So when you start to get upset or afraid, a crisis,  it helps people help you,  so that things don't get so bad,  you don't feel you need to run away or come to the hospital."
+SPEAKER_01,282.066,283.415," Oh, that sounds good."
+SPEAKER_00,284.341,289.079," Okay, so we'll review what we talked about,  because I want to make sure that you understand."
+SPEAKER_01,290.069,290.392,Okay.
+SPEAKER_00,291.584,292.453," Okay, great."
+SPEAKER_00,294.004,298.811,There's also something called an exit interview  that we can go over together.
+SPEAKER_00,301.023,315.059," And in this, we'll go over what brought you here to the hospital,  anything that we did today at the hospital, what helped,  and also what to do, how to plan after when you get home."
+SPEAKER_00,315.885,324.476," So this needs to go home with you,  and we'll put it in this package to take home  and go over with your group home worker."
+SPEAKER_01,325.751,326.037,Okay.
+SPEAKER_00,326.522,330.18," Okay, and we'll also follow up with the group home worker."
+SPEAKER_00,331.19,331.453,Okay.

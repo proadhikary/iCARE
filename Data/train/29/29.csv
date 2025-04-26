@@ -1,0 +1,175 @@
+speaker,text,start,end
+SPEAKER_00," So, I want to change gears a little and talk about your family.",14.415,19.02
+SPEAKER_00, Is that okay?,19.04,19.509
+SPEAKER_01," Oh, that's a lot, but it's all right.",20.645,22.398
+SPEAKER_00," A lot of information there, huh?",23.385,24.656
+SPEAKER_01, Yeah.,25.18,25.344
+SPEAKER_00, Yeah.,26.793,27.058
+SPEAKER_00, All right.,27.425,27.997
+SPEAKER_00," So, can we start with your parents and tell me, will you feel comfortable telling me about",29.684,33.918
+SPEAKER_00, them?,34.686,34.869
+SPEAKER_01," Well, my father was incarcerated when I was four for drug trafficking.",35.721,44.878
+SPEAKER_00, Drug trafficking?,46.16,46.691
+SPEAKER_01, Yep.,47.201,47.487
+SPEAKER_01, And he died a few years ago from a stroke.,48.16,51.073
+SPEAKER_00, How many years ago?,52.76,53.331
+SPEAKER_01, About three years ago.,54.346,55.114
+SPEAKER_00, Three years.,55.881,57.84
+SPEAKER_00, At what age was he when he passed away?,58.54,59.833
+SPEAKER_01," To be honest, I don't even remember.",60.883,61.953
+SPEAKER_01, I don't really talk to him.,62.86,64.15
+SPEAKER_00, All right.,65.763,66.6
+SPEAKER_00, How about your mother?,66.721,67.305
+SPEAKER_01, My mom is crazy.,69.24,70.949
+SPEAKER_01," She's always been very, like, eccentric, I guess would be the word.",73.24,78.818
+SPEAKER_00, Eccentric?,79.784,80.029
+SPEAKER_01, We don't talk anymore because she has chosen gambling over the family.,81.6,85.636
+SPEAKER_00, Tell me about that.,88.388,88.87
+SPEAKER_01," When I was in high school and I would, you know, still live with her, sometimes I would  come home and there was no running water, there was no electricity, there was no nothing.",91.541,100.397
+SPEAKER_01, She had gambled the money away.,101.12,102.388
+SPEAKER_01, We've had several times where I've had to hide the cars in fear of them being repossessed.,104.28,110.477
+SPEAKER_01,And I couldn't take it after a while and I moved out when I was about 16.,111.56,115.948
+SPEAKER_01," She calls me every now and then, sometimes for money, sometimes to talk.",122.28,125.717
+SPEAKER_01, I don't really talk to her though.,126.28,128.82
+SPEAKER_00, So how would you describe the quality of your relationship right now with her?,128.84,132.776
+SPEAKER_01, Not good.,134.366,134.753
+SPEAKER_00, Not good?,135.427,136.039
+SPEAKER_01, No.,136.08,136.141
+SPEAKER_00, And it sounds like there's not much communication.,137.08,138.72
+SPEAKER_01," Not anymore, no.",138.72,139.414
+SPEAKER_01," She's dry, but I refuse to speak to her.",140.523,142.592
+SPEAKER_00," Do you know if your father or mother, either one, has any history of mental illness?",144.32,150.695
+SPEAKER_01, My mom was diagnosed as bipolar.,152.92,155.616
+SPEAKER_01," My father, like I said, I don't know much about him.",159.209,161.757
+SPEAKER_01, I know he had a problem with anger too.,162.68,165.773
+SPEAKER_00, You remember that?,167.66,168.129
+SPEAKER_01," Yeah, I do.",168.701,169.374
+SPEAKER_01, But he would physically abuse us.,170.886,173.257
+SPEAKER_00, He physically abused you?,174.75,175.62
+SPEAKER_01, Mm-hmm.,175.782,176.64
+SPEAKER_01, From what I remember of him.,176.68,177.385
+SPEAKER_00," Alright, so that's your father and your mother.",181.106,184.039
+SPEAKER_00, How about any siblings?,184.745,185.814
+SPEAKER_01, I have an older sister and a younger sister.,186.621,189.394
+SPEAKER_00, Two sisters?,190.54,191.071
+SPEAKER_01, Mm-hmm.,191.601,192.377
+SPEAKER_00, Tell me about them.,193.582,194.357
+SPEAKER_01," Well, my older sister pretty much raised me and my younger sister since mom was never  around and dad was in jail.",194.781,204.413
+SPEAKER_01, I love her to death.,205.621,206.445
+SPEAKER_01, She's the godmother of my kids.,209.02,210.155
+SPEAKER_01, She's my best friend.,212.471,213.055
+SPEAKER_00, This is your older sister?,214.77,215.66
+SPEAKER_01," Yeah, my older sister.",215.761,216.529
+SPEAKER_00, How about your younger sister?,218.385,220.037
+SPEAKER_01," My younger sister, we don't talk very much.",220.702,223.679
+SPEAKER_01, She doesn't want to talk to me.,223.86,224.878
+SPEAKER_01, She says I'm a bad influence.,225.04,226.309
+SPEAKER_00, A bad influence on her?,227.84,228.993
+SPEAKER_01," Her, her friends.",229.781,231.696
+SPEAKER_01, I think she's kind of stuck up.,232.381,233.568
+SPEAKER_00, What makes you think that?,235.58,236.274
+SPEAKER_01, Because she thinks she's better than me.,236.882,238.192
+SPEAKER_01," Just because, ooh, she went to college.",239.3,241.26
+SPEAKER_01," Well, good for you.",241.341,241.949
+SPEAKER_00," All right, so it sounds like you have a positive relationship, kind of admire your older sister.",245.605,252.819
+SPEAKER_01, Mm-hmm.,253.831,254.036
+SPEAKER_00, Is that right?,254.505,254.893
+SPEAKER_01," Yeah, I love my older sister.",255.401,256.772
+SPEAKER_00, And the relationship with your younger sister is a little bit different.,257.74,260.759
+SPEAKER_01," I mean, I love her too and I can deal with her in small things, but that's pretty much",261.04,266.277
+SPEAKER_01, it.,267.958,268.019
+SPEAKER_00, How often do you communicate with each one?,268.06,269.931
+SPEAKER_01, My older sister I talk to like almost every day.,271.841,274.554
+SPEAKER_01," You know, she's always there, you know, shoulder to cry on or, you know, if I'm in a bind and  I need some money, she's always willing to help me out.",275.981,284.498
+SPEAKER_01, She can watch the kids if I need to go somewhere.,284.76,287.393
+SPEAKER_01, She's my rock.,288.7,289.088
+SPEAKER_01," The younger one, I mean, we talk maybe every other week.",291.224,294.975
+SPEAKER_01, Let us know what each other's up to.,296.74,297.937
+SPEAKER_01, Maybe we'll go to dinner.,298.14,299.13
+SPEAKER_00," All right, so quite a bit closer to your older sister than your younger sister.",302.766,306.055
+SPEAKER_00, Any mental health history with either sister?,307.84,310.851
+SPEAKER_01, My older sister was depressed and had a lot of anxiety when she was young because she  dealt with more of my dad than I did.,313.561,320.427
+SPEAKER_01," The younger one, I really don't know.",323.66,325.553
+SPEAKER_01, I don't know.,327.226,327.549
+SPEAKER_00, Okay.,330.998,331.18
+SPEAKER_00, So does your older sister or your younger sister for that matter know that you're here?,334.3,338.852
+SPEAKER_01, My older sister does.,341.72,342.639
+SPEAKER_01," My older sister, I haven't spoken to her this week yet, so.",342.861,345.932
+SPEAKER_00, Are you planning on telling her?,347.92,348.839
+SPEAKER_01," No, I don't see why not.",349.425,350.375
+SPEAKER_01," No, maybe it'll kind of humanize her a little bit and like I'm not as bad as the person  she thinks I am.",351.301,358.091
+SPEAKER_00, Do you feel a need to make a positive impression on her?,360.125,364.359
+SPEAKER_01," No, but I think sometimes it's easier.",365.104,366.654
+SPEAKER_00, It's easier?,367.867,368.234
+SPEAKER_01," Yeah, it's easier.",368.54,369.173
+SPEAKER_01, Not being the bad sister.,369.882,371.392
+SPEAKER_00, That's how you believe you're viewed?,373.768,375.057
+SPEAKER_01," Yeah, by her.",375.601,376.009
+SPEAKER_00," By her, okay.",376.54,376.928
+SPEAKER_00," All right, how about grandparents?",378.504,381.275
+SPEAKER_01, My dad's side of the family we don't really know about.,383.0,386.136
+SPEAKER_01, Grandma died before I was born.,388.285,390.434
+SPEAKER_01, Grandpa wasn't in the picture.,392.0,392.866
+SPEAKER_01," On my mom's side, grandpa died before I was born and grandma lived in a nursing home and  was kind of like out of it by then.",395.02,407.134
+SPEAKER_00, Any mental health history with any grandparents that you're aware of?,408.42,411.214
+SPEAKER_01," I mean, the one grandma that was still alive, she had like some kind of dementia or something.",412.941,418.477
+SPEAKER_01," Alzheimer's, dementia.",419.481,420.248
+SPEAKER_00," How about aunts, uncles, cousins, anybody have a note?",422.643,428.159
+SPEAKER_01, I had a lot of cousins.,429.087,430.319
+SPEAKER_01," A lot of cousins in and out of the house at various points in the, even in the day sometimes  I leave for school there'd be a certain set of cousins there come home from school, completely  different set.",430.941,442.86
+SPEAKER_01, We were like the family central.,443.163,444.375
+SPEAKER_00, Do you have contact with any of them?,445.625,446.833
+SPEAKER_01, They're like social media and stuff.,449.209,450.477
+SPEAKER_01," I mean, they're all spread out over the country now, but I keep in contact with them as much  as I can.",451.141,456.202
+SPEAKER_00, All right.,459.686,461.075
+SPEAKER_00, How about children?,462.424,464.276
+SPEAKER_01, I have two children.,465.187,465.86
+SPEAKER_00," Okay, tell me about them.",465.86,466.86
+SPEAKER_01, They are the loves of my life.,468.548,469.716
+SPEAKER_01," And one is in second grade, the other is in kindergarten right now.",472.007,475.26
+SPEAKER_01," The one in kindergarten though, he's kind of a handful.",478.21,481.22
+SPEAKER_01," He recently is at a stage where he gets mad if I try to change his diapers, but will let  my sister do it.",483.065,489.3
+SPEAKER_01," I don't know why that's going on, but.",489.3,491.797
+SPEAKER_00, Which sister?,492.32,492.667
+SPEAKER_01, My older sister.,493.708,494.218
+SPEAKER_01, She watches them when I'm off.,494.401,495.512
+SPEAKER_00, Okay.,497.107,497.332
+SPEAKER_00, So one in kindergarten.,500.407,501.417
+SPEAKER_01," One in kindergarten, the other in second grade.",502.203,504.136
+SPEAKER_00, In second grade.,506.492,507.136
+SPEAKER_00, And you mentioned the one in kindergarten is a son.,508.465,510.357
+SPEAKER_00, And how about the one in second grade?,510.962,512.74
+SPEAKER_01, My daughter.,513.209,513.74
+SPEAKER_00, Tell me about her.,514.445,516.68
+SPEAKER_01," She comes home with like, they have like, not demerits, but like little referrals.",518.244,523.74
+SPEAKER_01, She likes to be kind of a pushover.,524.18,525.614
+SPEAKER_01," Not pushover, but like a bully at school.",526.2,527.736
+SPEAKER_00, A bully?,528.18,528.323
+SPEAKER_01, Yeah.,529.221,529.466
+SPEAKER_01," I've gotten several calls from the principal and our teachers saying, oh, she pushed another  kid.",530.702,536.241
+SPEAKER_01," Oh, another kid asked if he could have a piece of paper and she yelled and screamed.",537.481,542.16
+SPEAKER_01," And you know, she comes home and I'll yell at her too.",542.2,546.14
+SPEAKER_01, Do you like this?,546.568,547.16
+SPEAKER_01, Do you like me yelling at you?,547.18,548.16
+SPEAKER_01, Why would you yell at somebody else?,548.502,549.75
+SPEAKER_01, She just doesn't get it.,551.665,552.433
+SPEAKER_00, What kind of problem were you?,554.59,555.6
+SPEAKER_00, Her behavior?,556.232,556.6
+SPEAKER_01," Well, yeah.",556.865,557.273
+SPEAKER_01," I mean, I got in trouble at school too.",557.701,559.855
+SPEAKER_01, Not when I was her age.,561.246,562.499
+SPEAKER_01," I was kind of better at school when I was at her age, but I don't want her to go down  the same path.",563.022,568.044
+SPEAKER_00, But you're a little worried about that.,572.62,573.579
+SPEAKER_01, Yeah.,573.62,573.763
+SPEAKER_00, How often do you see them?,576.851,577.635
+SPEAKER_01," I see them, I mean, I work, so I don't see them when I'm there.",580.303,586.719
+SPEAKER_01," They go to daycare, but sometimes if I like go out to a party or something where I know  some stuff is going to be there or there's parties over at my house where I know some  stuff is going to be there, I drop them off with my sister.",587.482,597.974
+SPEAKER_01," You know, try to keep them away from that.",600.471,601.659
+SPEAKER_01, I don't want them to be exposed to that.,601.74,603.273
+SPEAKER_00," When you say stuff, just so I'm clear, you mean drugs?",604.463,607.06
+SPEAKER_01, Yeah.,607.06,607.203
+SPEAKER_01," Drugs, alcohol, you know.",608.5,610.096
+SPEAKER_01," I'd rather my kids not see me like that, so I save them from it.",610.54,614.018
+SPEAKER_00, So you're protecting them from that.,614.5,615.48
+SPEAKER_01, Oh yeah.,615.541,616.418
+SPEAKER_00, Yeah.,616.5,616.583

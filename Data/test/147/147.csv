@@ -1,0 +1,79 @@
+speaker,start,end,text
+SPEAKER_00,14.759,15.74," Hi Alice, how are you doing today?"
+SPEAKER_01,16.002,16.369, I'm good.
+SPEAKER_00,17.287,17.675, Doing good?
+SPEAKER_00,19.224,23.217, I'm going to ask you some questions and give you some problems to solve.
+SPEAKER_00,24.24,26.47, Please try to answer them as best as you can.
+SPEAKER_00,28.72,29.326, What year is this?
+SPEAKER_01,31.002,31.303, It is 2015.
+SPEAKER_00,34.98,36.612, What season of the year is this?
+SPEAKER_01,37.82,38.445, Beach season.
+SPEAKER_00,40.76,41.629, What is the date today?
+SPEAKER_01,42.6,44.56, Tuesday.
+SPEAKER_00,44.56,46.03, What day of the week is this?
+SPEAKER_01,47.823,48.126, Tuesday.
+SPEAKER_00,49.72,50.505, What month is this?
+SPEAKER_01,53.302,54.95, It is May.
+SPEAKER_00,57.0,58.429, Can you tell me what country we are in?
+SPEAKER_01,61.116,61.32, America.
+SPEAKER_00,61.32,62.324, What county are we in?
+SPEAKER_01,66.44,69.39, We are in Kent County.
+SPEAKER_00,72.56,73.711, What city are we in?
+SPEAKER_01,74.72,75.224, The Capitol.
+SPEAKER_00,77.36,81.032, What is the name or the address of this building?
+SPEAKER_01,83.5,85.813, We are at Wilmington College.
+SPEAKER_00,87.2,89.809, What floor of the building are we on?
+SPEAKER_01,94.131,94.635, Two.
+SPEAKER_00,95.522,97.738, Okay.
+SPEAKER_00,98.1,100.192, I am going to name three objects.
+SPEAKER_00,101.56,105.193," After I have said them, I want you to repeat them back to me."
+SPEAKER_01,108.218,108.36, Okay.
+SPEAKER_00,108.36,112.033," Apple, table, penny."
+SPEAKER_01,114.22,121.615," Apple, table, penny, penny."
+SPEAKER_00,124.4,129.189, Remember what they are because I am going to ask you to name them again in a few minutes.
+SPEAKER_00,135.6,143.255, Now I am going to give you a word and ask you to spell it forward and backward.
+SPEAKER_00,145.9,147.813, The word is world.
+SPEAKER_00,149.782,151.748," First, can you spell it forward?"
+SPEAKER_01,155.96,156.241, U-O-R-D.
+SPEAKER_00,164.64,166.686, Now can you spell it backward?
+SPEAKER_01,171.501,176.838, D-L-O-U.
+SPEAKER_00,177.821,178.304, Okay.
+SPEAKER_00,181.24,183.77, What were the three objects I asked you to remember?
+SPEAKER_01,186.56,191.916," Apple, table, and..."
+SPEAKER_01,194.921,197.473, I don't remember the last one.
+SPEAKER_00,199.221,200.711, What is this called?
+SPEAKER_01,202.12,203.226, That's your watch.
+SPEAKER_00,206.381,208.499, What is this called?
+SPEAKER_01,208.781,209.142, A pencil.
+SPEAKER_00,214.501,216.873, I would like you to repeat a phrase after me.
+SPEAKER_00,218.5,223.354," The phrase is no ifs, ands, or buts."
+SPEAKER_01,225.48,228.108," No if, no and, no buts."
+SPEAKER_00,232.541,234.82, I would like you to read the words on this page.
+SPEAKER_00,234.84,235.488, I am going to hold up.
+SPEAKER_00,236.541,237.526, Then do what it says.
+SPEAKER_01,239.84,240.867, Close your eyes.
+SPEAKER_00,242.92,243.041, Okay.
+SPEAKER_00,249.021,250.287, Are you right-handed or left-handed?
+SPEAKER_01,252.86,253.84, I am right-handed.
+SPEAKER_00,253.84,257.538, Right-handed?
+SPEAKER_00,257.84,267.182," I want you to take this paper in your right hand, fold the paper once with both hands,  and put the paper down in your lap."
+SPEAKER_01,278.922,279.718, There you go.
+SPEAKER_00,280.221,280.341, Okay.
+SPEAKER_00,283.228,287.738,Thank you.
+SPEAKER_00,288.9,292.989," Alright, if you could pick up the notebook with that piece of paper."
+SPEAKER_00,297.84,302.017, I would like you to write any complete sentence on that piece of paper for me.
+SPEAKER_01,303.309,303.473, Any?
+SPEAKER_00,303.92,304.201, Mm-hmm.
+SPEAKER_00,316.84,321.8, Can I see the sentence?
+SPEAKER_00,322.161,322.422, Okay.
+SPEAKER_00,328.84,329.648, Here's a drawing.
+SPEAKER_00,330.84,333.566, Please copy the drawing on that same piece of paper.
+SPEAKER_01,340.06,342.564, This is hard.
+SPEAKER_01,355.101,356.083, This is really hard.
+SPEAKER_00,362.84,363.228, You got it?
+SPEAKER_00,363.289,363.738,Can I see that?
+SPEAKER_01,363.84,364.143, Kind of.
+SPEAKER_00,366.363,366.564, Good.
+SPEAKER_00,369.86,370.303," Thank you, Alice."
+SPEAKER_00,370.323,372.82,I appreciate you participating in that assessment.
+SPEAKER_01,372.942,373.35, Thank you.

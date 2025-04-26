@@ -1,0 +1,446 @@
+speaker,text,start,end
+SPEAKER_00," Hello, Alison.",0.0,0.245
+SPEAKER_00, How are you doing today?,1.0,1.469
+SPEAKER_01, I'm good.,2.0,2.163
+SPEAKER_01, How are you?,3.0,3.224
+SPEAKER_00, I'm doing well.,4.0,4.286
+SPEAKER_00, Thanks for asking.,5.0,5.347
+SPEAKER_00, I was hoping we could start today by beginning your treatment plan.,6.0,7.325
+SPEAKER_01, Okay.,11.0,11.082
+SPEAKER_00," I don't know if you remember from the first session that I had told you about, but I was  hoping we could start today by beginning your treatment plan.",14.586,23.899
+SPEAKER_01, Okay.,24.143,24.816
+SPEAKER_00, I don't know if you remember from the first session that I had told you around session  four that we would start your treatment plan and try to finish it around session five.,25.221,36.037
+SPEAKER_01, Okay.,37.122,37.408
+SPEAKER_01, Yes.,38.02,38.224
+SPEAKER_00," So the treatment plan, I usually like the treatment plan to have two or three goals  and each goal has some objectives.",39.0,44.832
+SPEAKER_00, So today I thought we'd just work on one goal.,46.0,47.859
+SPEAKER_01, Okay.,48.0,48.122
+SPEAKER_00, All right.,49.184,49.918
+SPEAKER_00, And I'll kind of get that down and then give you some time to think about it until next  week and then kind of work on the other goals from there.,50.281,58.0
+SPEAKER_00, We'll finish off the treatment plan next week.,58.222,60.0
+SPEAKER_00, Okay.,60.49,60.714
+SPEAKER_01, That sounds good.,61.327,61.98
+SPEAKER_00, That sound okay to you?,62.0,62.673
+SPEAKER_01, Yes.,63.163,63.694
+SPEAKER_00, So the goal is kind of like your overarching goal for therapy in general.,64.201,70.037
+SPEAKER_01, Okay.,71.306,71.959
+SPEAKER_00, All right.,72.0,72.265
+SPEAKER_00, Which I'm going to note too are specific tasks you can do that will help you achieve that  goal.,74.0,81.959
+SPEAKER_01, Okay.,82.0,82.082
+SPEAKER_00," So they're specific, they're measurable, and we hope they're achievable.",83.06,87.92
+SPEAKER_01, Okay.,88.673,88.939
+SPEAKER_00, Does that make sense?,89.102,89.918
+SPEAKER_01, Yes.,90.061,90.204
+SPEAKER_00, So you have like an overall goal in mind for our counseling sessions?,91.201,97.576
+SPEAKER_01, Yes.,100.313,100.636
+SPEAKER_01," I would like to be able to kind of, I've been feeling a little depressed and I would really  like to be able to reduce those, you know, the depression.",102.0,113.217
+SPEAKER_00, So reduce feelings of depression?,114.725,116.98
+SPEAKER_01, Yes.,117.061,117.286
+SPEAKER_00, That would be your goal.,118.0,118.653
+SPEAKER_00, Okay.,119.163,119.612
+SPEAKER_01, Yes.,120.0,120.082
+SPEAKER_00, Sounds like a good goal.,121.0,122.0
+SPEAKER_01, Okay.,122.082,122.429
+SPEAKER_00," So what objectives, what tasks do you think that you could do that would help you to feel  less depressed?",123.341,134.589
+SPEAKER_01," I guess maybe some sort of physical activity, maybe like walking.",141.321,149.0
+SPEAKER_01," I like to be outside, so maybe walking could be one.",150.0,154.859
+SPEAKER_00, Okay.,155.531,155.735
+SPEAKER_00, Have you had a plan before where you've walked regularly?,157.064,160.719
+SPEAKER_01," You know, I used to.",161.667,162.677
+SPEAKER_01, I did.,163.525,163.848
+SPEAKER_01, And it would give me some relief because I was able to clear my mind whenever I was walking.,165.341,172.619
+SPEAKER_01," So yes, yes.",174.685,176.376
+SPEAKER_01, I've had success with walking before.,177.06,179.275
+SPEAKER_00, So walking has worked before?,180.082,181.0
+SPEAKER_00, Yes.,181.041,181.102
+SPEAKER_00, And you've noticed that you're walking less since you've had a feelings of depression?,182.623,186.0
+SPEAKER_01, I have been.,186.388,186.857
+SPEAKER_01, I really haven't been doing too much of anything.,187.162,189.0
+SPEAKER_01," I've just been kind of at home doing homework, stressing out over getting homework done because  I'm back in school and it's been so stressful and overwhelming.",189.2,204.0
+SPEAKER_01," Like I said, it's just kind of got me in this little funk, this depressed mood.",204.08,209.599
+SPEAKER_00," Well, since you're on the topic of homework, is there something you think you can do there?",211.486,214.859
+SPEAKER_00, You mentioned that it's stressful and overwhelming and that sounds like the type of feelings  that are related to depression sometimes.,215.0,222.497
+SPEAKER_00, Do you find that kind of being stressed about the homework is?,224.421,228.656
+SPEAKER_01," Yeah, because you know, it's so much work to be done and sometimes I get several assignments  due and at the same time I find myself rushing to get assignments in and you know, it can  just be a little daunting.",230.702,248.919
+SPEAKER_01, It's just overwhelming sometimes.,249.041,250.0
+SPEAKER_01," So yeah, and I don't know, maybe if I spaced it out and you know, took, you know, did some  time management or something like that, I don't know, to kind of help me with that.",250.261,264.96
+SPEAKER_00, So you feel like maybe you're starting the homework late compared to when it's due?,265.0,269.0
+SPEAKER_01," Yeah, yeah.",269.687,270.879
+SPEAKER_00," So that's where the feeling, maybe overwhelmed?",271.644,273.98
+SPEAKER_01," Yes, I would say that.",274.687,275.737
+SPEAKER_01, Yeah.,276.102,276.776
+SPEAKER_00," So yeah, you're right, it sounds like this is just an organizational thing, right?",277.583,280.98
+SPEAKER_00," So if you can space it out where you kind of start your homework earlier and do it in  small bits instead of waiting more or less the last minute, that would reduce, I mean  likely I would think, reduce some of the stress and feelings of being overwhelmed.",281.321,302.438
+SPEAKER_01," Yeah, I'm sure it would.",303.343,304.939
+SPEAKER_00, You sure would.,305.061,305.51
+SPEAKER_00, So you want to make that your second objective then?,306.02,307.859
+SPEAKER_00, So you have the walking.,308.224,309.0
+SPEAKER_00, Okay.,309.02,309.163
+SPEAKER_00, And then you'll have trying to space out the homework.,310.562,315.0
+SPEAKER_01," Yeah, okay.",315.02,315.551
+SPEAKER_01, That sounds doable.,316.143,316.837
+SPEAKER_00, That sound good?,317.0,317.939
+SPEAKER_00, All right.,318.02,318.449
+SPEAKER_01, Yes.,319.0,319.122
+SPEAKER_00," So we have, so we have the walking and then spacing out the homework a little more.",321.103,327.98
+SPEAKER_00," So that's two objectives and both of those seem tied to the feelings, to the oppressive  feelings that you're trying to eliminate.",328.04,336.98
+SPEAKER_01, Yes.,337.367,337.612
+SPEAKER_00, What other objectives might work?,338.624,339.933
+SPEAKER_01, Let's see.,341.626,342.051
+SPEAKER_01," You know, since I've been back in school, I just kind of, you know, I used to love to  sing and I haven't done that in a while.",343.742,353.719
+SPEAKER_01," And so maybe getting out and singing again and, you know, socializing with my friends  that I used to sing with, maybe that could help because it would get me out of the house,  you know.",354.902,370.343
+SPEAKER_00, Has that worked in the past for you?,372.04,373.576
+SPEAKER_01," You know, it was something that I enjoyed doing.",374.303,375.859
+SPEAKER_01," And right now I feel like I'm not doing any of the things that I've enjoyed doing because  I've been so busy doing work, doing homework.",376.583,383.98
+SPEAKER_01, So I think that would probably help.,384.201,387.0
+SPEAKER_00," So it's a good break from thinking about, stressing about, as you put it, the homework.",387.762,394.0
+SPEAKER_01, Yes.,394.0,394.061
+SPEAKER_00, For you.,395.347,395.673
+SPEAKER_01, Yes.,396.714,396.796
+SPEAKER_00," It has kind of a, I mean the singing part's fun for you it sounds like, but also there's  a social component it seems like.",397.02,402.0
+SPEAKER_01," Yes, it is.",402.429,402.918
+SPEAKER_01, It is.,403.143,403.388
+SPEAKER_01," So I enjoy, like I said, I enjoy singing and, you know, I enjoy the people that I would  sing with and we would go and hang out together, go to different, you know, like jazz clubs  or events, you know, different bands that we're playing at, you know, it would just  be nice.",405.04,419.327
+SPEAKER_01, It's fun.,420.02,420.918
+SPEAKER_01, So I love music.,421.242,422.879
+SPEAKER_01," So I love listening to it and I love, you know, singing.",423.584,426.0
+SPEAKER_01, So making music.,426.404,427.939
+SPEAKER_01," So that would be, I think that would be a good goal.",428.826,430.859
+SPEAKER_00, You seem to kind of light up a little when you talk about singing.,431.382,434.457
+SPEAKER_01," Yes, I just love it.",435.242,436.778
+SPEAKER_01, I enjoy doing it and I just haven't had a chance to do it lately.,437.0,439.718
+SPEAKER_00, So part of this is just making the time.,440.866,442.96
+SPEAKER_01, Yes.,445.041,445.327
+SPEAKER_00, Good.,446.796,446.939
+SPEAKER_00, All right.,447.0,447.469
+SPEAKER_00, So we'll make that a third objective.,448.0,449.919
+SPEAKER_01, Okay.,450.245,450.51
+SPEAKER_00, So we have walking and kind of organizing your homework differently.,451.321,456.197
+SPEAKER_01, Yes.,457.02,457.796
+SPEAKER_00, And singing and that socializing that accompanies that singing.,458.0,463.819
+SPEAKER_00, That's great.,464.0,464.347
+SPEAKER_00," So, three objectives is good.",465.525,467.0
+SPEAKER_00, I try to get to four if you have one.,467.303,468.778
+SPEAKER_00," Is there a fourth objective that you can think of, something else that you associated with  not feeling depressed?",469.02,476.467
+SPEAKER_01," Well, I used to absolutely love going to the beach and visiting with my aunt.",479.942,486.799
+SPEAKER_01, And so that's two things.,488.067,489.94
+SPEAKER_01, The beach.,490.082,490.796
+SPEAKER_01, I love the beach because it's soothing.,491.444,492.818
+SPEAKER_01, It's comforting.,493.364,494.515
+SPEAKER_01," And my aunt, she's just such an awesome person.",495.342,498.0
+SPEAKER_01, She's always pouring into me and I just love spending time with her.,498.281,501.618
+SPEAKER_00, And she lives down at the beach.,502.889,503.939
+SPEAKER_01," Yes, she does.",504.265,505.0
+SPEAKER_00, Okay.,505.388,505.653
+SPEAKER_00," So that's, it seems like a good objective too.",506.0,508.678
+SPEAKER_01, Yes.,509.041,509.286
+SPEAKER_00," So, you're suggesting maybe visiting her more often?",510.341,514.94
+SPEAKER_01," Yes, again, just at home doing homework and I haven't gone to visit her.",515.822,522.479
+SPEAKER_01, And the thing is she only lives like an hour away.,523.06,525.597
+SPEAKER_00, So it's not a huge ride.,526.626,527.98
+SPEAKER_01," No, it's not.",528.0,528.592
+SPEAKER_01, So that's like a little trip I can do on a Saturday.,529.161,533.92
+SPEAKER_01, So I can take a break and go down there and spend some time with her.,534.804,537.337
+SPEAKER_01, I think that would be helpful.,538.201,539.409
+SPEAKER_00," So again, kind of getting away from the school stressors and kind of just taking a break from it for a day.",541.441,550.539
+SPEAKER_01, Yes.,551.592,551.714
+SPEAKER_00, And then also spending time with somebody that you enjoy spending time with.,552.0,554.98
+SPEAKER_01, Yes.,555.714,555.939
+SPEAKER_00, Good.,559.082,559.224
+SPEAKER_00, All right.,560.061,560.408
+SPEAKER_00, So I want to go through each one of these.,561.0,561.98
+SPEAKER_00, Okay.,562.143,562.51
+SPEAKER_00," And make sure that we're kind of meeting all the criteria for an objective, which I think we can do.",563.442,567.458
+SPEAKER_00, Okay.,568.082,568.714
+SPEAKER_00," These are all specific, which is good.",569.0,571.513
+SPEAKER_00, Do you feel these are all achievable?,573.141,575.114
+SPEAKER_00, These are things you can do?,576.0,576.959
+SPEAKER_01, I think so.,577.51,577.939
+SPEAKER_01," Yes, I do.",579.102,579.612
+SPEAKER_00," Well, some of them you've done in the past, right?",580.0,581.0
+SPEAKER_01, Right.,581.265,581.449
+SPEAKER_00, So now we have the specific and the achievable.,583.003,588.077
+SPEAKER_00," Now I want to get to parts a little more tricky, which is making it measurable.",589.181,592.0
+SPEAKER_01, Okay.,592.082,592.306
+SPEAKER_00," What I'd like to do here, and I don't want to be overly prescriptive in terms of objectives.",593.04,596.98
+SPEAKER_00, I want you to decide.,597.204,597.98
+SPEAKER_01, Okay.,598.0,598.122
+SPEAKER_00," But I want to see if we can quantify in some manner how often you'll be able to do these different things, or how, you know, like in the homework,  we'll have to think about the spacing would be the quantity.",599.02,611.879
+SPEAKER_00, But first with the walking.,612.505,613.636
+SPEAKER_01, Right.,614.0,614.306
+SPEAKER_00," So in a given week, say, what's realistic for you in terms of getting out and walking?",615.281,619.9
+SPEAKER_00, How many times?,620.0,620.622
+SPEAKER_01, Maybe I can start out with twice a week.,627.101,630.98
+SPEAKER_00, Twice a week.,631.531,632.0
+SPEAKER_00, Okay.,632.04,632.201
+SPEAKER_00, Do you have two particular days in mind?,635.525,637.0
+SPEAKER_00, Days where your responsibilities aren't too great and you have that opportunity?,637.322,641.0
+SPEAKER_01, Maybe we need to start with one day a week.,649.597,650.98
+SPEAKER_00, Okay.,651.041,651.184
+SPEAKER_00, Let's go with one day a week.,652.286,652.98
+SPEAKER_00, Let's go one time.,653.04,654.98
+SPEAKER_00, One time a week.,655.0,655.939
+SPEAKER_01, Let's start with one and then we'll see what happens.,656.465,658.0
+SPEAKER_00, That's a good start.,659.253,659.899
+SPEAKER_01, Okay.,660.245,660.653
+SPEAKER_00, So what day of the week are you thinking of for walking?,661.02,662.939
+SPEAKER_00, How about Monday?,664.365,667.839
+SPEAKER_00, Is there a window of opportunity there you see on Monday?,669.463,671.456
+SPEAKER_01, It is.,672.265,672.653
+SPEAKER_00, Yeah?,673.265,673.408
+SPEAKER_01," Plus, it just kind of, I think, well, no, no.",674.281,678.98
+SPEAKER_00, How about Wednesday?,679.0,679.878
+SPEAKER_01, Wednesday.,680.163,680.571
+SPEAKER_01, Yes.,681.367,681.592
+SPEAKER_01," Wednesday, middle of the week, stress from work and school and, yes, Wednesday sounds  good.",682.0,688.265
+SPEAKER_00, Wednesday.,689.184,689.551
+SPEAKER_00," Do you have a particular time range you like to walk, what would be the time of the day?",690.02,692.758
+SPEAKER_01, Like 6.30.,693.082,693.224
+SPEAKER_00, That's a good time for you?,694.245,695.0
+SPEAKER_01, Mm-hmm.,695.102,695.796
+SPEAKER_00, That's a time you can get out of the house?,696.0,697.0
+SPEAKER_01, Yes.,698.061,698.204
+SPEAKER_01," Off work and give me a little bit of time to get home and change and out the door because  if I make it too late, I'm not going to go.",699.642,709.839
+SPEAKER_01," So 6.30 is kind of a good, that's the good time to get out there.",711.668,713.96
+SPEAKER_00," Yes, 6.30.",714.0,714.061
+SPEAKER_00, All right.,715.755,715.939
+SPEAKER_00, Good.,716.0,716.143
+SPEAKER_00," So we'll start with that objective, the walking.",717.121,719.98
+SPEAKER_00, Every Wednesday at 6.30.,720.646,721.273
+SPEAKER_01, Mm-hmm.,722.041,722.245
+SPEAKER_00, And for every amount of time you're comfortable with.,723.926,725.436
+SPEAKER_01, Yes.,726.469,726.735
+SPEAKER_00, So the homework.,728.143,728.918
+SPEAKER_00, This is a little trickier.,729.263,731.0
+SPEAKER_01, All right.,731.122,731.98
+SPEAKER_00, So this is about spacing it out.,732.0,733.657
+SPEAKER_01, Okay.,734.02,734.367
+SPEAKER_00," So the homework assignments, they're stressing it out.",735.101,737.96
+SPEAKER_00, How much time do they take?,738.404,739.818
+SPEAKER_00," Well, I'll ask you a few questions.",740.747,741.98
+SPEAKER_01, Okay.,742.796,742.98
+SPEAKER_00, How much time do they take to complete generally?,743.0,744.717
+SPEAKER_00," Like in hours, so.",745.323,746.394
+SPEAKER_01, Mm-hmm.,747.163,747.286
+SPEAKER_01, It depends on the assignment.,748.606,749.899
+SPEAKER_00, Have you had the average?,750.102,750.98
+SPEAKER_01," The average, maybe about two hours, two and a half hours, I guess.",751.742,759.94
+SPEAKER_00," Well, let's go with the worst case.",760.082,761.0
+SPEAKER_00, Let's go two and a half hours just to cover the worst case.,761.161,764.0
+SPEAKER_00, Would that generally be the worst case?,764.384,765.96
+SPEAKER_01," I think so, maybe.",766.765,768.195
+SPEAKER_01," It depends because of, yeah.",769.626,770.838
+SPEAKER_00, Want me to get three?,771.122,771.918
+SPEAKER_01," Yeah, let's make it three.",772.082,772.755
+SPEAKER_00," And then how much time do you have from when it's assigned to when it's due, usually?",775.141,779.88
+SPEAKER_01, Maybe a couple of weeks.,780.802,788.0
+SPEAKER_00, A couple of weeks?,788.06,791.859
+SPEAKER_01, Yeah.,792.02,792.245
+SPEAKER_00, All right.,793.0,793.286
+SPEAKER_00, And what have you been doing now in terms of managing those three hours relative to  that two-week period?,794.543,798.98
+SPEAKER_00, Like it doesn't sound like you're doing it early in the two-week period.,799.502,803.639
+SPEAKER_01," No, I'm not.",804.0,804.878
+SPEAKER_00," Yeah, so a little bit later?",805.0,805.694
+SPEAKER_01, Yeah.,806.02,806.347
+SPEAKER_01," I get distracted, so I get a little distracted.",807.422,810.899
+SPEAKER_01," So it's, you know, I start reading and I'll fall asleep or I get distracted by something  or, and then before you know it, the time is gone and I'm rushing at the end to try  and get it all done.",811.161,825.857
+SPEAKER_01, Two hours with the work.,826.02,827.0
+SPEAKER_01, Three hours.,827.163,827.592
+SPEAKER_00, Three hours with the work.,828.02,829.0
+SPEAKER_00," Squeezed into the last, okay.",829.0,830.657
+SPEAKER_01, Yeah.,831.0,831.265
+SPEAKER_00, I could see how that would be stressful.,832.02,833.0
+SPEAKER_01, Yeah.,833.143,833.694
+SPEAKER_00, What day of the week is it usually assigned?,834.04,836.185
+SPEAKER_01, On Tuesdays.,842.122,842.837
+SPEAKER_00, On Tuesdays.,843.163,843.653
+SPEAKER_01, Mm-hmm.,844.265,844.531
+SPEAKER_00, All right.,845.163,845.755
+SPEAKER_00, So you have Tuesday and then you have another Tuesday and then the week after that is due.,846.0,850.96
+SPEAKER_01, Mm-hmm.,851.204,851.51
+SPEAKER_00, You have three hours of work in those two weeks.,852.0,856.355
+SPEAKER_00, So let's look at it this way maybe.,858.04,859.691
+SPEAKER_01, Okay.,861.102,861.939
+SPEAKER_00," What time could you set aside, say near that first Tuesday, that you could put maybe the  first hour in?",862.14,869.576
+SPEAKER_00, Maybe divide it in three parts?,870.0,870.939
+SPEAKER_01, Okay.,871.388,871.694
+SPEAKER_00, Is that enough parts?,872.0,872.98
+SPEAKER_01," Yeah, it should be.",874.374,875.0
+SPEAKER_00, Okay.,875.367,875.612
+SPEAKER_00, Can you say what time?,876.828,877.818
+SPEAKER_00," Yeah, what would be the first day and time?",878.544,880.839
+SPEAKER_00," Like kind of like when you specify Wednesday at 6-30, that's going to be your walk-in time.",881.161,883.799
+SPEAKER_0q," Right, right.",884.0,884.306
+SPEAKER_00, How about the time when you could start the homework?,885.04,886.98
+SPEAKER_00, If it's the first hour.,887.404,888.273
+SPEAKER_01, Maybe after I've come back from my walk on Wednesdays.,890.347,892.678
+SPEAKER_00, How long do you foresee a walk?,893.041,893.98
+SPEAKER_01, Normally I only walk for an hour.,894.181,895.812
+SPEAKER_00," So give you some time to decompress maybe around 8, 8 o'clock.",897.02,900.779
+SPEAKER_00, All right.,901.143,901.531
+SPEAKER_00," So from 8 to 9 on Tuesday, on Wednesday, I'm sorry.",902.02,904.839
+SPEAKER_01, Wednesday.,905.143,905.469
+SPEAKER_00," On Wednesday, you'll get that first third of your homework.",906.181,909.317
+SPEAKER_01, Okay.,910.265,910.51
+SPEAKER_00, And then you'll stop.,911.061,911.633
+SPEAKER_01, Okay.,912.061,912.265
+SPEAKER_00, That'll be that for the night.,913.306,914.0
+SPEAKER_01, Okay.,914.0,914.122
+SPEAKER_00, All right.,915.265,915.51
+SPEAKER_00, Does that sound like a plan?,916.122,917.0
+SPEAKER_01, Mm-hmm.,917.0,917.245
+SPEAKER_01, What's the second hour?,918.0,922.759
+SPEAKER_00," Maybe a few days, give yourself a few days.",923.0,924.253
+SPEAKER_01," No, I guess I could start it Thursday.",925.281,933.379
+SPEAKER_00, Thursday?,934.041,934.551
+SPEAKER_01, Mm-hmm.,935.0,935.163
+SPEAKER_00, So that's just one day apart.,936.041,936.939
+SPEAKER_01, Yeah.,937.714,937.857
+SPEAKER_00, You want to make yourself more time?,938.0,938.959
+SPEAKER_00, It seems like you're not sure.,939.06,946.98
+SPEAKER_01, Yeah.,947.02,947.143
+SPEAKER_01, Let's do Thursday.,948.02,949.0
+SPEAKER_00, You want to go Thursday?,949.286,949.98
+SPEAKER_01, Yes.,950.02,950.224
+SPEAKER_00, In an hour?,951.0,951.98
+SPEAKER_00, Yes.,952.041,952.286
+SPEAKER_00, And what hour do you have in mind?,953.0,957.779
+SPEAKER_01," Thursdays, about 7 o'clock.",958.08,961.638
+SPEAKER_00, So about 7 to 8?,962.886,963.691
+SPEAKER_01, 7 to 8.,965.286,965.571
+SPEAKER_00, All right.,966.082,966.653
+SPEAKER_00," So one night, Wednesday, it'll be 8 to 9, it's your walk.",968.126,969.995
+SPEAKER_00," And then on Thursday, 7 to 9.",971.0,972.025
+SPEAKER_01," Well, that's two hours.",975.505,976.293
+SPEAKER_00," 7 to 8, sorry.",977.121,977.848
+SPEAKER_01, Okay.,979.469,979.592
+SPEAKER_00, So now just the last hour remains.,980.02,981.717
+SPEAKER_00, Sunday.,982.122,982.551
+SPEAKER_01, Yeah.,983.102,983.306
+SPEAKER_00, Sunday.,984.0,984.327
+SPEAKER_01, Okay.,988.061,988.184
+SPEAKER_00, So you want to get everything done from Tuesday to Sunday night.,989.02,991.839
+SPEAKER_01, Yes.,992.224,992.388
+SPEAKER_00, And have the rest of that time off.,993.02,994.0
+SPEAKER_01, Yes.,994.0,994.286
+SPEAKER_00, Okay.,995.02,995.245
+SPEAKER_00, Okay.,996.163,996.286
+SPEAKER_00, Are you sure that's achievable?,997.0,997.918
+SPEAKER_00, That seems like you're getting a lot in there.,999.43,1000.96
+SPEAKER_00, Do you think you can do it?,1001.303,1002.111
+SPEAKER_01, I'll get dry.,1003.0,1003.857
+SPEAKER_01, Yeah.,1004.265,1004.449
+SPEAKER_00, That sounds good.,1005.0,1005.633
+SPEAKER_00, All right.,1006.347,1006.673
+SPEAKER_00, What time Sunday?,1007.0,1007.98
+SPEAKER_01, Sunday around 5.,1008.04,1009.03
+SPEAKER_00, So 5 to 6?,1010.102,1010.388
+SPEAKER_01," 5 to 6, yes.",1011.263,1011.505
+SPEAKER_00," And I'm assuming it won't run over because we kind of asked me on the high side, but  if it did, would you be able to go 5 to 7?",1013.161,1019.497
+SPEAKER_01, Mm-hmm.,1020.102,1020.347
+SPEAKER_00, So that's kind of like flexible time there.,1021.02,1023.114
+SPEAKER_01, Yes.,1024.082,1024.49
+SPEAKER_00, So what would that feel like to get your homework done by Sunday?,1025.0,1026.616
+SPEAKER_01, It would be a relief.,1027.323,1028.596
+SPEAKER_01," And then I could do some other stuff like, you know, maybe my next goal.",1030.0,1034.016
+SPEAKER_00, Okay.,1035.082,1035.367
+SPEAKER_00," So, and there's a potential backup plan I see in here is that if something happens on  Sunday, where you need more time and you don't want to stress, you still have that Wednesday  after you walk, bacon.",1036.401,1048.0
+SPEAKER_01, Yeah.,1048.0,1048.265
+SPEAKER_00, So that could be like your backup.,1049.041,1049.959
+SPEAKER_00, Yes.,1050.02,1050.143
+SPEAKER_00, Does that make sense?,1051.041,1051.694
+SPEAKER_01, Yes.,1052.429,1052.592
+SPEAKER_00, Because you still have another six days to have done after that.,1053.0,1054.973
+SPEAKER_00, Right.,1056.429,1056.592
+SPEAKER_00, Does that seem realistic and achievable?,1057.0,1058.657
+SPEAKER_01, It does.,1059.163,1059.857
+SPEAKER_00, Okay.,1060.0,1060.327
+SPEAKER_00, So how about the singing?,1061.0,1061.735
+SPEAKER_01," I have no idea how long the singing thing takes, so.",1062.0,1064.171
+SPEAKER_01," Well, if I get back in the group that I was in, we would normally get together on a Friday  after work.",1066.682,1074.706
+SPEAKER_00," Every Friday, every so many Fridays?",1076.224,1078.717
+SPEAKER_01, Every Friday.,1079.723,1080.814
+SPEAKER_01, Yeah.,1083.082,1083.592
+SPEAKER_00, Okay.,1084.449,1084.571
+SPEAKER_01," So on Fridays, it would just be rehearsal.",1085.0,1086.616
+SPEAKER_00, Okay.,1087.082,1087.306
+SPEAKER_01," And then another Friday, it would be a shorter rehearsal, and then we would go someplace  if we knew of a group of some friends of ours that were performing.",1088.502,1098.294
+SPEAKER_00," So this is an every Friday commitment, right, the singing?",1100.281,1104.0
+SPEAKER_01, Yes.,1104.51,1104.837
+SPEAKER_01," But one Friday is generally, it's like the end, about two hours.",1105.0,1110.0
+SPEAKER_00, About two hours.,1110.122,1110.939
+SPEAKER_00, So two hours every Friday.,1111.626,1112.838
+SPEAKER_00," This is something you really enjoy, though.",1113.02,1114.0
+SPEAKER_01, It is.,1114.163,1114.653
+SPEAKER_00, So it sounds like you look forward to it.,1115.202,1116.98
+SPEAKER_01, Yes.,1117.041,1117.102
+SPEAKER_00, All right.,1119.0,1119.49
+SPEAKER_00," So Friday, two hours, I guess, would be the afternoon or evening?",1120.0,1122.995
+SPEAKER_01, Evening.,1124.224,1124.51
+SPEAKER_00, All right.,1127.102,1128.0
+SPEAKER_00, So that's one that you would kind of look forward to.,1128.703,1132.538
+SPEAKER_01, Yes.,1133.286,1133.408
+SPEAKER_01, The singing.,1134.592,1134.939
+SPEAKER_00, That's good.,1135.082,1135.449
+SPEAKER_01, Okay.,1136.041,1136.633
+SPEAKER_00, So that's one you feel you could achieve a couple hours on Friday.,1137.161,1139.557
+SPEAKER_01, Yeah.,1141.0,1141.122
+SPEAKER_01, So I think it was something that came up that I really had to get done.,1142.0,1144.758
+SPEAKER_01, It's not like I can't not go.,1145.705,1147.597
+SPEAKER_00, So...,1148.367,1148.531
+SPEAKER_00, It won't be managed or anything?,1149.041,1149.959
+SPEAKER_01, No.,1150.0,1150.082
+SPEAKER_01, They know I'm in school.,1152.0,1153.0
+SPEAKER_01," In school, they understand.",1153.02,1153.857
+SPEAKER_00, Good.,1155.041,1156.0
+SPEAKER_00, So then there's the last objective.,1157.02,1158.0
+SPEAKER_00," This is, I guess, about a whole day commitment, right, because you go to the beach.",1158.623,1161.859
+SPEAKER_01, That would be more like a Saturday.,1169.505,1170.98
+SPEAKER_00, But of course it wouldn't be every Saturday.,1171.624,1173.396
+SPEAKER_00," So how many times in, say, a month?",1174.04,1176.698
+SPEAKER_00, Like once?,1177.102,1177.857
+SPEAKER_01, Once a month.,1178.286,1178.714
+SPEAKER_00, Okay.,1181.531,1181.776
+SPEAKER_00, So you would go down on Saturday morning and come back that same day?,1182.582,1188.94
+SPEAKER_01, Yes.,1189.041,1189.265
+SPEAKER_00, Is that something you look forward to?,1190.707,1191.717
+SPEAKER_01, Yes.,1192.02,1192.224
+SPEAKER_00," Is that something that would be okay in terms of like, because on Friday night potentially  you'd be out, right?",1193.06,1199.859
+SPEAKER_00, And then Saturday.,1200.082,1200.776
+SPEAKER_01, Yeah.,1201.735,1201.918
+SPEAKER_01," But if I, if on those Saturdays that I know that I'm going, I could not be out too late  on that.",1202.1,1208.837
+SPEAKER_00, Okay.,1209.776,1209.959
+SPEAKER_00, That's a good idea.,1210.041,1210.612
+SPEAKER_00, So you kind of make sure you restrict how long you stay out.,1211.06,1213.497
+SPEAKER_01, Yes.,1214.388,1214.469
+SPEAKER_00, When you know that Saturday's coming.,1215.0,1216.0
+SPEAKER_01, Yes.,1216.082,1216.163
+SPEAKER_00, Or not go at all that Friday.,1217.404,1218.616
+SPEAKER_00, Either way.,1219.0,1219.245
+SPEAKER_00, Just take a break that time.,1220.041,1220.98
+SPEAKER_01, Yes.,1221.102,1221.224
+SPEAKER_00, Re-store.,1223.265,1223.551
+SPEAKER_01, All right.,1224.469,1224.735
+SPEAKER_00, So that's four separate objectives.,1225.0,1226.192
+SPEAKER_00," And what I want to do since I've kind of made a lot of specific notations here, I want  to take a moment, just take a break and print this up for you.",1227.321,1236.899
+SPEAKER_01, Okay.,1237.143,1237.408
+SPEAKER_00," We'll work on the rest of your goals next time, but I want you to have this so you can  get started on it right away.",1238.141,1244.091
+SPEAKER_01, Okay.,1245.306,1245.429
+SPEAKER_00," So before I print these up, is there any changes you want to make?",1246.0,1247.95
+SPEAKER_01, No.,1250.939,1250.98
+SPEAKER_01," I would like to try that and if it doesn't work, can we tweak it?",1252.286,1254.96
+SPEAKER_00, Oh yeah.,1255.204,1255.694
+SPEAKER_00, Just make changes.,1256.0,1256.469
+SPEAKER_01, Okay.,1257.694,1257.878
+SPEAKER_00, Maybe certain things will work really well.,1258.0,1259.394
+SPEAKER_00, Maybe certain things will have to take off the list altogether and maybe substitute something  else.,1260.02,1264.306
+SPEAKER_00," But yeah, we can make edits to it the whole time you're here.",1265.0,1267.98
+SPEAKER_01, Okay.,1268.0,1268.122
+SPEAKER_00, We can just make a document that changes as needed.,1269.02,1271.416
+SPEAKER_01, Okay.,1272.0,1272.082
+SPEAKER_00," But if you think it's a good starting place, I'll go ahead and print this up as it is and  give you a copy and we can resume with today's session and then next time I see you in a  week, we'll work on the rest of the treatment plan.",1273.361,1287.0
+SPEAKER_01, Sounds good.,1287.0,1287.918
+SPEAKER_00, Does that sound like a good plan?,1288.02,1289.253
+SPEAKER_01, Yes.,1290.429,1290.592
+SPEAKER_00, Thanks Alison.,1291.347,1291.796
+SPEAKER_01, Thank you.,1292.0,1292.02

@@ -1,0 +1,103 @@
+speaker,start,end,text
+SPEAKER_00,14.799,15.54," Hi Sherry, how you're doing today?"
+SPEAKER_01,16.671,17.56, I'm doing okay.
+SPEAKER_00,17.56,17.944, You're doing okay?
+SPEAKER_00,19.32,24.317, I understand you've been having some symptoms which have been bothering you a bit.
+SPEAKER_00,25.542,26.848, Can you tell me what you think is going on?
+SPEAKER_01,30.18,33.976, I've been feeling really low and I think I might be depressed.
+SPEAKER_00,34.96,35.927, You think you might be depressed?
+SPEAKER_00,37.92,39.53, Have you ever felt this way in the past?
+SPEAKER_01,41.12,59.307," I mean years ago I had some of these similar things but I didn't really think about it  much and this was going on for like, I've been feeling this way for like a month and  I think something's wrong."
+SPEAKER_00,60.84,65.317," You've been having feelings of sadness, hopelessness?"
+SPEAKER_01,66.102,66.837, Yeah.
+SPEAKER_00,67.204,67.49, Yeah.
+SPEAKER_01,68.776,68.98, Yeah.
+SPEAKER_01,69.161,70.392, I haven't been able to sleep.
+SPEAKER_00,71.32,72.007, Trouble sleeping?
+SPEAKER_01,73.421,75.28, Mm-hmm.
+SPEAKER_00,75.28,76.506, This has been going on for a month?
+SPEAKER_00,79.604,81.019, Yeah.
+SPEAKER_00,81.08,86.719, Have you noticed any change in your ability to experience fun or pleasure?
+SPEAKER_01,88.623,100.858, I haven't really thought about it but I mean I still have fun sometimes but I just notice  that most of the time I'm sad.
+SPEAKER_00,101.764,103.293, Most of the time you're sad but you still have fun?
+SPEAKER_00,104.4,107.438, Have you lost an interest in pursuing things that are fun?
+SPEAKER_01,108.269,108.411, No.
+SPEAKER_01,108.84,109.779, I mean I still try.
+SPEAKER_01,111.509,112.56, I try to distract myself.
+SPEAKER_01,113.101,124.408," Like if I notice that I'm just feeling really low or even if I can't sleep at night, I'll  go do something that I like doing to pass the time."
+SPEAKER_00,129.36,133.357, Any change in your appetite or weight in the last couple of weeks?
+SPEAKER_01,134.181,134.426, Yeah.
+SPEAKER_01,135.42,139.918, I haven't really been eating that much and I've actually lost a few pounds.
+SPEAKER_00,140.502,141.135, Lost a few pounds?
+SPEAKER_01,142.155,142.4, Yeah.
+SPEAKER_00,143.184,145.88, And you mentioned the sleep disturbance.
+SPEAKER_00,146.121,148.316, You've not been sleeping as much as you'd like to.
+SPEAKER_01,149.122,149.49, Correct.
+SPEAKER_01,150.0,164.973, It's really hard for me to fall asleep and sometimes I'll just lie there for hours at  night and it's awful because then I'm tired all day because I didn't sleep at night and  when I get home it's time for bed again and I still can't fall asleep.
+SPEAKER_00,166.863,168.473, So that's been affecting your energy level?
+SPEAKER_00,169.663,169.806, Yeah.
+SPEAKER_01,170.704,171.275, Yeah.
+SPEAKER_00,172.262,179.689," Do you feel restless or the opposite, kind of like slowed down having either one of those  feelings?"
+SPEAKER_01,181.21,182.078," No, not really."
+SPEAKER_00,182.523,183.836, Nothing like that?
+SPEAKER_01,184.811,184.873, No.
+SPEAKER_00,185.893,186.179, All right.
+SPEAKER_00,186.783,189.577, Have you been having any feelings of worthlessness?
+SPEAKER_01,190.322,190.362, No.
+SPEAKER_00,193.293,193.819, Nothing like that?
+SPEAKER_01,194.281,199.96," No, I mean, you know, like not really, no."
+SPEAKER_01,200.283,201.839, Like I don't feel worthless.
+SPEAKER_01,201.96,205.96," I just, you know, I just, I'm still sad though."
+SPEAKER_01,206.061,207.088, I don't know why I'm sad.
+SPEAKER_00,209.866,211.96, How about your concentration level?
+SPEAKER_00,212.162,212.889, Any changes there?
+SPEAKER_01,214.205,214.552, Yeah.
+SPEAKER_01,215.78,241.267," It's hard to concentrate at work and in general even at home because I just feel so tired,  not sleeping and sometimes I just get distracted by like, you know, like I'll be overcome with  emotion and I, out of nowhere, like it's hard for me to pay attention to what I'm doing  if I'm getting distracted by those thoughts."
+SPEAKER_00,245.8,248.115, Have you been having any thoughts related to death or dying?
+SPEAKER_01,249.229,249.31, No.
+SPEAKER_00,249.921,250.487, Nothing like that?
+SPEAKER_01,251.943,252.106, No.
+SPEAKER_00,252.861,253.8, All right.
+SPEAKER_00,254.401,265.693, So these symptoms you've been describing have been causing limitations in your functioning  in what areas?
+SPEAKER_01,268.011,268.675," Well, at work."
+SPEAKER_00,270.269,270.612, At work?
+SPEAKER_01,271.4,272.349, At work.
+SPEAKER_01,274.971,275.597, At home too.
+SPEAKER_01,276.343,278.92, I want to play with my cat.
+SPEAKER_01,279.221,287.976," I usually play with my cat for like an hour every night just because, you know, I'm at  work all day but I haven't, I've been having trouble like even doing that."
+SPEAKER_01,289.389,289.757, Yeah.
+SPEAKER_01,292.847,299.042," So I would say, and then even like my relationships too, like my social life, it's been affecting  it."
+SPEAKER_00,300.46,300.903, All right.
+SPEAKER_00,304.586,307.159, Any drug or alcohol use?
+SPEAKER_01,308.175,308.256, No.
+SPEAKER_00,308.685,308.869, None.
+SPEAKER_00,310.645,314.159, How about any medical conditions?
+SPEAKER_01,314.44,314.501, No.
+SPEAKER_00,315.787,316.379, Nothing.
+SPEAKER_00,319.308,322.718, Do you ever see or hear things other people can't see or hear?
+SPEAKER_01,323.971,324.073, No.
+SPEAKER_00,324.644,324.767, No.
+SPEAKER_00,325.44,326.44, Has it ever happened to you?
+SPEAKER_01,326.644,326.726, No.
+SPEAKER_01,327.481,328.277, Never.
+SPEAKER_00,331.325,340.132," Do you feel now recently or ever, you had a state where you were too happy, like had  a lot of energy and..."
+SPEAKER_01,341.627,342.091, Like mania.
+SPEAKER_00,343.101,344.011," Like mania, yeah."
+SPEAKER_00,344.98,345.021, No.
+SPEAKER_00,345.96,346.878, Nothing like that ever.
+SPEAKER_00,347.042,347.715, All right.
+SPEAKER_00,349.765,356.596, Has there been any major event in the last month or maybe before that that you think  might be causing this?
+SPEAKER_01,357.576,357.739, No.
+SPEAKER_00,358.221,358.323, No.
+SPEAKER_01,359.401,363.517, Nothing significant happened to make me feel this way.
+SPEAKER_00,364.341,366.314, Nothing you think would cause depression or anything?
+SPEAKER_00,367.201,367.242, No.
+SPEAKER_00,371.425,371.956," All right, Sherry."
+SPEAKER_00,372.462,374.898, I'm going to get you in to see a counselor here.
+SPEAKER_00,375.16,376.675, It'll just take a couple days to get you in.
+SPEAKER_00,377.18,377.711, Is that okay?
+SPEAKER_01,378.997,379.099, Yeah.
+SPEAKER_00,379.242,379.466, All right.
+SPEAKER_00,380.16,382.16, I want to thank you for answering these questions for me.
+SPEAKER_00,382.282,383.058, This has been helpful.
+SPEAKER_01,383.18,384.14, You're welcome.

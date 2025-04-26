@@ -1,0 +1,104 @@
+speaker,start,end,text
+SPEAKER_00,1.061,15.48," Hi Jackie, how are you doing today?"
+SPEAKER_01,15.56,17.237," Alright, how are you?"
+SPEAKER_00,17.923,19.154," I'm doing fine, thanks for asking."
+SPEAKER_00,19.94,23.999, I understand you've been having some difficulties that brought you into our agency.
+SPEAKER_01,24.743,27.178," Yeah, I'm really worried about my drinking."
+SPEAKER_00,27.56,28.55, You're worried about your drinking? Tell me about your drinking.
+SPEAKER_01,31.505,35.839," Well, my family, you know, my family are all big partiers, they all really like to drink."
+SPEAKER_01,36.802,44.12," It's something I've been surrounded by a lot, but I've been having these really intense cravings that I really feel like I want to drink."
+SPEAKER_01,44.281,48.779," When I'm at work, I'm just like, I could really use a drink right now."
+SPEAKER_01,49.802,51.408, That really worries me.
+SPEAKER_01,51.468,54.638,I'm just nervous it's becoming a problem.
+SPEAKER_00,55.8,59.693," So, sometimes at work you've been having cravings for alcohol."
+SPEAKER_00,59.774,61.54,Any other times when you've been having cravings?
+SPEAKER_01,62.482,67.693," Yeah, it's kind of when I'm at home, you know, not really doing anything."
+SPEAKER_01,67.713,70.46,I could go for a beer right now.
+SPEAKER_00,71.663,76.64," So, other than that feeling of having the craving, is there anything you do after you have the craving?"
+SPEAKER_01,79.083,83.171," Yeah, sometimes I'll have a drink."
+SPEAKER_01,83.191,88.18,I just feel like I want to give into it.
+SPEAKER_00,89.109,89.775, How much do you drink?
+SPEAKER_01,91.77,92.616, Like a beer or two.
+SPEAKER_00,95.601,97.73," Is this when, do you work in the day?"
+SPEAKER_00,98.734,100.24,Is this when you're at work in the day?
+SPEAKER_01,100.441,104.517," Oh no, after work I'll go and have a drink."
+SPEAKER_00,105.8,108.518," So, when you're having cravings at work, you're not drinking there?"
+SPEAKER_01,108.941,110.436," No, no."
+SPEAKER_00,112.081,117.178," So, tell me about your typical alcohol consumption in a week."
+SPEAKER_01,118.942,127.239," I like to, on Fridays, after work, after a long week, that's kind of when I really crave it."
+SPEAKER_01,128.4,130.084, I go have a drink with some friends.
+SPEAKER_01,131.728,134.776,I'll have a drink sometimes with dinner.
+SPEAKER_01,136.861,138.747, I'll find that a social event.
+SPEAKER_01,138.767,142.457,I kind of feel like I want to have a drink then.
+SPEAKER_01,143.721,147.855, And I don't really want to feel that way.
+SPEAKER_01,147.875,149.179,I feel like that might be a problem.
+SPEAKER_00,149.741,156.039, You're worried that the craving is indicating that you have an alcohol.
+SPEAKER_01,157.061,157.263, Yeah.
+SPEAKER_00,159.462,164.037, Have you ever tried to cut down your drinking and you're unable to do so?
+SPEAKER_01,168.04,173.258," Well, I mean, usually I'm able to limit my days."
+SPEAKER_01,174.763,178.197," If I say I'm going to go to a party this weekend, I'll have one."
+SPEAKER_01,179.442,182.675," And, you know, usually I can stick to it."
+SPEAKER_01,184.5,185.571," I don't really feel to it, I guess."
+SPEAKER_00,186.902,190.757, Do you spend a lot of time trying to obtain alcohol?
+SPEAKER_01,193.142,196.873," Um, no."
+SPEAKER_01,196.893,198.417,I guess not.
+SPEAKER_01,200.48,207.32," I mean, I think about where I could, when I have a craving, I think about when I want to have it."
+SPEAKER_01,207.661,211.596, But I don't really spend a lot of time thinking about it or trying to get it.
+SPEAKER_00,213.423,215.698, How about in terms of your responsibilities?
+SPEAKER_00,216.04,219.815, Have you failed to uphold any of your responsibilities because of your drinking?
+SPEAKER_01,225.582,231.458, Maybe I haven't gone home from work right away when I have to put my clothes away or do some laundry.
+SPEAKER_01,232.522,237.398," You know, because I'd rather just go have a drink with my friends."
+SPEAKER_01,238.68,245.379," No major responsibilities, no work responsibilities or anything like that have been missed."
+SPEAKER_00,246.64,246.841, Alright.
+SPEAKER_00,246.962,249.193,Do you have any social problems because of your drinking?
+SPEAKER_01,255.022,259.359," Well, no, I guess not."
+SPEAKER_01,260.102,264.858," I mean, I get really friendly when I have a drink, so I don't really think that's a problem."
+SPEAKER_01,267.771,268.596," But, no, I guess not."
+SPEAKER_00,269.221,270.877, It hasn't caused any social problems.
+SPEAKER_00,271.561,279.16, Do you find yourself giving up important activities because you're drinking instead?
+SPEAKER_01,281.688,283.575, I don't know.
+SPEAKER_01,289.905,294.958," I usually do what I need to do and if I have to go to a shower or something, brown shower, maybe."
+SPEAKER_01,295.821,297.296, I usually go to them.
+SPEAKER_01,297.76,302.499, Maybe I think about it while I'm there that I'd like to have a beer at this.
+SPEAKER_01,303.589,304.599, Why isn't there any beer here?
+SPEAKER_01,305.441,309.979, But I still attend the things that I need to attend.
+SPEAKER_00,310.36,314.698," So you're thinking about it, maybe still some craving, but you're still going, you're still participating."
+SPEAKER_01,315.704,315.906," Yeah, yeah."
+SPEAKER_00,320.089,323.099, Are you engaging in any activities that are dangerous because of the drinking?
+SPEAKER_01,324.694,324.735, No.
+SPEAKER_00,325.28,327.28," Drinking and driving, anything like that, nothing like that."
+SPEAKER_01,327.28,327.583," Well, no."
+SPEAKER_01,329.28,332.737," I, no, I guess not."
+SPEAKER_00,334.729,335.638, There's nothing like that?
+SPEAKER_01,336.284,336.466, No.
+SPEAKER_00,337.9,343.74, Do you have any physical or mental health problems that are made worse by the drinking?
+SPEAKER_01,344.123,344.183, No.
+SPEAKER_01,350.507,351.396, I wouldn't say worse.
+SPEAKER_01,353.497,353.638, No.
+SPEAKER_00,355.689,357.84, Do you have any medical or mental health problems in general?
+SPEAKER_01,357.921,357.961, No.
+SPEAKER_00,362.686,368.139, Do you find that you have to increase the amount of alcohol you're drinking to get the same effect?
+SPEAKER_01,370.748,373.878, I usually have around the same amount every time.
+SPEAKER_01,375.043,377.737, So I guess I would say no.
+SPEAKER_01,379.042,385.458," I never really go all out, not a ton of drinks, but so, no."
+SPEAKER_00,387.808,388.051, Alright.
+SPEAKER_00,388.96,391.935," And you've been drinking, you say you've been drinking about the same amount each time you drink."
+SPEAKER_00,392.98,394.879, Have you noticed that the effect has been diminished?
+SPEAKER_00,394.96,396.697, Like you're not getting the same effect from the alcohol?
+SPEAKER_01,397.707,398.899, I usually feel the same.
+SPEAKER_00,399.728,400.455, Feel the same way?
+SPEAKER_01,401.0,402.213, Yeah.
+SPEAKER_00,403.261,407.595," Have you ever noticed any symptoms when you stop drinking, like a withdrawal?"
+SPEAKER_01,410.071,410.132, No.
+SPEAKER_00,411.041,412.96, Nothing like that?
+SPEAKER_01,412.96,414.091," Well, what do you mean really by withdrawal?"
+SPEAKER_00,415.6,423.52," Like when you stop using alcohol, are you finding that you're anxious, depressed, you have physical reactions?"
+SPEAKER_01,423.52,423.621, No.
+SPEAKER_00,425.52,427.217, Nothing like that?
+SPEAKER_01,427.581,427.621, No.
+SPEAKER_00,429.621,430.086," Alright, Jackie."
+SPEAKER_00,431.54,435.359, I appreciate you telling me about what's going on and answering my questions.
+SPEAKER_00,436.045,437.52," If you're okay with it, I'll get you in to see a counselor."
+SPEAKER_01,437.621,437.722, Okay.
+SPEAKER_00,440.207,441.419, I'll get that scheduled and we can go from there.
+SPEAKER_00,441.52,443.52," Okay, thank you very much."

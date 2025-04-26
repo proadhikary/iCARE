@@ -1,0 +1,226 @@
+speaker,start,end,text
+SPEAKER_00,15.017,15.257," Hi, Lisa."
+SPEAKER_00,15.277,15.978,How you doing today?
+SPEAKER_01,16.939,17.519,I'm doing okay.
+SPEAKER_00,18.0,18.444, You're doing okay?
+SPEAKER_01,18.787,18.969,Yeah.
+SPEAKER_00,20.241,23.856, I understand you're here to receive counseling services.
+SPEAKER_01,24.72,25.646, My boss sent me here.
+SPEAKER_00,26.008,26.813,Your boss sent you here?
+SPEAKER_00,28.768,29.92, What's going on with you and your boss?
+SPEAKER_01,31.325,33.271, It's not even between me and my boss.
+SPEAKER_01,34.154,35.84,I'm a good worker at my job.
+SPEAKER_01,36.883,41.817," I get everything done on time, but they're calling me inflexible and a perfectionist."
+SPEAKER_00,43.825,44.126, All right.
+SPEAKER_00,44.166,46.92,So who's calling you inflexible and a perfectionist?
+SPEAKER_01,47.824,49.169," Well, my boss has called me that."
+SPEAKER_01,49.189,51.92,I've had several coworkers.
+SPEAKER_01,53.063,60.259," There was a recent incident where somebody wanted to change days with me, but I told them the schedule's out."
+SPEAKER_01,61.06,62.443, I'm supposed to be here on Wednesday.
+SPEAKER_01,63.304,64.547,You can't change it.
+SPEAKER_01,66.009,66.55,It's right there.
+SPEAKER_01,66.57,67.532,Black and white.
+SPEAKER_01,67.913,68.774,I work Wednesday.
+SPEAKER_01,68.995,69.816,You can't change that.
+SPEAKER_00,71.96,77.298, And they felt that it would have been more reasonable to change?
+SPEAKER_01,77.92,81.607," Well, they wanted to change, and I really don't agree with that."
+SPEAKER_01,81.907,87.758,"If they needed a certain day off, they need to go through the order of command and ask for a day off."
+SPEAKER_00,89.262,91.497, And they didn't do that and said they asked you to switch days.
+SPEAKER_01,91.92,94.39, And then they called me inflexible because I got upset about it.
+SPEAKER_00,97.526,98.536, In what way did you get upset?
+SPEAKER_01,99.522,100.444," Well, I told them."
+SPEAKER_01,100.604,106.218,"I said that's irresponsible, that they didn't think ahead, that they wanted to change with me."
+SPEAKER_01,107.441,108.644, I am there at a certain time.
+SPEAKER_01,108.704,111.43,I am there from 8 in the morning till 5 in the afternoon.
+SPEAKER_01,111.45,113.054,I take my lunch at 12 o'clock.
+SPEAKER_01,113.815,114.737,That is my Wednesday.
+SPEAKER_01,116.602,117.906, That's always been my Wednesday.
+SPEAKER_01,118.367,119.931,I don't know why they want to upset that.
+SPEAKER_00,123.603,123.824, All right.
+SPEAKER_00,123.844,127.759,"So that upset you and that upset them, that whole incident?"
+SPEAKER_00,128.696,128.879, Yes.
+SPEAKER_00,129.241,133.493, Anything else that your boss may have as a reason for...?
+SPEAKER_01,136.141,142.158," They call me a perfectionist because I like the things done by the book, which I think makes me a great worker."
+SPEAKER_01,142.92,146.43, Because I get everything done on deadlines.
+SPEAKER_01,146.691,147.994,"Not before, not after."
+SPEAKER_01,148.356,149.138,Right on the deadline.
+SPEAKER_01,150.582,156.479," And everything is just exactly, you know, everything's filed, everything's organized."
+SPEAKER_01,157.963,162.755," And some people like to, you know, take a file, oh, well, I need this to fill out a report."
+SPEAKER_01,162.835,163.296,"No, no, no."
+SPEAKER_01,164.178,164.519,It's there.
+SPEAKER_01,165.742,166.525, It's in the file.
+SPEAKER_01,167.186,168.891,"You can't touch it, you can't move it."
+SPEAKER_01,169.533,170.275,That's where it needs to be.
+SPEAKER_00,172.923,174.027, All right.
+SPEAKER_00,174.047,177.9,So you consider yourself fairly well organized as an employee?
+SPEAKER_01,178.104,178.798," Oh, absolutely."
+SPEAKER_01,179.185,179.859, Yeah.
+SPEAKER_01,179.981,180.328, Absolutely.
+SPEAKER_00,181.202,182.47, And you mentioned you're there from 8 to 5.
+SPEAKER_01,184.573,184.675, Yeah.
+SPEAKER_00,184.94,186.859, You take your lunch from 12 to 1230?
+SPEAKER_01,186.92,187.083, Yes.
+SPEAKER_00,189.101,195.88," How many days in the last, say, three months have you been late, left early?"
+SPEAKER_01,196.349,196.92," Oh, zero."
+SPEAKER_00,197.451,197.696, Zero?
+SPEAKER_01,198.201,198.661, Zero.
+SPEAKER_01,199.683,200.585,"No, I'm there 8 to 5."
+SPEAKER_01,201.667,203.049,8 o'clock in the morning to 5.
+SPEAKER_01,203.35,203.851,I wake up at 6.
+SPEAKER_01,204.051,205.634,I get ready.
+SPEAKER_01,205.654,206.536,I leave for work at 7.
+SPEAKER_01,206.936,207.578,I get there at 8.
+SPEAKER_01,210.243,211.907, The whole day has a schedule.
+SPEAKER_01,212.629,213.712,And I meet that schedule.
+SPEAKER_01,214.093,215.236,And it's the best thing for me.
+SPEAKER_00,217.782,218.644, All right.
+SPEAKER_00,218.784,225.92,So this is frustrating for you that your coworkers can't understand where you're coming from?
+SPEAKER_01,227.442,228.243, I just don't get it.
+SPEAKER_01,228.464,232.329,"You know, I'm doing everything by the book, by the rules."
+SPEAKER_01,233.25,235.794,And I'm in trouble somehow?
+SPEAKER_01,236.135,239.92,Something's wrong with me because I do it right.
+SPEAKER_01,240.101,243.816, I do it the right way and that's wrong somehow.
+SPEAKER_01,244.036,244.599,And I don't get it.
+SPEAKER_00,246.04,252.338," Have you ever had to work in a group, like a team with any of your coworkers?"
+SPEAKER_01,253.844,255.43, They've made me.
+SPEAKER_01,255.791,257.338,But I don't like it.
+SPEAKER_00,258.451,258.757, Tell me.
+SPEAKER_01,260.863,262.205, Because I know the way we need to do things.
+SPEAKER_01,263.246,265.109,"If we're given a project, okay."
+SPEAKER_01,265.91,269.796,"It starts with A, B, C, D, and then no."
+SPEAKER_01,269.896,272.78,"Everybody wants, oh, let's do C, O, D, and then F."
+SPEAKER_01,273.762,273.963, No.
+SPEAKER_01,274.524,275.005,"No, no, no."
+SPEAKER_01,275.807,278.293,"A, B, C, D. There is no deviation from that."
+SPEAKER_01,279.476,280.318,And then they get mad at me.
+SPEAKER_00,283.081,286.719, So working in groups hasn't worked out too well for you?
+SPEAKER_01,287.885,288.548, Not really.
+SPEAKER_01,288.608,290.518,Not unless people listen to me.
+SPEAKER_00,291.623,295.036," So in instances where people listen to you, how have things worked out?"
+SPEAKER_01,296.901,302.89," If I oversee everything, I still get uncomfortable because they're out of my sight."
+SPEAKER_01,302.91,304.412,I don't know what they're doing sometimes.
+SPEAKER_01,304.713,308.278,"I have to watch one person, other person's over there."
+SPEAKER_01,308.298,309.62,I don't know what they're doing.
+SPEAKER_01,310.983,315.255," And if it's not done right, it's not done right."
+SPEAKER_01,315.516,316.579,And that's bad.
+SPEAKER_00,320.244,327.996, Can you tell me anything about your mood in general in terms of have you felt sad or anxious?
+SPEAKER_00,328.016,329.999,Anything like that recently?
+SPEAKER_01,331.96,332.982, Not particularly.
+SPEAKER_01,333.602,338.99,I guess I feel anxious sometimes when things aren't going the way they need to go.
+SPEAKER_01,339.511,341.694,Because then it puts off the whole day.
+SPEAKER_01,341.714,342.896,And I guess I would consider that anxiety.
+SPEAKER_01,346.261,350.609," Because if it's not going the right way, one thing goes wrong, the whole day is thrown off."
+SPEAKER_01,351.61,352.772,And then now I have to deal with that.
+SPEAKER_01,352.813,355.397,"Now I have to adjust my whole schedule, even by a minute."
+SPEAKER_01,355.858,356.88,And that does cause me anxiety.
+SPEAKER_00,357.553,357.92, Even by a minute?
+SPEAKER_01,357.981,359.334, Even by a minute.
+SPEAKER_00,361.541,369.86," So if your day is not going the way you planned it for it to go, you're feeling some anxiety from that?"
+SPEAKER_01,370.41,370.859, Absolutely.
+SPEAKER_00,372.184,377.92, Does your employer ever have unscheduled meetings or anything like that that happens?
+SPEAKER_01,378.641,379.242, He does.
+SPEAKER_01,379.262,382.406,He will schedule some unscheduled meetings.
+SPEAKER_01,382.627,390.198,"And I've calmly, I've tried to calmly approach him and say, you know, there's a meeting, we need to know about it."
+SPEAKER_01,390.678,391.92,I need to schedule my day around the meeting.
+SPEAKER_01,393.102,400.075," He once scheduled a meeting at 12.20 and I told him, I'm at lunch 12 to 12.30."
+SPEAKER_01,401.618,402.86,Why do you think that's appropriate?
+SPEAKER_01,404.0,405.868," I mean, sometimes I feel like I'm the only smart person there."
+SPEAKER_01,405.888,408.579,I'm the only person who knows how this needs to run.
+SPEAKER_00,412.201,414.186," Alright, so you have some different stressors at work."
+SPEAKER_00,416.03,417.835,And some disagreements with your co-workers.
+SPEAKER_00,418.577,419.88,Can you tell me anything about your home life?
+SPEAKER_01,423.604,425.267, I personally consider my home life very neat.
+SPEAKER_01,425.728,428.052,"You know, if you go into my home, everything's nice."
+SPEAKER_01,429.354,430.276,Everything's where it needs to be.
+SPEAKER_01,430.296,432.018,I have my meals scheduled out.
+SPEAKER_01,432.039,432.92,I have a nice little calendar.
+SPEAKER_01,434.143,435.967, Everything's planned.
+SPEAKER_01,436.127,439.855,"Thursday's chicken, Fridays, tamales, and so on and so forth."
+SPEAKER_00,442.924,446.9, So your home life's a bit like your work life in terms of being organized.
+SPEAKER_01,447.869,448.738, That's the right way to do it.
+SPEAKER_00,450.001,452.839," Do you ever, in terms of your home life, do you ever collect anything?"
+SPEAKER_01,454.708,455.193," Yeah, I do."
+SPEAKER_00,456.002,456.859, Tell me about that.
+SPEAKER_01,459.962,466.351, I guess that does also cause me some anxiety because I do like to collect things.
+SPEAKER_01,467.854,471.9,"If I have a good day, I like to keep the newspaper on the day that I had a good day."
+SPEAKER_01,474.744,477.129, And I have newspapers from years ago.
+SPEAKER_01,478.071,479.495,With no important news on them.
+SPEAKER_01,480.557,481.92,But I just can't seem to let it go.
+SPEAKER_00,484.002,484.9, So you keep them in your home?
+SPEAKER_01,486.287,486.491, Yeah.
+SPEAKER_00,487.544,489.417," So newspapers, anything else that you collect?"
+SPEAKER_01,490.165,490.532, Receipts.
+SPEAKER_00,490.92,491.247, Receipts?
+SPEAKER_01,492.421,497.67," Well, it says to keep, I mean, I've always known you have to keep receipts."
+SPEAKER_01,498.611,503.92,You don't know when you're ever going to have to prove that you purchased something or when you have to return something.
+SPEAKER_00,506.041,508.86, So what percentage of the receipts that you're given do you think that you keep?
+SPEAKER_01,508.961,509.185, All of them.
+SPEAKER_00,509.92,510.716, All of them?
+SPEAKER_01,511.542,512.103, Every single one.
+SPEAKER_01,512.183,517.095,"I get very upset if I go to McDonald's or Food Fast Food Place, I want my receipt."
+SPEAKER_00,521.843,522.103, Alright.
+SPEAKER_00,522.644,525.588,I'm going to ask you some questions.
+SPEAKER_00,527.19,530.635,"We'll go back to work, kind of regarding your work schedule."
+SPEAKER_00,530.695,533.92,Do you wash your hands regularly at work?
+SPEAKER_01,535.561,538.166, I wash my hands before I eat.
+SPEAKER_01,538.847,540.731,After I eat.
+SPEAKER_01,542.053,545.139,After I use the restroom for 30 seconds.
+SPEAKER_01,545.459,545.74,Every time.
+SPEAKER_00,547.141,551.599, Do you ever find yourself like having washed your hands and then going back and washing them several other times?
+SPEAKER_01,553.223,553.486, No.
+SPEAKER_01,554.233,554.92,There's no need to do that.
+SPEAKER_00,555.94,556.451, No need to do that?
+SPEAKER_01,557.0,557.061, No.
+SPEAKER_01,557.081,559.493,You wash your hands 30 seconds.
+SPEAKER_01,559.714,560.015,That's it.
+SPEAKER_01,560.257,560.86,That's all you need to do.
+SPEAKER_00,562.262,565.237, Do you have any particular concerns about germs or anything like that?
+SPEAKER_01,567.744,570.88," I try to keep neat, but not particularly, no."
+SPEAKER_00,572.781,583.88," Have you ever found yourself in a situation where touching something repeatedly like a doorknob or operating a light switch seems to lower your anxiety, like repeatedly doing that?"
+SPEAKER_01,585.324,585.869, Not at all.
+SPEAKER_01,586.193,586.9,That seems like a waste of time.
+SPEAKER_00,588.226,588.92, That would be inefficient?
+SPEAKER_01,590.587,590.991, Yeah.
+SPEAKER_01,591.011,591.92,There's no need to do that.
+SPEAKER_00,593.0,597.92," How about double checking, for example, light switches to make sure the doors are locked?"
+SPEAKER_01,597.92,599.92, I make sure my doors are locked the first time.
+SPEAKER_00,601.546,601.768, Okay.
+SPEAKER_00,601.789,602.92,"So you check, but just the one time?"
+SPEAKER_01,603.92,605.375," Well, I do it when I come in the door."
+SPEAKER_01,605.395,605.718,Lock the door.
+SPEAKER_01,605.738,605.92,That's it.
+SPEAKER_00,607.634,607.859, Okay.
+SPEAKER_00,610.983,614.01, So what do you think the solution here is?
+SPEAKER_00,614.471,616.296,Your employer sends you in for counseling.
+SPEAKER_00,616.336,616.978,What would you like to change?
+SPEAKER_01,619.502,620.765, He wants me to be more flexible.
+SPEAKER_01,621.026,624.195,To not get as upset if there is an unscheduled meeting.
+SPEAKER_01,624.376,625.9,If somebody wants to switch shifts with me.
+SPEAKER_01,627.963,632.9," I don't really understand it, but I'm in trouble at work, so I have to look into it."
+SPEAKER_00,634.206,634.798, You like your job?
+SPEAKER_01,635.94,636.862, I do like my job.
+SPEAKER_01,636.882,640.068,I like being able to have everything I need.
+SPEAKER_01,640.088,642.934,"If somebody calls for something, you know, oh, it's right here."
+SPEAKER_01,643.154,644.317,"If somebody calls for something, oh, it's right here."
+SPEAKER_01,644.357,644.838,I love it.
+SPEAKER_01,645.098,645.84,It's like a machine.
+SPEAKER_00,648.442,649.704, So you like your job.
+SPEAKER_00,649.905,652.949,You like how you're able to be organized there.
+SPEAKER_00,654.472,658.157,But there's some conflict with coworkers and your boss.
+SPEAKER_00,658.217,659.9,You want to try to work that out.
+SPEAKER_01,661.06,661.562, I guess.
+SPEAKER_01,662.204,663.89,"I mean, I don't want to lose my job."
+SPEAKER_01,663.95,666.699,"And if this is a problem, the right thing to do would be to come speak to you."
+SPEAKER_00,669.084,673.92," Alright, so you're open to attending counseling sessions and taking a look at what's going on here?"
+SPEAKER_01,676.267,676.748, Absolutely.
+SPEAKER_01,676.768,680.92,"If my boss requires it, if my boss requires it, then that's the right thing to do."
+SPEAKER_00,684.244,685.305, Alright.
+SPEAKER_00,685.746,689.031,I want to appreciate you answering my questions.
+SPEAKER_00,689.111,690.253,It's been very helpful.
+SPEAKER_00,690.914,693.498,We'll get you on the schedule to see a counselor here.
+SPEAKER_00,693.518,694.359,It might take about a week.
+SPEAKER_00,694.379,694.9,And we'll go from there.
+SPEAKER_01,696.082,696.304, Okay.
+SPEAKER_01,696.344,696.647,See you in a week.
+SPEAKER_01,697.092,697.859,"Alright, thank you."
+SPEAKER_01,699.369,699.573, Thanks.

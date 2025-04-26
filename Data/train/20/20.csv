@@ -1,0 +1,111 @@
+speaker,text,start,end
+SPEAKER_00," Hi Emma, how are you doing today?",14.339,15.16
+SPEAKER_01," I'm doing good, thanks.",15.42,16.155
+SPEAKER_01, How are you?,16.4,16.706
+SPEAKER_00, I'm doing well.,17.584,17.951
+SPEAKER_00, Thank you for asking.,18.4,18.886
+SPEAKER_00, I understand that you've come here today because you've had some symptoms that have been bothering  you.,20.04,25.042
+SPEAKER_01," Yeah, I have anxiety sometimes and I've lost about three jobs within the past year.",25.94,34.737
+SPEAKER_00, You've lost three jobs in the past year?,36.16,37.998
+SPEAKER_00, Is it because of the anxiety?,38.16,40.076
+SPEAKER_01," Yeah, well I'm scared that something's going to happen at my apartment so I need to unplug  things.",40.62,50.207
+SPEAKER_01, But it has to be in order.,51.805,53.695
+SPEAKER_01, So when I unplug things it has to start with the TV and then my computer and then my phone  and the lamps and then I've been late to work.,54.76,65.995
+SPEAKER_00," Alright, so you have a system you go through of unplugging different objects in your apartment  and you're worried that they're going to cause a problem if they're left plugged in?",67.661,86.278
+SPEAKER_01," Yeah, like if they overheat it could like burn it down.",86.8,91.735
+SPEAKER_00, So you're afraid that if you leave them plugged in they'll overheat?,93.44,95.917
+SPEAKER_01, Yeah.,96.42,96.543
+SPEAKER_00, And your apartment will catch on fire?,97.4,99.096
+SPEAKER_01, Mm-hmm.,99.56,99.784
+SPEAKER_00, And you have a particular order you go in as you unplug?,100.741,104.255
+SPEAKER_01, Yeah.,107.339,107.44
+SPEAKER_00, What happens if you're unplugging the items and you get distracted or something interrupts that?,107.46,114.34
+SPEAKER_01," Well, I mean sometimes I'll get like a text message and I'll hear my phone go off.",115.5,119.055
+SPEAKER_01, I'll have to just start all over again.,120.301,121.951
+SPEAKER_00," Will you plug the objects back in or will you, how will you do it for the items that  are already unplugged?",123.26,129.329
+SPEAKER_01, I would just have to unplug them and then I would have to plug them back in or vice  versa.,130.2,135.986
+SPEAKER_00, So you go back and plug them in?,136.981,137.976
+SPEAKER_01, Yeah.,138.26,138.546
+SPEAKER_00, And unplug them.,139.648,139.974
+SPEAKER_01, Mm-hmm.,140.505,141.199
+SPEAKER_00, What's your anxiety level like as you start that process?,141.481,144.335
+SPEAKER_01, It's really bad.,145.749,146.28
+SPEAKER_00, Is it?,146.688,146.892
+SPEAKER_01, Yeah.,147.3,147.524
+SPEAKER_00, How about toward the end of the process?,148.622,150.231
+SPEAKER_01, It goes away but it's just kind of temporary just for a little bit of time and then it  comes back and I have to go check it again.,151.82,160.811
+SPEAKER_00, Okay.,162.302,162.526
+SPEAKER_00," So when it comes back, everything's unplugged.",163.46,166.114
+SPEAKER_00, So you have to plug everything back in and unplug it?,167.3,169.998
+SPEAKER_01, Yeah.,170.34,170.462
+SPEAKER_00, And go through the whole process again?,171.34,173.257
+SPEAKER_01, Mm-hmm.,174.091,174.213
+SPEAKER_00, So it's pretty distressing.,174.54,175.57
+SPEAKER_01, Yeah.,177.193,177.377
+SPEAKER_00, Yeah.,178.275,178.438
+SPEAKER_00, And you think that this is what led to the problems of employment?,178.901,183.677
+SPEAKER_01," Yeah, because I also, I have to lock my door but I like to lock it 12 times.",184.5,189.456
+SPEAKER_01, So I'll put the key in and I'll hear it click but then I just like doing it 12 times just  to make sure it's locked and that made me late for work.,190.78,200.578
+SPEAKER_01," And then when I was at work, I have a drawer on my cashier so I would just make sure it  was locked but I would have to do it 12 times just to make sure it was locked and I didn't  get back in time to help the customers.",201.16,217.477
+SPEAKER_00," Alright, so your employer wasn't happy with that?",219.783,222.859
+SPEAKER_01, Yeah.,223.243,223.59
+SPEAKER_00, And that led to you losing your job?,224.484,225.736
+SPEAKER_01, Yeah.,226.1,226.263
+SPEAKER_00, Are you working now?,227.767,228.373
+SPEAKER_01," No, I had a job for a little bit of time.",229.523,232.1
+SPEAKER_01, It was again a cashier position but I was on break and I was like in the room and I  had the lights and I just wanted to make sure they would go off all the way because I didn't  want to leave the light on.,232.22,244.272
+SPEAKER_01," And by the time I got done turning them on and just making sure they were off, I didn't  get back in time on the floor and my employer just said I wasn't a good fit.",245.1,256.334
+SPEAKER_00, Wasn't a good fit.,258.787,259.555
+SPEAKER_00," Alright, so these symptoms have caused you some real problems with employment and how  about with your anxiety level?",260.2,271.075
+SPEAKER_01, My anxiety is really bad.,272.502,274.532
+SPEAKER_00," If we were to put on a scale where one was very little anxiety and ten was the worst  anxiety you've ever experienced, what kind of anxiety are you having on a daily basis now?",276.681,290.097
+SPEAKER_01, Probably like a ten.,291.1,292.858
+SPEAKER_00," A ten, so the worst ever.",293.605,294.999
+SPEAKER_01, Yeah.,295.14,295.423
+SPEAKER_00," And checking doors, checking light switches, unplugging everything, this reduces your anxiety  for a while?",297.321,305.447
+SPEAKER_01, Just for a little bit.,306.1,306.704
+SPEAKER_00, But then it comes back.,309.386,310.08
+SPEAKER_01, Yeah.,310.603,310.926
+SPEAKER_00, Is there anything else that you do that helps to reduce the anxiety?,313.24,318.458
+SPEAKER_01," It's just I guess when I'm in the act of doing it, it will relieve it and then I'll be okay  for a little bit of time.",319.842,327.11
+SPEAKER_01," Like even coming in, you know, I have like, I have somebody had chairs and some pitchers  and I just like I had to touch them, like I had to touch the chairs, but I wanted to  touch the chairs first and then the pitchers and that's normally what I do in a room.",328.321,343.839
+SPEAKER_01, Like I have to touch the chairs first and I feel okay when I'm doing it and then when  I'm finished I feel a little better but then it comes back.,344.12,352.999
+SPEAKER_01, The anxiety.,353.746,354.312
+SPEAKER_00, Do you know how long you've had these symptoms?,356.884,359.296
+SPEAKER_01, Probably since I guess like third grade maybe.,361.184,364.98
+SPEAKER_00, So sometime.,366.171,366.514
+SPEAKER_01, Yeah.,367.1,367.202
+SPEAKER_00, Did they start off like they are now or were they different?,368.963,372.196
+SPEAKER_01," It started off with a little bit of things, like I would just get a little bit of anxiety  and I just would want to play with the doorknob and then as I got, it went away for like a  year maybe and then I would start to play with the lights and just make sure that they  were off.",374.143,391.304
+SPEAKER_00, It was the same thing that helped reduce anxiety?,392.644,395.019
+SPEAKER_01, Yeah.,395.161,395.324
+SPEAKER_00, Did it cause you any trouble?,396.261,398.894
+SPEAKER_01, My parents didn't really like it.,400.724,402.879
+SPEAKER_01," They kind of were like, you know, something's wrong with you.",404.147,405.879
+SPEAKER_01," You know, stop playing with that.",406.422,407.751
+SPEAKER_00, Were you ever taken somewhere and diagnosed or treated?,409.662,414.498
+SPEAKER_01," No, no.",415.243,416.039
+SPEAKER_01, My parents just thought it was like nerves.,416.402,418.673
+SPEAKER_00, And now it's the worst it's ever been?,422.341,426.417
+SPEAKER_01, Yeah.,427.141,427.406
+SPEAKER_01, Yeah.,428.671,428.855
+SPEAKER_00, Do you feel like you're able to go back to work with the symptoms the way they are now?,430.962,436.017
+SPEAKER_01, Probably not.,438.57,439.174
+SPEAKER_00, Because they're so disruptive?,441.565,442.595
+SPEAKER_01, Yeah.,443.1,443.284
+SPEAKER_00, Have you ever had any medical conditions?,446.241,449.055
+SPEAKER_01, No.,450.243,450.365
+SPEAKER_00, Nothing?,451.222,451.508
+SPEAKER_01, No.,452.161,452.202
+SPEAKER_00, Alright.,453.1,453.488
+SPEAKER_00, And have you ever used or do you use any type of drug or alcohol?,454.361,460.919
+SPEAKER_01, No.,461.733,461.835
+SPEAKER_00, None?,462.529,462.753
+SPEAKER_01, Mm-hmm.,463.1,463.61
+SPEAKER_00, Alright.,464.12,464.957
+SPEAKER_00," Emma, I want to thank you for coming in.",466.288,468.1
+SPEAKER_00, I'm going to get you scheduled to see one of our counselors.,468.1,471.417
+SPEAKER_00, I appreciate you spending this time with me.,472.928,474.1
+SPEAKER_00, It's helped me to understand what you're going through.,474.241,477.1
+SPEAKER_01, Thank you.,477.814,478.08
+SPEAKER_00, Thanks.,478.569,478.814

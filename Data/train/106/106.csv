@@ -1,0 +1,350 @@
+speaker,text,start,end
+SPEAKER_00, How are you doing today?,14.979,15.56
+SPEAKER_01, I'm doing okay.,15.762,17.397
+SPEAKER_00, Doing okay?,18.513,18.737
+SPEAKER_01, Yeah.,19.389,19.512
+SPEAKER_00, What's been going on?,20.585,21.109
+SPEAKER_01, Well nothing too bad.,22.821,27.78
+SPEAKER_01, I kind of got in a little bit of a bender bender accident.,27.8,33.179
+SPEAKER_00, A car accident?,33.461,34.135
+SPEAKER_01, Yeah.,35.012,35.114
+SPEAKER_00, What happened?,35.4,35.89
+SPEAKER_01," Well, we were at a stop sign and there was one car here, another car here, and then I  was here, another car was coming up behind me, and then they hit me and then I hit the  car in front of me.",37.883,54.926
+SPEAKER_00, Oh.,56.341,56.607
+SPEAKER_01," I kind of, you know, just the usual-  Rock back and forth.",57.901,61.018
+SPEAKER_01, Yeah.,61.12,61.467
+SPEAKER_01, Yeah.,62.222,62.365
+SPEAKER_00, But other than that you're okay?,63.283,64.038
+SPEAKER_01," No, they're-",64.12,65.12
+SPEAKER_01," I got a couple, you know, little bruises from like hitting the steering wheel.",65.14,68.798
+SPEAKER_01," I'm like, yeah, but I'm okay.",70.144,72.814
+SPEAKER_01, My body's okay.,74.46,75.113
+SPEAKER_00, So physically you feel okay?,75.501,77.237
+SPEAKER_01, Yeah.,78.295,78.56
+SPEAKER_00, Were you like checked out by your physician or anything?,79.204,81.599
+SPEAKER_01," Yeah, everything's okay here.",81.781,82.7
+SPEAKER_01, I didn't break anything or pull anything or anything.,82.841,85.418
+SPEAKER_00, All right.,86.23,86.434
+SPEAKER_00, Emotionally?,87.16,87.895
+SPEAKER_01, It's been kind of hard to like get in my car again afterwards.,90.225,95.157
+SPEAKER_01," Like I've still been going to work and everything, but like I realized last night, like my boyfriend  was like, oh, do you want to go on a trip this weekend?",96.361,104.94
+SPEAKER_01," And I was kind of like, maybe not.",104.98,108.639
+SPEAKER_01, Like I'm kind of like hesitant to get back in the car.,108.84,112.574
+SPEAKER_01," So when he said that about the trip, what was the thought that came in your mind?",114.12,118.196
+SPEAKER_01, I'm going to get hurt.,119.381,119.947
+SPEAKER_00, So it was really all about the car?,121.401,122.756
+SPEAKER_01, Yeah.,123.16,123.752
+SPEAKER_00, It wasn't anything else about the trip?,124.16,125.16
+SPEAKER_01," No, it was being in the car, driving the car.",125.261,128.017
+SPEAKER_00, Yeah.,128.662,129.54
+SPEAKER_00, And your thought was you're going to get hurt?,129.6,131.217
+SPEAKER_01, Yeah.,131.56,131.703
+SPEAKER_01," I'm going to get hit, I'm going to get hurt.",132.6,134.211
+SPEAKER_01, Yeah.,135.56,136.56
+SPEAKER_00, Yeah.,136.948,137.111
+SPEAKER_00, Any other areas that disrupted that trip?,137.56,139.539
+SPEAKER_01, Yeah.,139.885,140.007
+SPEAKER_00, So you normally would have went on a trip?,140.64,141.62
+SPEAKER_01," Oh, definitely.",141.64,141.946
+SPEAKER_01, I was kind of excited about it.,142.64,144.62
+SPEAKER_01," But now I'm just like, no, I don't know.",144.941,148.975
+SPEAKER_01," Or even like coming here, I was like, well, maybe I can reschedule.",150.4,153.577
+SPEAKER_01," Like I was just like, oh, I don't want to drive.",154.463,156.638
+SPEAKER_01, I don't want to be behind the wheel.,157.827,159.64
+SPEAKER_01, I don't want to drive.,159.681,160.436
+SPEAKER_01," And like when I did drive, I was fine coming.",160.66,162.836
+SPEAKER_01," Like I drove the way I normally do, but I was a little bit more aware.",163.702,166.417
+SPEAKER_01, But I wasn't driving extra slow.,167.606,169.3
+SPEAKER_01, I wasn't driving extra fast or anything.,169.441,171.178
+SPEAKER_01, But like I was checking a lot more.,171.36,173.617
+SPEAKER_00, But very nervous.,175.185,176.954
+SPEAKER_01, Much more nervous than usual.,178.22,179.335
+SPEAKER_01, Yes.,179.72,179.863
+SPEAKER_00, Yeah.,181.251,181.475
+SPEAKER_00, How did you feel about driving cars prior to this accident?,181.72,185.358
+SPEAKER_01, I was fine.,185.842,186.372
+SPEAKER_01," I mean, whenever like my friends would go anywhere, I would always volunteer to drive.",186.76,190.719
+SPEAKER_01, Like I enjoyed driving.,190.881,191.697
+SPEAKER_01, I liked listening to the radio.,191.901,193.658
+SPEAKER_01," You know, I liked my family and I always went on trips.",193.84,196.858
+SPEAKER_01," And like as soon as I turned 16, like I always had a turn.",197.2,200.099
+SPEAKER_01, I enjoyed it.,200.463,201.136
+SPEAKER_01," I liked going on drives, just looking around.",201.843,204.275
+SPEAKER_01," But now I don't, too scared.",205.28,208.459
+SPEAKER_01, It doesn't even come in my mind anymore as like a thing I would want to do.,208.66,212.696
+SPEAKER_01," If I can avoid it, I will.",213.64,215.029
+SPEAKER_00, So you're taking every opportunity to avoid driving.,216.64,220.094
+SPEAKER_00," So far getting like here today and getting to work, essential functions you've been able  to do.",224.667,230.688
+SPEAKER_01," Yeah, it takes me a while to actually, like okay, like I have to.",231.28,237.639
+SPEAKER_01, And then I just kind of do.,238.544,240.355
+SPEAKER_00, So what do you tell yourself to motivate yourself to get into the car?,241.16,244.317
+SPEAKER_00, Like to come here today for instance?,244.96,247.86
+SPEAKER_01," Well, it takes me, I have to kind of think about it for a long time.",247.9,250.693
+SPEAKER_01," But I mean, I'm very nervous.",252.382,254.779
+SPEAKER_01," I mean, I don't, I can't really think of what I tell myself.",254.98,257.739
+SPEAKER_01, It just kind of happens.,257.88,258.846
+SPEAKER_00," And when you get in the car, like when you kind of work past that nervousness to get  in the car, how do you feel then?",261.36,267.891
+SPEAKER_01, Still pretty scared.,269.76,270.576
+SPEAKER_00, Yeah.,270.801,271.025
+SPEAKER_01," Yeah, I'm, you know, I'm pretty scared throughout the whole thing.",272.343,275.019
+SPEAKER_01," I'm, you know, I'm always worried that like if I can go away that I know that doesn't  have any stop lights, I'll try to go that way.",275.12,280.574
+SPEAKER_01, Even if it takes me an extra half hour.,281.32,282.776
+SPEAKER_00," Oh, that long.",283.889,284.294
+SPEAKER_01, Yeah.,284.76,284.862
+SPEAKER_00," Well, how about now?",286.004,286.917
+SPEAKER_00, Like you've driven here.,287.161,288.316
+SPEAKER_00, I presume you're going to drive your own car to wherever you're going next.,289.042,292.737
+SPEAKER_01, Yeah.,293.949,294.194
+SPEAKER_01, Yeah.,294.745,294.868
+SPEAKER_00, So does that kind of generate those same feelings and nervousness?,296.704,301.019
+SPEAKER_01, Yeah.,301.281,301.444
+SPEAKER_01, Yeah.,302.24,302.485
+SPEAKER_01, Like you just reminded me of that.,303.24,303.913
+SPEAKER_01," Like, oh no.",304.666,305.013
+SPEAKER_00, You could feel it.,305.36,306.34
+SPEAKER_01, Yeah.,306.38,306.829
+SPEAKER_01, Yeah.,308.197,308.299
+SPEAKER_00," So this is, this is disturbing for you.",308.36,311.54
+SPEAKER_00, This is painful for you.,311.58,312.472
+SPEAKER_01, Yeah.,313.691,313.896
+SPEAKER_01, It's scary.,314.181,314.977
+SPEAKER_00, But it hasn't yet infringed on a crucial area of functioning like your job or something.,315.16,320.677
+SPEAKER_01, Not yet.,321.58,321.887
+SPEAKER_00, But you're worried it might.,322.56,323.629
+SPEAKER_00, All right.,324.94,327.02
+SPEAKER_00," So prior to this car accident, how many car accidents have you been in?",327.02,330.169
+SPEAKER_01," Maybe one small little thing, but this is the worst one I've been in.",334.16,339.439
+SPEAKER_00, The other one didn't bother you like this one did?,339.76,341.455
+SPEAKER_01, No.,342.164,342.348
+SPEAKER_00, Okay.,343.287,343.409
+SPEAKER_00, How long ago was the other one?,343.96,347.2
+SPEAKER_01, Maybe like four or five years ago.,347.2,348.554
+SPEAKER_00, Were you hurting that?,349.463,351.018
+SPEAKER_01, No.,351.404,351.465
+SPEAKER_00, Were you driving?,352.2,352.786
+SPEAKER_01, Yeah.,355.577,355.678
+SPEAKER_00, So something about this one has triggered this nervousness.,355.8,361.256
+SPEAKER_00, The other one didn't.,362.76,363.413
+SPEAKER_00, What do you think is going on?,363.84,365.83
+SPEAKER_00, I don't know.,368.1,368.529
+SPEAKER_01, This one it was different because I was by myself.,369.241,371.068
+SPEAKER_00, Okay.,374.617,374.74
+SPEAKER_01," It was rainy, so maybe that, it wasn't, and it wasn't the other before, but.",374.76,379.052
+SPEAKER_00, So it was raining in the recent accident.,381.64,383.577
+SPEAKER_01, Yeah.,384.307,384.593
+SPEAKER_01," And I was by myself, and then the other one I had somebody with me.",384.96,387.216
+SPEAKER_00," So this one maybe, I don't know.",388.023,389.84
+SPEAKER_00, Did the driver that hit you tell you what happened?,389.84,391.759
+SPEAKER_00, Like why they?,392.021,392.486
+SPEAKER_01, No.,394.023,394.166
+SPEAKER_01," They just, they kind of, they left pretty quickly afterwards actually, and I was just  kind of left to deal with it.",395.081,400.587
+SPEAKER_00, Before the police got there?,402.76,403.511
+SPEAKER_01, Yeah.,404.833,405.078
+SPEAKER_00, Really?,405.282,405.589
+SPEAKER_01, Yeah.,406.242,406.487
+SPEAKER_00, All right.,407.865,409.193
+SPEAKER_00, So this really shook you up.,410.441,413.199
+SPEAKER_01, Yeah.,413.522,413.91
+SPEAKER_00, And your worries can interfere with other areas.,414.521,416.36
+SPEAKER_01, Yeah.,416.624,416.849
+SPEAKER_00," So your thinking is that you're going to get hurt, you're going to get hit if you get into  a car again.",417.4,426.158
+SPEAKER_00, And you're thinking it before you get into a car and really.,426.24,428.034
+SPEAKER_01," During, and even after it still kind of feels like, I don't know, even though I'm not in  the car anymore I'm still like, kind of worried about it.",429.342,440.058
+SPEAKER_00, Yeah.,440.785,441.296
+SPEAKER_00, And it's really worried about another accident.,441.54,443.719
+SPEAKER_01, Yeah.,443.963,444.127
+SPEAKER_00, So let's look at that.,444.82,445.616
+SPEAKER_00, You were wearing your seatbelt.,445.8,446.739
+SPEAKER_01, Yeah.,447.547,447.731
+SPEAKER_01, Yeah.,448.363,448.812
+SPEAKER_00, All right.,449.669,450.2
+SPEAKER_00," And you were driving, it was a little rainy.",450.2,451.735
+SPEAKER_00, Was it day or night?,452.261,453.153
+SPEAKER_01, It was like five.,453.66,454.62
+SPEAKER_01, It was getting ready to be dark but it wasn't dark yet.,455.284,457.559
+SPEAKER_01," It wasn't dark, it was still daytime.",457.68,458.832
+SPEAKER_01, Yeah.,460.109,460.252
+SPEAKER_00, All right.,461.232,461.538
+SPEAKER_00," So what you're nervous about driving, I mean driving does carry risk.",462.142,467.68
+SPEAKER_01, Okay.,467.782,467.864
+SPEAKER_00, Yeah.,468.986,469.292
+SPEAKER_00, So I can't tell you that there's a way to completely eliminate risk with driving a car.,469.88,477.678
+SPEAKER_01, Yes.,478.765,478.989
+SPEAKER_01, Right.,479.969,480.153
+SPEAKER_00, And you know this.,480.52,481.357
+SPEAKER_01, Yeah.,481.52,481.683
+SPEAKER_00, Having just been in an accident.,482.52,483.571
+SPEAKER_00, But there are certainly things you can do to minimize the risks.,484.52,488.438
+SPEAKER_00, Okay.,488.9,489.166
+SPEAKER_00, Right.,489.962,490.88
+SPEAKER_00, What do you think some of those things are you could do?,490.88,492.347
+SPEAKER_01, Always wearing my seatbelt is pretty good.,494.88,497.095
+SPEAKER_00, Good idea.,498.043,498.839
+SPEAKER_01," Well, I mean like I said, I try to go ways that don't have stop signs for stop lights,  which is hard but...",501.266,506.937
+SPEAKER_00, That's difficult.,507.162,508.08
+SPEAKER_01, Yeah.,508.08,508.57
+SPEAKER_01, Yeah.,509.162,509.468
+SPEAKER_00, And I'm not sure that would really reduce the risk because you're driving longer.,510.08,512.355
+SPEAKER_01, Yeah.,513.325,513.529
+SPEAKER_01, Okay.,514.141,514.509
+SPEAKER_00, So you'd have to look at that case by case.,515.241,518.199
+SPEAKER_01, Yeah.,518.362,518.464
+SPEAKER_00, But I see your point.,519.28,520.178
+SPEAKER_00, What else?,520.382,521.28
+SPEAKER_00," Oh, I don't know.",522.884,524.354
+SPEAKER_01, Drive when there aren't cars around.,528.253,529.579
+SPEAKER_00, What's that?,529.823,530.415
+SPEAKER_01, Drive when there aren't other cars around.,531.104,532.478
+SPEAKER_01," Which again, probably is a good idea but it would be hard to practically implement, right?",533.242,537.66
+SPEAKER_00, Yeah.,537.7,538.639
+SPEAKER_00, Because you're driving to work in rush hour and driving home in rush hour.,538.68,542.194
+SPEAKER_01, Yeah.,543.68,543.864
+SPEAKER_00, Okay.,544.7,544.864
+SPEAKER_00, So what about driving habits that you can use?,545.7,548.755
+SPEAKER_01, Make sure I don't go too fast or too slow.,551.507,553.535
+SPEAKER_01, Make sure that I have space around my car.,555.12,557.033
+SPEAKER_01," Make sure all my lights are working, things like that.",561.08,563.557
+SPEAKER_01, Make sure I don't have gas so I don't run out of gas or have to stop or something like that.,565.221,568.899
+SPEAKER_00, So follow all applicable traffic laws.,569.563,571.577
+SPEAKER_00, Keep aware of your environment.,572.08,572.978
+SPEAKER_01, Mm-hmm.,573.202,573.835
+SPEAKER_00, Right?,574.304,575.08
+SPEAKER_00, You can do things that will not eliminate but will reduce the risk of an accident.,575.08,579.658
+SPEAKER_00," Now you were hit while at a red light, right?",580.12,582.818
+SPEAKER_01, Mm-hmm.,583.1,583.386
+SPEAKER_00," That one, of course, the seat belt would be helpful.",584.903,587.44
+SPEAKER_01, Yeah.,587.97,588.174
+SPEAKER_01, Have a car that has airbags maybe?,589.084,590.554
+SPEAKER_00," Certainly the safety of your vehicle, right?",592.106,593.46
+SPEAKER_00, Yeah.,593.623,593.745
+SPEAKER_00, A vehicle that's safer than average would be more ideal.,595.343,598.777
+SPEAKER_00," Ultimately, I think it's a good idea to be safe, to be aware, to do your best to minimize risk.",600.322,609.36
+SPEAKER_00, And at the same time recognize that you can't eliminate it.,610.342,613.82
+SPEAKER_01, Mm-hmm.,614.472,614.798
+SPEAKER_00, So there's going to be a point where we have to really work through this nervousness.,614.96,619.88
+SPEAKER_01, Yeah.,619.88,619.982
+SPEAKER_00," It's probably actually, I mean, in a way, you're looking around more.",621.141,624.639
+SPEAKER_01, Yeah.,625.227,625.431
+SPEAKER_00," But ultimately, it's probably going to hinder your life.",626.825,629.739
+SPEAKER_01, Probably.,630.247,630.717
+SPEAKER_00, Right?,630.982,631.186
+SPEAKER_00, Because you're restricting where you go and all that.,631.9,633.415
+SPEAKER_01, Yeah.,633.88,634.002
+SPEAKER_00," And eventually, if it gets in the way of getting to work.",635.544,637.397
+SPEAKER_01, Yeah.,638.227,638.451
+SPEAKER_00, Or you might lose my job or my boyfriend wasn't very happy when I said I didn't want to go.,639.501,644.457
+SPEAKER_01, Mm-hmm.,645.321,645.464
+SPEAKER_00," Yeah, so you don't want it to interfere anymore.",646.704,648.098
+SPEAKER_01, Yeah.,648.627,648.851
+SPEAKER_00, So what can you tell yourself?,650.166,652.26
+SPEAKER_00," We talked about automatic thoughts, right?",652.884,655.28
+SPEAKER_01, Mm-hmm.,655.382,655.647
+SPEAKER_00," Like I'm going to get in an accident, which really that's one of the automatic thoughts.",656.923,661.24
+SPEAKER_01, Right.,661.504,661.729
+SPEAKER_00, What are some of the adaptive responses that you could apply when that thought comes in?,663.804,668.68
+SPEAKER_00," Right, so the adaptive response is that self-talk, that message that you say to yourself.",669.222,672.636
+SPEAKER_00, What can you say to yourself?,673.68,674.646
+SPEAKER_01, Like I'm doing everything I can to make sure that I'm safe.,676.68,680.399
+SPEAKER_00, Mm-hmm.,680.68,680.843
+SPEAKER_01," Like I might not be able to prevent getting hit, but I can maybe, like at least maybe  I will get hurt.",681.72,686.886
+SPEAKER_00, Mm-hmm.,688.504,688.749
+SPEAKER_00, You can take every precaution.,689.28,690.137
+SPEAKER_01, Yeah.,690.402,690.668
+SPEAKER_01, Like it's going to be okay.,691.682,694.275
+SPEAKER_01, Like I don't know.,695.441,698.556
+SPEAKER_01," Like you're safe, you're okay, it's okay.",699.581,704.18
+SPEAKER_01," Like okay, they stopped like just to try to, like if I see somebody coming behind me and  they, I'm still worried about it, like noticing that they did stop and reassuring myself that  it's going to be okay.",704.701,717.354
+SPEAKER_01," Yeah, it's hard because it's still, you know, fresh.",721.066,725.2
+SPEAKER_00," Yeah, it's, yeah, thoughts are strong and you believe them and you believe that you're  going to get hurt.",725.38,730.831
+SPEAKER_01, Yeah.,731.28,731.811
+SPEAKER_00, It's very real to you.,732.28,732.825
+SPEAKER_00," And still there's always that possibility, so as I mentioned, you can't eliminate the",734.963,738.22
+SPEAKER_01, risk.,738.362,738.484
+SPEAKER_01, Right.,739.28,739.382
+SPEAKER_00, So maybe one way to look at this is that you've only been in one other accident.,740.28,745.28
+SPEAKER_00, How many trips have you taken in your life in a car?,745.3,747.118
+SPEAKER_01, Like a lot.,747.28,747.831
+SPEAKER_01," I don't know, too many to count.",748.28,749.991
+SPEAKER_00," So it's, so the accidents are low probability events.",751.541,755.24
+SPEAKER_01, Yeah.,755.688,756.076
+SPEAKER_00," Scary, certainly, definitely not fun.",756.28,759.28
+SPEAKER_01, Yeah.,759.3,759.382
+SPEAKER_00, But they haven't happened too often considering the number of trips you've taken.,760.461,763.677
+SPEAKER_01, That's true.,764.872,765.198
+SPEAKER_01, Right.,765.566,765.709
+SPEAKER_00," So another thing you could do is another adaptive response would be that I'm about to drive  a car and there is an element of risk, but statistically.",766.32,777.24
+SPEAKER_01, You probably won't get an accident compared to all the other times I've driven and not  been in an accident.,778.303,784.096
+SPEAKER_00," Yeah, you probably won't.",784.421,785.432
+SPEAKER_01," Yeah, that's true.",786.846,787.755
+SPEAKER_00, And you can reduce the risk by...,788.783,792.179
+SPEAKER_01, Being careful.,792.644,793.937
+SPEAKER_01, Yeah.,794.28,794.402
+SPEAKER_01, Yeah.,795.28,795.382
+SPEAKER_00," So, there's a part that you can, of this anxiety, I guess, that you can satisfy.",797.083,802.019
+SPEAKER_01, Yeah.,802.709,802.831
+SPEAKER_00," Meaning you could say, well, I can really reduce the risks and I know my chances are  low in any particular one drive.",803.642,808.29
+SPEAKER_00," But there's another part of this that you, of this you kind of have to accept, which  is you could be an accident.",809.38,816.958
+SPEAKER_01, Yeah.,817.688,817.974
+SPEAKER_01, Right.,819.117,819.28
+SPEAKER_00," And that's not what you want and you'll do your best to avoid it, but that could still  happen.",820.303,825.684
+SPEAKER_00," Do you feel like, because I know this is all very fresh with the accident being recent,  do you feel like you can apply those adaptive responses when you identify an automatic drop  coming in?",829.627,840.77
+SPEAKER_01, I can try.,841.28,841.851
+SPEAKER_01," I mean, like I can think of the times where they've come into my head and they're like,  oh, no.",843.605,847.79
+SPEAKER_01," And then when I realize I'm getting ready to think that, I'll be like, well, actually,  it's going to be okay.",849.225,853.26
+SPEAKER_01, And I can try.,853.4,854.964
+SPEAKER_00, Okay.,862.402,862.647
+SPEAKER_00," So, I'd like to give you some homework.",863.782,867.755
+SPEAKER_00, Okay.,870.015,870.28
+SPEAKER_00, Around this anxiety.,870.783,873.24
+SPEAKER_00," We talked about the thought record, which is like where you fill out the back thought  and how much it distresses you.",874.624,881.038
+SPEAKER_01, Right.,881.321,881.443
+SPEAKER_00," In this case, it might be good to know what it's preventing you from doing.",882.381,885.28
+SPEAKER_01, Okay.,885.28,885.402
+SPEAKER_00, Because your thoughts actually stopping you from.,886.28,887.795
+SPEAKER_00," Yeah, going anywhere.",888.644,889.634
+SPEAKER_00, Part of the functioning.,890.462,892.118
+SPEAKER_01, Yeah.,892.464,892.851
+SPEAKER_00," And then you also put the adaptive response that you applied, like what you're able to",893.34,896.999
+SPEAKER_00, say to yourself.,897.504,898.26
+SPEAKER_01, Okay.,898.28,898.749
+SPEAKER_00, And then how you felt after that.,899.28,900.997
+SPEAKER_01, Okay.,901.811,901.974
+SPEAKER_00," So, what we hope is by repeatedly using the thought record and applying the adaptive  response, that we'll see improvement.",902.28,910.26
+SPEAKER_00," Because the way of measuring, it's therapeutic, but it's also a way of measuring how well  you're dealing with it.",910.842,918.179
+SPEAKER_01, Sure.,918.77,918.892
+SPEAKER_00, All right.,919.28,919.627
+SPEAKER_00," So, that's kind of, you know, there's the attacking that automatic thought, disputing  that automatic thought piece to this.",920.341,923.654
+SPEAKER_00, And then there's kind of the acceptance piece of it.,924.481,926.495
+SPEAKER_01, Yeah.,927.321,927.443
+SPEAKER_00, Right.,928.831,929.26
+SPEAKER_00," So, there's that low but definite probability of an accident.",929.28,932.838
+SPEAKER_00, You have to kind of accept that.,933.644,934.694
+SPEAKER_01, Yeah.,935.423,935.953
+SPEAKER_00, Right.,936.3,936.607
+SPEAKER_00, At some level.,937.607,937.913
+SPEAKER_00, And you have to pay with that.,938.28,939.28
+SPEAKER_00," And then the rest of it, you know, would be acknowledging that the probability is low,  and that's good, and that you're likely not to get into an accident.",939.561,946.818
+SPEAKER_01, Yeah.,947.872,948.056
+SPEAKER_00, Do you feel like you can complete a few thought records between now and the next session?,948.802,953.979
+SPEAKER_01," Yeah, I think so.",954.664,955.775
+SPEAKER_00, All right.,956.953,957.28
+SPEAKER_00," So, let's do that.",957.32,959.058
+SPEAKER_00, If you feel like that's something you can be all right with.,959.3,962.677
+SPEAKER_01, Yeah.,963.525,963.709
+SPEAKER_00, Let's meet again in a week.,964.924,966.515
+SPEAKER_01, Okay.,967.28,967.504
+SPEAKER_00," And if you can have, say, two thought records.",968.32,970.26
+SPEAKER_01, Okay.,970.3,970.545
+SPEAKER_00," So, if that's two times and the thought came up, and then you've seen the thought record,  you fill in each column.",971.622,976.775
+SPEAKER_00," And then we'll review that, and we'll see, you know, over the next few weeks if we can  decrease these symptoms of nervousness and worry.",977.34,984.26
+SPEAKER_01, Yeah.,984.362,984.647
+SPEAKER_00, That'd be good.,985.443,985.994
+SPEAKER_00, That'd be all right?,986.402,987.178
+SPEAKER_01, Yes.,988.178,988.28
+SPEAKER_00, All right.,988.341,989.239
+SPEAKER_00," Thanks, Rebecca, and I'll see you in a week.",989.563,991.28
+SPEAKER_01, Okay.,991.586,992.198
+SPEAKER_00, All right.,992.484,992.668
+SPEAKER_00, Bye.,993.28,993.88
+SPEAKER_01, Bye.,994.28,995.28
+SPEAKER_00, Bye.,995.28,996.28

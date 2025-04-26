@@ -1,0 +1,152 @@
+speaker,start,end,text
+SPEAKER_00,0.761,16.418," Hi Sarah, how are you doing today?"
+SPEAKER_01,18.102,18.796, I'm doing okay.
+SPEAKER_01,19.0,22.658, Could be a little better but I could always be worse but I'm doing okay.
+SPEAKER_00,23.51,23.776, Doing okay.
+SPEAKER_00,24.0,27.091, I understand you have some symptoms that have been bothering you?
+SPEAKER_01,29.68,30.66, They have been bothering me.
+SPEAKER_01,31.304,33.398," Well, I just started back to school last year."
+SPEAKER_01,33.841,38.419, I was staying at home while my husband was working but the kids are crawling out of the house.
+SPEAKER_01,38.741,40.256, So I said I was going to go back to school.
+SPEAKER_01,40.921,44.66, I haven't been in school in 20 years and I thought I could handle it.
+SPEAKER_01,44.841,50.058, But right now I just find myself so anxious and just so worried all the time.
+SPEAKER_01,52.331,53.68, And I just don't know what to do with it.
+SPEAKER_01,53.841,56.172," It's been going on for around the past 7, 8 months now."
+SPEAKER_00,57.862,58.67, About 7 or 8 months.
+SPEAKER_01,59.741,60.149, Yeah.
+SPEAKER_00,61.222,67.359, Would you say that this anxiety has been affecting you more days than it doesn't?
+SPEAKER_01,69.768,72.037," I would say it's been affecting me, yes."
+SPEAKER_01,72.72,74.034," For some time though, yes."
+SPEAKER_01,74.782,75.639," More often than not, yes."
+SPEAKER_00,75.861,76.948," More often than not, yeah."
+SPEAKER_00,79.542,82.752, Do you find yourself struggling to control the anxiety?
+SPEAKER_01,86.343,87.327, To control it?
+SPEAKER_01,88.25,89.435,I'm just anxious all the time.
+SPEAKER_01,89.455,90.539,Yes.
+SPEAKER_00,90.901,94.62, So it sounds like you are struggling to get under control?
+SPEAKER_01,95.068,95.313, Yes.
+SPEAKER_00,98.007,102.259," Tell me about how it's been affecting, you mentioned school."
+SPEAKER_01,103.262,105.331, I'm not doing too well in school right now.
+SPEAKER_01,105.933,106.415,Not at all.
+SPEAKER_00,107.68,107.904, In what way?
+SPEAKER_01,109.448,110.619, I thought I would be a better student.
+SPEAKER_01,111.183,114.68, I was always a straight A student back before when I was an undergrad.
+SPEAKER_01,115.468,116.599, I was always a straight A student.
+SPEAKER_01,116.78,122.68, But now I'm failing and I just can't concentrate in school.
+SPEAKER_01,122.721,123.007, I'm failing.
+SPEAKER_01,123.941,127.66, I'm just so worried all the time about how I'm going to do in this class.
+SPEAKER_00,127.7,128.619, What assignments are due.
+SPEAKER_01,128.922,130.66, If I'm getting the work done in time.
+SPEAKER_01,132.246,135.68," It's just controlling, it's taking over everything I do in school."
+SPEAKER_01,137.101,142.66, So I'm more worried about how I'm going to do than having time to focus on my grades.
+SPEAKER_01,143.771,144.68, It's just to that level.
+SPEAKER_00,145.69,146.68, That's really distressing for you.
+SPEAKER_01,146.7,146.925, Yes.
+SPEAKER_00,148.003,149.68," And as a school, how about at home?"
+SPEAKER_01,150.422,155.439," At home, I'm so worried about school that it's affecting my life at home."
+SPEAKER_01,156.021,160.68," Like, I have this assignment, but then, oh my goodness, I'm so focused on this assignment."
+SPEAKER_01,160.821,162.458, Will I have time to make dinner for the kids?
+SPEAKER_01,162.68,165.177," My husband's going, oh, the house is such a mess all the time."
+SPEAKER_01,165.842,167.68, And it's just causing so much conflict at home.
+SPEAKER_01,167.981,172.68, My husband thinks I should be doing my housework and I'm so consumed with school.
+SPEAKER_01,172.841,175.136, And then it's just such a big mess right now.
+SPEAKER_01,175.904,176.598, So I'm constantly worried.
+SPEAKER_01,177.448,178.68," When I'm at school, I'm worried about home."
+SPEAKER_01,179.223,180.509," And when I'm home, I'm worried about school."
+SPEAKER_00,182.801,184.559, So a good deal of worrying.
+SPEAKER_01,185.109,185.619, All the time.
+SPEAKER_00,185.741,186.468, All the time.
+SPEAKER_00,188.394,188.619, Okay.
+SPEAKER_00,189.161,195.138, So I want to ask you a few questions about this and some that might be related.
+SPEAKER_00,196.304,198.66, Do you drink or use any drugs?
+SPEAKER_01,198.68,199.66," No, not at all."
+SPEAKER_00,200.003,200.347, Not at all.
+SPEAKER_00,201.68,203.438, Do you have any medical conditions?
+SPEAKER_01,203.721,204.496," No, not at all."
+SPEAKER_00,204.68,204.843, Nothing?
+SPEAKER_00,206.845,210.6, Have you ever been diagnosed with any other mental health disorders?
+SPEAKER_01,211.415,211.517, No.
+SPEAKER_00,212.374,212.537, None?
+SPEAKER_00,212.68,213.68, Do you ever have panic attacks?
+SPEAKER_01,213.762,214.313, No.
+SPEAKER_00,215.007,215.313, Okay.
+SPEAKER_00,216.084,217.114, Have you ever had one in the past?
+SPEAKER_01,218.047,218.088, No.
+SPEAKER_00,218.945,219.129, No?
+SPEAKER_01,219.966,220.19, No.
+SPEAKER_00,220.983,222.68, So a lot of anxiety but no panic?
+SPEAKER_01,222.821,226.64," Just anxiety, like overwhelming anxiety."
+SPEAKER_00,226.741,227.66, Intense anxiety.
+SPEAKER_01,227.68,227.782, Yes.
+SPEAKER_00,229.102,232.66, But never a situation where you felt you had to flee from a room or anything like that?
+SPEAKER_01,232.721,232.762, No.
+SPEAKER_00,233.762,234.17, No.
+SPEAKER_00,235.313,235.66, Any past trauma?
+SPEAKER_01,235.966,236.129, No.
+SPEAKER_01,236.843,237.619, Nothing like that.
+SPEAKER_00,237.72,237.983, Okay.
+SPEAKER_00,240.664,244.62," Do you sometimes feel keyed up, on edge, or restless?"
+SPEAKER_01,244.904,245.598," Restless, yes."
+SPEAKER_00,245.966,246.353, Restless?
+SPEAKER_01,247.272,247.68, Restless.
+SPEAKER_00,249.829,252.198, Do you find yourself easily fatigued?
+SPEAKER_01,253.791,254.559, Tired all the time.
+SPEAKER_00,254.782,255.394, Tired all the time?
+SPEAKER_01,255.68,256.007, Yes.
+SPEAKER_00,257.423,261.118, Do you have any trouble concentrating or finding your mind going blank?
+SPEAKER_01,261.7,262.488," No, not really."
+SPEAKER_00,263.7,263.741, No?
+SPEAKER_01,264.864,264.945, No.
+SPEAKER_00,265.68,266.68, How about irritability?
+SPEAKER_00,266.68,268.397, Do you find yourself irritable?
+SPEAKER_01,269.17,269.272, No.
+SPEAKER_00,269.7,269.782, No?
+SPEAKER_01,270.864,271.598, Not really irritable.
+SPEAKER_00,271.68,272.435, Any muscle tension?
+SPEAKER_01,273.231,273.578," No, not really."
+SPEAKER_00,273.802,273.904, No?
+SPEAKER_00,274.884,275.027, Okay.
+SPEAKER_01,277.246,278.64," How about, I need trouble sleeping."
+SPEAKER_00,278.74,285.499," So this would be falling asleep, staying asleep, having unsatisfying sleep, anything like that?"
+SPEAKER_01,285.901,291.379," Well, I have unsatisfying sleep but we just moved and we live next to a factory."
+SPEAKER_01,292.064,293.68, There's trucks in and out all the time.
+SPEAKER_01,294.003,294.811, Who can sleep with that?
+SPEAKER_01,295.801,297.256," Just chronic, just noise."
+SPEAKER_00,298.323,302.238, So you think that might be causing your sleep disturbance?
+SPEAKER_01,302.68,303.66," Well, it's entirely possible."
+SPEAKER_01,303.76,309.68, It's like who can sleep when you have trucks in and out all hours of the night or overnight  in the wee hours of the morning.
+SPEAKER_01,310.082,313.64, So it's pretty much impossible to fall asleep when you have just this noise.
+SPEAKER_00,314.546,315.794, How about before you moved there?
+SPEAKER_01,317.064,318.195, I don't remember.
+SPEAKER_00,319.19,319.68, You don't remember?
+SPEAKER_01,319.68,320.517, I really don't remember.
+SPEAKER_00,321.202,324.857, How long ago was it that you moved to the 4-hour now?
+SPEAKER_01,325.821,327.155, A couple of years.
+SPEAKER_00,327.945,328.496, A couple of years?
+SPEAKER_01,328.68,329.598, Yes.
+SPEAKER_00,329.68,331.66, So you've had this noise at night for a couple of years.
+SPEAKER_01,332.19,332.394, Yes.
+SPEAKER_00,332.68,333.537, And the symptoms started 8 months ago.
+SPEAKER_01,333.762,333.823, Yes.
+SPEAKER_01,337.205,345.68," So I don't know if it's made it worse or if the noise has just been, so I don't know if  it's the noise or what."
+SPEAKER_01,345.882,347.619, I can't sleep through a truck.
+SPEAKER_00,348.251,348.558, Okay.
+SPEAKER_00,348.842,350.498, How about any vacations or anything?
+SPEAKER_01,350.68,351.027, I'm sorry.
+SPEAKER_01,351.802,352.251, No vacations.
+SPEAKER_00,353.149,353.231, No.
+SPEAKER_01,354.782,355.619, No vacations.
+SPEAKER_00,357.264,365.599, So you've pretty much been sleeping at your home every night for as long as these symptoms  have been around.
+SPEAKER_01,365.966,366.047, Yes.
+SPEAKER_00,366.904,367.517, All right.
+SPEAKER_00,368.405,368.969," All right, Sarah."
+SPEAKER_00,370.801,372.599, I appreciate you answering these questions for me.
+SPEAKER_00,372.68,373.415, This has been helpful.
+SPEAKER_00,373.68,377.19, I'm going to get you a schedule with a counselor and they should be able to see you in a couple  of days.
+SPEAKER_01,377.945,378.639," Oh, thank you."
+SPEAKER_00,378.782,379.19, Thank you.
+SPEAKER_00,379.68,382.418, I would so appreciate it just to get this under control.
+SPEAKER_01,383.109,383.558, Absolutely.
+SPEAKER_00,384.047,384.251, All right.
+SPEAKER_00,384.68,385.578," Take care, Sarah."
+SPEAKER_01,385.68,385.868, Thank you.

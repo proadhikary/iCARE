@@ -1,0 +1,286 @@
+speaker,start,end,text
+SPEAKER_00,0.221,1.166, Glad you came in today.
+SPEAKER_00,2.533,3.739,How's it going today for you?
+SPEAKER_01,5.043,9.398," Um, I'm just kind of the same as it's been for the last few months."
+SPEAKER_01,11.504,13.771," Um, not getting any better."
+SPEAKER_01,13.791,16.358,Still feeling pretty down.
+SPEAKER_00,18.284,31.9," Well, from last week when we talked, I mean, kind of talk about your situation, getting injured on the job,  and if we're losing your job, you kind of get in the way you didn't want to do anything, and sleeping a lot."
+SPEAKER_00,33.865,36.593, And then your wife left you and took the kids.
+SPEAKER_00,36.613,38.599,I just went very hard on you.
+SPEAKER_01,39.364,39.586, Mm-hmm.
+SPEAKER_00,39.949,40.172,Yeah.
+SPEAKER_00,42.821,55.94," And so, when I had you take that inventory, um, answering all those questions, I kind of scored that, and in fact do have pretty severe depression."
+SPEAKER_00,57.424,57.905, So... Yeah.
+SPEAKER_01,57.926,61.135,I think I already knew that.
+SPEAKER_00,61.215,61.536,Yeah.
+SPEAKER_00,61.837,62.559,Not a surprise.
+SPEAKER_01,63.341,67.693, I guess it's nice to get validation on that.
+SPEAKER_00,67.754,68.195,Mm-hmm.
+SPEAKER_00,68.736,69.198,Mm-hmm.
+SPEAKER_00,70.541,80.0," So what I thought we might do today, if it's okay with you, is, um, there's a therapy I'd like to try with you to kind of address your depression."
+SPEAKER_00,80.462,82.972, It's called cognitive behavioral therapy.
+SPEAKER_00,82.992,84.438,I don't know if you've ever heard of that.
+SPEAKER_01,85.201,87.028, I think I may have heard the name before.
+SPEAKER_00,87.229,87.61,Okay.
+SPEAKER_00,87.871,88.213,Okay.
+SPEAKER_00,88.373,89.739,I'll describe it a little bit to you.
+SPEAKER_01,89.759,89.839,Okay.
+SPEAKER_00,90.1,107.459," So if we can kind of work on that therapy to kind of help your depression, and I'm thinking this might impact a lot of areas in your life,  getting to work and relationships and stuff, so you kind of focus on the depression right now."
+SPEAKER_00,108.582,115.0," And then I'd like to, after I've talked about that and some situations where you're feeling depressed, if we can..."
+SPEAKER_00,115.12,130.857," I want to give you some tools maybe to take home this week to kind of talk about the situations of your depression and thoughts and feelings and stuff,  and then so next week we can have some concrete stuff to think about."
+SPEAKER_01,130.877,131.92,Okay.
+SPEAKER_00,132.06,135.632, Does that sound okay with you that we do that today?
+SPEAKER_01,135.672,137.94,"Yeah, I mean, I don't want to try anything, so..."
+SPEAKER_00,139.801,140.242, Great.
+SPEAKER_00,140.963,142.125,"Well, that's a big part of it."
+SPEAKER_00,142.365,151.76,Your willingness to try is a big key part in cognitive behavioral therapy because you're willing to do the work to get better.
+SPEAKER_00,152.141,153.152, So... Yeah.
+SPEAKER_00,153.657,153.939,All right.
+SPEAKER_00,154.822,157.951, Let me tell you a little bit about the cognitive behavioral therapy.
+SPEAKER_00,157.971,160.559,"Sometimes it's called CET, just those initials."
+SPEAKER_00,161.421,175.977," And it takes an individual, a situation that's happening with an individual, a thought that automatically comes into the mind of that individual,  how it makes them feel, and then how they respond because of that feeling."
+SPEAKER_00,176.398,176.679,Okay?
+SPEAKER_00,177.782,184.398," So we'll take an example, like, tell me about the last time that you were feeling depressed."
+SPEAKER_01,186.982,190.351," Uh, I'd say probably this morning."
+SPEAKER_00,190.551,190.952,Okay.
+SPEAKER_00,191.734,192.857,What was going on this morning?
+SPEAKER_01,194.721,197.125," You know, I just woke up."
+SPEAKER_01,198.047,204.497,I think it was like 10 o'clock or so and just couldn't get out of bed.
+SPEAKER_00,204.518,205.399,Okay.
+SPEAKER_00,206.301,206.561, Yeah.
+SPEAKER_00,206.581,206.982,All right.
+SPEAKER_00,207.243,210.792,So you woke up and couldn't get out of bed.
+SPEAKER_00,211.233,213.318,What's the first thought that came into your mind?
+SPEAKER_01,214.862,221.495," Um, I think at first I thought, you know, why would I get out of bed?"
+SPEAKER_01,221.535,223.9,There's no reason for me to get out of bed.
+SPEAKER_01,225.821,228.827," I mean, my wife's calling."
+SPEAKER_01,230.009,231.592,Don't really have many friends anymore.
+SPEAKER_01,231.993,232.634,Don't have a job.
+SPEAKER_01,232.654,235.659,"You know, what's the point of getting out of bed this morning?"
+SPEAKER_00,237.345,238.751, How'd that make you feel about yourself?
+SPEAKER_01,242.621,243.562," Worthless, I guess."
+SPEAKER_01,243.923,250.212,"I mean, like, I don't really even matter."
+SPEAKER_01,250.232,255.7,"I just made me feel really, really bad and worthless."
+SPEAKER_00,258.762,262.029," Because of that feeling, what would you do?"
+SPEAKER_00,263.653,266.559,Were you able to get out of bed or just stayed in bed?
+SPEAKER_01,267.582,270.59, Stayed in bed until I came here.
+SPEAKER_01,270.61,270.691,Okay.
+SPEAKER_00,270.971,271.332,Yeah.
+SPEAKER_01,271.673,273.198,I was in bed most of the day.
+SPEAKER_00,275.324,275.485, Okay.
+SPEAKER_00,275.505,277.973,I'm going to congratulate you for getting out of bed and coming here today.
+SPEAKER_00,277.993,278.936,That's a big step.
+SPEAKER_00,280.06,282.05, I'm glad you're here.
+SPEAKER_01,282.935,283.196,Me too.
+SPEAKER_00,284.0,288.398, Do you often have those feelings when you're a person of worthlessness?
+SPEAKER_01,290.622,290.943, Yeah.
+SPEAKER_01,291.384,292.788,I'd say most of the time.
+SPEAKER_01,292.989,293.711,That's how I feel.
+SPEAKER_01,293.731,296.438,"That's kind of what causes it, I think."
+SPEAKER_00,299.201,304.997," And typically, is your response to that feeling stay in bed or..."
+SPEAKER_01,307.722,309.086," I mean, if I'm... Emogalizes you?"
+SPEAKER_01,309.407,309.708,Yeah.
+SPEAKER_01,309.828,312.917,"I mean, if I'm in bed at the time, then yeah, I won't get out."
+SPEAKER_01,315.602,322.158," I mean, sometimes I'll be on the couch and start thinking and feeling like that and then I'll just..."
+SPEAKER_01,324.161,324.863, I won't move.
+SPEAKER_01,325.043,329.177,Just kind of just... lay there.
+SPEAKER_00,332.983,333.845," Let me ask you, Tommy."
+SPEAKER_00,333.865,338.418,Can you remember a time when you weren't depressed?
+SPEAKER_01,343.129,343.41, Yeah.
+SPEAKER_01,343.59,346.86,"I mean, before the accident worked."
+SPEAKER_00,346.88,346.96,Okay.
+SPEAKER_01,348.703,349.466, Lots of times.
+SPEAKER_01,350.028,353.0,And spending time with my kids.
+SPEAKER_00,353.742,355.426, Tell me a little bit about those times.
+SPEAKER_00,355.526,361.0,"When you can remember before the accident, when you were experiencing some depression."
+SPEAKER_01,362.561,368.131," Um... I mean, I'd be laying in bed in the morning."
+SPEAKER_01,368.211,373.0,"My kids would run, jump, and wake me up and kind of irritate me a little bit."
+SPEAKER_01,373.501,377.228," But, I mean, I love having them do that."
+SPEAKER_01,378.149,384.0,Get up and make pancakes and have a big long breakfast.
+SPEAKER_01,384.301,393.98," And then, if it was on the weekend, then we'd go do something fun like go to the park or go see a movie or something like that."
+SPEAKER_00,396.702,399.049, Can you remember how you felt back then?
+SPEAKER_00,399.069,402.98,How'd you feel when those activities were going on?
+SPEAKER_01,405.261,407.384, I just felt good.
+SPEAKER_01,407.404,416.774,"I just... I mean, I felt loved by my kids and I loved them."
+SPEAKER_01,416.914,419.277,It was just great.
+SPEAKER_01,419.297,421.8,I just felt good.
+SPEAKER_00,425.445,428.029, Did it kind of feel like the opposite of worthless?
+SPEAKER_00,428.65,435.0,"I mean, they needed you and you felt good and you felt loved and you felt engaged in their life."
+SPEAKER_01,435.822,436.083, Yeah.
+SPEAKER_01,436.404,436.986,Absolutely.
+SPEAKER_01,437.006,437.908,Yeah.
+SPEAKER_01,437.989,441.88,It was the opposite of what I feel now.
+SPEAKER_00,442.12,442.3, Mm-hmm.
+SPEAKER_00,442.941,443.181,Mm-hmm.
+SPEAKER_00,445.984,460.68,"So, sometime when you have these worthless feelings and not being able to get out of bed, do you think it would help you to think about times when you felt pretty good about yourself?"
+SPEAKER_01,465.069,465.35, Yeah.
+SPEAKER_01,467.835,469.719,"Yeah, I guess I've never tried that before."
+SPEAKER_00,470.224,470.408, Mm-hmm.
+SPEAKER_00,470.449,470.592,Mm-hmm.
+SPEAKER_01,471.342,471.503, Yeah.
+SPEAKER_01,471.523,474.678,"I mean, I don't know if it'll work."
+SPEAKER_00,475.122,475.245, Mm-hmm.
+SPEAKER_01,476.102,476.98, I'd be willing to try.
+SPEAKER_00,478.04,479.442, I'd be kind of willing to try that.
+SPEAKER_00,479.462,485.971,"So, maybe when you're feeling down, can't get off the couch, can't get out of bed."
+SPEAKER_00,485.991,492.059,I think of some times when it was different for you.
+SPEAKER_00,492.239,493.0,You were in a different situation.
+SPEAKER_01,493.041,493.408, Mm-hmm.
+SPEAKER_00,494.821,497.446," But, and you certainly didn't feel this way."
+SPEAKER_00,498.107,501.273,"You didn't feel this way because you felt loved, engaged."
+SPEAKER_00,504.018,504.84,Important part of you.
+SPEAKER_00,505.0,505.306, Yeah.
+SPEAKER_00,506.184,506.612, It's fun.
+SPEAKER_01,507.755,507.918, Yeah.
+SPEAKER_00,509.604,510.947, What about when you were working?
+SPEAKER_00,512.892,515.88,How did you feel about yourself at work?
+SPEAKER_01,518.361,526.769," Well, I worked in a factory and we made car parts and stuff and I don't know."
+SPEAKER_01,526.789,528.35,I felt like I was doing something.
+SPEAKER_01,528.43,538.98,"I mean, I was making parts that were going to go in a car, which then someone would use to drive to their job or drive their families."
+SPEAKER_00,539.041,539.633, Mm-hmm.
+SPEAKER_01,540.723,543.795," So, I felt like I was doing something."
+SPEAKER_01,543.815,544.839,"Like, I had a purpose."
+SPEAKER_00,545.0,545.224, Mm-hmm.
+SPEAKER_00,545.49,545.653,Mm-hmm.
+SPEAKER_00,546.102,546.388, Mm-hmm.
+SPEAKER_01,547.663,550.799, Then the accident happened and I lost that.
+SPEAKER_00,551.041,551.469, Mm-hmm.
+SPEAKER_00,552.367,552.735, Mm-hmm.
+SPEAKER_01,554.584,555.872, And that's when I started to feel worthless.
+SPEAKER_00,557.0,557.673, Mm-hmm.
+SPEAKER_00,560.263,567.84, I'm glad you can still feel or remember some times when you felt that you did have a purpose and you felt loved and valued.
+SPEAKER_00,568.2,575.789," And I know with depression, it's hard to get up and get out of bed."
+SPEAKER_00,576.269,585.94,"That's some of the, and a lot of people will say, you know, if I, I'm going to wait until I feel better and then I'm going to get up and I'm going to get out of bed and then I'm going to do."
+SPEAKER_00,586.541,594.0," A lot of times with depression, what you actually have to do, you have to get up out of bed and do something and then you feel better."
+SPEAKER_00,594.241,599.86, And I know it's kind of hard to do that with these feelings that you're feeling right now.
+SPEAKER_01,600.643,603.94," Yeah, but I mean, I think that makes sense."
+SPEAKER_00,604.163,604.551, Mm-hmm.
+SPEAKER_01,605.0,605.327, You said?
+SPEAKER_00,606.592,606.796, Mm-hmm.
+SPEAKER_00,607.0,609.899, And sometimes it's helpful to have something scheduled or planned.
+SPEAKER_00,612.01,620.91," Right now in your, in your life,  tell me some things that you might enjoy doing."
+SPEAKER_00,621.411,626.76,"Might, could think about be worth getting out of bed in order to do."
+SPEAKER_01,630.664,640.836," Um, I would say seeing my wife and kids, but I don't know if that's really an option right now."
+SPEAKER_01,640.856,643.7,"Um, I always loved fishing."
+SPEAKER_00,644.102,644.367, Mm-hmm.
+SPEAKER_00,644.531,644.796,Okay.
+SPEAKER_01,645.683,649.096," Yeah, I always, always enjoyed doing that."
+SPEAKER_00,650.886,652.195, When was the last time you went fishing?
+SPEAKER_01,654.422,655.588," Uh, it was a long time ago."
+SPEAKER_01,655.608,657.92,"I mean, right before the accident happened."
+,658.642,658.942, Mm-hmm.
+SPEAKER_00,659.684,663.293,Are you recovered enough from the accident in which you could go fishing?
+SPEAKER_00,663.313,664.436,Is that a reality?
+SPEAKER_00,664.677,665.92,Is that something that you could do?
+SPEAKER_01,667.051,668.0," Yeah, I mean, I think I could."
+SPEAKER_01,668.0,668.49," Okay, great."
+SPEAKER_01,669.633,669.816, Yeah.
+SPEAKER_00,671.343,671.744,Okay.
+SPEAKER_00,672.425,676.314,"So fishing is something that, that would be an important."
+SPEAKER_00,676.414,678.92,Are there any other activities or meeting with people?
+SPEAKER_00,679.08,686.0," And those remind me, is your wife out of town and your kids consider it a little bit more difficult to maybe see them on a regular basis?"
+SPEAKER_01,686.0,687.0," Yeah, they're out of town."
+SPEAKER_00,687.2,688.202, Okay.
+SPEAKER_00,688.403,696.84,Other activities besides fishing that you might enjoy doing or being with people or things you enjoy doing or need pleasure in life?
+SPEAKER_01,697.441,711.0," I mean, I used to get together with my buddies and we usually had like a cookout or something at somebody's house and watch football or sit around and talk."
+SPEAKER_01,711.51,711.694, Mm-hmm.
+SPEAKER_01,712.361,721.98," Um, yeah, we always, I mean, we all had family so as kind of, we'd all get together and just kind of get away for a little bit."
+SPEAKER_00,722.061,722.714, Mm-hmm.
+SPEAKER_00,723.429,723.755, Mm-hmm.
+SPEAKER_00,725.3,725.861, That sounds fun.
+SPEAKER_00,725.901,737.239,"Is that something that might be able to be planned or you might be able to have a get together with at least one if it's not the whole group, you know, one or two of your old buddies?"
+SPEAKER_01,738.02,741.652," Yeah, I mean, I think, I think we could do that."
+SPEAKER_01,741.732,744.0,"I mean, I just hadn't talked to them forever."
+SPEAKER_00,744.102,744.367, Sure.
+SPEAKER_01,746.381,761.0," I mean, when I, after the accident, since I've been feeling so down, I haven't really made any effort with them at all and they kind of tried at first but then I just never followed up with any of them."
+SPEAKER_01,761.0,761.082, Okay.
+SPEAKER_01,765.361,771.0," But I mean, I guess I might be willing to try."
+SPEAKER_00,771.0,771.525, Mm-hmm.
+SPEAKER_00,771.667,772.899,Okay.
+SPEAKER_00,774.0,775.101, That's another good suggestion.
+SPEAKER_00,776.022,794.0,"As far as what do, is there an activity you should do even by yourself, either playing an instrument or listen to music or exercising or watching movies or something that gives you pleasure that you don't necessarily need, I mean, fishing is a good one."
+SPEAKER_00,794.04,803.94," I know you don't really need anybody else for but I'm just thinking in case your buddies were busy, I'm thinking of another thing you might want to do that brings you pleasure or something."
+SPEAKER_01,805.126,807.98," I mean, working out was always something that I did."
+SPEAKER_00,808.143,808.755, Okay.
+SPEAKER_00,809.388,809.898, Mm-hmm.
+SPEAKER_00,810.283,811.879, And how did that make you feel when you worked out?
+SPEAKER_01,813.893,814.96," Well, during the workout, I got tired."
+SPEAKER_00,815.02,815.245, Mm-hmm.
+SPEAKER_01,816.505,818.0, I always felt really good afterwards.
+SPEAKER_01,818.143,818.755," Afterwards, okay."
+SPEAKER_01,819.222,821.0," Yeah, like I had done something."
+SPEAKER_00,821.122,821.469, Mm-hmm.
+SPEAKER_01,822.04,823.576," I was like, I need to come up with something."
+SPEAKER_00,824.963,825.124, Mm-hmm.
+SPEAKER_01,825.144,829.719,"So, yeah, working out is definitely something I used to do a lot, get a lot out of."
+SPEAKER_00,830.429,830.714, Okay.
+SPEAKER_00,831.662,837.0," Now, those are some good suggestions of things that you might want."
+SPEAKER_00,837.701,850.82," It's, you probably need to start out slow in scheduling some things but it's nice to have, if you can, something on your agenda every day in order for you to get out of bed for."
+SPEAKER_00,851.323,852.535, It might be a workout.
+SPEAKER_00,853.204,854.0, It might be going fishing.
+SPEAKER_00,854.943,860.0, It might be calling a buddy to schedule something or it might be hanging out with a friend.
+SPEAKER_00,860.041,860.122, Okay.
+SPEAKER_00,861.962,870.78," So, Tommy, I'd like your goal this next week and you can write it on this piece of paper right here, kind of journal about it."
+SPEAKER_00,871.22,882.0," You know, put the date and go ahead and put, I'd like you to have some, you can first talk about maybe when you're in bed and can't get out."
+SPEAKER_00,882.02,887.0," You can write about your thought, the automatic thought that's coming into your mind, you know."
+SPEAKER_00,887.0,890.65, I'm in bed and the automatic thought is?
+SPEAKER_01,894.263,896.0, There's no reason for me to get out of bed.
+SPEAKER_00,896.101,896.624, Okay.
+SPEAKER_00,897.248,898.295,No reason to get out of bed.
+SPEAKER_00,899.703,903.98," And then you use the word worthless, whatever that automatic thought that comes in your mind, write that down."
+SPEAKER_00,904.785,906.879, And then write down how that makes you feel.
+SPEAKER_00,907.653,907.939, Okay.
+SPEAKER_00,909.381,915.94, And then you mentioned often your action or your response to that feeling is just to stay in bed.
+SPEAKER_00,916.082,916.939, Alright.
+SPEAKER_00,917.22,926.92," So, I'd like for you to go ahead and log those emotions when those situations occur, you know, the situation, the thought, the emotion and your reaction to it."
+SPEAKER_00,927.461,936.0," But another thing I'd like for you to do is if you can schedule one event a day, alright, that you would enjoy doing."
+SPEAKER_00,936.483,938.98," And it could be a phone call, it doesn't have to be getting that."
+SPEAKER_00,939.061,940.0, And give yourself a break.
+SPEAKER_00,940.321,945.94, Know that this is going to be difficult and you're going to start out slow and you're going to work up to it.
+SPEAKER_00,946.424,947.717, But just one event a day.
+SPEAKER_00,949.568,951.618," I want you to log as well, you know, where there is."
+SPEAKER_00,952.1,958.0, I called my kids or I called my buddy to schedule something or I went to work out.
+SPEAKER_00,958.0,958.384, Alright.
+SPEAKER_00,960.582,964.759, And I also would like for you to write down how you felt about yourself after you did that.
+SPEAKER_00,965.04,967.638," After the phone call, how you felt about yourself."
+SPEAKER_00,968.262,970.658," After the workout, how it made you feel."
+SPEAKER_00,971.0,971.286, Alright.
+SPEAKER_00,972.0,973.414, After you got together with your buddies.
+SPEAKER_00,974.204,974.388, Alright.
+SPEAKER_00,976.143,982.759, So go ahead and document this progression and then log the different activities that's here.
+SPEAKER_00,983.423,985.275, And then we'll talk about it next week.
+SPEAKER_00,986.08,992.0," And we can talk about what's, you know, these automatic thoughts and then any of these activities."
+SPEAKER_00,992.02,995.94, And if any of these activities are actually helping.
+SPEAKER_00,996.02,997.596," It might take a while, Tommy."
+SPEAKER_00,998.08,1005.84," You have to be patient with the process, be patient with yourself and other people."
+SPEAKER_00,1006.04,1016.0," I mean you mentioned a while ago that your buddies, you know, they tried connecting with you and it was maybe difficult."
+SPEAKER_00,1016.181,1019.98, And they'll probably be glad that you're wanting to reengage with them.
+SPEAKER_00,1020.462,1023.394, So that might be an encouragement to you as well.
+SPEAKER_00,1025.662,1031.92, So is this something that you can work on this week?
+SPEAKER_01,1032.633,1032.837, Yeah.
+SPEAKER_00,1033.408,1033.653, Okay.
+SPEAKER_00,1034.02,1034.869, Does it feel overwhelming or?
+SPEAKER_01,1036.606,1036.828, No.
+SPEAKER_01,1038.263,1039.96, I mean I feel good about that.
+SPEAKER_01,1040.121,1042.839, I mean it's just going to be different.
+SPEAKER_01,1043.161,1048.298, But like I said I'm willing to try whatever I need to right now.
+SPEAKER_00,1049.784,1052.437," I think that's a good part of this, the willingness to try."
+SPEAKER_00,1053.06,1055.839, And the patience that's going to be the process and take time.
+SPEAKER_00,1056.803,1061.94, But we'll go through this step at a time and we can talk about it and see what's working and what's not working.
+SPEAKER_00,1062.141,1063.556, And we can make changes on it.
+SPEAKER_00,1064.421,1073.76," But I think this CBT really helps you think about, you know, what's going on and why am I feeling this way."
+SPEAKER_00,1074.02,1083.98," You know, identifying the thoughts in your mind and why I might be thinking of this and why I'm reacting because of this."
+SPEAKER_00,1085.142,1097.238," And you might even rate your emotion and say, yesterday I felt, you know, my feeling of worthlessness on a scale from 1 to 100 was 90."
+SPEAKER_00,1100.145,1102.855, But today it's actually 80.
+SPEAKER_00,1105.325,1108.016, And maybe next week it might be 70.
+SPEAKER_00,1109.24,1121.98," So if you want to add a particular number to associate your, the association with that feeling of worthlessness, if you want to kind of put a value on it."
+SPEAKER_00,1122.563,1125.839, And we can kind of see how that adjusts with time.
+SPEAKER_00,1126.566,1127.616, That might be helpful.
+SPEAKER_01,1128.041,1128.184, Yeah.
+SPEAKER_01,1129.283,1130.576, That sounds like it would be helpful.
+SPEAKER_00,1131.0,1131.163, Okay.
+SPEAKER_00,1132.327,1132.51, Alright.
+SPEAKER_00,1133.061,1134.98, We'll talk about that next time.
+SPEAKER_01,1135.388,1135.571, Okay.
+SPEAKER_00,1136.02,1136.102, Okay.
+SPEAKER_01,1137.303,1138.798, Thank you.

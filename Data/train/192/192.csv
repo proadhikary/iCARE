@@ -1,0 +1,319 @@
+speaker,text,start,end
+SPEAKER_00," Hi Jessica, how are you doing?",0.783,5.0
+SPEAKER_01," I'm alright, how about you?",5.121,6.852
+SPEAKER_00, I'm doing okay.,8.081,9.333
+SPEAKER_00," So, how have you been doing today?",10.02,11.697
+SPEAKER_00, How's your week been?,13.394,14.0
+SPEAKER_01, It's been okay.,14.02,15.273
+SPEAKER_00, Okay.,16.449,16.571
+SPEAKER_00," So, in our last session together, we talked about your lack of confidence.",18.545,23.0
+SPEAKER_00, Do you feel like you've made any progress on that?,23.987,25.779
+SPEAKER_01," Um, I mean, I've been journaling, like you said.",27.161,32.679
+SPEAKER_00," Good, good.",33.222,33.889
+SPEAKER_01," Um, I've spent time helping.",36.228,37.517
+SPEAKER_01," Uh, I feel like there's still a lot of room for improvement though.",38.782,44.92
+SPEAKER_01, But it has improved slightly.,45.584,47.477
+SPEAKER_00," So, when you said you've been journaling, were you able to, when you had a negative thought,  or you know, a situation occurred where you had a negative thought, were you writing down a negative thought?",48.582,57.916
+SPEAKER_01," Yeah, um, not automatic.",59.081,60.939
+SPEAKER_01," Well, I was thinking what you told me.",61.343,62.939
+SPEAKER_00, Okay.,63.388,63.633
+SPEAKER_00, And you were able to make it a positive thought?,64.242,66.779
+SPEAKER_01," Yeah, I mean, I tried, um, to do that.",67.803,71.94
+SPEAKER_01," It helped some, but, uh, I guess any improvement's better.",73.023,79.719
+SPEAKER_01," But, uh, I think maybe just to keep doing it, maybe it'll get better.",80.582,84.92
+SPEAKER_00, Okay.,85.224,85.694
+SPEAKER_01, But I was more aware of how things are occurring.,86.101,89.0
+SPEAKER_00, Good.,89.204,90.0
+SPEAKER_01, I didn't realize how often.,90.0,90.857
+SPEAKER_00, Mm-hmm.,91.163,91.633
+SPEAKER_01, Sorry.,92.082,92.184
+SPEAKER_00," No, so do you remember kind of what we discussed last time about how CBT works?",93.1,97.839
+SPEAKER_01," Um, a little bit.",99.487,101.457
+SPEAKER_01," Um, not exactly.",102.121,104.0
+SPEAKER_01, But I just remember how my thoughts.,104.723,108.779
+SPEAKER_00, Okay.,109.714,109.837
+SPEAKER_01, Are causing things.,110.061,110.98
+SPEAKER_00, So would you come out to our view before we actually get into this session?,111.584,114.0
+SPEAKER_01, Yeah.,114.612,114.898
+SPEAKER_00, Would that be okay?,115.061,115.98
+SPEAKER_01, Yeah.,116.51,116.918
+SPEAKER_00, Okay.,117.0,117.143
+SPEAKER_00," So how it goes is like, say a situation or an event happens, you have a thought, okay?",118.0,122.779
+SPEAKER_01, Yeah.,123.061,123.51
+SPEAKER_00," And like I know last time it was your lack of confidence, and it could be like, I'm not  good enough, and that was your thought process last time, correct?",124.121,130.96
+SPEAKER_01, Yeah.,131.163,131.367
+SPEAKER_00," And then so when you have a thought, you have an emotion.",132.0,133.96
+SPEAKER_00, Last time you were saying how it made you feel bad about yourself.,135.081,137.638
+SPEAKER_00, You felt incompetent.,138.02,139.0
+SPEAKER_01, Mm-hmm.,139.245,139.735
+SPEAKER_00," And then your behavior is you were, you know, you lashed out at others and you were mean.",140.04,143.454
+SPEAKER_01, Mm-hmm.,145.102,145.898
+SPEAKER_00, So do you feel like that you kind of understand that?,146.0,148.834
+SPEAKER_01, Yeah.,150.327,150.469
+SPEAKER_01, Yeah.,151.286,151.469
+SPEAKER_00," So I know last time, like I said, we talked about your lack of confidence.",152.0,154.01
+SPEAKER_00," So for today, I know you mentioned that you also were having problems with using marijuana  and depression, you had problems with depression, and you also had anger issues.",156.0,167.0
+SPEAKER_00," And out of those, which one do you think you'd like to discuss today?",167.181,171.116
+SPEAKER_01, Probably the anger issues.,172.141,173.838
+SPEAKER_00, Okay.,174.02,174.122
+SPEAKER_01, I feel like that's the biggest problem going on right now.,175.482,178.779
+SPEAKER_00, Okay.,179.245,179.918
+SPEAKER_00, Tell me a little bit more about your anger issues.,180.785,182.275
+SPEAKER_01," I mean, it's not like I'm just like an angry person.",183.443,185.98
+SPEAKER_01, It just like snaps at anybody.,186.444,187.939
+SPEAKER_01," But I get defensive, I guess.",188.0,191.474
+SPEAKER_00, Okay.,193.286,193.469
+SPEAKER_01, I'm very defensive.,194.02,195.0
+SPEAKER_01, And then I usually want to lash out.,195.262,197.718
+SPEAKER_01," But I've never, I've lashed out at my child, you know, my son or anything.",199.024,203.0
+SPEAKER_01, It's usually always my husband.,203.283,204.98
+SPEAKER_00, Can you tell me about the last time you lashed out at your husband?,205.502,207.651
+SPEAKER_01, We were unloading the groceries.,210.505,211.939
+SPEAKER_00, Mm-hmm.,212.694,212.878
+SPEAKER_01, And I actually had just had my hair done and cut and colored and everything.,213.261,219.117
+SPEAKER_01," And I was so excited because I thought he was going to love it, you know.",220.06,222.758
+SPEAKER_01," And he looked at it and he, of course, he thought, well, how much money did it cost?",223.482,228.037
+SPEAKER_01," And, you know, girl, you know, these things are kind of expensive.",229.221,231.94
+SPEAKER_00, Right.,232.102,232.327
+SPEAKER_01," And so I told him, you know, it would have been $60.",233.564,235.054
+SPEAKER_01," And he told me that, you know, we've been struggling with money lately a little bit.",236.762,242.358
+SPEAKER_01, And that I didn't need to spend that much money and that I was selfish.,243.241,248.659
+SPEAKER_01, And then I hit him.,249.905,252.518
+SPEAKER_00, Okay.,253.51,253.796
+SPEAKER_00," So now what I'm writing down here is kind of like what we talked about, how there's an event or a situation.",254.261,258.578
+SPEAKER_00, You have a thought and you have an emotion.,259.342,261.497
+SPEAKER_00," I know like with what you were just saying, the event or the situation was that you got your hair done.",262.0,268.077
+SPEAKER_01, Mm-hmm.,269.0,269.469
+SPEAKER_00, And that he was angry about that.,270.04,271.576
+SPEAKER_01, Yeah.,272.041,272.224
+SPEAKER_00, Okay.,273.306,273.735
+SPEAKER_01," He was just, yeah, he was just saying mean things.",274.201,277.075
+SPEAKER_00, Okay.,278.04,278.141
+SPEAKER_00, Okay.,280.261,284.9
+SPEAKER_00, Okay.,285.0,285.98
+SPEAKER_00," Now, what did you, in that moment when he was being mean, what was, not how you felt, but what was your actual thought?",286.301,294.297
+SPEAKER_00, Like when he was saying all that stuff and?,296.04,297.785
+SPEAKER_01, I'm selfish.,303.242,303.828
+SPEAKER_00, You thought I'm selfish.,305.02,305.959
+SPEAKER_00, Okay.,306.02,306.714
+SPEAKER_01, Yeah.,307.04,308.752
+SPEAKER_01," Initially, yeah, that was it.",310.121,312.0
+SPEAKER_01, He's right.,312.0,312.286
+SPEAKER_01, I believe that was selfish.,313.182,314.152
+SPEAKER_00, How did that make you feel when you actually thought I'm selfish?,315.442,318.216
+SPEAKER_01, Guilty.,319.02,319.388
+SPEAKER_00, Okay.,320.224,320.449
+SPEAKER_00, So you felt guilty?,321.0,321.469
+SPEAKER_01, Sad.,322.261,322.724
+SPEAKER_00, Okay.,326.449,326.898
+SPEAKER_01, And then angry.,327.0,327.49
+SPEAKER_00, Angry.,328.224,328.449
+SPEAKER_00, Okay.,329.02,329.347
+SPEAKER_01, Very angry.,330.02,331.0
+SPEAKER_01, But he made me feel that way.,331.747,332.798
+SPEAKER_01, I wasn't feeling that way before he said that.,333.0,334.818
+SPEAKER_01," And then once he said that, you know, he put that thought in my head and it made me angry.",335.301,342.376
+SPEAKER_00, Okay.,344.633,344.837
+SPEAKER_00, Yeah.,345.184,345.347
+SPEAKER_00," So when he was getting mad at you and then telling you you're selfish and you felt selfish  or you thought to yourself, I'm selfish, and then you got angry, what did you do after you got angry?",346.281,359.619
+SPEAKER_01, I smacked him.,361.01,361.717
+SPEAKER_00, Okay.,362.612,362.857
+SPEAKER_00, Okay.,363.776,363.959
+SPEAKER_01, Yep.,364.49,364.735
+SPEAKER_00, So there was physical contact there.,365.061,367.0
+SPEAKER_01, Yeah.,367.0,367.204
+SPEAKER_01, I hit him upside his head.,368.788,369.798
+SPEAKER_00, Okay.,370.041,370.224
+SPEAKER_01," I mean, I felt that afterwards.",372.97,374.0
+SPEAKER_01, Me too.,374.327,374.776
+SPEAKER_01, It's just I was so mad.,375.0,375.918
+SPEAKER_00, Right.,376.0,376.204
+SPEAKER_01, Yeah.,377.245,377.755
+SPEAKER_01, How do you feel that way?,378.0,378.837
+SPEAKER_00, Uh-huh.,379.0,379.367
+SPEAKER_01," I just, I lashed out.",380.04,381.309
+SPEAKER_00, Okay.,383.909,384.111
+SPEAKER_00," So when he has these, when he kind of gets upset at you for certain things like this,  how do you think you could change from you smacking him to having a more calm and positive response?",386.182,403.198
+SPEAKER_01," Well, I think if I was able to get his angry.",405.327,407.658
+SPEAKER_00, Okay.,408.388,408.959
+SPEAKER_00, How do you think you might be able to do that?,409.04,410.188
+SPEAKER_00, Like this is how we would do it.,414.291,415.578
+SPEAKER_00," With CBT, we would change your thought.",416.141,417.852
+SPEAKER_00," So when he gets upset with you and calls you selfish, you start to feel selfish.",419.02,425.719
+SPEAKER_01, Yeah.,426.469,426.673
+SPEAKER_00, So how could you not feel selfish?,427.0,428.939
+SPEAKER_00, Do you think you could change your thought?,429.0,430.893
+SPEAKER_01, Yeah.,432.776,432.939
+SPEAKER_01," I mean, if I never even thought that I was selfish, then I wouldn't be getting angry.",433.221,437.779
+SPEAKER_00, So do you think you're selfish?,438.785,439.711
+SPEAKER_01," I mean, at the time I did that and I felt like awful.",442.905,446.0
+SPEAKER_01," But now, like, he says that we're hurting for money, but we're really not.",446.803,451.92
+SPEAKER_01," Like, we're able to pay our bills.",452.143,453.0
+SPEAKER_01, We're able to do things.,453.02,454.556
+SPEAKER_01," I mean, he's just kind of like a cheap person.",455.0,457.0
+SPEAKER_01," But we have plenty of money to, we're not hurting at all.",457.924,461.558
+SPEAKER_01," And with my self-confidence, I don't think it was selfish in one.",462.562,467.0
+SPEAKER_01," Make myself feel prettier, you know?",467.745,469.336
+SPEAKER_01, But I think people do other selfish tendencies like that.,471.627,474.92
+SPEAKER_00, So what I'm hearing you say is you don't think you're selfish at all.,476.047,477.98
+SPEAKER_01," Well, I mean, I'm selfish.",478.886,480.799
+SPEAKER_00," But in this situation, you don't think you're being selfish.",481.162,482.919
+SPEAKER_01, I don't think I'm just wrong.,483.082,483.898
+SPEAKER_01, I really don't.,484.826,485.832
+SPEAKER_01," Now, if I had gone by a whole new wardrobe, nothing else, none along with it, but I mean, I just did my hair.",488.003,492.96
+SPEAKER_01, And he's a real estate agent.,494.602,499.779
+SPEAKER_01," He had sold a big house that week, so we had enough money for me to afford it.",500.723,504.98
+SPEAKER_00, Right.,505.102,505.347
+SPEAKER_01, So he's just a pain in the juice sometimes.,506.02,509.839
+SPEAKER_00, Okay.,510.202,511.414
+SPEAKER_00," So instead of thinking I'm selfish, what could you actually think?",512.262,514.376
+SPEAKER_01, That I deserve to spend money on myself.,520.364,521.98
+SPEAKER_01, I don't want to spend money on me sometimes.,522.0,523.455
+SPEAKER_00, I deserve this.,524.424,525.111
+SPEAKER_01, Yeah.,526.0,526.141
+SPEAKER_00," I mean, who doesn't deserve something every now and then, right?",529.262,531.577
+SPEAKER_01, Yeah.,532.0,532.163
+SPEAKER_00," Okay, so if you were thinking I deserve this, if that was your thought when he was getting in, if you thought, no, I deserve this, how do you think that would actually make you feel?",533.08,540.779
+SPEAKER_00, What kind of emotion would you feel at that point?,541.401,543.147
+SPEAKER_00, Would that make you feel confident?,547.081,548.212
+SPEAKER_01," Yeah, confident in my decision.",549.182,550.919
+SPEAKER_00, Right.,551.551,551.878
+SPEAKER_01," I would still feel a little sad that he thought that, but I don't think it would be to the level that it was when I thought I was selfish.",555.705,566.68
+SPEAKER_00," So if you felt confident about your decision because you actually changed your thought, do you think that would in turn change your behavior instead of you actually getting angry, you would think there's no need for this?",567.18,578.519
+SPEAKER_01," Yeah, I think it would help me realize that that's his issue and I won't.",579.462,582.759
+SPEAKER_00, Right.,583.286,583.612
+SPEAKER_00, So how do you think you would actually behave then?,584.02,585.455
+SPEAKER_01, Walk off.,586.889,587.394
+SPEAKER_00, Okay.,588.102,588.388
+SPEAKER_01," Or even be able to, this is kind of what I wanted to get to as well, be able to express it in a non-violent manner.",590.042,599.98
+SPEAKER_01, Because he didn't deserve for me to hit on him.,600.564,602.879
+SPEAKER_01," I mean, he didn't.",603.245,604.0
+SPEAKER_01," He said something that upset me, but no one deserves that.",604.723,608.92
+SPEAKER_01, Someone's hand is put on him.,609.04,610.434
+SPEAKER_00, Right.,611.02,611.245
+SPEAKER_00," So maybe instead of thinking also that you're selfish when he's getting my back, do you think maybe you could say to yourself instead that maybe he just doesn't understand and maybe I need to tell him that I do deserve this and explain it to him that this makes me feel good about myself?",612.821,628.98
+SPEAKER_01," Yeah, yeah, I could try that.",629.121,630.717
+SPEAKER_00," Because you know, you know you're not selfish.",631.0,632.96
+SPEAKER_00, It's just something that makes you feel good.,633.02,634.919
+SPEAKER_01, And I think also he understood why I did it.,635.341,638.876
+SPEAKER_01," Because I mean, he knows that I have some self-conscious issues, but I don't think he realizes how bad it was or why I got my hair cut.",640.441,647.0
+SPEAKER_01, I think he's seen it as just the most girly things.,647.141,649.94
+SPEAKER_01," He didn't realize that it made me feel better about myself, you know?",650.04,652.718
+SPEAKER_00, Mm-hmm.,653.367,653.98
+SPEAKER_01, So that might help as well.,654.0,655.778
+SPEAKER_00, Okay.,656.102,656.286
+SPEAKER_01, Which goes back to his presidencies.,658.444,659.798
+SPEAKER_00, Right.,660.878,661.0
+SPEAKER_00, Okay.,661.041,661.163
+SPEAKER_00, So do you think in like the next coming week that you could actually change your thoughts?,664.066,669.0
+SPEAKER_00, In turn to change how you feel?,671.07,672.899
+SPEAKER_01," I could try, yeah.",673.646,674.495
+SPEAKER_00, Okay.,675.061,675.49
+SPEAKER_00, Okay.,676.041,676.143
+SPEAKER_00," Since we talked about your anger issues, I know you were saying last time that you were also having problems with depression.",677.722,684.88
+SPEAKER_00, Mm-hmm.,685.653,685.939
+SPEAKER_00, And you were also having problems with your marijuana use.,686.744,689.96
+SPEAKER_01, Yeah.,690.082,690.204
+SPEAKER_00," And either one of those, would you like to discuss that?",691.361,695.197
+SPEAKER_00," Or I mean, would you like to discuss your anger issues further?",698.828,701.295
+SPEAKER_01," No, we can talk about the depression.",703.667,705.0
+SPEAKER_00, Okay.,705.061,705.143
+SPEAKER_00, What do you think triggers your depression?,707.591,708.96
+SPEAKER_00, What makes you depressed?,709.909,710.879
+SPEAKER_01," Well, my son kind of at the age where he doesn't want me to be involved in his life.",713.143,720.519
+SPEAKER_01, And I've kind of always been the housewife.,722.084,725.9
+SPEAKER_00, Mm-hmm.,726.224,726.347
+SPEAKER_01," And he's at, and he's always been my wife, you know?",728.143,734.0
+SPEAKER_01, I did everything with him.,734.102,734.959
+SPEAKER_01, I went to all his practices with him.,735.04,736.737
+SPEAKER_01, And he's mommy's little boy.,737.061,738.535
+SPEAKER_01, But he's not mommy's little boy anymore.,739.0,740.616
+SPEAKER_01, And so now he's kind of growing up and doing his own thing.,741.624,743.899
+SPEAKER_01, And then I'm kind of left alone.,744.282,746.295
+SPEAKER_00, How old is your son?,747.384,748.192
+SPEAKER_01, He's 14.,749.347,749.653
+SPEAKER_00, Okay.,750.0,750.265
+SPEAKER_00, Okay.,751.51,751.837
+SPEAKER_00, That's an interesting age.,752.485,753.596
+SPEAKER_01, Yeah.,754.265,754.469
+SPEAKER_01," And so he's kind of telling me there's any little man who he'll tell him I said that, he'd probably have been there.",755.542,759.98
+SPEAKER_01," But, and like, and I don't know if that's where it comes from, but I know that that's here lately.",760.401,767.158
+SPEAKER_01," You know, I'm used to him being at home, and now I'm staying with friends, and I'm home by myself a lot.",768.141,772.859
+SPEAKER_01," Or he doesn't like for me to call him, or no more kisses, and you know.",773.682,779.659
+SPEAKER_01," And I know that it's normal, but it still makes me feel really depressed.",780.622,784.498
+SPEAKER_00, Okay.,785.286,785.592
+SPEAKER_00, Okay.,786.0,786.224
+SPEAKER_00," So, the situation here is that your son doesn't want to be involved with you as much.",787.0,791.88
+SPEAKER_00, Do you feel like that's accurate?,792.283,793.596
+SPEAKER_01, Yeah.,794.714,794.939
+SPEAKER_01, And then he's just growing up.,795.424,796.778
+SPEAKER_00, Okay.,797.102,797.245
+SPEAKER_00," And what do you think to yourself when he doesn't want to talk to mom anymore, and he doesn't want to be mom's little boy, and he's out doing his own thing?",798.281,805.817
+SPEAKER_01," Well, I mean like, this week I was taking on his football schedule.",807.08,815.399
+SPEAKER_01, He's a big football player.,816.222,817.232
+SPEAKER_01," You wouldn't believe it, but a big old boy came out of me.",818.02,819.434
+SPEAKER_01," And, there you go boy.",820.644,822.034
+SPEAKER_01," And he, so I was taking on his football schedule, and he got upset at me because he felt like I was getting in his business and trying to mommy him.",823.24,838.239
+SPEAKER_01," And I was just trying to make sure that he was going to be able to make it through all the time, that he had all the clothes necessary.",839.08,844.217
+SPEAKER_01," And I asked him if he needed a ride and things like that, and he just felt like I was getting into his business.",845.361,850.177
+SPEAKER_01, And it just made me feel like I'm not needed anymore.,851.0,853.593
+SPEAKER_00," So when he, what is your exact thought though when this kind of stuff happens?",855.0,858.936
+SPEAKER_01, I'm not needed anymore.,860.364,861.475
+SPEAKER_01, And that situation is what I thought is I'm not needed anymore.,862.723,865.514
+SPEAKER_00," Yeah, and that's hard when you've always been needed before.",867.121,870.035
+SPEAKER_01, Yeah.,871.224,871.388
+SPEAKER_00, Okay.,872.141,872.424
+SPEAKER_00, How does that make you feel?,874.0,874.929
+SPEAKER_00, What kind of emotion?,876.061,876.808
+SPEAKER_01, I mean sad.,878.0,878.673
+SPEAKER_01, I was really sad.,879.201,880.45
+SPEAKER_01," Um, lonely.",882.0,882.322
+SPEAKER_01, I felt really lonely.,886.242,887.859
+SPEAKER_00, Okay.,888.061,888.323
+SPEAKER_00," And then, what did you do?",890.321,891.185
+SPEAKER_00,How did you get into that situation?,891.345,893.052
+SPEAKER_01," Um, I actually, I guess, decided to move out a little bit.",896.183,903.499
+SPEAKER_01, I spent a couple of drinks.,904.303,905.596
+SPEAKER_00, Okay.,906.341,906.602
+SPEAKER_00, Do you think you use the marijuana also because you're depressed?,912.603,915.538
+SPEAKER_01, Yeah.,916.265,916.408
+SPEAKER_00, So that it kind of all...,917.041,918.0
+SPEAKER_01," Yeah, I mean I never used it before.",918.04,919.965
+SPEAKER_01,I mean it just started like when I started to feel sad and depressed.,919.985,925.078
+SPEAKER_01," So yeah, I think that it did.",926.586,927.798
+SPEAKER_00, Okay.,928.667,928.929
+SPEAKER_00," So, and what I'm hearing you saying, correct me if I'm wrong, is that your son doesn't want to be involved anymore.",930.421,936.88
+SPEAKER_00, You don't feel like you're needed.,937.322,938.729
+SPEAKER_00,That's what you say to yourself and that makes you feel sad and lonely.,939.111,941.0
+SPEAKER_00, And then in turn you use marijuana.,941.281,945.257
+SPEAKER_01, Yeah.,946.367,946.633
+SPEAKER_00, Okay.,948.166,948.307
+SPEAKER_00,"So, do you want to use marijuana?",948.327,950.658
+SPEAKER_01, No.,951.922,952.122
+SPEAKER_01,"I mean, I don't want my son, if he ever found out, like, that would be a good influence on him and I don't think that's a good influence.",952.403,960.82
+SPEAKER_00, Okay.,961.0,961.204
+SPEAKER_00, Okay.,962.906,963.208
+SPEAKER_01, Sorry.,965.367,965.959
+SPEAKER_00, That's okay.,966.624,967.047
+SPEAKER_00, So what I kind of wanted you to do for the next session is kind of what we were continuing what we were doing last week.,969.702,977.0
+SPEAKER_00, You know how you journaled and when you have a negative thought that you changed it to a positive thought.,977.06,982.92
+SPEAKER_00, And then in turn you saw maybe like how it could change your behavior.,984.244,989.0
+SPEAKER_01, Yeah.,989.122,989.878
+SPEAKER_00, Or your emotional behavior.,990.041,990.816
+SPEAKER_00, So do you think maybe you could do that again?,991.242,992.818
+SPEAKER_01, Yeah.,993.531,993.735
+SPEAKER_00," Like when times such as when your son, you know, is kind of doesn't want to run around, you think instead of I'm not needed, instead of thinking I'm not needed anymore, thinking, you know, he's growing up, that's good.",994.321,1005.98
+SPEAKER_00," I've raised, you know, a son that's active and who is enjoying life.",1006.161,1011.679
+SPEAKER_00, And then how would that make you feel if you actually thought that to yourself?,1012.161,1014.336
+SPEAKER_01," I mean, yeah, I mean, that might make me feel better.",1015.826,1017.879
+SPEAKER_00,Yeah.,1017.899,1017.98
+SPEAKER_00," You know, because he's probably in a good place and active and social and a good person because of you.",1018.763,1024.0
+SPEAKER_01, Yeah.,1024.0,1024.653
+SPEAKER_00," So that would make you happy, I would think.",1025.081,1026.596
+SPEAKER_00," And then, you know, maybe then you could, you know, have a different behavior or do something different.",1027.884,1032.0
+SPEAKER_01, Yeah.,1032.204,1032.367
+SPEAKER_00, Okay.,1033.143,1033.878
+SPEAKER_00," So journaling, does that sound good?",1034.343,1035.939
+SPEAKER_01," Yeah, I'll try it.",1036.0,1037.051
+SPEAKER_00, Okay.,1038.061,1038.184
+SPEAKER_00, Good.,1039.061,1039.224

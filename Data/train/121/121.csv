@@ -1,0 +1,143 @@
+speaker,start,end,text
+SPEAKER_00,7.197,8.239," Hi, this is Dr. Grande."
+SPEAKER_00,8.681,10.234, I hope you find this video useful.
+SPEAKER_00,10.98,13.956," If that's the case, please like it and subscribe to my channel."
+SPEAKER_00,14.76,16.147," As always, thanks for watching."
+SPEAKER_00,19.0,19.121," Hi, Sue."
+SPEAKER_00,24.012,25.097, It's good to see you again.
+SPEAKER_01,25.64,25.905, You too.
+SPEAKER_00,26.922,29.96, I was hoping today I could give you a test of your memory.
+SPEAKER_00,29.96,30.97, Would you be okay with that?
+SPEAKER_01,32.062,32.409, Okay.
+SPEAKER_01,33.205,33.613, All right.
+SPEAKER_00,34.082,34.858, Is that all right?
+SPEAKER_01,34.96,35.348, Mm-hmm.
+SPEAKER_00,36.225,36.45, Okay.
+SPEAKER_00,37.382,40.235, So I'm going to read a series of questions and ask you to do some different things.
+SPEAKER_00,41.28,42.351, And this will just take a few minutes.
+SPEAKER_01,43.504,43.749, Okay.
+SPEAKER_00,44.321,45.076, All right?
+SPEAKER_01,45.341,45.729, Mm-hmm.
+SPEAKER_00,46.28,48.916," Sue, what is today's date?"
+SPEAKER_01,49.641,50.873, I think it's the 10th.
+SPEAKER_01,53.554,54.178, I think it's the 10th.
+SPEAKER_00,54.542,54.787, The 10th?
+SPEAKER_01,55.501,56.256, Mm-hmm.
+SPEAKER_00,56.44,57.551, What is today's year?
+SPEAKER_01,58.44,59.44,2016
+SPEAKER_00,59.44,59.921, What is the month?
+SPEAKER_01,66.6,66.967, It's January.
+SPEAKER_01,67.661,67.742, It's 2017.
+SPEAKER_01,68.84,69.482, It's January.
+SPEAKER_00,74.52,75.251, What day is today?
+SPEAKER_01,76.704,77.005, It's the 10th.
+SPEAKER_00,80.44,82.73, Can you also tell me what season it is?
+SPEAKER_00,87.81,90.258, Can you also tell me the name of this clinic?
+SPEAKER_01,90.882,91.915," Oh, God."
+SPEAKER_01,93.552,94.017, What was it?
+SPEAKER_01,94.44,95.403, I saw it when I came in.
+SPEAKER_01,102.501,102.562, Oh.
+SPEAKER_01,105.04,105.605, I don't remember.
+SPEAKER_00,107.36,107.911, What floor are we on?
+SPEAKER_01,109.176,109.299, Red.
+SPEAKER_01,109.36,109.911, That's a red floor.
+SPEAKER_00,110.625,110.768, Red?
+SPEAKER_01,111.523,111.85, Mm-hmm.
+SPEAKER_00,112.952,113.36, Red carpet.
+SPEAKER_00,114.768,115.654, What city are we in?
+SPEAKER_01,116.905,117.273, Dover.
+SPEAKER_00,117.885,118.171, Dover?
+SPEAKER_01,118.64,118.905, Mm-hmm.
+SPEAKER_00,120.445,121.996, What county are we in?
+SPEAKER_01,122.68,124.64, Dover County.
+SPEAKER_00,124.761,125.347, Dover County?
+SPEAKER_01,126.64,126.946, Mm-hmm.
+SPEAKER_00,127.962,129.432, What state are we in?
+SPEAKER_01,130.946,131.313, Delaware.
+SPEAKER_00,131.701,132.558, Delaware?
+SPEAKER_01,132.803,133.62, Mm-hmm.
+SPEAKER_00,136.229,138.877," So, I'm going to test your memory."
+SPEAKER_00,140.081,143.357, I want to read these three words.
+SPEAKER_01,144.226,144.593, Okay.
+SPEAKER_00,144.92,147.155, And I want you to repeat them back to me.
+SPEAKER_01,148.083,148.206, Okay.
+SPEAKER_00,148.961,149.9, All right.
+SPEAKER_00,150.625,152.598," Ball, flag, tree."
+SPEAKER_00,153.944,156.314, Can you repeat those back?
+SPEAKER_01,158.886,159.35," Ball, frog."
+SPEAKER_00,160.94,163.92, All right.
+SPEAKER_00,169.155,169.897, Let me do that again.
+SPEAKER_01,171.43,171.716, Okay.
+SPEAKER_00,172.664,174.332," Ball, flag, and tree."
+SPEAKER_01,175.94,178.593," Ball, flag, and tree."
+SPEAKER_00,180.667,180.95, All right.
+SPEAKER_00,182.081,185.856, I want you to remember those because I'm going to ask you to repeat them again later on.
+SPEAKER_01,187.43,187.614, Okay.
+SPEAKER_00,188.042,188.328, All right.
+SPEAKER_00,191.624,197.499, Can you begin with the number 100 and count backwards by seven?
+SPEAKER_01,198.002,198.083, Okay.
+SPEAKER_01,199.061,199.183," So, 100."
+SPEAKER_00,200.961,201.41, Mm-hmm.
+SPEAKER_01,201.92,202.92,100
+SPEAKER_01,202.92,203.92,93
+SPEAKER_00,204.675,204.92, Continue.
+SPEAKER_01,204.92,204.961, Mm.
+SPEAKER_01,205.92,206.92,85
+SPEAKER_01,217.92,218.92,79
+SPEAKER_01,218.92,219.083, Mm-hmm.
+SPEAKER_01,219.92,220.92,72
+SPEAKER_01,220.92,221.92,65
+SPEAKER_00,222.369,222.634, Okay.
+SPEAKER_00,222.961,223.92, That's good.
+SPEAKER_00,224.247,224.879, Thank you.
+SPEAKER_00,225.583,229.92, Can you spell the word world backwards?
+SPEAKER_01,229.92,230.083, World.
+SPEAKER_01,231.512,231.573, L-R.
+SPEAKER_01,231.593,231.634,No.
+SPEAKER_01,249.92,250.369, D-R-L-W.
+SPEAKER_00,258.593,258.859, All right.
+SPEAKER_00,259.401,265.774, I want you to name the three words that I asked you to remember a few months ago.
+SPEAKER_01,269.061,271.678," Ball, frog."
+SPEAKER_01,279.63,280.634, I think that was it.
+SPEAKER_00,282.321,285.14, You think that was it?
+SPEAKER_00,285.16,286.976, Can you tell me what this is?
+SPEAKER_01,287.481,288.358, A watch.
+SPEAKER_00,288.562,289.44, A watch.
+SPEAKER_01,289.644,289.787, Yeah.
+SPEAKER_00,291.586,292.833, Can you tell me what this is?
+SPEAKER_01,297.591,298.413, A pen.
+SPEAKER_00,300.52,305.738," I'm going to say a phrase, and I'd like you to repeat it back to me exactly as I say it."
+SPEAKER_01,307.082,307.205, Okay.
+SPEAKER_00,308.02,313.355," The phrase is, no ifs, ands, or buts."
+SPEAKER_01,315.3,316.924, No ifs and buts.
+SPEAKER_00,322.68,324.438, Are you right-handed or left-handed?
+SPEAKER_00,324.721,325.68, Right-handed?
+SPEAKER_01,325.762,325.945, Mm-hmm.
+SPEAKER_00,327.292,327.598, All right.
+SPEAKER_00,330.484,339.165," I'd like you to take this piece of paper from me in your right hand, fold the paper in half,  and put the paper on the floor."
+SPEAKER_01,342.202,342.936, Okay.
+SPEAKER_01,344.77,346.179, I can only fold it with my right hand.
+SPEAKER_00,346.28,347.128, You can use both hands.
+SPEAKER_01,348.382,349.26, Okay.
+SPEAKER_01,358.435,358.598, Okay.
+SPEAKER_00,359.211,359.578, You're done?
+SPEAKER_01,359.884,360.435, Mm-hmm.
+SPEAKER_00,361.007,361.598, All right.
+SPEAKER_00,368.13,375.111," I'm going to hold up a piece of paper with instructions, and I'd like you to follow those  instructions."
+SPEAKER_01,375.56,375.764, Okay.
+SPEAKER_00,376.642,377.519, Okay.
+SPEAKER_00,378.111,378.356, Thank you.
+SPEAKER_00,388.092,395.289," With the blank sheet of paper that I gave you a moment ago, can you write on that a  complete sentence?"
+SPEAKER_01,398.533,399.156, Just anything?
+SPEAKER_00,399.78,400.719, Anything complete sentence?
+SPEAKER_01,400.78,401.005, Anything?
+SPEAKER_00,402.331,402.76, Any complete sentence?
+SPEAKER_01,402.78,402.964, Okay.
+SPEAKER_00,403.78,404.209, Thank you.
+SPEAKER_00,420.017,422.46, I'm going to show you a drawing.
+SPEAKER_00,429.686,434.089, I'd like you to copy the drawing on that same piece of paper.
+SPEAKER_01,455.286,468.836, It's kind of hard.
+SPEAKER_00,476.525,477.028, Okay.
+SPEAKER_00,479.344,481.257, Thank you.
+SPEAKER_00,484.129,486.74," Sue, I want to thank you for participating in this memory test."
+SPEAKER_00,486.821,487.597, It's been very helpful.

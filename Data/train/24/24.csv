@@ -1,0 +1,172 @@
+speaker,text,start,end
+SPEAKER_00," Hi Lisa, how you doing today?",14.519,15.3
+SPEAKER_01," Well, I guess I'm doing okay.",16.188,17.38
+SPEAKER_00, You're doing okay?,17.441,18.38
+SPEAKER_01, I'm having some problems.,18.786,19.617
+SPEAKER_00, Having some problems?,19.881,21.437
+SPEAKER_00, What's going on?,21.68,22.912
+SPEAKER_01," I find myself getting really distracted, kind of fidgety and stuff.",23.78,29.259
+SPEAKER_01, I think I might have that one disorder that I hear about all the time on TV.,30.062,35.359
+SPEAKER_00, Like ADHD?,35.64,35.987
+SPEAKER_01, That's the one.,37.028,37.62
+SPEAKER_00, You think you might have ADHD?,38.004,38.792
+SPEAKER_01, Yeah.,40.252,40.334
+SPEAKER_00," All right, so let me ask you some other questions, and then we'll get into some questions specifically  about that and see what's going on there.",41.141,49.954
+SPEAKER_01, Okay.,50.989,51.071
+SPEAKER_00, Do you ever find yourself depressed?,51.52,52.636
+SPEAKER_01, No.,53.226,53.308
+SPEAKER_00, Anxious?,53.981,54.287
+SPEAKER_00, No.,55.573,55.614
+SPEAKER_00, Any trouble with drugs or alcohol?,55.92,56.92
+SPEAKER_01," Oh, no.",56.961,57.532
+SPEAKER_00, Nothing like that.,57.92,58.326
+SPEAKER_00, When did you first notice you had the symptoms?,59.2,63.732
+SPEAKER_01," Early teens, maybe before.",66.92,68.777
+SPEAKER_00, Do you know what age?,69.847,70.736
+SPEAKER_01, No.,71.609,71.915
+SPEAKER_00, No?,72.242,72.344
+SPEAKER_00, All right.,73.507,73.833
+SPEAKER_00," But you're thinking early teens, maybe before?",74.442,76.173
+SPEAKER_01, Yeah.,77.16,77.344
+SPEAKER_00," Do the symptoms, are they really bothersome to you?",78.18,82.459
+SPEAKER_00, They cause any problems?,82.76,83.972
+SPEAKER_01, Yes.,84.944,85.76
+SPEAKER_00, Yeah?,86.025,86.168
+SPEAKER_00, What kind of areas do they cause you problems?,86.76,87.77
+SPEAKER_01," I mean, really everywhere, I guess.",90.225,91.451
+SPEAKER_00, Yeah?,93.361,93.585
+SPEAKER_01, Yeah.,94.565,94.789
+SPEAKER_00, Do you work?,95.32,96.32
+SPEAKER_01," Yes, I do.",96.34,96.932
+SPEAKER_00, Does it cause problems at work?,97.34,98.259
+SPEAKER_01, Yes.,98.565,98.789
+SPEAKER_00, How about college?,99.891,100.32
+SPEAKER_01, Yes.,100.32,100.402
+SPEAKER_00, It does?,101.34,102.32
+SPEAKER_00, Okay.,102.626,102.789
+SPEAKER_00, How about at home?,103.32,104.32
+SPEAKER_01," Oh, yeah.",104.32,104.524
+SPEAKER_00, It does?,105.626,106.198
+SPEAKER_00, Okay.,106.34,106.483
+SPEAKER_00, All right.,107.34,108.32
+SPEAKER_00," So, tell me a little bit about the symptoms that you think might indicate ADHD.",109.583,116.5
+SPEAKER_00, What's going on?,117.61,118.054
+SPEAKER_01," Well, I mean, when I go to class and I find myself, you know, kind of going off into my  little world where the teacher's talking, it's kind of like I just, I can't stand sitting  down and then I'll stand up and the teacher's looking at me like, do you need something?",119.721,136.36
+SPEAKER_01," And I'm like, no, I just really needed to stand up.",136.521,139.938
+SPEAKER_00, All right.,140.461,141.395
+SPEAKER_00," So, you feel compelled to stand up in class?",142.242,145.757
+SPEAKER_01, Yes.,147.176,147.237
+SPEAKER_00," Even though you know, you know it might draw some attention?",147.4,149.238
+SPEAKER_01," Yeah, unfortunately.",149.686,150.4
+SPEAKER_01," I mean, I know it, but I still, I need to do it.",151.504,154.356
+SPEAKER_00, All right.,155.42,155.829
+SPEAKER_00," So, I'm going to ask you a few questions and I'm going to ask you kind of two categories  of questions.",157.062,163.153
+SPEAKER_01, Okay.,163.54,163.683
+SPEAKER_00, All right.,164.561,164.847
+SPEAKER_00," So, I'm going to start with the first category.",165.52,167.52
+SPEAKER_00, Do you feel like you have trouble establishing attention?,167.52,170.814
+SPEAKER_00, Let's look at this in terms of school.,172.36,173.814
+SPEAKER_01, Yes.,174.604,174.849
+SPEAKER_00, You do?,175.686,175.89
+SPEAKER_00, Okay.,176.4,176.604
+SPEAKER_00," How about when you have established attention, do you find yourself struggling to hold on  to it?",177.4,182.927
+SPEAKER_01, Yes.,183.824,184.069
+SPEAKER_00, Yes?,185.131,185.6
+SPEAKER_00, Okay.,185.661,186.518
+SPEAKER_00," And again, I'll just stick with the school environment, right?",186.922,189.899
+SPEAKER_00, That's the place where these symptoms bother you?,190.12,191.397
+SPEAKER_01," Well, yeah, again, they bother me a lot.",192.267,193.56
+SPEAKER_00," As well as other places, but they're definitely school.",193.681,195.56
+SPEAKER_01," Yeah, school's a big issue.",195.6,197.436
+SPEAKER_00, That's a big one.,198.023,198.574
+SPEAKER_00, Okay.,199.533,199.615
+SPEAKER_00, Do you have trouble listening in class?,199.981,201.536
+SPEAKER_01, Yes.,202.224,202.51
+SPEAKER_00, You do?,203.0,203.265
+SPEAKER_00," How about following through on instructions that are provided by, say, the professor?",204.1,208.739
+SPEAKER_01, Yes.,209.0,209.388
+SPEAKER_00, Yeah.,210.0,210.102
+SPEAKER_01, Class projects are the hardest.,211.0,213.199
+SPEAKER_00, Do you find yourself organized?,213.3,214.6
+SPEAKER_01," Yeah, I am pretty organized.",214.6,217.2
+SPEAKER_00, You are pretty organized?,217.24,217.904
+SPEAKER_00, Do you find yourself in school or other settings avoiding activities that require a lot of  mental effort and energy?,220.88,228.697
+SPEAKER_01, Yes.,229.429,229.592
+SPEAKER_00, Yeah?,230.204,230.388
+SPEAKER_01, They give me a headache and I just don't want to deal with it.,231.061,232.48
+SPEAKER_00, What are some things you avoid?,232.48,233.413
+SPEAKER_01," Oh, board games.",234.544,236.596
+SPEAKER_01, I can't stand chess.,237.322,238.696
+SPEAKER_01, I just don't understand it and then people explain to me the rules and I just zone out.,239.823,244.357
+SPEAKER_00, Do you ever find yourself losing things that you need to function at work or school?,245.501,251.955
+SPEAKER_01, No.,254.183,254.224
+SPEAKER_00, No?,255.101,255.142
+SPEAKER_00, Distracted?,256.101,256.652
+SPEAKER_01, Yes.,257.591,257.816
+SPEAKER_00, Do you find yourself distracted?,258.06,259.02
+SPEAKER_01, I do get distracted.,259.04,260.11
+SPEAKER_00, Fairly easily?,261.2,261.812
+SPEAKER_01, Yeah.,262.302,262.69
+SPEAKER_00, Yeah.,263.261,263.751
+SPEAKER_00, How about forgetfulness?,264.465,265.118
+SPEAKER_01," Yeah, I am pretty forgetful.",265.26,267.717
+SPEAKER_00," Okay, so I'm going to move and ask you another category of questions.",270.607,274.859
+SPEAKER_01, Okay.,275.504,275.789
+SPEAKER_00, Okay.,276.687,276.871
+SPEAKER_00, Do you find yourself fidgeting?,277.32,278.613
+SPEAKER_01, Yes.,279.32,279.667
+SPEAKER_00, Yeah.,280.361,280.606
+SPEAKER_00," How do you do with ... I think you touched on this before, but how do you do with quiet  activities, like for example, reading?",283.246,289.413
+SPEAKER_01," Oh, I really struggle with that.",290.5,293.199
+SPEAKER_00, You struggle with that?,293.382,293.933
+SPEAKER_01, Yeah.,294.28,294.402
+SPEAKER_01," I can play a video game for an hour, but I can't read or play a game or draw.",295.561,303.677
+SPEAKER_00," So when you are engaged in quiet activities, do you find yourself kind of wandering off?",305.02,308.199
+SPEAKER_01, Yes.,308.42,308.645
+SPEAKER_00, You do?,309.4,310.38
+SPEAKER_00, All right.,310.767,311.339
+SPEAKER_00, Do you ever feel like you have an internal motor that won't shut off?,311.4,313.497
+SPEAKER_01," No, I wouldn't say that.",314.906,316.034
+SPEAKER_00, No?,317.062,317.531
+SPEAKER_00, Okay.,318.838,318.96
+SPEAKER_00, Do you feel like you talk excessively?,318.96,321.118
+SPEAKER_01, Yes.,321.584,321.869
+SPEAKER_00, Yeah?,322.788,322.971
+SPEAKER_01," Yeah, almost to the point that I ... Well, not even almost.",323.4,325.219
+SPEAKER_01, I interrupt people a lot.,325.34,326.648
+SPEAKER_00, What settings do you find that's a problem?,328.72,330.569
+SPEAKER_01, At school is a big one.,332.96,333.94
+SPEAKER_00, That's a big one?,334.123,334.593
+SPEAKER_01," Yeah, because I'll talk and I'll talk.",334.98,337.457
+SPEAKER_01," I mean, I'll get off track when called on by the teacher, and then somebody else will  say something and it'll be like, oh yeah, no, I forgot.",338.04,345.237
+SPEAKER_01," Yeah, that too.",345.64,346.069
+SPEAKER_01," I mean, I feel horrible, but I just, I can't stop it.",347.32,349.816
+SPEAKER_00," Do you ever find that, say in class, you blurt things out?",351.705,354.796
+SPEAKER_01, Yes.,355.72,355.802
+SPEAKER_00, Yeah?,356.883,357.72
+SPEAKER_00, And interrupt people?,358.71,359.558
+SPEAKER_01," Yes, I do interrupt people.",360.183,361.23
+SPEAKER_00, Okay.,362.985,363.72
+SPEAKER_00," Have a situation where, like say at work or school or at home, where you have to wait  your turn for something.",364.101,371.395
+SPEAKER_00, Do you find that's a problem?,372.546,373.596
+SPEAKER_01," What, like at a drive-thru?",375.483,376.609
+SPEAKER_00, It could be a drive-thru.,378.56,379.295
+SPEAKER_00," Do you ... If you're a drive-thru, do you find ...",379.56,381.216
+SPEAKER_01," I mean, doesn't really ... I don't get it.",381.781,384.293
+SPEAKER_00, You don't have any trouble with waiting in lines or waiting for your turn?,385.76,389.356
+SPEAKER_01, I guess not.,390.242,390.629
+SPEAKER_00, I guess not.,391.16,391.568
+SPEAKER_00, Okay.,392.527,392.67
+SPEAKER_00, Okay.,393.221,394.078
+SPEAKER_00, All right.,394.221,394.446
+SPEAKER_00," So, I'm going to get you in to see one of our counselors.",396.965,400.957
+SPEAKER_00, You mentioned that these symptoms are bothersome to you.,402.12,405.92
+SPEAKER_01, Yes.,406.122,406.286
+SPEAKER_00, And I want to make sure you get treated.,407.0,408.0
+SPEAKER_00, It'll take a couple days to get you in to see somebody.,408.263,409.96
+SPEAKER_00, Is that okay?,410.001,410.797
+SPEAKER_01," Yes, that's fine.",411.042,411.715
+SPEAKER_00," Well, Lisa, I want to thank you for spending this time with me and answering these questions.",412.542,416.298
+SPEAKER_00, This has been really helpful.,416.82,417.576
+SPEAKER_01, Thank you.,418.127,418.473
+SPEAKER_00, Thanks.,418.8,418.987

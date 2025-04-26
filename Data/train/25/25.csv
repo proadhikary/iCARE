@@ -1,0 +1,180 @@
+speaker,text,start,end
+SPEAKER_00, How are you doing today?,14.358,15.179
+SPEAKER_01, I guess I'm doing pretty good.,16.162,17.495
+SPEAKER_00, Doing pretty good?,18.323,18.869
+SPEAKER_01," Well, so I was looking up online during break between my classes.",20.983,25.98
+SPEAKER_01, I go to online school.,26.141,27.711
+SPEAKER_00, Like college?,29.0,29.469
+SPEAKER_01, Yeah.,30.0,30.286
+SPEAKER_01," And they have this, I was looking up my symptoms, I guess.",31.562,36.736
+SPEAKER_01," Difficulty paying attention, difficulty staying still, just stuff like that.",38.02,42.98
+SPEAKER_01, And I think I might have that one disorder.,43.402,44.849
+SPEAKER_00, ADHD?,47.082,47.245
+SPEAKER_01," Yeah, that one.",48.0,48.918
+SPEAKER_00, You think you may have ADHD?,49.0,50.051
+SPEAKER_00, All right.,51.776,52.0
+SPEAKER_00, Are these symptoms bothering you?,52.906,54.597
+SPEAKER_00, You said you go to college online?,55.525,56.98
+SPEAKER_01, Yes.,57.306,57.51
+SPEAKER_00, Is it bothering you there?,58.201,58.966
+SPEAKER_01," Yeah, it does.",61.163,61.837
+SPEAKER_00, It does?,62.082,62.306
+SPEAKER_00, All right.,63.796,64.0
+SPEAKER_00, I'm going to ask you a few questions and try to get a better understanding of what's going on.,64.06,68.819
+SPEAKER_01, Okay.,69.263,69.545
+SPEAKER_00," These symptoms you've been having, at what age did they start?",71.161,73.854
+SPEAKER_01, About eight years old.,75.204,75.98
+SPEAKER_00, Eight years old?,76.265,76.755
+SPEAKER_00, All right.,77.162,77.404
+SPEAKER_00, And you feel like they're bothering you with your classes that you take online?,79.321,84.9
+SPEAKER_01," Yes, but I still get good grades.",85.121,86.818
+SPEAKER_00, You still get good grades?,87.082,87.796
+SPEAKER_01, Yeah.,88.286,88.51
+SPEAKER_00, All right.,89.184,89.918
+SPEAKER_00, So let me ask you some questions about that.,90.0,91.495
+SPEAKER_00," So I'll specifically be asking about how it affects you in class, but if it affects you in any other area, tell me about that too.",92.762,101.0
+SPEAKER_01, Okay.,101.245,101.959
+SPEAKER_00, All right.,102.327,102.551
+SPEAKER_00, Do you have trouble establishing attention?,103.785,106.0
+SPEAKER_01, Yes.,106.0,106.102
+SPEAKER_00, All right.,107.0,107.694
+SPEAKER_00," When you have established attention, do you have difficulty holding attention?",108.704,111.799
+SPEAKER_00, Yes.,112.51,112.735
+SPEAKER_00, You do?,113.041,113.694
+SPEAKER_00, All right.,114.0,115.0
+SPEAKER_00," Do you, for example, with the professor, do you listen to the professor in your online classes?",115.943,120.94
+SPEAKER_01," Well, I have difficulty listening to them.",121.081,123.96
+SPEAKER_00, That's a problem for you.,124.02,125.0
+SPEAKER_00, How about following through on any instructions that the professor gives you?,125.784,129.0
+SPEAKER_01," Oh, it's a real big problem.",129.0,130.939
+SPEAKER_00, Yeah.,131.265,131.408
+SPEAKER_00, Are you organized?,132.0,133.0
+SPEAKER_01, I am actually organized.,133.0,134.556
+SPEAKER_00, You are organized?,135.0,135.687
+SPEAKER_00, Do you find yourself avoiding activities that require a lot of mental effort?,137.783,141.98
+SPEAKER_01, Yes.,142.02,142.143
+SPEAKER_00, Yeah.,143.082,143.327
+SPEAKER_00, What type of activities do you avoid?,144.121,145.495
+SPEAKER_01, Anything that just like riddles.,147.045,148.834
+SPEAKER_01,I can't stand them.,148.935,149.779
+SPEAKER_00, Mm-hmm.,150.041,150.265
+SPEAKER_01," Chess, can't stand it.",151.0,151.903
+SPEAKER_01,People try to explain me the rules.,152.104,153.268
+SPEAKER_01,I still don't get it.,153.468,154.311
+SPEAKER_01,I get a headache and I quit.,154.331,156.338
+SPEAKER_00, All right.,157.041,157.245
+SPEAKER_00, Do you ever find yourself losing things that you need for class or any other place?,158.221,163.759
+SPEAKER_01, All the time.,164.449,164.898
+SPEAKER_00, Yeah.,165.102,165.306
+SPEAKER_00, Are you easily distracted?,166.929,167.939
+SPEAKER_01, Yes.,168.347,168.571
+SPEAKER_00, Yeah.,169.306,169.449
+SPEAKER_01, Big time.,170.082,170.49
+SPEAKER_00, Are you forgetful?,171.653,172.0
+SPEAKER_01, Yes.,172.02,172.102
+SPEAKER_00, Yeah.,173.283,173.444
+SPEAKER_00,All right.,173.505,174.152
+SPEAKER_00," So, I'm going to move to another series of questions.",176.266,178.98
+SPEAKER_01, Okay.,179.0,179.163
+SPEAKER_00, Do you fidget?,180.1,184.859
+SPEAKER_01, Yes.,185.571,185.796
+SPEAKER_00, You do?,186.02,186.245
+SPEAKER_01, I do.,187.061,188.0
+SPEAKER_00, Do you find it difficult to stay in your seat?,188.141,190.0
+SPEAKER_01, Yes.,191.323,192.405
+SPEAKER_01,We have these videos and sometimes I just got to pause them and I just got to walk around my room for a while.,193.347,198.88
+SPEAKER_01," You know, I go back, sit down, get it out of my system, click, and we're good.",200.321,204.197
+SPEAKER_00, Okay.,205.221,205.443
+SPEAKER_00,"So, you feel kind of compelled to stand up and walk around?",205.483,207.98
+SPEAKER_01, Yes.,208.061,208.143
+SPEAKER_00, And then you can sit down and resume?,209.162,210.96
+SPEAKER_01, Yeah.,211.49,211.755
+SPEAKER_00, All right.,212.04,212.263
+SPEAKER_00, How do you do with quiet activities like reading?,214.643,217.075
+SPEAKER_01, No.,218.12,218.382
+SPEAKER_01,"No, I don't like doing them because I just can't deal with the quiet.",218.924,222.9
+SPEAKER_00, No?,223.0,223.041
+SPEAKER_01, No.,224.0,224.041
+SPEAKER_00, All right.,225.633,225.878
+SPEAKER_00, Do you ever feel like you have an internal motor that's always running?,226.863,230.618
+SPEAKER_01, Yes.,231.02,231.286
+SPEAKER_00, Yeah.,232.0,232.082
+SPEAKER_00, How about talking?,234.905,238.215
+SPEAKER_00,You find that you talk excessively?,238.235,239.739
+SPEAKER_01," Yes, I do.",240.101,241.212
+SPEAKER_00, All right.,242.122,242.388
+SPEAKER_00, How about blurting things out?,244.591,245.738
+SPEAKER_01," Yes, but people don't really notice it because, especially at class, I'll like yell out the answer, but you have to hit a button.",246.521,254.539
+SPEAKER_00," Oh, you have to hit a button so that the camera turns on and the audio turns on.",255.321,259.98
+SPEAKER_00, Okay.,260.161,260.482
+SPEAKER_00,"So, you'll blur something out, but they won't hear it.",260.945,263.719
+SPEAKER_01," Yeah, they won't.",264.429,264.918
+SPEAKER_00, Because you haven't pressed that key.,265.04,266.374
+SPEAKER_01," So, I guess that's good.",267.143,268.0
+SPEAKER_00, Okay.,268.884,269.005
+SPEAKER_00,How about interrupting people?,269.025,271.98
+SPEAKER_01, Yes.,272.0,272.204
+SPEAKER_00, Yeah.,273.102,273.327
+SPEAKER_01, Yes.,274.306,274.571
+SPEAKER_00, Do you have trouble waiting your turn?,275.906,277.456
+SPEAKER_01," Back to the blurting out, I forget to hit the button.",278.941,283.208
+SPEAKER_01,I then hit the button to answer and it goes into like this line.,283.749,286.954
+SPEAKER_01,I hate waiting for my turn.,287.475,289.037
+SPEAKER_01,I can't deal with it.,289.598,290.76
+SPEAKER_00, Okay.,291.081,291.946
+SPEAKER_00,That's not a strong suit for you?,292.248,293.839
+SPEAKER_01, No.,294.0,294.143
+SPEAKER_00, No.,295.0,295.082
+SPEAKER_00,All right.,295.163,295.51
+SPEAKER_01, Go answer.,296.04,297.475
+SPEAKER_00, Okay.,298.14,298.401
+SPEAKER_00,"So, you mentioned that this is causing some difficulty in school, but you also said that you're doing okay in school.",298.421,310.0
+SPEAKER_01, Yeah.,310.612,310.776
+SPEAKER_00, Yeah.,311.581,311.761
+SPEAKER_00,All right.,313.264,313.565
+SPEAKER_00,Is there any other area of your life where this is causing you problems?,313.865,319.956
+SPEAKER_01," Not that I can think of, no.",323.007,324.557
+SPEAKER_00, No?,325.245,325.347
+SPEAKER_01, No.,326.0,326.061
+SPEAKER_00, What else do you do?,327.181,328.047
+SPEAKER_00,"So, you go to college.",328.067,329.034
+SPEAKER_01, Yeah.,330.041,330.163
+SPEAKER_00, What other activities do you engage in?,331.202,332.434
+SPEAKER_01, Really nothing.,334.062,334.763
+SPEAKER_01,"I got a full course load, trying to get it done.",334.783,339.612
+SPEAKER_01,Really don't do anything else.,341.075,342.077
+SPEAKER_01,"I mean, yeah.",342.117,343.679
+SPEAKER_00, How about like relatives?,344.161,345.872
+SPEAKER_01, I don't see my relatives a lot.,347.361,350.689
+SPEAKER_01,"Like my parents retired, they moved, so I don't see them.",350.99,354.599
+SPEAKER_00, Have a friend's.,355.182,356.333
+SPEAKER_01," It's kind of embarrassing, but I really don't have any friends.",357.983,360.291
+SPEAKER_01,"Just kind of live, eat, and breathe school.",360.652,362.759
+SPEAKER_00, Do you ever socialize with any of your classmates from college?,363.523,366.0
+SPEAKER_01, No.,366.0,366.082
+SPEAKER_00, No?,367.347,367.449
+SPEAKER_01, No.,368.02,368.082
+SPEAKER_00, All right.,369.602,369.923
+SPEAKER_00,Do you feel that's because of these symptoms or that you wouldn't anyway?,370.845,375.9
+SPEAKER_01," Well, I feel bad about it.",376.26,377.823
+SPEAKER_01,"So, I mean, it's hard for me to get over it because I notice it, but it's hard for me to get out there.",378.505,385.898
+SPEAKER_00, All right.,387.361,387.902
+SPEAKER_00,Do you think it's hard for you to engage with your classmates socially because of any concentration or hyperactivity type symptoms?,388.042,396.058
+SPEAKER_01," That's what I believe, yeah.",397.02,397.98
+SPEAKER_00, You believe it is because of those symptoms?,398.0,398.98
+SPEAKER_01, Yeah.,399.122,399.286
+SPEAKER_00, All right.,400.081,400.383
+SPEAKER_00, And any other areas like shopping or cleaning the house?,403.642,408.358
+SPEAKER_01," No, I'm pretty okay with that.",409.143,410.0
+SPEAKER_00, That works out okay?,410.224,410.98
+SPEAKER_01, Yeah.,411.0,411.102
+SPEAKER_00, All right.,413.022,413.282
+SPEAKER_00,Okay.,415.245,415.446
+SPEAKER_00,"Lisa, I'm going to get you in to see a counselor.",415.646,418.19
+SPEAKER_00,"It'll just take a couple days to get you in, right?",418.21,421.135
+SPEAKER_00,"So, I just had an appointment for a couple days out.",421.295,423.9
+SPEAKER_00, I appreciate you spending this time with me and let me ask these questions.,424.863,428.498
+SPEAKER_00,This was helpful.,428.518,429.0
+SPEAKER_00, All right.,429.0,429.224
+SPEAKER_01,Thank you.,429.776,430.0
+SPEAKER_00, Thanks.,430.02,430.204

@@ -1,0 +1,370 @@
+speaker,text,start,end
+SPEAKER_00," Well, hello Susan.",0.424,1.172
+SPEAKER_01, Hello.,2.02,2.469
+SPEAKER_00, Good to see you today.,3.163,4.0
+SPEAKER_01, Thanks.,4.0,4.551
+SPEAKER_00," So, tell me what brings you here.",5.964,8.112
+SPEAKER_01," Well, I have an anxiety issue.",10.08,14.96
+SPEAKER_01," There are a lot of things that make me anxious and I gotta do something different because  I can't, I'm really not functioning at the level I need to be functioning at.",15.481,29.0
+SPEAKER_01, My anxiety just really impacts a lot of my life.,29.461,37.238
+SPEAKER_01, So I need help with managing it.,38.181,40.456
+SPEAKER_00," Okay, so tell me what that looks like for your anxiety in that situation.",41.181,45.839
+SPEAKER_01," Let's see, riding here, I mean on the interstate, I'm just panicking constantly about the cars.",46.321,54.359
+SPEAKER_01," Granted, I've had a couple of accidents and people have hit me, but I'm constantly thinking,  okay that person is about to pull over and hit me.",56.221,62.98
+SPEAKER_01," Okay, that person is going too fast.",63.061,63.98
+SPEAKER_01," Okay, they're going to hit me from behind.",64.0,64.98
+SPEAKER_01, I'm just really anxious.,65.0,65.788
+SPEAKER_01, I'm driving about all cars hitting me.,67.0,69.517
+SPEAKER_01, I'm in school and tests.,70.161,72.472
+SPEAKER_01, I get really anxious when I take a test.,74.485,76.0
+SPEAKER_01," I mean I know I know the information and I sit down and take the test and it's like,  I can't.",76.02,81.303
+SPEAKER_01, I can't recall because I'm so anxious about this test even though I know the information.,84.161,89.98
+SPEAKER_00, So is it physical?,90.082,90.898
+SPEAKER_00, Is it a lot of thoughts in my head?,91.323,92.636
+SPEAKER_01," Yeah, I think it's a lot of thoughts in my head and it is very physical.",93.161,95.919
+SPEAKER_01," I mean I get sweaty palms, my heart starts racing, I get tense.",96.04,101.508
+SPEAKER_01, So it is physical.,109.384,110.758
+SPEAKER_01, Yeah.,111.367,111.633
+SPEAKER_00, What are the thoughts going on in your head?,112.0,113.329
+SPEAKER_01," My thoughts are, like if I'm in the car, I'm going to get hit.",115.361,119.578
+SPEAKER_01," If I'm taking a test, it's like, okay I've got to do well on this test.",120.181,123.879
+SPEAKER_01, I've got to remember this.,124.384,125.616
+SPEAKER_01," There's so much to remember and I just kind of, brain is freezing a little bit and I'm  panicking because I can't remember.",126.0,133.456
+SPEAKER_01, So I guess I'll allow that.,134.0,137.035
+SPEAKER_00," And so, like with the test, have you found that being a problem as far as not being able  to complete the test or not doing well on the test?",138.261,146.96
+SPEAKER_00, Or is it like once you go through it then you're fine?,147.482,150.112
+SPEAKER_01, Isn't it like anxiety over when I finish the test?,152.282,154.396
+SPEAKER_00, Yeah.,155.327,155.694
+SPEAKER_01," Yeah, after I'm finished.",156.364,157.616
+SPEAKER_01, I mean I know I could perform better if I wasn't so anxious.,158.02,161.96
+SPEAKER_01, I know it wouldn't take me as long if I wasn't anxious.,162.341,165.815
+SPEAKER_01," It seems to, I mean these are like time tests and so when it's over, whether it's an hour  or two hours or however long it is, I mean when it's over, you know I'm anxious during  it, but when it's over, yeah it kind of subsides.",167.663,178.839
+SPEAKER_01," Just like in the car, when I get to the place after I'm off the interstate and stuff, it  seems to subside.",179.06,185.677
+SPEAKER_01," So when the situation is over, it seems to go down.",186.0,189.373
+SPEAKER_00, So it sounds like you might need to find something that helps you just.,192.322,195.96
+SPEAKER_01," Yeah, I want something at the time to help me in the moment because these are things  that I mean I can't avoid.",196.802,205.678
+SPEAKER_01," I mean even in my job too, I've got to go in my field placement, I've got to do these  group settings, you know I've got to do.",206.161,212.0
+SPEAKER_01," Some kids are crazy, they're just respectful, it's like okay.",212.622,216.699
+SPEAKER_01, I've got to do it though.,217.687,218.636
+SPEAKER_01," All these things I have to do, I can't change them in my life right now.",219.0,222.397
+SPEAKER_01, So I've got to figure out how to deal with it better.,223.0,226.075
+SPEAKER_00," Okay, well would you like to learn a skill?",227.141,229.376
+SPEAKER_01," Yeah, I'm very eager to learn something that can make a difference.",230.763,234.578
+SPEAKER_00," Okay, well there's something called grounding, have you heard that?",235.02,238.819
+SPEAKER_01," Grounding, no just electricity, grounding, you know that third plug thing.",239.141,243.297
+SPEAKER_01, That's the only grounding I know.,244.121,245.96
+SPEAKER_01," Don't be grounded, that sounds good, bring it on.",246.0,247.631
+SPEAKER_00," Being grounded is kind of like working my ego, it's kind of getting to that level place.",249.12,253.294
+SPEAKER_00," So with grounding, a lot of people have a lot of emotions, it's okay to have emotions,  but for some people it gets really intense, like you and the inside and it's just a lot.",255.141,265.94
+SPEAKER_00, And so with grounding we're trying to learn ways to bring that down to more of a calm place.,266.0,270.997
+SPEAKER_00," So it doesn't necessarily solve the problem, like there's still traffic, there's still  things going on, it just helps you get to a calm place to deal with it.",272.02,279.839
+SPEAKER_01, That sounds good.,280.303,281.172
+SPEAKER_00, So I'm going to introduce a grounding technique to you.,282.02,285.98
+SPEAKER_00," It involves some deep breathing, some closing of the eyes, getting to your senses.",287.224,292.0
+SPEAKER_00, So I have a little script to you that I'm going to read to you.,293.347,295.96
+SPEAKER_01, Okay.,296.0,296.163
+SPEAKER_00, And we'll go through this and you'll tell me after if you like it.,297.281,302.94
+SPEAKER_01, Okay.,303.245,303.735
+SPEAKER_00, Okay.,304.429,304.673
+SPEAKER_01, Okay.,305.163,305.429
+SPEAKER_01, Okay.,306.02,306.163
+SPEAKER_00, But to begin I just want you to relax and be comfortable and try to get as comfortable  as you can.,307.0,311.265
+SPEAKER_01, Okay.,312.49,312.755
+SPEAKER_00," And now rest your hands on your back, on the side, whatever is more comfortable for you.",315.006,319.458
+SPEAKER_01," Okay, that's okay.",320.0,320.98
+SPEAKER_00, I want you to just breathe.,321.04,323.678
+SPEAKER_01, Okay.,324.265,324.449
+SPEAKER_00," Try to do the deep, the chest rises and breathe in.",325.241,330.839
+SPEAKER_00, Breathe that out.,332.082,332.776
+SPEAKER_01, That's good.,333.204,333.755
+SPEAKER_00," So don't worry about doing the breathing light, just whatever is comfortable.",334.02,337.417
+SPEAKER_01, Okay.,338.02,338.122
+SPEAKER_00, Now we're going to engage in using each of the five senses.,339.823,342.896
+SPEAKER_00, And so for that I want you to close your eyes.,344.702,350.88
+SPEAKER_01, Okay.,351.02,351.449
+SPEAKER_00, I just want you to listen to my voice and hear my instructions.,355.607,359.619
+SPEAKER_01, Okay.,360.102,360.245
+SPEAKER_00, So just begin to relax by just noticing all the sounds around you.,364.261,367.497
+SPEAKER_00, And start with hearing.,368.765,369.752
+SPEAKER_00, And whenever you're comfortable you can tell me what you hear.,374.502,377.655
+SPEAKER_00, Any sound.,379.707,380.152
+SPEAKER_01, Kind of hear my breath a little bit.,382.624,385.0
+SPEAKER_01, I hear the air conditioning going.,385.0,386.697
+SPEAKER_01, Okay.,387.673,387.816
+SPEAKER_01," Or the heat, whatever that is.",388.0,390.0
+SPEAKER_01, The air coming through the mouth.,390.303,391.98
+SPEAKER_01, I hear that.,392.061,392.551
+SPEAKER_00, With the constant noise?,393.286,393.98
+SPEAKER_01, Mm-hmm.,394.02,394.755
+SPEAKER_01, That's kind of all I'm hearing right now.,399.586,400.576
+SPEAKER_00, Do you think you noticed the sound before of the air belt?,404.582,408.88
+SPEAKER_01, Mm-mm.,409.306,409.408
+SPEAKER_01, No.,410.02,410.122
+SPEAKER_01, I'm just hearing it now.,411.0,411.714
+SPEAKER_00, Starting to hear more now.,412.02,412.98
+SPEAKER_00, Okay.,413.571,413.98
+SPEAKER_01, Mm-hmm.,414.204,414.367
+SPEAKER_00, Let's move on to smell.,417.788,418.96
+SPEAKER_00, Do you smell anything in that body?,423.966,426.0
+SPEAKER_01, Hmm.,429.571,429.816
+SPEAKER_01, I don't think I smell much.,434.606,435.919
+SPEAKER_01, Hmm.,438.367,438.612
+SPEAKER_00, It's just totally okay.,439.0,439.837
+SPEAKER_01, I don't smell a lot.,440.347,440.98
+SPEAKER_01," You know, there's not a lot of scents right now in this room for smelling.",441.803,445.92
+SPEAKER_01, There's not a lot of smelling.,446.02,448.899
+SPEAKER_01, Foul and bad or good.,449.221,451.879
+SPEAKER_01, It's just kind of normal.,452.0,452.776
+SPEAKER_01, Okay.,453.286,453.776
+SPEAKER_00, No smells?,454.224,454.633
+SPEAKER_00, Yeah.,455.367,455.735
+SPEAKER_00, No unusual smells.,456.0,456.755
+SPEAKER_00, No smell of air.,457.0,457.816
+SPEAKER_00, Okay.,458.041,458.122
+SPEAKER_00, Now I would like for you to open your eyes up.,463.281,466.317
+SPEAKER_00, I'm going to talk about sight.,468.0,470.396
+SPEAKER_00, So just list me some things that you can see in this room right now.,471.302,474.095
+SPEAKER_01, I see you.,476.041,476.776
+SPEAKER_01, I see that picture right there.,478.007,479.738
+SPEAKER_01, I see that sofa right there.,480.263,481.98
+SPEAKER_01, And some books and flowers.,482.485,484.0
+SPEAKER_01, And I see that deer or whatever it is over there.,484.401,490.358
+SPEAKER_00," Yeah, that's okay.",491.041,491.673
+SPEAKER_01, So those are some of the things that I see.,492.02,494.779
+SPEAKER_00, What about the colors of what you see?,498.384,499.778
+SPEAKER_01," Um, blue and red and a lot of beige.",501.622,505.9
+SPEAKER_01, Orange.,506.97,507.455
+SPEAKER_01, Clashing colors.,508.551,509.0
+SPEAKER_01, Red and orange.,512.0,512.98
+SPEAKER_01, It's one of those go together.,513.101,514.434
+SPEAKER_01, Yeah.,515.367,515.796
+SPEAKER_00, That's when you first came here.,516.242,517.636
+SPEAKER_00, Did you notice anything?,518.0,519.838
+SPEAKER_01," Well, you know, I thought, I mean I might have noticed some of it.",520.1,525.98
+SPEAKER_01, But I'm obviously more aware because I'm really focusing on it right now.,526.02,531.0
+SPEAKER_01, So I'm definitely more aware of it right now.,531.342,534.578
+SPEAKER_00, Okay.,535.673,535.878
+SPEAKER_00, And so next with taste.,537.228,538.738
+SPEAKER_00, Notice I can just tell you if you're in some other situation you can take the time to eat  a big snack or something.,539.561,548.879
+SPEAKER_00," Talk about the taste, the textures.",549.604,551.738
+SPEAKER_00, Really slowly eat the food and feel how it is in your mouth and how it tastes and things  like that.,552.501,559.735
+SPEAKER_01, Okay.,560.02,560.306
+SPEAKER_00, But you can still do it even without food.,561.926,563.678
+SPEAKER_00, Just simply taste enough saliva in your mouth.,564.282,566.94
+SPEAKER_01, Okay.,567.122,567.408
+SPEAKER_01, I feel kind of dry at the moment.,570.404,571.636
+SPEAKER_00, A little dry?,572.51,572.959
+SPEAKER_00, Yeah.,573.122,573.571
+SPEAKER_01, Mm-hmm.,574.0,574.122
+SPEAKER_00, Okay.,575.102,576.0
+SPEAKER_00, Are there any tastes you could think of?,576.0,576.939
+SPEAKER_00, Maybe something you ate this morning?,577.0,578.0
+SPEAKER_01," Well, I had a granola bar and a banana earlier.",578.704,581.497
+SPEAKER_01, So I've had some tea.,582.02,584.915
+SPEAKER_01, The flavor right now in my mouth is probably the tea that I just had most recently.,586.161,590.538
+SPEAKER_01, So that's the tea.,591.384,592.859
+SPEAKER_00, So that's your taste?,593.788,594.737
+SPEAKER_01, Yeah.,595.02,595.776
+SPEAKER_00, And then finally the touch.,596.263,597.596
+SPEAKER_01, Mm-hmm.,598.122,598.49
+SPEAKER_00, The final sense.,599.0,599.408
+SPEAKER_00, So where do your hands are right now?,600.343,601.737
+SPEAKER_01," Well, I've had it.",602.04,603.03
+SPEAKER_01, This is kind of a habit of mine.,604.02,605.192
+SPEAKER_01, So I was feeling my hands.,606.0,607.172
+SPEAKER_01, Maybe my hands are supposed to be here.,608.242,609.697
+SPEAKER_00, I just want to put your hands on that.,610.101,611.596
+SPEAKER_01, Okay.,612.367,612.49
+SPEAKER_00, So describe to me how it feels.,613.261,615.854
+SPEAKER_01, It feels solid.,617.263,618.071
+SPEAKER_01, Feels soft.,619.462,620.307
+SPEAKER_01, And it's not rough or wrinkly or anything like that.,623.06,626.755
+SPEAKER_01, It feels secure.,630.0,631.919
+SPEAKER_01," Like okay, this is going to hold me.",632.423,633.913
+SPEAKER_01, It's a good feeling.,635.081,637.275
+SPEAKER_01, I'm comfortable.,638.848,639.616
+SPEAKER_01, It feels comfortable.,640.828,641.818
+SPEAKER_00," Well, that's something else I know.",642.322,644.698
+SPEAKER_00, Maybe your phone or something.,645.202,646.859
+SPEAKER_00, Describe that to me.,647.384,648.778
+SPEAKER_01, This is hard.,650.104,650.967
+SPEAKER_01, And I've got this cushy case on it.,655.704,659.0
+SPEAKER_01, So it's kind of feeling a little cushy.,659.0,660.515
+SPEAKER_01, But it's hard.,661.101,661.465
+SPEAKER_00, What about the paper?,663.721,665.204
+SPEAKER_00, More like this paper?,673.384,674.192
+SPEAKER_01, Soaky and smooth and bendable and thin and slick.,675.581,685.576
+SPEAKER_01, Just trying to know how that feels.,688.563,691.075
+SPEAKER_01, Is that it?,692.283,693.535
+SPEAKER_01, Mmhmm.,694.367,694.571
+SPEAKER_00, Just feel like I want you to be comfortable and I want you to take a deep breath three  times.,695.06,703.327
+SPEAKER_00, Take your time.,704.0,704.98
+SPEAKER_00," Now, I'd like for us to go with your eyes closed and come up with a statement.",725.85,732.419
+SPEAKER_00," Say to yourself, I'm going to be okay scripture anu words like that.",733.0,736.337
+SPEAKER_00, Do you want to be okay?,737.323,738.859
+SPEAKER_00, Let's see.,739.02,740.107
+SPEAKER_01, You do need to encourage yourself.,743.202,747.107
+SPEAKER_01, You can do it.,757.0,757.828
+SPEAKER_00," If you feel that it's good, I'll just step aside and be okay.",759.541,764.114
+SPEAKER_01, Okay.,766.02,766.163
+SPEAKER_01, Mmhmm.,767.184,767.306
+SPEAKER_00, So I want you to say your statement out loud.,769.203,772.011
+SPEAKER_00, I can do it.,775.705,776.188
+SPEAKER_01, I can do it.,778.869,779.778
+SPEAKER_00, Same with confidence.,780.707,781.697
+SPEAKER_01, I can do it.,782.202,782.889
+SPEAKER_00," Okay, then you can open your eyes now.",784.242,785.651
+SPEAKER_00," So what we just did, we just went through each of the senses as a way of, a bit of a distraction from what we know.",787.441,795.298
+SPEAKER_00, It's also can be common for you to just focus your mind on things and not go into the details of something else going on.,796.02,803.619
+SPEAKER_00," It's really important that you breathe through it and at the end you can say, I can do it.",804.361,812.92
+SPEAKER_00, So how was that for you?,814.57,815.96
+SPEAKER_01," Well, wow.",817.43,818.497
+SPEAKER_01, It kind of did calm you down.,820.111,821.0
+SPEAKER_01, I was kind of getting anxious telling you what made me anxious and so I was kind of rubbed up and then I kind of forgot about it.,821.682,827.759
+SPEAKER_01," Because I was focusing on what I was seeing and what I was feeling and what I was, you know, all my senses.",828.0,837.96
+SPEAKER_01, So it was very distracting in a good way.,838.141,841.0
+SPEAKER_01, It got my mind off that and kind of got me onto something else.,841.322,844.879
+SPEAKER_01," And then, yeah, it really did calm me down.",846.386,849.859
+SPEAKER_00," Was there a certain sense that you liked, that you found the most helpful?",850.722,856.519
+SPEAKER_01," Probably right here, since I'm not eating, probably what I'm seeing and what I'm hearing.",857.18,866.519
+SPEAKER_01, Those two things seem to be most helpful in this situation.,867.02,872.237
+SPEAKER_00, Okay.,873.061,873.367
+SPEAKER_01, Yeah.,874.245,874.449
+SPEAKER_01, That feeling too.,875.04,876.798
+SPEAKER_00, So let's think about how we can use this when you're driving.,877.04,879.919
+SPEAKER_00, Because obviously you can't close your eyes.,880.0,881.657
+SPEAKER_01, Right.,882.02,882.224
+SPEAKER_01," True, true, true, true.",883.0,883.98
+SPEAKER_00, So what can you do while you're driving?,884.0,884.857
+SPEAKER_00, What senses can you use?,885.0,886.47
+SPEAKER_01," Seeing, obviously.",888.747,889.939
+SPEAKER_01," My eyes better be open, I better be observant about what I'm seeing.",890.744,893.899
+SPEAKER_01," Feeling, I've got my hands on the wheel so I'm going to be feeling something.",894.582,899.619
+SPEAKER_01," So, and hearing.",900.783,904.257
+SPEAKER_00, Okay.,905.878,905.959
+SPEAKER_00," So what kind of hearing do you have, any kind of peaceful music you can listen to?",906.923,911.438
+SPEAKER_01," Well, that's a good idea.",912.242,914.658
+SPEAKER_01, A lot of times I'm going to listen to NPR.,915.0,916.832
+SPEAKER_01," And sometimes that's good, sometimes that's not good.",918.622,924.0
+SPEAKER_01, It doesn't necessarily calm me down.,924.081,925.879
+SPEAKER_01," Sometimes I can, yeah, so I can listen to some more soothing music.",926.0,932.479
+SPEAKER_01, Something that calms me down more.,933.343,934.778
+SPEAKER_00," Also, not having the music, just the sound of the world.",935.543,938.98
+SPEAKER_01," Yeah, yeah.",939.846,941.396
+SPEAKER_00, The car is going by.,942.102,942.959
+SPEAKER_01," Yeah, I think the music might help me more.",943.503,945.819
+SPEAKER_01," Because, not that I want to be distracted from the cars, but I think the music might calm me down more than having nothing.",946.261,954.96
+SPEAKER_01," You know, like quiet and hearing the cars and the road.",955.604,958.0
+SPEAKER_01, I can see that might make me nervous.,958.723,962.9
+SPEAKER_01," I need to be aware of them, but I think I want to hear music.",963.181,965.839
+SPEAKER_01," So, I'll try that.",966.444,967.677
+SPEAKER_00, And then I'll always be the sight.,969.126,971.357
+SPEAKER_01, Yeah.,972.041,972.204
+SPEAKER_00, Getting the camera too distracted while I drive.,973.0,973.98
+SPEAKER_01, Yeah.,974.0,974.163
+SPEAKER_00, Focusing on the car in front of you.,975.0,976.414
+SPEAKER_01, Yeah.,977.898,978.0
+SPEAKER_01, Yeah.,978.02,978.143
+SPEAKER_01, Not necessarily the one behind me that might hit me.,979.08,981.432
+SPEAKER_01, Because I can't do anything too much about that.,983.162,984.939
+SPEAKER_01," So, okay, okay.",985.424,986.758
+SPEAKER_00," Now let's think about when, I've only taken the test.",987.04,989.839
+SPEAKER_01, Yeah.,990.408,990.612
+SPEAKER_00," So, what senses can we tap into there?",991.522,994.514
+SPEAKER_01," Well, what I'm looking at definitely I need to focus on.",996.381,1002.819
+SPEAKER_01, Because I'm reading something of course and I'm feeling my pen.,1003.241,1007.277
+SPEAKER_01," Most of it's on the computer, so I'm feeling the typewriter, typewriter keyboard.",1008.12,1013.177
+SPEAKER_01," So, that's a sense, a touching thing that I've got to focus on and seeing as paying  attention to the words on the front of me.",1015.862,1025.819
+SPEAKER_00, The hearing.,1026.245,1027.0
+SPEAKER_01, The hearing.,1027.02,1027.449
+SPEAKER_01, I like to be kind of quiet.,1028.221,1030.577
+SPEAKER_00," But just like today, when you can hear the...",1031.505,1032.939
+SPEAKER_01, Yeah.,1033.082,1033.286
+SPEAKER_01, Yeah.,1034.592,1034.898
+SPEAKER_00, To try to hear the...,1035.02,1035.592
+SPEAKER_01, That's it to hear.,1036.0,1036.633
+SPEAKER_00, Okay.,1037.286,1037.551
+SPEAKER_01, Okay.,1038.02,1038.551
+SPEAKER_01, Okay.,1039.898,1040.0
+SPEAKER_00," Because for us to not think too much about the function of things or, you know, like  when you're tapping people you don't really have to type a word.",1041.1,1048.879
+SPEAKER_00, You're just feeling the keyboard.,1049.323,1050.98
+SPEAKER_01, Okay.,1051.163,1051.612
+SPEAKER_00," You know, it's your arms.",1052.081,1053.737
+SPEAKER_01, Okay.,1054.061,1054.367
+SPEAKER_01, Kind of being aware that it is there and this is there.,1055.0,1056.798
+SPEAKER_00, Okay?,1057.0,1057.184
+SPEAKER_01, Okay.,1058.02,1058.163
+SPEAKER_01, Okay.,1059.245,1059.51
+SPEAKER_00," So, the next time when you're feeling that, try to tap into the senses.",1060.1,1066.659
+SPEAKER_01, Okay.,1067.041,1067.449
+SPEAKER_00," If you want to take just a five minute break and so for each sense, like dedicate one minute  to the sense.",1068.161,1074.653
+SPEAKER_01, Okay.,1075.143,1075.429
+SPEAKER_01, Like before I start the test or before I start to drive or something.,1076.0,1078.758
+SPEAKER_01, Yeah.,1079.041,1079.245
+SPEAKER_00, Before you start to drive.,1080.0,1080.816
+SPEAKER_01, Okay.,1081.551,1081.837
+SPEAKER_00, Start the test.,1082.041,1082.939
+SPEAKER_01, Kind of do that.,1083.0,1083.694
+SPEAKER_01, Okay.,1084.0,1084.102
+SPEAKER_00, And also remember at the end your statement.,1086.166,1088.377
+SPEAKER_01, Okay.,1089.429,1089.755
+SPEAKER_00, Which is...,1090.367,1090.714
+SPEAKER_01, I can do this.,1091.0,1091.347
+SPEAKER_00, Yes.,1092.51,1092.694
+SPEAKER_01, That's it.,1093.347,1093.653
+SPEAKER_01, Gasto.,1094.061,1094.327
+SPEAKER_01, Okay.,1095.551,1095.776
+SPEAKER_01, I can do this.,1096.0,1097.0
+SPEAKER_01, Okay.,1097.531,1097.796
+SPEAKER_00," So, when do you think the next time you could do this?",1098.06,1100.513
+SPEAKER_01," Well, I got to drive home.",1102.443,1104.336
+SPEAKER_01," So, probably today when I drive home I could do that.",1105.06,1109.679
+SPEAKER_01, A test.,1110.02,1111.0
+SPEAKER_01, I don't really have a test until next week but I drive all the time and so every day  I could try this.,1111.0,1118.939
+SPEAKER_00," So, what about before you even leave?",1119.525,1120.939
+SPEAKER_01, Yeah.,1121.122,1121.327
+SPEAKER_00, To drive like when you're sitting.,1122.02,1123.879
+SPEAKER_01, Okay.,1124.102,1124.306
+SPEAKER_01, Okay.,1125.02,1125.327
+SPEAKER_01, Get ready in the parking lot.,1126.02,1127.0
+SPEAKER_01, Okay.,1127.02,1127.245
+SPEAKER_00, Take that time to go on yourself.,1128.102,1129.0
+SPEAKER_01, I take a few minutes to go through all the senses.,1129.0,1131.134
+SPEAKER_01, Focus on that.,1132.0,1132.755
+SPEAKER_01, Put some soothing music on.,1133.424,1134.677
+SPEAKER_01," Say, I can do it and then proceed.",1135.0,1138.0
+SPEAKER_01, Okay.,1138.0,1138.265
+SPEAKER_00, That's my little homework assignment for you.,1140.188,1141.94
+SPEAKER_01, Okay.,1142.02,1142.286
+SPEAKER_01, I'll try that.,1143.0,1143.939
+SPEAKER_00, You can try that.,1144.0,1145.0
+SPEAKER_01, Yeah.,1145.0,1145.735
+SPEAKER_00, And see how it goes.,1146.041,1146.776
+SPEAKER_01, Okay.,1147.122,1147.469
+SPEAKER_00, And we'll talk about it.,1148.082,1148.653
+SPEAKER_01, Okay.,1149.327,1149.571
+SPEAKER_00, That's so we can see how it is for you.,1150.02,1150.98
+SPEAKER_01, Okay.,1151.02,1151.673
+SPEAKER_01, Cool.,1152.857,1153.0
+SPEAKER_01, Thanks.,1153.163,1153.449
+SPEAKER_01, Yeah.,1157.184,1157.347
+SPEAKER_01, Sure.,1158.408,1158.653
+SPEAKER_01, I'll take some practice but.,1159.0,1159.878
+SPEAKER_01, Okay.,1160.041,1160.122
+SPEAKER_01, Okay.,1161.163,1161.49
+SPEAKER_00," Because different situations, you might not use all the senses.",1162.0,1163.0
+SPEAKER_01, Okay.,1163.0,1163.082
+SPEAKER_00, Don't try to focus too much on doing it absolutely right.,1164.0,1165.0
+SPEAKER_01, Okay.,1165.306,1165.469
+SPEAKER_00, Just anything that can make you aware of your surroundings.,1166.0,1167.0
+SPEAKER_01, Okay.,1167.0,1167.082
+SPEAKER_01, And calm you down.,1168.102,1168.939
+SPEAKER_00, Okay.,1169.163,1169.306
+SPEAKER_01, Okay.,1170.0,1170.204
+SPEAKER_01, Okay.,1171.0,1171.082
+SPEAKER_01, That's good.,1172.429,1172.939
+SPEAKER_00," Well, thank you for coming in today.",1173.0,1173.98
+SPEAKER_01, All right.,1174.0,1174.224
+SPEAKER_01," Well, thanks for that.",1175.02,1175.959
+SPEAKER_01, I'll try and get it out.,1176.204,1176.939
+SPEAKER_00, All right.,1177.102,1177.98

@@ -1,0 +1,123 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.602," Hi Tiffany, how you doing today?"
+SPEAKER_01,7.0,7.041, Hi.
+SPEAKER_01,8.0,8.224, I'm alright.
+SPEAKER_00,9.0,9.224, You alright?
+SPEAKER_01,10.0,10.143, Alright.
+SPEAKER_00,14.466,21.699, I understand you've been having some difficulty lately.
+SPEAKER_01,22.364,23.838, I wouldn't call it difficulty.
+SPEAKER_00,24.327,24.449, No?
+SPEAKER_00,25.0,26.96, What would you call it?
+SPEAKER_01,27.0,33.354," According to my husband, I'm having a little bit of trouble with anger or something like  that, but to me it's like..."
+SPEAKER_00,35.667,38.498," Alright, so your husband believes you're having some trouble with anger?"
+SPEAKER_01,39.0,40.98," My husband thinks so, but to me I'm just fine."
+SPEAKER_01,41.224,41.694, He's just...
+SPEAKER_01,42.161,44.658," I may yell a little here and there at him, but he's a man."
+SPEAKER_01,45.141,46.434, He should get over it.
+SPEAKER_01,47.0,48.313," He's bigger than me, stronger than me."
+SPEAKER_01,49.245,49.959, I got...
+SPEAKER_01,50.263,51.636," Look, it's the way I get my point across."
+SPEAKER_01,52.0,52.889, It's what I gotta do sometimes.
+SPEAKER_00,54.381,63.0," Alright, so you have a... you feel like you have a relational style that doesn't match  what he wants?"
+SPEAKER_00,63.08,66.256, Like you're yelling and he's not liking that?
+SPEAKER_01,67.0,67.714, It's how I communicate.
+SPEAKER_00,68.02,68.837, It's how you communicate.
+SPEAKER_01,69.562,72.454," If he's not happy with it, that's about... he's gonna have to deal with it."
+SPEAKER_00,74.0,76.513, Can you tell me about the yelling?
+SPEAKER_01,78.323,79.697, He says this all the time.
+SPEAKER_01,80.725,82.517, But to me it's what I do.
+SPEAKER_01,83.321,88.0," If I want him to take the trash out, I tell him to take the trash out."
+SPEAKER_01,88.02,88.959, He says I yell at him.
+SPEAKER_01,89.444,90.697, We get into a fight over it.
+SPEAKER_01,91.367,92.0, Just an argument over it.
+SPEAKER_01,92.02,93.758, Nothing serious.
+SPEAKER_01,94.886,97.0, But he says this for everything I do.
+SPEAKER_01,97.0,98.576," Getting the kids ready to school, for school."
+SPEAKER_01,99.141,100.596, He says I yell at the kids.
+SPEAKER_01,101.181,103.295, He says I can't make anything simple.
+SPEAKER_01,104.404,105.657, I can't just make a simple request.
+SPEAKER_01,106.082,107.0, He says I have to yell at him.
+SPEAKER_01,107.162,107.99, I have to start a fight.
+SPEAKER_01,109.424,110.253," I say, he's a man up."
+SPEAKER_00,111.923,116.9, So you don't feel like you have a problem with yelling or anger or anything?
+SPEAKER_01,117.525,118.717," I don't think it's a problem, no."
+SPEAKER_00,119.102,120.0, It's just the way you communicate?
+SPEAKER_01,120.081,121.111, It's the way I am.
+SPEAKER_00,122.281,126.458, Has it been causing you... it's been causing you some trouble with your husband?
+SPEAKER_00,127.0,127.987, Any other trouble?
+SPEAKER_01,130.828,131.818, Maybe with the husband.
+SPEAKER_01,132.261,136.096," You know, I almost got into an argument with the neighbor, but we dealt with that."
+SPEAKER_01,137.0,138.051, He told my husband.
+SPEAKER_01,139.0,142.072," He agreed with her and, well, he said I should get help."
+SPEAKER_00,144.441,149.777," All right, so it's caused you some difficulties in that way."
+SPEAKER_01,151.0,152.818," To me, it's not a difficulty for him."
+SPEAKER_01,153.0,154.758, It's more of a difficulty for him than it is for me.
+SPEAKER_00,155.622,159.659, So you're really here today because he's asked you to come in?
+SPEAKER_01,160.531,160.939, I'm here.
+SPEAKER_01,161.347,161.959, He's my husband.
+SPEAKER_01,162.263,163.616, So I respect him.
+SPEAKER_01,164.101,166.436," I want to make him happy, so I said I'll go."
+SPEAKER_00,168.807,171.88," All right, but you're really not convinced that you have a problem?"
+SPEAKER_01,172.0,172.939, I don't see it as a problem.
+SPEAKER_01,173.566,174.818, He's more of a problem than I am.
+SPEAKER_00,175.283,176.232, He's convinced you're not?
+SPEAKER_01,178.051,178.98, I don't think I'm a problem.
+SPEAKER_01,179.707,180.899, I don't think I have a problem.
+SPEAKER_01,181.282,184.0, He says it's all the yelling and I need help and it's time I do something about it.
+SPEAKER_01,184.342,186.013," I say, all right, fine, I'll go see about it."
+SPEAKER_00,187.963,191.776, Would your relationship be a little easier without the yelling?
+SPEAKER_01,193.242,194.651," For him it would be, I guess."
+SPEAKER_01,198.034,198.758, But it may be.
+SPEAKER_01,199.545,200.818," We could try it, but I don't know."
+SPEAKER_01,201.342,203.734," But it's hard, but it's what I do."
+SPEAKER_00,205.0,208.655, Can you tell me about some of the events that you think lead to the yelling?
+SPEAKER_01,210.302,212.935, He doesn't get what I'm trying to say.
+SPEAKER_01,214.302,217.518, It could be something as he wants to do it his way.
+SPEAKER_01,218.0,218.51, We could be driving.
+SPEAKER_01,219.362,221.356," All right, no, honey, I said we want to go this way."
+SPEAKER_01,222.061,223.131," Oh, wait, why are you going that way?"
+SPEAKER_01,224.362,225.953," No, look, no one get into a fight in the car."
+SPEAKER_01,227.402,230.477," Or, okay, honey, that's not how you do the dishes."
+SPEAKER_01,231.101,232.374, It could be something as simple as that.
+SPEAKER_01,233.02,233.755," No, you wash out the dishes."
+SPEAKER_01,234.0,234.98," No, that's not how you do the dishes."
+SPEAKER_01,235.082,235.939, It could be something like that.
+SPEAKER_01,236.02,237.0, We get into an argument.
+SPEAKER_01,237.221,238.628, It's just over the simplest things.
+SPEAKER_00,241.0,246.0," And in that argument, how do you find the distribution of who's yelling?"
+SPEAKER_00,246.443,248.779, Is it mostly you yelling or are you both yelling?
+SPEAKER_01,249.562,254.679,"I feel like I have to yell to get my point across, but he's not 100% innocent in this either."
+SPEAKER_01,255.265,256.0, It's not my fault.
+SPEAKER_01,256.583,258.553, I wouldn't have to yell if he listened the first time.
+SPEAKER_00,260.181,267.0," Do you ever find yourself planning to get into an argument, or is it more spontaneous?"
+SPEAKER_01,267.785,268.389, Spontaneous.
+SPEAKER_01,268.43,269.96,I wouldn't plan to get into an argument with him.
+SPEAKER_00,270.646,271.96, It just kind of happens when it's stressful.
+SPEAKER_01,272.181,274.899," If he would listen, we wouldn't be fighting so much."
+SPEAKER_01,275.703,279.96," Things are fine when he listens, but then it's just, I don't know what it is."
+SPEAKER_01,280.201,284.334," The moment I try to tell him something, it just gets to me."
+SPEAKER_00,286.667,287.919, And that's what leads to the...
+SPEAKER_01,288.663,290.392," We just start yelling, just start fighting."
+SPEAKER_00,292.662,292.903, All right.
+SPEAKER_00,293.023,296.355,So this has been causing you some distress.
+SPEAKER_00,298.141,299.051, Mostly with that relationship.
+SPEAKER_01,300.302,303.698," Our relationship could be better if he would listen more, but yes."
+SPEAKER_00,305.826,307.96, Do you have any medical conditions?
+SPEAKER_01,308.061,308.245, Nope.
+SPEAKER_00,310.383,312.537, Do you ever use drugs or alcohol?
+SPEAKER_01,313.302,313.624, No.
+SPEAKER_01,314.047,315.799,I'm not an alcoholic or a drug addict or anything.
+SPEAKER_01,316.102,317.0," If you're trying to say that, no."
+SPEAKER_00,317.122,317.939, Nothing like that.
+SPEAKER_00,318.201,323.98," Do you have any other mental health history you should know about, like depression or anxiety?"
+SPEAKER_01,324.162,325.98, I am as healthy as a horse.
+SPEAKER_00,328.465,333.0," Do you want to see a counselor here to work on the anger, yelling?"
+SPEAKER_01,333.402,336.193, If it would make him happy.
+SPEAKER_01,336.293,338.0,"I told him I would see a counselor, so I will see a counselor."
+SPEAKER_00,338.181,338.562, Okay.
+SPEAKER_00,340.968,345.0,"So if you're okay with it, I'll set you up with an appointment to see a counselor here."
+SPEAKER_00,345.0,347.537, And they should be able to see you within a couple days and you can get started.
+SPEAKER_01,348.02,349.899, I guess I'm okay with it.
+SPEAKER_00,350.343,350.707, All right.
+SPEAKER_01,350.727,351.172,"Thanks, Tiffany."
+SPEAKER_00,352.49,352.837, All right.

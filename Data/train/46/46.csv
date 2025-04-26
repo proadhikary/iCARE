@@ -1,0 +1,96 @@
+speaker,start,end,text
+SPEAKER_00,14.639,15.5," Hi Sherry, how are you doing today?"
+SPEAKER_01,16.091,16.438, Doing okay.
+SPEAKER_00,17.213,17.56, You're doing okay?
+SPEAKER_00,18.946,22.48, I understand you haven't been feeling too well lately.
+SPEAKER_00,22.602,23.52, You've had some symptoms.
+SPEAKER_00,23.944,24.571, Tell me what's going on.
+SPEAKER_01,25.76,34.338," So for almost a week now, I've been, you know, every little thing irritates me."
+SPEAKER_01,35.461,43.719," It's been, it's distracting how much, you know, little things are bothering me."
+SPEAKER_00,44.18,45.494, Little things are really irritating you?
+SPEAKER_01,46.142,46.407, Yes.
+SPEAKER_00,47.08,47.91, For the last week?
+SPEAKER_01,49.064,49.187, Yes.
+SPEAKER_00,50.363,51.874, This is the first time this has happened?
+SPEAKER_01,53.33,53.493, Yeah.
+SPEAKER_00,54.248,54.432, Yeah.
+SPEAKER_00,55.201,55.323, Yeah.
+SPEAKER_00,58.16,60.535, So tell me about the irritation.
+SPEAKER_00,61.28,61.991, What kind of things have been?
+SPEAKER_01,62.58,73.697,"I mean, so like at work, the guy in the cubicle next to me, like it feels like he either clears  his throat or blows his nose every 15 minutes."
+SPEAKER_01,74.2,74.833, It drives me crazy.
+SPEAKER_01,75.601,90.439," And like then I can't focus on my work because I just hear it so I try to put on music and  then my boss will get upset because I have ear buds in but I can't play music out loud  because I'm trying to be considerate of other people, unlike my cubicle mate."
+SPEAKER_01,90.943,91.891, They've had me at the cubicle.
+SPEAKER_01,93.041,95.34," And then, you know, that's just like one example."
+SPEAKER_01,95.721,102.917," And then like when I'm driving home, there was this guy walking his dog on the side of  the road and like there's no shoulder so it's not a safe place."
+SPEAKER_01,103.581,108.659, So like I just feel like he's risking his life and his dog's life and my life.
+SPEAKER_01,109.68,115.917," And then I get home and I kept thinking about it and just like everything, everything that  people do is just driving me up the wall."
+SPEAKER_00,116.687,117.32, All right.
+SPEAKER_00,117.32,124.578, So you really irritated and you feel like these irritating events are distracting you?
+SPEAKER_01,125.563,125.727, Yeah.
+SPEAKER_00,126.922,130.117, Do you feel like your thoughts are racing?
+SPEAKER_01,131.65,131.893, Yeah.
+SPEAKER_01,132.5,145.36," Because like I'll be thinking about, you know, trying to focus on work or whatever I'm doing  and all these things that people, other people are doing are irritating."
+SPEAKER_01,145.541,152.16," It's not even other people, just like things in general are irritating me and like so my  thoughts will race through different things."
+SPEAKER_01,152.381,158.799, And it just makes me more frustrated and anxious.
+SPEAKER_00,159.401,160.088, And anxious.
+SPEAKER_00,161.2,167.887," Have you found, you mentioned work, have you found that you're more oriented toward getting  goals completed?"
+SPEAKER_01,169.56,173.137," I mean, no, not anymore so than usual."
+SPEAKER_00,174.107,174.393, No.
+SPEAKER_00,175.495,175.76, All right.
+SPEAKER_00,175.82,179.22, Do you find yourself talking more or feeling like you should talk more?
+SPEAKER_01,180.117,180.158, No.
+SPEAKER_00,180.28,181.26, Nothing like that?
+SPEAKER_01,181.3,181.341, No.
+SPEAKER_01,182.28,186.268," In fact, I don't want to talk to people because I feel like something they're going to say  is going to annoy me."
+SPEAKER_00,187.24,188.048, How's your sleep been?
+SPEAKER_01,189.3,191.118," Um, fine."
+SPEAKER_01,191.662,195.577, Haven't had any disturbances in it.
+SPEAKER_00,196.504,196.627, No?
+SPEAKER_01,197.28,204.855," Sometimes like when I'm first going to bed, like my thoughts will take me a while to like  get to sleep and like have my thoughts like shut down."
+SPEAKER_01,205.8,207.678, But it doesn't take too long.
+SPEAKER_00,207.961,208.471, All right.
+SPEAKER_00,209.385,210.536, So your sleep's been okay?
+SPEAKER_01,210.92,211.777, Yeah.
+SPEAKER_00,211.94,212.512, All right.
+SPEAKER_00,214.562,220.277, Have you noticed that you're all down or like have depressed mood or anything like that?
+SPEAKER_01,222.347,223.479," No, not really."
+SPEAKER_00,223.682,223.763, No?
+SPEAKER_00,227.042,231.218, Are you still finding activities that were pleasurable to be pleasurable now?
+SPEAKER_01,232.253,232.437, Yeah.
+SPEAKER_01,234.004,246.438," Well, I mean, sometimes an activity that I like, something will come along and like I'll  get distracted during it by something that like irritates me."
+SPEAKER_01,247.743,252.628, But for the most part I can get over it and like enjoy the activity if it's something  I genuinely enjoy.
+SPEAKER_00,254.646,255.612, Any change of appetite?
+SPEAKER_01,257.063,258.578," Um, no."
+SPEAKER_00,260.388,262.277, How about any feelings of worthlessness?
+SPEAKER_01,263.371,263.494, No.
+SPEAKER_00,264.204,264.749, Nothing like that.
+SPEAKER_00,266.0,269.079, You mentioned that you're being distracted easily.
+SPEAKER_00,269.481,271.206, Is this affecting your concentration?
+SPEAKER_01,275.301,275.873, A little bit.
+SPEAKER_00,276.24,278.24, A little bit?
+SPEAKER_00,279.056,279.24, All right.
+SPEAKER_00,279.24,282.396, Do you have any thoughts regarding death or dying?
+SPEAKER_01,283.567,283.73, No.
+SPEAKER_00,286.637,286.98, Like that.
+SPEAKER_00,287.823,292.499, And this irritable mood has been bothering you at work and you mentioned driving home.
+SPEAKER_00,292.8,293.473, Any other places?
+SPEAKER_01,294.202,297.819," I mean, yeah, just because it's not just at work and driving home."
+SPEAKER_01,298.0,306.358," Like, you know, some of my mom sat on the phone the other day, irritated me and then  I cut the phone call short and I get to talk to my dad because I was mad."
+SPEAKER_01,306.88,308.433, And so that like affected that.
+SPEAKER_01,309.26,311.948, So a little bit of like my personal life too.
+SPEAKER_00,315.88,318.44, Any drug or alcohol usage recently?
+SPEAKER_00,318.868,319.153, Nothing.
+SPEAKER_00,320.48,324.496, Have you ever seen or heard things other people can't see or hear?
+SPEAKER_01,325.786,325.868, No.
+SPEAKER_00,326.582,327.235, That's never happened?
+SPEAKER_01,327.521,327.99, Mm-hmm.
+SPEAKER_00,328.5,328.745, All right.
+SPEAKER_00,331.5,332.113, Okay.
+SPEAKER_00,334.48,337.399," I'd like to get you in to see somebody today, if that's okay."
+SPEAKER_00,337.942,342.46, We have a counselor that's available that can talk to you some more about this.
+SPEAKER_00,342.929,343.337, That'd be all right?
+SPEAKER_01,343.582,343.827, Mm-hmm.
+SPEAKER_00,344.562,344.868, All right.
+SPEAKER_00,345.48,348.48, So I'll get that arranged and I want to thank you for answering these questions.
+SPEAKER_00,348.48,349.256, It's been helpful.

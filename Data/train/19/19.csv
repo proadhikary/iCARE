@@ -1,0 +1,146 @@
+speaker,text,start,end
+SPEAKER_00," Hi Emma, how are you doing today?",0.0,0.622
+SPEAKER_01," I'm good, thanks.",7.0,7.301
+SPEAKER_01,How are you?,7.321,7.542
+SPEAKER_00, I'm doing well.,14.922,16.184
+SPEAKER_00,Thank you for asking.,16.385,19.591
+SPEAKER_00,I understand you've been having some symptoms that are  bothersome to you.,20.794,24.884
+SPEAKER_00,Can you tell me about what's going on?,25.769,27.337
+SPEAKER_01, I moved into my apartment about a year ago and I've been having anxious thoughts and  sometimes I'm scared I'm going to lose my apartment.,28.881,45.957
+SPEAKER_00," So you've been having anxiety, you've been having thoughts about possibly losing your apartment.",47.381,53.739
+SPEAKER_00, Tell me more about that.,56.195,56.799
+SPEAKER_01," When I ran out my check for the rent, I usually would pay it online but then I would click the button  and it would submit it a couple times.",58.784,69.853
+SPEAKER_01,I just wanted to make sure I got paid.,70.595,71.9
+SPEAKER_01, So then I started to actually go in person and pay it.,73.686,78.0
+SPEAKER_01, But then I would check my statement just to make sure they cashed it and they got it.,79.702,84.88
+SPEAKER_00, To make sure they really received your payment.,85.0,86.711
+SPEAKER_01, I'm also nervous that something might happen where I leave my straightener on and the apartment burns down.,89.883,98.558
+SPEAKER_00," Do you find yourself acting on that thought, say specifically that thought with the straightener?",101.401,107.438
+SPEAKER_01, I'll check it and I'll just make sure that it's unplugged and then I look around and make sure everything's unplugged  because I don't want anything getting caught.,108.18,119.477
+SPEAKER_00," When you say everything, what do you mean?",121.43,122.859
+SPEAKER_01," The toaster, my computer, my laptop charger, my cell phone, the charger for that, and just anything that's plugged in like the television.",124.222,135.9
+SPEAKER_01, I just want to make sure everything's unplugged before I leave.,136.926,139.0
+SPEAKER_00, Before you leave your apartment.,139.544,141.477
+SPEAKER_00, What do you do when you come back?,142.765,144.134
+SPEAKER_01," I check to make sure they're still unplugged but then when I need to use it, I plug it back in.",145.542,150.679
+SPEAKER_00," If you need to use, for instance, television, do you plug it in and watch it and then unplug it immediately or only before you leave?",152.241,160.92
+SPEAKER_01, Before I leave.,161.606,162.253
+SPEAKER_00, So you leave it plugged in while you're there.,163.081,164.919
+SPEAKER_01, Yeah.,165.02,165.404
+SPEAKER_00, When did you first notice the anxiety?,168.843,173.0
+SPEAKER_01, I guess like six months ago.,174.608,176.538
+SPEAKER_00, About six months ago?,178.313,179.0
+SPEAKER_01, Yeah.,179.404,179.646
+SPEAKER_00, How did it start out?,181.121,181.889
+SPEAKER_01," It started with just thinking about things, thinking about leaving the door unlocked or being unsure if I paid bills.",183.381,193.98
+SPEAKER_01, Just thinking about it and then I would have to double check it and triple check in and just kind of make sure.,194.682,201.238
+SPEAKER_00, Did it start with that?,202.403,203.148
+SPEAKER_00,Did it start with the door locks?,203.168,204.517
+SPEAKER_01, Yeah.,205.462,205.763
+SPEAKER_01,It started with just thinking and making sure the door was locked.,206.486,209.197
+SPEAKER_00, Do you still do that now?,210.161,211.148
+SPEAKER_00,Do you check the door several times?,211.208,212.557
+SPEAKER_01, Yeah.,214.005,214.367
+SPEAKER_01,I just make sure it's locked.,214.709,215.834
+SPEAKER_00, All right.,217.962,218.805
+SPEAKER_00,How do you do that?,218.845,219.426
+SPEAKER_00,Do you get up and look at it and see if it's locked and then go sit down and think about it and come back?,219.446,225.0
+SPEAKER_00, Or do you operate the mechanism back and forth?,225.322,228.216
+SPEAKER_01, Yeah.,229.18,229.461
+SPEAKER_01,I just go in.,229.642,230.323
+SPEAKER_01,I look in and make sure it's locked and then I'll go back down and I'll just sit back down and I'll be okay.,230.343,235.977
+SPEAKER_00, All right.,237.245,237.449
+SPEAKER_00,For a while?,237.469,237.918
+SPEAKER_01, Yeah.,238.531,238.755
+SPEAKER_00, Yeah.,239.04,239.241
+SPEAKER_00,And does that thought ever come back and you have to go check it again?,240.106,242.196
+SPEAKER_01, Sometimes.,243.687,244.212
+SPEAKER_01,Not really.,244.232,245.0
+SPEAKER_00, Not really.,245.224,245.694
+SPEAKER_01, I'll just check in and it's fine.,246.121,247.913
+SPEAKER_00, All right.,249.1,249.361
+SPEAKER_00,Do you have kind of a checklist in your mind for when you leave your apartment?,249.723,254.0
+SPEAKER_00, Do you do like unplug everything in roughly the same order and check everything in a similar order?,254.06,262.419
+SPEAKER_01, I haven't really thought about it but I make sure everything's unplugged.,264.063,267.493
+SPEAKER_01,Like I know what needs to be unplugged.,267.533,269.458
+SPEAKER_00, All right.,270.221,270.904
+SPEAKER_00,So you do have kind of a list in your mind of what has to be unplugged.,270.924,274.839
+SPEAKER_01, Yeah.,275.0,275.265
+SPEAKER_00, And you'll make sure it's all unplugged.,276.041,276.98
+SPEAKER_01, Exactly.,277.0,277.306
+SPEAKER_00, And how about when you lock your door from the outside when you're leaving?,279.1,283.914
+SPEAKER_00,Do you check that?,284.917,285.599
+SPEAKER_01, Yeah.,286.561,286.862
+SPEAKER_01,"I'll check it and then if I'm sitting in my car, I just might go back just to double check it and just make sure.",287.623,294.918
+SPEAKER_00, All right.,297.264,297.785
+SPEAKER_00,So you're checking the door.,297.805,299.41
+SPEAKER_00,You're unplugging various items that may create heat.,299.851,302.84
+SPEAKER_01, Mm-hmm.,303.286,303.49
+SPEAKER_00, You're careful with your paying your rent.,304.262,307.0
+SPEAKER_01, Yeah.,307.367,307.633
+SPEAKER_00, So fear and anxiety surrounding losing the apartment in some manner.,308.16,313.991
+SPEAKER_00,"How is this affecting your daily life, these symptoms?",315.233,318.78
+SPEAKER_01," Well, I mean it's time consuming.",319.08,320.644
+SPEAKER_01,Sometimes I'm late for work because I think I left something plugged in and I have to go back inside.,321.526,327.759
+SPEAKER_01, Sometimes I'll lock the door and have to go back and make sure it's locked.,329.283,331.95
+SPEAKER_01,So I'm usually late for things because I'm double checking.,332.972,335.98
+SPEAKER_00, All right.,336.02,337.546
+SPEAKER_00,So it's causing some problems getting places on time.,337.566,341.0
+SPEAKER_01, Yeah.,341.265,341.51
+SPEAKER_00, How about your level of anxiety or worry?,344.243,347.632
+SPEAKER_00,How high would you say that is?,347.652,350.759
+SPEAKER_01," I guess it would be like high I guess, thinking about it.",351.984,355.759
+SPEAKER_00, It's troubling for you?,356.141,357.919
+SPEAKER_01, Yeah.,358.0,358.143
+SPEAKER_00, Yeah.,360.34,361.842
+SPEAKER_00,"If you think about from when it started, it started out, it sounds like with a few thoughts, right?",361.882,369.47
+SPEAKER_00,"If we say that's relative to low anxiety, yeah, how would what you have now compare to that?",369.51,378.74
+SPEAKER_01," I guess moderate, like in the, a little higher.",379.984,383.498
+SPEAKER_00, Just a little higher?,384.02,384.714
+SPEAKER_01, Yeah.,385.0,385.184
+SPEAKER_00, All right.,386.121,386.483
+SPEAKER_00,But you have noticed it's worsened over the six months.,387.027,389.0
+SPEAKER_01, Yeah.,389.571,389.857
+SPEAKER_00, Is it the most anxiety you've ever experienced?,392.785,394.839
+SPEAKER_01, I kind of consider myself an anxious person.,396.283,399.351
+SPEAKER_01,"So I guess, yeah.",400.414,403.0
+SPEAKER_00, This is the most you've experienced?,403.626,404.899
+SPEAKER_01, Yes.,405.204,405.367
+SPEAKER_00, Yeah.,406.0,406.101
+SPEAKER_00,So this is particularly troubling?,406.121,408.0
+SPEAKER_01, Yes.,408.041,408.143
+SPEAKER_00, Yeah.,409.0,409.342
+SPEAKER_00,"And you said you've always been, you said anxious person?",409.503,411.98
+SPEAKER_01, Yeah.,412.0,412.163
+SPEAKER_00, Tell me about that.,413.163,413.98
+SPEAKER_01," Just like group settings or, I remember just something when I was younger.",414.901,420.768
+SPEAKER_01,"I was like just playing with the door or something like that and my parents took me to some, I don't know, some doctor and they just said I was anxious.",420.788,431.0
+SPEAKER_00, Did they give you any treatment?,432.711,434.0
+SPEAKER_01," I don't, no, I don't think so.",434.644,436.255
+SPEAKER_01,They just said I was anxious.,436.275,436.98
+SPEAKER_00," So other than saying you're anxious, was there any diagnosis provided?",438.264,442.799
+SPEAKER_01," No, not really.",443.364,444.98
+SPEAKER_00, Have you ever had any mental health diagnosis?,446.809,448.92
+SPEAKER_01," Just, I guess just feeling anxious but not necessarily like a diagnosis.",450.264,455.0
+SPEAKER_00, Not from a provider?,456.051,456.657
+SPEAKER_01, Yeah.,457.041,457.184
+SPEAKER_00, Okay.,458.322,458.584
+SPEAKER_00,How about any medical conditions?,459.409,460.94
+SPEAKER_01, No.,461.184,461.531
+SPEAKER_00, None?,462.02,462.245
+SPEAKER_00, No.,463.061,463.163
+SPEAKER_00, Have you ever been to the hospital or anything?,465.973,467.0
+SPEAKER_01, Just to like get my tonsils taken out but not like anything else.,467.964,471.96
+SPEAKER_00, Alright.,472.562,472.963
+SPEAKER_00,How about drugs or alcohol?,473.987,476.475
+SPEAKER_00,Any usage of those?,476.756,478.0
+SPEAKER_01, No.,478.0,478.082
+SPEAKER_00, Never?,479.204,479.51
+SPEAKER_01, Uh-uh.,480.041,480.612
+SPEAKER_00, Alright.,483.025,483.306
+SPEAKER_00,"Emma, I'm going to have you see a counselor here.",483.667,487.155
+SPEAKER_00,I think it's just scheduled to see somebody.,487.175,489.0
+SPEAKER_00," I appreciate you taking this time with me, explaining the symptoms.",489.905,492.558
+SPEAKER_00,It's been helpful.,492.578,493.0
+SPEAKER_01, Thank you.,493.755,494.0
+SPEAKER_00, Thanks.,494.429,494.633

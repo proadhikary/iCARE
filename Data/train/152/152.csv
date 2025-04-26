@@ -1,0 +1,121 @@
+speaker,text,start,end
+SPEAKER_00," Hi Kyle, how are you doing today?",0.0,0.622
+SPEAKER_01, I'm doing alright.,7.0,7.343
+SPEAKER_01, I'm not doing too bad.,9.0,9.423
+SPEAKER_01, How are you Dr. Grande?,14.557,15.0
+SPEAKER_00," Not bad, thanks for asking.",15.081,16.798
+SPEAKER_00, What brings you in?,17.02,17.626
+SPEAKER_01," So my girlfriend saw your ad in the paper and she saw out of some of the things that  you work on, one of them is smoking cessation and it bothers her that I smoke.",19.0,36.797
+SPEAKER_01, So she has been nagging me for like weeks to come in and talk to you.,39.145,42.98
+SPEAKER_01, So I figured I would just kind of come in just so she would stop bugging me about it.,43.422,48.0
+SPEAKER_00, So you came into therapy today because your girlfriend pressured you?,49.605,53.659
+SPEAKER_01," Yeah, I mean it's easier for me like if I come in here and talk to you,  I can spend like 45 minutes with you compared to hours of her nagging me through the week.",55.301,66.057
+SPEAKER_00, So you weighed the cost benefit and decided to come in?,67.945,70.879
+SPEAKER_01," Yeah, I mean it's covered by insurance, it's just 45 minutes of my time.",71.181,74.896
+SPEAKER_00," And what she would like you to do, and this is her goal, not yours, would be to stop smoking.",77.384,82.739
+SPEAKER_00, Tell me what your goal is.,83.465,84.636
+SPEAKER_01, I mean I don't really have one.,85.944,87.871
+SPEAKER_01,I don't think smoking is that bad.,88.133,89.9
+SPEAKER_01," Well I mean I don't know, smoking could be bad but it's never bothered me.",90.221,95.014
+SPEAKER_01," I don't know, I really don't have any goals to come in besides just having her stop bugging me.",101.321,107.298
+SPEAKER_00, So do you have a goal of quitting smoking?,109.262,111.94
+SPEAKER_01," No, not at all.",112.562,116.794
+SPEAKER_01,There's so many good things about smoking.,116.814,118.9
+SPEAKER_01, What really got me into it was I smoke a lot at work because it gives me one-on-one time with the boss.,119.903,124.639
+SPEAKER_01, So the fact that I can get that time with my boss is completely worth it.,125.622,131.719
+SPEAKER_00, Can you tell me about some of the other good things about smoking?,132.584,134.597
+SPEAKER_01," It's just like, it's how I meet people.",136.906,138.799
+SPEAKER_01," So like if I, I'll have cigarettes on me but I don't have a lighter and that kind of keeps me from finishing off a pack.",139.0,147.84
+SPEAKER_01, Because I could finish off a pack a day.,149.007,150.94
+SPEAKER_01, But if I don't have a lighter then I carry the cigarettes around with me and then if I see other people are smoking I can go and ask for a light.,151.461,159.739
+SPEAKER_01, And that's always kind of like a way in to get to these groups.,160.101,162.517
+SPEAKER_01, I've just met so many different people from smoking.,163.422,166.434
+SPEAKER_01," So smoking, the way you're presenting it, has been a positive thing in your life?",169.502,173.96
+SPEAKER_01," Yeah, I mean I only do it socially.",174.402,176.53
+SPEAKER_01,"So that's, yeah.",176.751,178.9
+SPEAKER_00, Are there any negative aspects to smoking?,180.523,183.0
+SPEAKER_01," I mean yeah, I mean everyone knows smoking is unhealthy but like I don't, I don't smoke a lot.",185.626,192.0
+SPEAKER_01, Like I only smoke from time to time and it's mostly just on the weekends.,192.824,196.0
+SPEAKER_01," So it's like, I don't know, occasionally if I smoke over the weekends I might have like a cough maybe.",196.622,204.0
+SPEAKER_01," Like a heavy cough on Mondays, Tuesdays, it's gone by Wednesdays so it's not really that big of a deal.",204.04,209.96
+SPEAKER_00, So you don't seem like you're too worried about the negative aspects.,211.266,214.0
+SPEAKER_01," No, I mean like the, obviously it's unhealthy but like one of the things I'm trying to do in my life now is get out there and meet new people.",214.942,222.98
+SPEAKER_01, And like the benefit of being able to do that smoking is better than like giving it up for health reasons I think.,223.822,229.96
+SPEAKER_00, So let me ask you a question.,232.184,233.809
+SPEAKER_00,I want you to give me a response between one and ten.,233.829,236.94
+SPEAKER_00, This is called scaling.,237.04,239.507
+SPEAKER_00,And it's to do with the importance of stopping smoking.,240.55,244.0
+SPEAKER_00, So one would be it's not important to you and ten would be it's extremely important to you.,245.003,250.637
+SPEAKER_00,Where do you think you'd put that number?,250.837,251.98
+SPEAKER_01, I don't know.,252.301,253.263
+SPEAKER_01,Maybe like a two.,253.483,254.245
+SPEAKER_01,"Like it'd be cool to get rid of the cough on Mondays but that, getting rid of that is not worth everything else I get from smoking.",254.445,260.98
+SPEAKER_00, So not particularly important?,261.0,262.737
+SPEAKER_01, No.,263.02,263.143
+SPEAKER_00," Now let me ask you the same question except instead of importance, how confident, we're talking about confidence, how confident are you that you could quit smoking?",265.964,274.98
+SPEAKER_00, On a scale of one to ten with one being not confident at all and ten being extremely confident.,275.904,280.0
+SPEAKER_01, I could say probably like an eight or a nine.,280.12,285.391
+SPEAKER_01,Like I could give it up.,285.691,286.834
+SPEAKER_01,Actually I gave it up recently like for like a month and I didn't even crave it.,286.934,289.96
+SPEAKER_01," But eventually like just seeing all my friends go out smoking, like I missed that so I just started up again.",290.741,296.032
+SPEAKER_01,But I don't know.,296.273,296.954
+SPEAKER_01,Like if I really wanted to give it up for good I'm sure I could.,297.234,299.76
+SPEAKER_00, So stopping smoking is not important to you but you're fairly confident you could if you decided to do it.,301.484,307.0
+SPEAKER_01, Yeah.,307.02,307.204
+SPEAKER_00," So based on kind of where you are in terms of it doesn't seem like you're interested in stopping smoking, what would be a goal?",309.761,317.554
+SPEAKER_00,How could we spend this time so that it would be productive?,318.015,320.76
+SPEAKER_01, I don't know.,324.244,324.645
+SPEAKER_01,Like I guess it would help to be able to like explain to my girlfriend like the stuff that I get from smoking.,324.685,336.98
+SPEAKER_01," And like you seem, you kind of seem like you get it.",337.601,340.024
+SPEAKER_01,So like I don't know maybe figure out ways to like explain to her the things that I get from smoking to like I don't know just kind of help her like realize why I do it other than just to kill myself.,340.104,351.619
+SPEAKER_00, So to help her to understand why the smoking works for you.,352.804,355.819
+SPEAKER_01, Yeah.,356.0,356.122
+SPEAKER_00, So that's one goal.,357.862,358.863
+SPEAKER_00,Any other goals you could think of?,359.344,360.587
+SPEAKER_00,"I mean you came in in part because, well it seemed like you came in completely because your girlfriend pressured you.",360.607,367.359
+SPEAKER_01, Yeah.,368.0,368.163
+SPEAKER_00, So any other relational goals you might want to work on there?,369.685,372.0
+SPEAKER_01," Um, I don't know.",374.143,377.251
+SPEAKER_01,"We haven't really been, like we've been fighting a lot because of the smoking.",377.271,380.86
+SPEAKER_01," Um, so I think like maybe figuring out ways, I don't know, like to maybe communicate better or like having like good fights in a way.",381.12,395.0
+SPEAKER_01, Like I don't know how to describe that but like having fights that are productive like that just don't always end like with us just like going our separate ways or like one of us leaving the house.,395.1,404.94
+SPEAKER_01, But like I guess being able to like wrap up a fight so it doesn't last for like days.,405.1,410.579
+SPEAKER_00, So productive communication and productive arguments.,411.542,416.98
+SPEAKER_00, Right.,417.364,417.747
+SPEAKER_01,Yeah.,417.99,418.172
+SPEAKER_00,Yeah.,418.212,418.394
+SPEAKER_00, So one goal would be to illustrate clearly the advantages of smoking to your girlfriend.,420.464,426.98
+SPEAKER_01, Right.,427.041,427.143
+SPEAKER_00, So she understands how important it is to you.,428.02,429.98
+SPEAKER_01, Yeah.,430.245,430.51
+SPEAKER_00, Because it does seem like it's really important to you.,431.182,432.697
+SPEAKER_00," But another would be to work on your relation, your relational style so that you can end the argument and feel like you're not a stalemate.",433.842,443.0
+SPEAKER_01, Right.,443.0,443.503
+SPEAKER_01,Yeah.,443.523,443.664
+SPEAKER_01,"Yeah, I think that would be cool.",444.007,445.899
+SPEAKER_00, Alright.,447.622,447.862
+SPEAKER_00,"Well, you want to make those the goals we work on so we can spend this time productive fast?",448.203,453.98
+SPEAKER_01," Yeah, I can deal with that.",454.262,455.148
+SPEAKER_01,It's kind of like killing two birds with one stone.,455.168,456.919
+SPEAKER_00, Does that make sense to you?,457.04,458.96
+SPEAKER_00, Mm-hmm.,459.061,459.429
+SPEAKER_01,Yeah.,459.633,459.776
+SPEAKER_00," Well, that's what we'll do.",460.02,462.047
+SPEAKER_00,"So what I'd like you to do, I'll see you again in about a week.",462.067,466.0
+SPEAKER_01, Right.,466.408,466.694
+SPEAKER_00," So if you could reflect on some of these changes that you think you can make with this relationship, what you could do in the relationship to be a more effective communicator.",468.0,480.0
+SPEAKER_00," Because a lot of this revolves around communication, right?",480.0,481.96
+SPEAKER_01, Yeah.,482.0,482.143
+SPEAKER_00, Communicating the advantages of smoking but also communicating and the arguing so that you have a productive end to these arguments.,483.08,491.0
+SPEAKER_01, Right.,491.306,491.51
+SPEAKER_00, So really more moving from arguments to collegial conversations that have a positive result.,492.261,499.0
+SPEAKER_01, Yeah.,499.404,499.626
+SPEAKER_00,"Yeah, that would be cool if we could do that.",499.848,500.98
+SPEAKER_00, Okay.,501.32,501.541
+SPEAKER_00,So if you could work on kind of thinking that through and then next time we meet we'll talk about those different goals and maybe ways to make some small changes in that relationship to meet those goals.,502.121,515.9
+SPEAKER_01, Right.,516.162,516.424
+SPEAKER_01,Alright.,516.727,516.97
+SPEAKER_01,Sounds good.,517.01,517.333
+SPEAKER_00, Alright.,518.0,518.143
+SPEAKER_00,"Thanks for coming in, Kyle.",518.163,518.918
+SPEAKER_01," Yeah, thank you.",519.0,519.612

@@ -1,0 +1,313 @@
+speaker,text,start,end
+SPEAKER_01, Come in.,7.081,7.423
+SPEAKER_00," Hi, Ms.",10.242,10.384
+SPEAKER_00,Alexander.,11.172,11.354
+SPEAKER_01, Hi.,12.796,12.878
+SPEAKER_00," Hi, my name is Brittany and I'm a medical student working with Dr. Parrott today.",13.863,18.0
+SPEAKER_00, I'll try to get this all rubbed in.,18.0,20.96
+SPEAKER_00, It's nice to meet you.,21.0,21.98
+SPEAKER_01, Nice to meet you.,22.0,22.898
+SPEAKER_00," So she has sent me in just to ask you some questions and do a brief physical exam,  and then I will step back out and talk to her, and then she'll be in behind me.",23.121,30.879
+SPEAKER_00, Is that okay?,31.102,31.571
+SPEAKER_01," Yeah, that's fine.",32.02,32.735
+SPEAKER_00, Great.,33.0,33.102
+SPEAKER_00, So what brings you in today?,34.02,35.131
+SPEAKER_01, I've been having pretty bad neck pain.,36.04,37.657
+SPEAKER_00," Oh, goodness.",38.49,38.98
+SPEAKER_00," Well, I'm glad you came in so we can take a look and make sure there's nothing going on.",39.0,42.96
+SPEAKER_00, So how long has this been going on?,43.263,44.939
+SPEAKER_01, Probably about two days.,45.02,46.152
+SPEAKER_00, Okay.,47.408,47.796
+SPEAKER_00, Did anything happen a couple days ago out of the ordinary?,48.0,50.98
+SPEAKER_01," Well, I was in a small car accident.",51.0,51.987
+SPEAKER_00," Oh, okay.",54.0,54.551
+SPEAKER_00, Must have been scary.,55.182,56.939
+SPEAKER_01, Yeah.,57.0,57.163
+SPEAKER_00, What happened?,58.469,58.898
+SPEAKER_01, I was at a stoplight and the person behind me rear-ended me.,59.02,62.773
+SPEAKER_01," We weren't going very fast, though.",65.0,66.434
+SPEAKER_01, I think he was maybe going five or ten miles an hour.,67.0,69.151
+SPEAKER_00, And were you wearing your seat belt at the time?,71.0,72.893
+SPEAKER_01, Yeah.,74.51,75.0
+SPEAKER_00, Okay.,75.102,75.306
+SPEAKER_00, So you said you didn't go to the hospital or anything because you didn't feel any pain initially.,76.02,81.0
+SPEAKER_01, No.,81.082,81.143
+SPEAKER_00, So when exactly did the pain start?,82.101,83.939
+SPEAKER_00, About how many hours after the accident?,84.0,86.215
+SPEAKER_01, I would probably say maybe four to six hours after.,87.261,89.329
+SPEAKER_01, I think maybe I was just in shock at first and so I didn't really feel any pain or anything.,92.0,97.0
+SPEAKER_00, All right.,97.0,97.306
+SPEAKER_00, And where is it bothering you specifically?,98.0,99.677
+SPEAKER_00, Can you pinpoint a specific area on your neck?,100.0,102.0
+SPEAKER_01, It's mostly just the back of my neck and on the sides of my neck.,102.12,105.092
+SPEAKER_00, Both sides?,107.0,107.265
+SPEAKER_01, Yes.,108.041,108.184
+SPEAKER_00, All right.,109.0,109.286
+SPEAKER_00, And did you hear any pops or have any numbness or tingling that occurred during the accident?,110.0,116.0
+SPEAKER_01, No.,116.0,116.122
+SPEAKER_00, Mm-mm.,117.0,117.163
+SPEAKER_00, All right.,118.0,118.755
+SPEAKER_00, And is there anything that's making the pain worse?,119.02,120.973
+SPEAKER_01," Mostly when I bend my head forward and try to turn it to the left, it kind of-",122.0,126.453
+SPEAKER_00, I notice it's a little uncomfortable.,129.0,130.0
+SPEAKER_01, It's really tight.,130.0,130.959
+SPEAKER_01, Yeah.,131.02,131.102
+SPEAKER_00, Anything you've ever felt before?,132.02,132.918
+SPEAKER_01," I took some ibuprofen and I put ice on the back of my neck and that helped a little bit,  but it still hurts.",133.04,140.837
+SPEAKER_00, It still hurts.,141.0,141.918
+SPEAKER_00, Mm-mm.,142.082,142.367
+SPEAKER_00, And how much ibuprofen are you taking?,143.0,145.0
+SPEAKER_01, I took two tablets every six hours or so since then.,145.12,149.114
+SPEAKER_00, Okay.,151.0,151.082
+SPEAKER_00, I'm just taking some notes so that way we can get the pain back.,152.161,156.0
+SPEAKER_01, Okay.,156.102,156.286
+SPEAKER_00, All right.,157.449,157.898
+SPEAKER_00," So it's worse whenever you're bending forward and to the side, to the left.",158.08,163.94
+SPEAKER_00, Is that correct?,164.0,164.796
+SPEAKER_01, Yes.,165.082,165.245
+SPEAKER_00, All right.,166.0,166.184
+SPEAKER_00, And can you describe the pain to me?,167.0,168.758
+SPEAKER_01, It just feels like a tight kind of dull pain.,169.06,170.946
+,,177.354,177.96
+,,178.0,179.96
+,,180.101,181.212
+,,182.562,188.238
+SPEAKER_00, Okay.,189.143,189.51
+SPEAKER_00, So tight and dull.,192.714,194.0
+SPEAKER_00, And is this pain radiating or moving anywhere?,197.351,199.98
+SPEAKER_01, Not really.,200.0,201.0
+SPEAKER_01, It just goes up and down the back of my neck.,201.644,203.779
+SPEAKER_00, So nothing coming down into the arms?,204.02,205.798
+SPEAKER_01, No.,206.02,206.082
+SPEAKER_00, Okay.,207.102,207.265
+SPEAKER_00," And on a scale of one to ten, with ten being the worst pain, where would you say you're at?",209.321,215.258
+SPEAKER_01," Probably around a six or a seven out of ten, especially when I try and bend forward and turn my head.",216.842,223.92
+SPEAKER_00, And is it a constant pain?,225.01,225.919
+SPEAKER_01, Yes.,226.531,226.735
+SPEAKER_00," And so, but it'll get worse whenever you bend forward and turn to the left.",228.044,232.0
+SPEAKER_01, Yes.,232.02,232.122
+SPEAKER_00, Okay.,233.347,233.612
+SPEAKER_00," And would you say since the accident, since that evening, has it been constant or is it getting worse, better?",235.481,241.599
+SPEAKER_00, What would you say?,242.0,242.959
+SPEAKER_01," It feels like it's getting worse, but I don't know if that's because the ibuprofen's not working.",243.0,248.977
+SPEAKER_00, Okay.,250.224,250.429
+SPEAKER_00," Well, I'm glad you came in.",251.0,251.918
+SPEAKER_00," You know, the over-the-counter stuff's not working, and we can do an exam and make sure there's nothing we're missing.",252.0,258.318
+SPEAKER_00," You know, if we need to possibly do some osteopathic treatments, and we'll get on to that later, okay?",259.762,266.0
+SPEAKER_01, Okay.,266.041,266.306
+SPEAKER_00," And as far as your past medical history, have you ever had a neck injury before?",270.181,275.0
+SPEAKER_01, No.,275.0,275.041
+SPEAKER_00, No?,276.245,276.469
+SPEAKER_00, So you've never had problems with your neck?,277.041,278.0
+SPEAKER_01, No.,278.02,278.143
+SPEAKER_00, Okay.,279.49,279.714
+SPEAKER_00," Well, that's good to know.",280.02,280.837
+SPEAKER_00, And any medical conditions that you're currently being treated for or that you've ever been treated for?,281.722,286.639
+SPEAKER_01," I have asthma, and I take medicine for that.",287.1,293.779
+SPEAKER_00, Okay.,294.0,294.265
+SPEAKER_01, So that's about it.,295.0,296.0
+SPEAKER_00, Ever been hospitalized?,296.0,297.0
+SPEAKER_01, No.,297.939,298.0
+SPEAKER_00, Mm-mm.,298.0,298.286
+SPEAKER_00, Ever had any surgeries?,299.586,300.818
+SPEAKER_01, I had my tonsils taken out when I was a kid.,301.403,303.96
+SPEAKER_01, I think I was probably nine.,304.101,306.416
+SPEAKER_00, Okay.,307.551,307.776
+SPEAKER_00," And as far as medications, you said you take the over-the-counter ibuprofen, and then you take something for asthma.",309.662,315.0
+SPEAKER_00, What do you take for your asthma?,315.02,315.98
+SPEAKER_01, I take albuterol.,316.02,316.469
+SPEAKER_00, Do you just take that as needed?,317.0,319.215
+SPEAKER_01, Mm-hmm.,320.0,320.367
+SPEAKER_00, And do you take any other medications?,322.772,324.0
+SPEAKER_01, I take a loratadine or a Claritin for allergies.,324.802,330.739
+SPEAKER_00, Okay.,331.143,331.327
+SPEAKER_00," What about any herbal supplements, vitamins?",336.564,339.0
+SPEAKER_01, I take a multivitamin.,339.869,340.98
+SPEAKER_00," And I always like to ask all my patients, any recreational drug use?",344.791,346.98
+SPEAKER_01, No.,347.0,347.122
+SPEAKER_00, None.,348.02,348.245
+SPEAKER_00, And are you allergic to any medications?,351.0,353.0
+SPEAKER_01, I am.,353.0,353.102
+SPEAKER_01, I'm allergic to penicillin.,354.0,355.596
+SPEAKER_00, And what happens when you take penicillin?,356.101,359.457
+SPEAKER_01, I break out in a rash.,360.327,360.98
+SPEAKER_00, In a rash.,361.245,361.51
+SPEAKER_01, Mm-hmm.,362.102,362.265
+SPEAKER_00," Well, we'd be sure never to give you penicillin for anything.",363.0,365.0
+SPEAKER_01, Yeah.,365.0,365.143
+SPEAKER_01, Thank you.,366.0,366.327
+SPEAKER_00," And as far as family history, any medical conditions in the family with your mom and dad?",368.585,374.0
+SPEAKER_01," My mom, she's pretty healthy.",374.0,376.134
+SPEAKER_01," She has diabetes, though.",377.101,377.909
+SPEAKER_00, Okay.,379.0,379.163
+SPEAKER_01, And it's pretty under control.,380.626,381.879
+SPEAKER_00, Good.,382.0,382.286
+SPEAKER_01," My dad has high cholesterol, but he takes medicine for that.",383.181,387.0
+SPEAKER_00, Any brothers or sisters?,390.051,390.879
+SPEAKER_01," I have a brother, and he's healthy.",391.162,393.0
+SPEAKER_00, He's healthy?,393.0,393.898
+SPEAKER_01, He doesn't have any conditions or anything.,394.0,395.0
+SPEAKER_00, And no one's ever had problems with joints or arthritis?,398.1,403.0
+SPEAKER_01, No.,403.0,403.041
+SPEAKER_00, No?,404.02,404.204
+SPEAKER_01, No.,405.041,405.082
+SPEAKER_00, Okay.,406.571,406.796
+SPEAKER_00, Great.,407.02,407.184
+SPEAKER_00," And I always like to just get an overview of my patients, kind of get to know them a little better.",408.723,413.0
+SPEAKER_00, What do you do for a living?,413.0,413.959
+SPEAKER_01, I'm an administrative assistant.,414.0,415.313
+SPEAKER_00," Oh, where do you work?",417.071,417.778
+SPEAKER_01, I work for the Fish and Wildlife Services.,418.263,419.98
+SPEAKER_00," Oh, wow.",420.0,420.143
+SPEAKER_00, That must be fun.,421.0,421.939
+SPEAKER_01, Yeah.,422.02,422.143
+SPEAKER_00, You've been doing it for a while?,423.163,424.0
+SPEAKER_01," Yeah, for a few years.",424.0,424.98
+SPEAKER_00, Mm-hmm.,425.0,425.204
+SPEAKER_00, Stressful or pretty?,426.424,427.636
+SPEAKER_01, It's not very stressful at all.,428.505,429.96
+SPEAKER_00, That's good.,430.082,431.0
+SPEAKER_01, Mm-hmm.,431.0,431.286
+SPEAKER_00, And are you married?,432.061,432.796
+SPEAKER_01, I am.,433.102,433.388
+SPEAKER_01, Yeah.,434.041,434.224
+SPEAKER_00, Congratulations.,435.082,435.959
+SPEAKER_01, Thanks.,436.245,436.612
+SPEAKER_00, Do you have any children?,437.02,437.959
+SPEAKER_01," No, not yet.",438.061,438.735
+SPEAKER_00, No children?,439.061,439.816
+SPEAKER_01, No.,440.102,440.224
+SPEAKER_00, Okay.,441.163,441.449
+SPEAKER_00, All right.,442.204,442.816
+SPEAKER_00, And so do you have hobbies that you like to do?,443.523,445.416
+SPEAKER_01, I do.,446.143,446.367
+SPEAKER_01," I like to cook, and I like to garden.",447.0,448.737
+SPEAKER_01, It's been kind of difficult to garden because I can't lean forward as much for the past,450.14,455.538
+SPEAKER_01, two days.,456.347,456.796
+SPEAKER_00," Yeah, it can be frustrating when you can't do the things you enjoy.",457.503,460.618
+SPEAKER_01, Yeah.,461.061,461.184
+SPEAKER_00, Any tobacco use?,462.286,462.98
+SPEAKER_01," I smoke probably maybe half a pack a day, if that.",463.722,468.358
+SPEAKER_00, And how long have you been smoking?,469.303,470.434
+SPEAKER_01," Oh, I want to say maybe seven years or so.",471.843,474.474
+SPEAKER_00, Okay.,476.163,476.327
+SPEAKER_00, Any alcohol use?,477.02,477.939
+SPEAKER_01, Occasional.,478.286,479.0
+SPEAKER_01, I'll have a glass of wine with dinner maybe once a week.,479.482,483.277
+SPEAKER_00, Okay.,484.143,484.367
+SPEAKER_00, All right.,485.0,485.184
+SPEAKER_00," Well, I believe I got all the information I needed from you, so we're going to go ahead  and move on to the physical exam portion.",488.569,494.0
+SPEAKER_01, Okay.,494.02,494.122
+SPEAKER_00, So what I'm going to do is I'm just going to have you take a seat up here.,495.101,498.678
+SPEAKER_01, Okay.,499.0,499.898
+SPEAKER_00, Yeah.,500.061,500.531
+SPEAKER_00, All right.,502.0,502.429
+SPEAKER_00," For the physical exam, I'm going to go ahead and listen to your heart and lungs and make  sure those sound nice and clear.",507.072,511.111
+SPEAKER_01, Okay.,512.143,512.408
+SPEAKER_00, So I'm just going to slide this down and just breathe normal.,513.241,515.952
+SPEAKER_01, Okay.,518.485,518.788
+SPEAKER_00, And go and take a big deep breath.,524.553,526.158
+SPEAKER_00, And again.,527.081,528.772
+SPEAKER_00, Again.,531.687,531.909
+SPEAKER_00, And last one.,534.43,535.235
+SPEAKER_00, Good.,537.535,537.677
+SPEAKER_00, And so I'm just going to do a structural exam here and palpate down your spine.,540.387,544.96
+SPEAKER_00, Let me know if there's anything that's tender.,545.283,546.98
+SPEAKER_01, It's tender everywhere.,547.0,548.0
+SPEAKER_00, Everywhere.,548.184,548.735
+SPEAKER_00, Okay.,549.367,549.612
+SPEAKER_00, I'm going to work my way down.,550.02,551.893
+SPEAKER_00, Okay.,558.51,558.755
+SPEAKER_00, And I'm going to check the range of motion in your neck.,559.141,560.919
+SPEAKER_00, So what I want you to do is try to put your chin down to your chest.,561.06,563.593
+SPEAKER_01, It's about as far as I can go.,565.826,567.557
+SPEAKER_00," And then looking up to the ceiling, pretty stiff.",568.02,570.874
+SPEAKER_00, Okay.,573.556,573.677
+SPEAKER_00," And what about looking, turning and looking over to this shoulder?",574.321,577.554
+SPEAKER_01, Okay.,579.612,580.0
+SPEAKER_00, All right.,580.551,581.0
+SPEAKER_00, And turn and look to that shoulder for me.,581.563,583.633
+SPEAKER_00, Right there.,585.646,586.818
+SPEAKER_01, Right there.,587.265,587.633
+SPEAKER_00, And then ear to your shoulder.,588.101,589.394
+SPEAKER_00, Trying to touch your ear over to your shoulder.,590.342,592.074
+SPEAKER_00, And then ear to the other shoulder.,593.423,594.893
+SPEAKER_01, That's as far as I can go on this side.,596.909,597.96
+SPEAKER_00, Okay.,598.082,598.429
+SPEAKER_00,All right.,598.469,598.837
+SPEAKER_00, And I'm going to go ahead and check just some reflexes.,599.482,602.276
+SPEAKER_00, This will kind of tell me if there's any nerves that are involved.,603.061,605.0
+SPEAKER_00, So just relax your arm.,605.101,606.588
+SPEAKER_00, And we're going to rest your arm right here on your lap.,609.0,611.189
+SPEAKER_00, And just relax.,614.523,615.268
+SPEAKER_00, Okay.,617.367,617.531
+SPEAKER_00, And I'm going to do the same thing on this arm.,618.0,619.96
+SPEAKER_00, So just relax your arm.,620.0,620.683
+SPEAKER_00, And just relax.,624.342,625.047
+SPEAKER_00," And then the last one, just let your arm hang.",627.0,628.606
+SPEAKER_00, And now I'm going to test and see how strong you are.,632.0,633.879
+SPEAKER_00, So place your arms like this for me and don't let me move your arms.,634.0,636.553
+SPEAKER_00, Good.,638.181,638.383
+SPEAKER_00, And arms up.,641.041,641.592
+SPEAKER_00, And don't let me push them.,642.283,643.03
+SPEAKER_00, Good.,644.612,644.837
+SPEAKER_00, And fingers out for me.,645.02,646.0
+SPEAKER_00, Don't let me squeeze them.,646.444,647.313
+SPEAKER_00, And fingers together and try to push them out.,648.262,650.215
+SPEAKER_00, Good.,651.245,651.429
+SPEAKER_00, All right.,652.469,652.755
+SPEAKER_00," If it's okay with you, as an osteopathic student we've learned some treatments.",653.0,656.0
+SPEAKER_00, So I'm going to do some soft tissue to try and break up some of this tension that you're having.,656.141,660.759
+SPEAKER_01, Okay.,661.061,661.327
+SPEAKER_00, If that sounds okay.,662.224,663.0
+SPEAKER_01, Yeah.,663.02,663.184
+SPEAKER_00, Okay.,664.184,664.286
+SPEAKER_00, I'm going to hurt yourself.,665.0,665.98
+SPEAKER_01, It doesn't want to hurt too bad.,666.122,666.98
+SPEAKER_00," No, it's not going to hurt.",667.02,667.694
+SPEAKER_00," And if there's any pain, I want you to let me know.",668.081,671.0
+SPEAKER_00," And so I'm just going to do just very gentle, it's called myofascial.",671.582,675.478
+SPEAKER_00, I'm just going to slowly up.,676.401,679.866
+SPEAKER_00," And if this is something that you do get some relief from after this evening, then you can come back and we can be a little more aggressive.",689.08,696.94
+SPEAKER_00," But since the car accident was just two days ago, I want to be very gentle.",697.181,700.94
+SPEAKER_01, Okay.,701.261,701.583
+SPEAKER_00, Okay.,705.367,705.857
+SPEAKER_00, I'm just going to hold this right here.,706.081,708.154
+SPEAKER_00, All those muscles that are tight and spasming right now attach right up where my fingers are at.,709.241,713.98
+SPEAKER_00, So I'm just trying to get them to relax and loosen.,714.301,717.066
+SPEAKER_01, So this is supposed to relax all the muscles in here?,724.04,725.939
+SPEAKER_00, Uh-huh.,726.041,726.224
+SPEAKER_01, Okay.,727.0,727.224
+SPEAKER_00, All right.,728.0,728.327
+SPEAKER_00, I think that will be enough for today.,732.675,733.779
+SPEAKER_00, I don't want to do too much since it was such an acute injury.,734.805,737.0
+SPEAKER_00, So I'm going to go ahead and help you up.,737.06,739.847
+SPEAKER_00," And then I'm going to go ahead and summarize everything that you told me from earlier, if that's okay.",745.863,749.96
+SPEAKER_00, Would you prefer sitting back down in the chair?,751.55,753.0
+SPEAKER_01, Sure.,753.202,753.424
+SPEAKER_00, I'll help you here.,756.808,757.374
+SPEAKER_01, Okay.,758.327,758.694
+SPEAKER_00, So you started having some neck pain two days ago after a motor vehicle accident.,759.1,763.799
+SPEAKER_00," You were rear-ended, but you were wearing your seat belt.",764.624,766.98
+SPEAKER_00, You didn't hear any pop or have any numbness or tingling that occurred.,767.06,771.0
+SPEAKER_00," And it's just been real tight for the past two days, real constant, but it's worse whenever you flex your head down or turn to the left.",772.002,781.0
+SPEAKER_00, Is that correct?,781.061,781.959
+SPEAKER_01, Yes.,782.02,782.143
+SPEAKER_00," And as far as your past medical history, you just have asthma and you're taking some medication for that.",783.602,789.96
+SPEAKER_00, Okay.,790.02,790.184
+SPEAKER_00, And you're not allergic to anything?,791.889,792.96
+SPEAKER_01, Penicillin.,793.122,793.816
+SPEAKER_00," Oh, excuse me.",794.286,794.816
+SPEAKER_00," Yes, that's right.",795.0,795.449
+SPEAKER_00, You are allergic to penicillin.,796.0,796.918
+SPEAKER_00, All right.,797.061,797.796
+SPEAKER_00," What I will do is I will go talk to Dr. Parrott, and then we will be back in to put together a treatment option plan for you.",798.16,805.9
+SPEAKER_01, Okay.,806.265,806.939
+SPEAKER_00, Any other questions or concerns you have for me today?,807.02,809.0
+SPEAKER_01," No, I don't think so.",809.101,810.051
+SPEAKER_01, I just want to feel better.,811.0,812.0
+SPEAKER_00, All right.,812.0,812.245
+SPEAKER_01," Well, that is our main goal, so I'm glad you came in today.",813.181,815.94
+SPEAKER_00, Great.,816.122,816.327
+SPEAKER_00, Thank you.,817.224,817.694
+SPEAKER_01, Thank you.,818.02,818.306

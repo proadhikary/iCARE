@@ -1,0 +1,156 @@
+speaker,text,start,end
+SPEAKER_00,"Hi Sherry, how you're doing today?",14.739,15.56
+SPEAKER_01, I'm doing okay.,16.368,16.974
+SPEAKER_00, You're doing okay?,17.863,18.347
+SPEAKER_00, I understand your father brought you in today.,19.96,22.359
+SPEAKER_00, He was a little worried about how you might be feeling.,22.842,25.075
+SPEAKER_01," Yeah, I mean he's worried that I'm depressed, but I'm not.",27.325,31.519
+SPEAKER_00," Yeah, he had mentioned that you had some concerns about some things going on in your neighborhood  and that you called the police a few times.",33.164,40.637
+SPEAKER_01, He told you that?,41.349,41.879
+SPEAKER_00, He told me about that.,42.405,43.051
+SPEAKER_01," Well, yeah, I mean I had called, I've called the police a few times because there's something  going on in my neighborhood.",44.662,51.468
+SPEAKER_01," And it makes me seem like I'm depressed, but I'm not.",54.402,57.9
+SPEAKER_01," I just, I'm concerned about what's going on.",58.624,61.015
+SPEAKER_00," So you're not depressed, you're more concerned.",62.484,64.658
+SPEAKER_00, So what's going on where you live that's leading to these feelings?,65.963,72.118
+SPEAKER_01," Well, it's actually very scary.",73.703,76.153
+SPEAKER_01," There, I know about the government has been kidnapping girls in this area and taking them  away for sex trafficking and prostitution.",78.321,92.578
+SPEAKER_00, So you believe the government is apprehending people in the area where you live?,94.886,99.9
+SPEAKER_01, I know they are.,100.104,100.675
+SPEAKER_00, You know they are?,100.94,101.696
+SPEAKER_01, Yes.,101.961,102.042
+SPEAKER_00, And did you see things that specifically led you to believe this?,103.121,107.816
+SPEAKER_01," Yeah, yes.",109.002,109.777
+SPEAKER_01," So there specifically were two girls that lived down the street and I saw a van come  down the street and the girls were taken and that's when I initially called the police,  but I found that they're in on it too.",110.02,129.357
+SPEAKER_01, They...,130.512,130.696
+SPEAKER_00, The police are in on it too?,131.766,132.813
+SPEAKER_01, Yes.,134.002,134.185
+SPEAKER_01," They tried to tell me that the girls are just, were, they're safe and with their aunt, but",135.803,141.318
+SPEAKER_01, I know they're not.,143.051,143.92
+SPEAKER_00, So they investigated what you saw and they came back and told you that...,143.92,149.8
+SPEAKER_01, They pretended to.,150.226,150.838
+SPEAKER_00, They pretended to investigate?,151.486,152.597
+SPEAKER_01, Yeah.,153.226,153.389
+SPEAKER_00," And they came back and told you everything was okay, but you're not...",154.041,157.498
+SPEAKER_01," I mean I know it's a lie because I saw the girls, I haven't seen the girls since.",158.101,163.579
+SPEAKER_01," I saw the girls on the street, the van came, the girls were not there and they told me  everything's fine, but I know that's a lie and I won't go back to the police again because  I know that they're now in on it.",163.96,177.987
+SPEAKER_00, They're in on the...,180.584,182.699
+SPEAKER_01, What the government's been doing.,183.627,184.819
+SPEAKER_00, What the government's been doing.,184.981,185.9
+SPEAKER_01, Yes.,186.022,186.43
+SPEAKER_00," What do you think of your father's concerns with, you know, he's concerned that you're,  that you're down, you're depressed and that your thinking hasn't been, been clear?",187.281,200.88
+SPEAKER_00, What do you think about his concerns?,201.987,203.235
+SPEAKER_01," I mean, I know he's worried about me, but you know, it's...",204.361,209.516
+SPEAKER_01," He just doesn't understand the severity of the situation and you know, it's hard, it's  hard to sleep when I'm thinking about these poor girls and you know, it's the government.",211.602,227.92
+SPEAKER_01," Like the government has cameras everywhere and they can watch what I'm doing at all times  and it's, you know, it's exhausting.",228.281,237.711
+SPEAKER_01," So I can see how he would think I'm depressed because you know, I'm worried, I'm not sleeping  well and I'm not eating because what if they poisoned my food?",240.12,252.92
+SPEAKER_01," You know, they're poisoning water all the time.",253.484,255.397
+SPEAKER_01," So you know, it is, it's scary and it is affecting you, but it's not depression.",256.101,261.499
+SPEAKER_00," You're not, you're not depressed?",262.344,263.738
+SPEAKER_01," No, I'm sad for those girls and I'm scared for, for me and like what's going on.",264.642,269.92
+SPEAKER_01," But you know, I want to make sure that this doesn't happen again because you know, I can't  let it happen.",270.722,279.92
+SPEAKER_01, I can't let this continue.,280.082,281.859
+SPEAKER_01," So that's, that's what's taking up my time right now.",281.98,285.397
+SPEAKER_00, And how long has this been going on?,286.985,289.337
+SPEAKER_01," Um, for a few months.",291.061,293.839
+SPEAKER_00, A few months.,294.566,295.031
+SPEAKER_00," Is that when you first saw what you, what you believe to be the kidnapping?",296.622,301.86
+SPEAKER_01," When I saw the kidnapping, yes.",302.385,303.718
+SPEAKER_00, That was a few months ago.,304.183,305.435
+SPEAKER_00, Were there any beliefs like this before two months?,306.522,311.499
+SPEAKER_01," Um, I mean, yes.",312.703,316.699
+SPEAKER_01," I've always been aware that the government, you know, is probably up to things that they  probably shouldn't be and that they have access and abilities beyond, you know, the normal  person.",317.601,334.818
+SPEAKER_01," But after I saw the kidnapping, um, I had proof and so it's, it's gotten worse because  I feel like they know that I know.",335.462,343.792
+SPEAKER_00, All right.,345.247,345.838
+SPEAKER_00," So you, you felt this way for a while, but seeing what you saw two months ago, that,  that made you more sure?",346.562,354.758
+SPEAKER_01, Yes.,355.124,355.267
+SPEAKER_01, Because now I have proof.,356.263,357.92
+SPEAKER_00, Because now you have proof.,357.92,359.516
+SPEAKER_00, Have you ever been treated for depression in the past?,360.683,364.418
+SPEAKER_01," Um, yes.",365.544,367.678
+SPEAKER_01," Um, my dad has taken me before when he was worried about me.",368.602,373.358
+SPEAKER_01," Um, but I, you know, it's never really been depression.",374.261,380.92
+SPEAKER_01, It's always been something else.,381.708,382.88
+SPEAKER_01," Like, I'm fine.",383.587,384.758
+SPEAKER_01," I just, I'm aware of what's going on around me.",384.92,386.92
+SPEAKER_01, And I don't think my dad understands that.,387.001,388.92
+SPEAKER_01," I don't think, um, the places he takes me understands that.",389.523,392.92
+SPEAKER_01, So.,392.94,392.981
+SPEAKER_00," What have, uh, the people at the places where he has taken you, what have, what have they  said about your condition?",395.526,401.759
+SPEAKER_01," Um, you know, they, they try to say the same thing that, you know, I'm depressed or, um,  whatever.",403.163,411.9
+SPEAKER_01," But, you know, I know, I know the truth.",411.94,414.86
+SPEAKER_01, And sometimes I just have to play along.,415.001,416.994
+SPEAKER_00, You just play along with it?,418.728,419.678
+SPEAKER_01, Yeah.,420.165,420.349
+SPEAKER_01, Yeah.,421.226,421.328
+SPEAKER_01," Because, you know, this is what the government wants.",421.92,423.92
+SPEAKER_01, They want me to look crazy.,424.728,425.839
+SPEAKER_01," So, there's something I can do about it.",426.865,429.639
+SPEAKER_00," So you think they want to, like, discredit, discredit you?",430.482,434.699
+SPEAKER_01, Yeah.,435.573,435.716
+SPEAKER_01," Because if I, if, you know, it's kind of like smearing my good name.",435.94,439.417
+SPEAKER_01," They see me, um, in and out of different agencies and appearing crazy, you know, or, obviously,  a lot of people don't believe the story.",440.1,449.819
+SPEAKER_01, They choose not to believe or they get paid off.,450.182,451.893
+SPEAKER_01," And they write what they write on my file, but it's not true.",453.463,456.297
+SPEAKER_01," I'm, I just know what's going on.",458.749,459.754
+SPEAKER_00," And because you know what's going on, that's what's led to all, um, these occurrences.",461.923,467.095
+SPEAKER_00, This has led to the symptoms.,469.101,471.598
+SPEAKER_01," Yeah, like lately, yeah.",472.021,473.334
+SPEAKER_01," Like, you know, I haven't been able to sleep, you know, and, you know, I feel guilty about what's going on around me  and that I know and that, you know, I feel it's hard for me to help them, like, with, you know, cameras everywhere.",474.101,490.359
+SPEAKER_01, I can't even go to the grocery store without being watched.,491.242,494.417
+SPEAKER_01, And I know they're watching me.,494.92,495.736
+SPEAKER_01," So, you know, I do everything I'm supposed to, you know, like I go to work, I do the chores  because I have to make sure they see me going to work and doing the chores.",495.92,507.032
+SPEAKER_00," So you, so you kind of play along?",509.94,511.49
+SPEAKER_01, Yeah.,513.342,513.543
+SPEAKER_00, All right.,517.161,517.521
+SPEAKER_00,So do you ever have any thoughts related to death or dying or anything like that?,517.702,524.517
+SPEAKER_01, No.,526.743,527.044
+SPEAKER_01,"No, like I'm worried.",528.569,529.432
+SPEAKER_01,No.,531.097,531.178
+SPEAKER_00, You're worried about what?,532.226,532.879
+SPEAKER_01," I mean, I'm worried about the government, you know, destroying my life, you know, but I don't want to die  and I don't think they're going to kill me.",533.421,548.231
+SPEAKER_01,"I think that would be too easy and it would just be more proof, so.",548.251,551.359
+SPEAKER_00, That would be more proof that what you've seen is real?,552.484,554.92
+SPEAKER_01, Correct.,555.945,556.327
+SPEAKER_01,Because obviously I'm trying to tell people about it.,556.649,558.779
+SPEAKER_01," And if I suddenly show up missing, like, people are going to know.",559.624,562.578
+SPEAKER_01," So I know that they're not going to hurt me, but they could make me look crazy and I'm worried about my life,  like, they're worrying about my life.",563.141,571.435
+SPEAKER_00, About it in that way.,572.708,573.395
+SPEAKER_00, How about any drug or alcohol abuse or anything like that?,575.446,578.92
+SPEAKER_01, No.,579.451,579.532
+SPEAKER_01, Nothing?,579.981,580.267
+SPEAKER_01, I don't like to use those things.,580.92,581.859
+SPEAKER_00, All right.,581.94,582.142
+SPEAKER_00,Any medical conditions?,583.152,583.92
+SPEAKER_01, No.,584.829,584.93
+SPEAKER_00," Has there ever been a time when you felt, like, really very happy?",586.441,593.15
+SPEAKER_00,"Like, a lot of energy and it was, you were very happy for several days?",593.711,597.877
+SPEAKER_01, Not really.,600.165,600.716
+SPEAKER_00, That's never happened?,600.94,601.512
+SPEAKER_01, No.,602.267,602.308
+SPEAKER_00, Okay.,602.94,603.022
+SPEAKER_00, Have you ever heard or seen things other people can't hear or see?,604.421,609.797
+SPEAKER_01," I think that I'm aware of things that people don't know, like.",611.92,616.974
+SPEAKER_00, All right.,619.02,619.482
+SPEAKER_00,Have you been hospitalized before?,621.348,623.254
+SPEAKER_01, Yes.,625.261,625.581
+SPEAKER_01,"But again, it was, I tried to initially tell my dad about some things that I knew about,  and he had taken me to the hospital, but that was before.",627.985,645.659
+SPEAKER_00, So I would like to get you in a talk to a counselor today.,649.306,654.474
+SPEAKER_00,How do you feel about that?,654.494,657.219
+SPEAKER_01, Is it really necessary today?,660.708,662.694
+SPEAKER_01,"Like, can I come back another day?",662.774,664.378
+SPEAKER_00, I think it would be helpful if we had a counselor talk to you today.,666.02,669.876
+SPEAKER_01," Well, I understand that's what you need to do, so I guess, you know, if that's what we need to do to get this over with, that's fine.",671.301,680.118
+SPEAKER_00, You can be okay with that?,684.053,684.996
+SPEAKER_01, I can play along.,686.104,686.9
+SPEAKER_00, You can play along?,686.961,687.879
+SPEAKER_01, Mm-hmm.,687.92,688.144
+SPEAKER_00, All right.,689.389,689.92
+SPEAKER_00," Sherry, I want to thank you for answering these questions.",691.401,695.39
+SPEAKER_00,"I know this is a tough experience for you,  and having a tough time with everything that's going on that you've described.",695.47,703.116
+SPEAKER_00, So it's been helpful for you to answer these questions for me.,704.483,707.86
+SPEAKER_00," And I'll just need a couple minutes, and I'll get you over to see a counselor, and we'll kind of go from there.",708.863,714.519
+SPEAKER_01, Okay.,715.042,715.451
+SPEAKER_00, All right.,715.961,716.144
+SPEAKER_00,"Thank you, Sherry.",716.165,716.757
+SPEAKER_01, You're welcome.,717.002,717.777

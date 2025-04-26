@@ -1,0 +1,420 @@
+speaker,start,end,text
+SPEAKER_00,1.212,1.657, Hello Alyssa.
+SPEAKER_01,2.388,2.714, Hello.
+SPEAKER_00,3.02,3.906, It's good to see you today.
+SPEAKER_00,3.946,5.195,I'm glad you came to see me.
+SPEAKER_01,6.768,6.97, Okay.
+SPEAKER_00,8.663,11.337," So, tell me a little bit more about why you're here."
+SPEAKER_01,12.944,16.699," Um, well I guess I have anger issues."
+SPEAKER_01,17.705,19.456, I just find myself getting mad all the time.
+SPEAKER_01,20.623,23.799," And uh, feeling all the trouble over it."
+SPEAKER_01,24.906,28.636," People can't handle it so,  I'm gonna come here for it."
+SPEAKER_00,29.383,29.685, Okay.
+SPEAKER_00,30.107,31.396,"So, which way did you come here for it?"
+SPEAKER_01,32.143,32.612, The courts.
+SPEAKER_00,33.121,33.343, Okay.
+SPEAKER_00,33.364,33.465,Okay.
+SPEAKER_00,33.869,34.192,Got it.
+SPEAKER_01,35.604,37.738," So, yeah I'm not really, I don't really want to be here but."
+SPEAKER_01,38.04,39.535," So, I'm not excited about being here."
+SPEAKER_00,39.859,39.98,Yeah.
+SPEAKER_00,41.152,41.576," Yeah, I hear that."
+SPEAKER_00,42.983,45.271," Well, what is your objective?"
+SPEAKER_00,45.452,47.418,What do you want out of this today?
+SPEAKER_01,49.163,55.88," Um, I mean I know, I'm probably a lot angrier than the average person."
+SPEAKER_01,57.146,60.0," So, I mean people do a lot of things to make me mad."
+SPEAKER_01,60.08,65.0," So, I guess that's like a better way to not be so mad all the time."
+SPEAKER_00,65.603,66.045, Okay.
+SPEAKER_00,67.151,68.879,And maybe manage that a little bit better.
+SPEAKER_01,69.143,69.49, Yeah.
+SPEAKER_00,70.0,70.141, Okay.
+SPEAKER_00,70.161,74.498,"Tell me, um, is it school when you're getting mad?"
+SPEAKER_00,75.644,77.195, Is it home when you're getting mad?
+SPEAKER_00,77.215,78.0,Is it friends?
+SPEAKER_00,78.061,79.697," So, tell me about that little bit."
+SPEAKER_01,80.02,82.0," Um, just with my friends I'm cool."
+SPEAKER_01,82.02,86.114, It's just definitely at home with my mom.
+SPEAKER_01,87.057,88.0,We fight almost every day.
+SPEAKER_01,89.484,92.972," And at school I get, I get the teachers."
+SPEAKER_01,93.815,95.679,"So, I get like detention and stuff like that."
+SPEAKER_00,96.764,96.884, Okay.
+SPEAKER_00,96.905,97.97,Okay.
+SPEAKER_00,98.111,98.251,Okay.
+SPEAKER_00,102.065,107.759," So, before we get into this a little bit, I'd like to tell you a little bit about your brain."
+SPEAKER_00,107.779,107.86,Okay?
+SPEAKER_01,108.0,108.347, Okay.
+SPEAKER_00,109.081,111.879, Have you ever heard of the amygdala?
+SPEAKER_01,112.959,113.0, No.
+SPEAKER_00,113.462,113.703, Yeah.
+SPEAKER_00,114.285,117.9,"When you get into high school, you're going to know about this in advance, but you're going to learn about this in high school science."
+SPEAKER_00,118.101,121.98," So, your amygdala is like right here at the base of your brain back here."
+SPEAKER_00,123.025,125.859, And it's known as the alarm center.
+SPEAKER_00,126.944,130.859," So, you think about pulling an alarm, you know, an alarm is going off in your brain."
+SPEAKER_00,132.1,140.88," And that alarm normally it indicates fight, flight, or freeze."
+SPEAKER_00,141.884,146.0," So, it makes you want to fight, fight back, right?"
+SPEAKER_00,147.124,151.0," It makes you want to freeze, you just kind of panic, freeze, don't know what you do."
+SPEAKER_00,151.863,156.0," Or flight, which means get out of there, you know, get away."
+SPEAKER_00,156.082,156.449, Get away.
+SPEAKER_00,157.061,157.388, Alright?
+SPEAKER_00,158.04,162.197," So, that's kind of what your brain, that's the alarm system, that's kind of your brain."
+SPEAKER_00,163.04,171.519," So, let's think about some situations when you're in these angry situations."
+SPEAKER_00,172.222,173.495, And let's just kind of step through them.
+SPEAKER_00,174.301,178.375," So, give me an example, really specific of maybe two."
+SPEAKER_00,180.0,183.658, When the alarm is going off and you are really angry.
+SPEAKER_01,184.141,186.396," Yeah, I'm definitely a fighter."
+SPEAKER_00,187.0,187.837," Okay, you're a fighter."
+SPEAKER_01,188.163,188.286, Yeah.
+SPEAKER_00,189.0,189.143, Alright.
+SPEAKER_01,190.421,203.94," Because just thinking, just yesterday with my mom, she told me to do this, which I was going to do."
+SPEAKER_01,204.04,205.838, I just wanted the show to end.
+SPEAKER_01,206.523,208.758, She kept yelling at me to do it.
+SPEAKER_01,209.141,210.732, And I didn't like the way she was yelling at me.
+SPEAKER_01,212.725,214.678, And I just wanted to do like I was going to do it.
+SPEAKER_01,215.04,217.477, Because she would just shut up about it.
+SPEAKER_01,218.02,220.0," So, I mean it just pissed me off."
+SPEAKER_01,220.121,223.276," So, I started yelling at her and she started yelling at me."
+SPEAKER_01,224.542,228.96," And then a little brother came in, it was just the whole family."
+SPEAKER_01,229.768,230.879, And everyone was just yelling at me.
+SPEAKER_01,231.02,236.318," And I don't remember all the details, but I just remember I ended up punching a wall."
+SPEAKER_00,237.082,237.245, Okay.
+SPEAKER_01,238.081,239.657, That was just yesterday.
+SPEAKER_00,240.202,242.0," Okay, that was just yesterday."
+SPEAKER_00,242.306,242.592, Okay.
+SPEAKER_00,243.061,243.286, Alright.
+SPEAKER_00,244.0,254.0," So, the situation, mom asked you to do something, you were kind of in the middle of something,  she got past your knee and you started yelling, she started yelling, it starts escalating, you punch a wall."
+SPEAKER_01,254.041,254.959, Okay.
+SPEAKER_00,255.429,255.714, Okay?
+SPEAKER_00,256.082,256.327, Okay.
+SPEAKER_00,257.727,258.677, I got that situation.
+SPEAKER_00,263.048,268.98, Tell me about a situation at school where your alarm center is like going off.
+SPEAKER_01,269.341,275.451," My history teacher, sometimes just looking at her, she just has this attitude, she's not walking in."
+SPEAKER_01,281.16,292.98," And then, but I mean it's such a boring teacher, so I tend to sleep in class and I can't help it."
+SPEAKER_01,295.307,297.799, And then she'll call me out for the whole class.
+SPEAKER_01,300.452,301.879, And it just makes me mad.
+SPEAKER_01,303.723,311.76," And we'll start going back and forth saying stuff and it goes, I end up cussing her out."
+SPEAKER_01,312.925,315.899, And that's when I had to go to detention.
+SPEAKER_00,316.02,316.265, Mm-hmm.
+SPEAKER_00,317.163,317.551, Mm-hmm.
+SPEAKER_00,318.245,318.878, I see.
+SPEAKER_00,319.082,319.184, Okay.
+SPEAKER_00,320.461,327.94," So you're in class, teacher's calling you out, and you're just wondering if a lot of anger and cursing get you in the nice place."
+SPEAKER_00,328.061,328.98, Okay.
+SPEAKER_00,329.551,329.776, Okay.
+SPEAKER_00,331.067,332.054," Jane, good example."
+SPEAKER_00,333.461,341.88, Is there any time when there's anxiety that's happening before the anger comes out?
+SPEAKER_00,342.667,343.98, When you're in bad anxiety.
+SPEAKER_01,344.041,344.98, Yeah.
+SPEAKER_00,345.1,361.78," Like maybe, yeah, if you ever get anxious where you just kind of freeze, or yours are more of a reactive of a fight, of a lash out, of a get it out."
+SPEAKER_00,362.224,363.0, That's kind of your response.
+SPEAKER_01,363.0,364.859," I don't want to feel something, I have to get it out."
+SPEAKER_00,365.082,365.367, Okay.
+SPEAKER_01,366.0,368.94, I can't even think of a time when I actually stop to think.
+SPEAKER_00,369.122,369.327, Okay.
+SPEAKER_00,370.51,370.735, Okay.
+SPEAKER_00,371.122,371.408, Okay.
+SPEAKER_00,372.245,372.429, Okay.
+SPEAKER_00,373.02,373.918, I think that's good.
+SPEAKER_00,374.32,390.279," Well, I want you to, it's kind of helpful, I think, to understand a little bit about what's going on in your brain, and then you can maybe help monitor it, help control it, help manage it a little bit better."
+SPEAKER_00,391.143,391.367, Okay.
+SPEAKER_00,392.361,399.0," So let's, I'd like to take you through an example of something."
+SPEAKER_00,399.361,405.98," It's called, and it's a way of, it's called wise mind."
+SPEAKER_00,406.388,406.673, Okay.
+SPEAKER_00,407.481,415.98," You're trying to be very conscientious about what's going on around you, how you're feeling, and how you're going to react."
+SPEAKER_00,417.222,426.96," Instead of just reacting, when that alarm goes off, you're going to think about it, name it, and then react."
+SPEAKER_00,427.822,433.396," Hopefully, maybe we can get a little bit more control on anger reactions coming."
+SPEAKER_01,435.0,435.102, Yeah.
+SPEAKER_01,436.367,436.878, And I need that.
+SPEAKER_00,437.592,437.816, Okay.
+SPEAKER_01,438.04,440.879," I don't want to see myself being too good at it, but."
+SPEAKER_00,441.327,441.551, Okay.
+SPEAKER_00,442.364,443.212," Well, you know what, Alyssa?"
+SPEAKER_00,444.803,449.0," Knowing that you need that, just saying, I need that, that's a really big step."
+SPEAKER_00,449.04,449.343, It really is.
+SPEAKER_00,451.401,459.0," Some people don't even acknowledge that they need it, don't want to acknowledge it, don't care to acknowledge it, and they're not going to really get any, not going to change."
+SPEAKER_00,459.525,460.232, But you're here.
+SPEAKER_00,461.224,461.98, Maybe you don't want to be here.
+SPEAKER_00,462.441,471.0," But I'm hearing you say that you want to make a change, and that's really huge, because I think you want things to be different for yourself, it sounds like."
+SPEAKER_00,471.0,471.222, I mean.
+SPEAKER_01,473.388,473.612, Yeah.
+SPEAKER_01,474.12,478.458," But also, just watch people with something messing with them."
+SPEAKER_00,479.041,479.184, Okay.
+SPEAKER_00,480.469,480.653, Okay.
+SPEAKER_00,481.571,481.796, All right.
+SPEAKER_00,482.101,484.557," Well, there's a desire there, I see, and I appreciate that, and that's great."
+SPEAKER_00,485.481,497.84," And there are lots of different techniques for this, and I'm just going to offer one today, and then you can practice it all week, and then when we talk next week, we'll kind of see how you are with that, and if it's not working for you, we'll make modifications, we might change this, okay?"
+SPEAKER_01,498.327,498.673, Thank you.
+SPEAKER_00,499.673,499.898, Okay.
+SPEAKER_00,500.0,506.737," And this is a technique where you can do it at school, at home, and it only takes about one minute."
+SPEAKER_00,508.061,509.98, Sometimes we don't have a lot of time.
+SPEAKER_00,510.34,524.96,"You know, it's great when you can take 15 minutes to calm down, maybe you're going to bed at night, and you're doing something that makes you calm down, and it's quiet, but a lot of time, in the heat of the moment, we don't have a lot of time."
+SPEAKER_00,525.583,528.96," Or when you feel that anger rising, there's not a lot of time, all right?"
+SPEAKER_01,529.286,529.735, It happens.
+SPEAKER_00,530.612,531.0, It happens a lot.
+SPEAKER_00,531.082,531.286, Okay.
+SPEAKER_00,532.503,534.879, This little procedure is called STOP.
+SPEAKER_00,535.347,535.878, S-T-O-P.
+SPEAKER_00,536.204,536.469, All right?
+SPEAKER_00,537.263,539.0," It's an acronym, S-T-O-P."
+SPEAKER_00,539.604,541.758, So S-T-O-P.
+SPEAKER_00,542.583,545.98," So it means, the first, the S, is to stop."
+SPEAKER_00,546.561,553.599," So, for example, you're watching TV, and your mom says, Alyssa, can you do this, please?"
+SPEAKER_00,554.633,554.878, All right.
+SPEAKER_00,555.982,562.298," Right then and there, you're going to say, okay, stop, and then you're going to take a breath."
+SPEAKER_00,563.857,563.98, Okay?
+SPEAKER_00,564.02,568.076," You're going to breathe in, breathe deeply, and you're going to breathe out."
+SPEAKER_00,569.281,573.719," Just like take two deep breaths, and think about your breathing."
+SPEAKER_00,574.181,576.799," Breathe in, and breathe out."
+SPEAKER_00,577.02,577.265, Okay?
+SPEAKER_00,578.0,578.837, So the T is for take a breath.
+SPEAKER_00,579.469,579.673, All right?
+SPEAKER_00,580.122,580.816, Take a breath.
+SPEAKER_00,581.0,581.184, All right.
+SPEAKER_00,582.903,587.98," And when you're taking a breath, think about, you know, your brain really needs a lot of oxygen."
+SPEAKER_00,588.622,595.0," So when you're breathing in, you're breathing oxygen into your lungs, gets into your blood, gets to your brain."
+SPEAKER_00,595.523,598.0," You're getting a lot of oxygen in your brain, which really helps you think better."
+SPEAKER_00,598.143,599.0, All right?
+SPEAKER_00,599.06,601.98," So you're breathing in, getting that oxygen right there."
+SPEAKER_00,602.0,602.857, All right.
+SPEAKER_00,603.423,605.779, The O means observe.
+SPEAKER_00,606.664,608.859, What is going on around you right now?
+SPEAKER_00,609.592,609.837, All right?
+SPEAKER_00,610.784,613.98," So in this situation, your mom asks you to do the dishes."
+SPEAKER_00,615.152,616.0, You're watching a program.
+SPEAKER_00,616.0,616.224, All right?
+SPEAKER_00,617.301,622.0," You'd like to finish the program, I think I heard you say, and then you're going to do the dishes."
+SPEAKER_00,622.0,623.0, That's how you would like it.
+SPEAKER_00,623.842,633.0," It may not be how mom would like it, but you might be able to, if you can kind of get, observe the situation and how you're feeling."
+SPEAKER_00,633.0,634.0, I'm a little mad.
+SPEAKER_00,634.0,635.0, Mom just asked me to do it.
+SPEAKER_00,635.0,636.354, Doesn't she see I'm like watching a show here?
+SPEAKER_00,637.082,637.367, All right?
+SPEAKER_00,638.485,640.0, So you're observing how you're feeling.
+SPEAKER_00,640.122,640.429, All right?
+SPEAKER_00,641.041,642.0, Watching the show.
+SPEAKER_00,642.965,645.98, I'm getting frustrated that she's asking me to do this right now.
+SPEAKER_00,646.582,651.917," Observe it, name it, claim it, and say, okay, that's how I'm feeling right now."
+SPEAKER_00,653.0,653.98, All right?
+SPEAKER_00,654.0,654.939, So you're just aware.
+SPEAKER_00,655.965,659.0, You're observing the situation and how you're feeling.
+SPEAKER_00,659.571,659.857, Okay?
+SPEAKER_00,661.265,664.578," And then the, so the O is for observe."
+SPEAKER_00,665.322,667.94, And the P is for proceed.
+SPEAKER_00,668.082,669.0, That means move forward.
+SPEAKER_00,670.128,671.94, But something that's going to benefit you.
+SPEAKER_00,672.306,673.0, That's going to be positive.
+SPEAKER_00,673.0,674.98, That's going to work for you.
+SPEAKER_00,675.02,676.879, Yelling at your mom.
+SPEAKER_00,677.224,677.98, Is that working for you?
+SPEAKER_01,678.02,678.204, No.
+SPEAKER_00,680.475,681.0, Get you in trouble.
+SPEAKER_00,681.0,682.495, Get your hand in the wall.
+SPEAKER_00,683.0,683.816, You might get hurt.
+SPEAKER_00,684.02,688.0," Moving forward, yelling at your mom's not working for you too well, is it?"
+SPEAKER_01,688.0,688.082, No.
+SPEAKER_00,689.286,689.531, Okay.
+SPEAKER_00,690.04,692.96, So we're going to proceed with something that's going to work for you.
+SPEAKER_00,694.284,699.679," In this situation, do you have an idea that might work for you?"
+SPEAKER_01,701.621,711.619," Um, I mean I just talk to her, but it's just so hard to talk to her without yelling."
+SPEAKER_01,712.0,717.797," But I mean I guess if I stopped, I wouldn't be like quite so mad."
+SPEAKER_01,719.482,722.618, So I just tell her that.
+SPEAKER_01,723.061,724.758, I'm going to do it later.
+SPEAKER_01,725.465,726.859, But I mean I see her get pissed off about that.
+SPEAKER_01,727.222,728.919, I just want to get that out.
+SPEAKER_00,729.302,731.734, But it's a good idea though.
+SPEAKER_00,733.0,733.612, It's a good thought.
+SPEAKER_00,734.584,737.0, It might be worth a try to say.
+SPEAKER_00,737.442,743.758," And maybe it's more instead of telling her I'm going to do it later, saying,  Mom, I've got ten more minutes with this show."
+SPEAKER_00,744.429,745.0, Here's ten more minutes.
+SPEAKER_00,745.02,746.879, I'm really interested in this show.
+SPEAKER_00,747.382,751.0, Can I just finish the ten more minutes and then I will do the dishes?
+SPEAKER_00,751.081,752.96, Kind of put it in a question.
+SPEAKER_00,753.742,761.212," So instead of saying, I'm going to do it later, say, I just got ten more minutes  and I really want to finish this show."
+SPEAKER_00,762.08,768.378," Is it okay if I just do the dishes as soon as, in ten minutes when I finish this show?"
+SPEAKER_00,769.846,771.255, Does that sound like something that maybe?
+SPEAKER_01,772.161,779.879," Yeah, I mean that's what I said before, but I mean I was kind of,  I probably won't have liked the way I was saying it and stuff like that."
+SPEAKER_00,780.323,781.879," Yeah, yeah, I hear that."
+SPEAKER_00,782.404,784.0," Well, I'm glad you can acknowledge that."
+SPEAKER_00,784.265,784.857, That's really good.
+SPEAKER_00,785.429,785.959, That's a real big step.
+SPEAKER_00,786.101,787.354, That's a real big step.
+SPEAKER_00,788.823,792.819, So let's step through that one more time.
+SPEAKER_00,793.347,793.837, S-T-O-P.
+SPEAKER_00,794.525,795.495, The S is for?
+SPEAKER_01,796.041,796.184, Stop.
+SPEAKER_00,797.222,798.859," Yeah, all right, stop."
+SPEAKER_00,799.481,805.619," Before you react, before you respond in anger, you're just going to stop."
+SPEAKER_00,806.949,807.313, What's the T?
+SPEAKER_01,808.182,808.99, Take a breath.
+SPEAKER_00,810.102,810.408, Exactly.
+SPEAKER_00,811.485,811.909, Take a breath.
+SPEAKER_00,813.222,814.475, You're getting oxygen into your brain.
+SPEAKER_00,815.603,818.095," So you can think clearly, rationally."
+SPEAKER_00,819.51,820.0, Take two big breaths.
+SPEAKER_00,820.848,821.717," Three, maybe."
+SPEAKER_00,822.848,822.869, O.
+SPEAKER_01,824.265,824.612, Observe.
+SPEAKER_00,825.0,825.469, Observe.
+SPEAKER_00,826.184,826.735, What's going on?
+SPEAKER_00,827.02,829.718," What's going on in my body, what are my thoughts, what's the situation?"
+SPEAKER_00,830.362,832.356," You know, how am I feeling right now?"
+SPEAKER_00,833.101,835.617," Name it, claim it, okay?"
+SPEAKER_00,836.404,837.394, I'm going to press read in here.
+SPEAKER_00,838.242,839.913, I'm going to finish this.
+SPEAKER_00,841.502,842.586," All right, and then what's the P?"
+SPEAKER_01,846.612,847.0, Proceed.
+SPEAKER_00,847.245,847.939," Proceed, that's right."
+SPEAKER_00,848.612,849.0, Proceed.
+SPEAKER_00,849.441,855.9," How am I going to go forward in a way that's going to be helpful to me or good for me or benefit me, right?"
+SPEAKER_00,856.482,859.196," So what, in that situation, what's the P going to be?"
+SPEAKER_00,860.768,861.939, What's the proceed going to be?
+SPEAKER_00,862.0,862.898, How are you going to proceed?
+SPEAKER_01,863.583,866.879," Just top of my mind, like a calmer."
+SPEAKER_00,867.343,868.535," Yeah, in a calm voice."
+SPEAKER_00,869.141,872.0," Ask her, as soon as this program is over, can I do it, mom?"
+SPEAKER_00,872.321,876.076," I really want to finish this, then I promise you I'll do the dishes as soon as this program is over."
+SPEAKER_01,877.303,878.879," Yeah, I'll do it with a compromise."
+SPEAKER_00,879.429,880.0," Yeah, there you go."
+SPEAKER_00,880.102,881.0, There you go.
+SPEAKER_00,881.805,883.638," In that situation, very good."
+SPEAKER_00,884.02,887.578," You're getting a little bit what you want, she's going to get what she wants, it's a great compromise."
+SPEAKER_01,888.367,888.531, Yeah.
+SPEAKER_00,889.224,889.959, Worth a shot?
+SPEAKER_00,890.0,890.367, Worth a try?
+SPEAKER_01,891.082,891.224, Yeah.
+SPEAKER_01,892.061,892.265, Okay.
+SPEAKER_01,893.041,893.469, I'm just one.
+SPEAKER_00,894.061,894.306, Yeah.
+SPEAKER_00,895.161,898.899," You know, it takes a lot of time to make a change."
+SPEAKER_00,899.51,899.959, It really does.
+SPEAKER_00,900.422,904.618," You've been doing it one way for a long time, and it takes a lot of time to do something different."
+SPEAKER_00,905.121,906.616, So I want you to be patient with yourself.
+SPEAKER_00,907.0,910.0," I want you to try this every day, all right?"
+SPEAKER_00,910.321,917.071," And if you can kind of make notes for me, as we can talk about next week, like on Monday I had a fight with my mom,  I tried it, it didn't work."
+SPEAKER_00,918.04,921.015," On Tuesday I had a fight with my mom, it worked a little bit, you know."
+SPEAKER_00,922.04,926.98," And the more you do this, the better you're going to get, and the more it's going to benefit you."
+SPEAKER_00,927.0,928.0, All right?
+SPEAKER_00,928.101,929.697, The more it's going to benefit you.
+SPEAKER_01,930.0,932.98," Yeah, I see it being a little struggle in the beginning."
+SPEAKER_00,933.224,933.939, Absolutely right.
+SPEAKER_01,934.461,940.98," Just the way we talk with each other, it's hard to just stop and zone out and stuff."
+SPEAKER_00,941.265,941.714, You're right.
+SPEAKER_00,942.408,942.816, You're right.
+SPEAKER_00,943.602,948.559," Because there's a certain way in the house, and it's going to be, yeah, be patient with yourself."
+SPEAKER_00,949.543,952.377," And realize this is going to take some time, okay?"
+SPEAKER_00,953.882,961.94," Let's think about at school, a situation, if you wanted to take that one situation at school, too, okay?"
+SPEAKER_00,962.485,963.556, Say you're in history class.
+SPEAKER_00,964.162,965.859," You're in history, but you don't get along so well."
+SPEAKER_00,966.942,973.92," You're in your history class, and she's calling on you, right?"
+SPEAKER_00,974.463,976.497, This is when you get angry.
+SPEAKER_00,977.242,978.394, Is that correct about that?
+SPEAKER_01,979.265,979.653, Yeah.
+SPEAKER_01,980.0,981.96, How can I stop when she's calling on me?
+SPEAKER_01,982.141,983.717, Like I had to answer that.
+SPEAKER_00,984.723,988.98," Now, is she asking you, so is she saying, okay, Alyssa, tell me the answer to this question?"
+SPEAKER_00,989.0,989.796, Is that what she's calling?
+SPEAKER_00,990.201,992.617," Or is she saying Alyssa, wake up, because you're asleep?"
+SPEAKER_00,993.102,993.776, What is she saying?
+SPEAKER_01,994.0,998.538," Yeah, she wants to trick me because she knows I was sleeping and not paying attention, so she asks me that thing,"
+SPEAKER_01,999.0,1000.596," took a question, and obviously I don't know."
+SPEAKER_00,1001.163,1001.367, Okay.
+SPEAKER_00,1002.0,1002.755, Okay.
+SPEAKER_00,1003.51,1003.857, All right.
+SPEAKER_00,1004.0,1006.376, You're going to step through this stop process with that.
+SPEAKER_00,1007.041,1007.531, All right.
+SPEAKER_00,1008.04,1011.357," So your teacher's going to ask you, Alyssa, why don't you tell us about that?"
+SPEAKER_00,1012.0,1012.182, All right?
+SPEAKER_00,1014.0,1016.436, Instead of what's the normal reaction for you?
+SPEAKER_00,1017.424,1018.475, Your alarm center going off.
+SPEAKER_00,1019.0,1019.848, What's the normal reaction for you?
+SPEAKER_01,1021.102,1022.0," I don't know, teacher."
+SPEAKER_00,1022.286,1022.551, Okay.
+SPEAKER_00,1023.0,1023.245, All right.
+SPEAKER_00,1024.424,1025.636, You're going to try to stop.
+SPEAKER_00,1026.869,1027.172, All right?
+SPEAKER_00,1028.242,1029.087, You're going to take a breath.
+SPEAKER_00,1031.121,1031.646, Two breaths.
+SPEAKER_00,1033.523,1036.0," You're going to say, all right, how you feeling at that point?"
+SPEAKER_00,1036.745,1037.611, She's embarrassing me.
+SPEAKER_00,1039.082,1039.633, I don't know.
+SPEAKER_00,1040.12,1041.024, What else is going on?
+SPEAKER_01,1045.0,1045.306, Angry.
+SPEAKER_00,1046.02,1046.306, Okay.
+SPEAKER_00,1047.184,1047.49, Okay.
+SPEAKER_00,1048.02,1048.204, Angry.
+SPEAKER_00,1049.347,1049.98, She knows I don't know.
+SPEAKER_00,1050.0,1050.857, She's just trying to test me.
+SPEAKER_00,1051.0,1052.899, She knows I don't know the answer because I'm asleep.
+SPEAKER_01,1053.204,1053.878," Yeah, she just knows."
+SPEAKER_01,1054.302,1056.839," She's been calling, but she's just messing with me."
+SPEAKER_01,1057.0,1058.0, She's just messing with me.
+SPEAKER_00,1058.121,1059.515, So it's frustrating.
+SPEAKER_00,1060.0,1060.347, Exactly.
+SPEAKER_00,1061.265,1061.469, Right.
+SPEAKER_00,1062.0,1062.98, So you're naming that.
+SPEAKER_00,1063.02,1063.408, All right.
+SPEAKER_00,1064.061,1064.837, I'm frustrated.
+SPEAKER_00,1065.367,1065.98, She doesn't know the answer.
+SPEAKER_00,1066.02,1067.212, Why is she calling me?
+SPEAKER_00,1068.163,1068.571, Okay.
+SPEAKER_00,1069.0,1075.102," You're observing what's going on in the situation, but how are you going to proceed in a positive  way?"
+SPEAKER_00,1076.449,1076.694, All right?
+SPEAKER_00,1077.12,1085.0," Instead of yelling and getting sent out of the room, can you think of a way that might  benefit you more?"
+SPEAKER_00,1085.162,1087.0, It might be to your advantage.
+SPEAKER_00,1088.903,1094.057, Getting out of the room and going down the hall is not helping you too much.
+SPEAKER_00,1095.0,1096.818, So what's a way you can proceed?
+SPEAKER_00,1097.606,1098.636, You are frustrated.
+SPEAKER_00,1099.242,1100.556, You are maybe a little bit embarrassed.
+SPEAKER_00,1101.0,1101.949, You maybe don't know the answer.
+SPEAKER_00,1103.101,1106.92, What can you do instead of yell at that teacher and get angry at her?
+SPEAKER_00,1107.0,1108.495, What are the other thoughts maybe?
+SPEAKER_01,1109.121,1110.354, This is just how I don't know.
+SPEAKER_00,1111.327,1111.592, Okay.
+SPEAKER_01,1112.423,1113.671, I don't know what to say.
+SPEAKER_00,1115.02,1116.596," Well, that's the truth."
+SPEAKER_00,1117.342,1119.557," You might know or you may not know, but that's the truth."
+SPEAKER_00,1120.141,1122.758, You can say just simply that.
+SPEAKER_00,1123.626,1123.949, I don't know.
+SPEAKER_00,1125.402,1128.116," Then she's going to go to somebody else, right?"
+SPEAKER_01,1129.776,1129.959, Maybe.
+SPEAKER_00,1130.0,1130.286, Maybe?
+SPEAKER_00,1131.224,1131.327, Yeah.
+SPEAKER_00,1132.0,1134.839, That would be the hope that she goes to somebody else.
+SPEAKER_00,1135.673,1135.857, Yeah.
+SPEAKER_00,1136.282,1138.799," But for you, you won't be sent out of the room."
+SPEAKER_00,1139.364,1140.333, You won't be getting in trouble.
+SPEAKER_00,1141.0,1144.92, You won't be in ISS for the day and missing out.
+SPEAKER_01,1145.429,1145.592, Yeah.
+SPEAKER_00,1146.122,1146.286, Yeah.
+SPEAKER_00,1147.362,1150.497, One objective I want for you in school is for you to get to the next grade.
+SPEAKER_00,1151.082,1151.959, Get to the next grade.
+SPEAKER_00,1152.081,1153.374, You've got to be in that classroom.
+SPEAKER_00,1154.101,1157.779, Learn a little bit so you can get to the next grade.
+SPEAKER_01,1158.606,1159.717," Yeah, I'm going to want to."
+SPEAKER_00,1160.49,1160.673, Yeah.
+SPEAKER_00,1161.429,1161.776, That's good.
+SPEAKER_00,1162.101,1163.152, You've got a desire to do that.
+SPEAKER_00,1164.24,1176.919,"So this procedure only takes 45 seconds or so for you to stop, take a few breaths, observe  what's going on, kind of name your emotions."
+SPEAKER_00,1177.0,1178.933," Okay, I'm this and this and this."
+SPEAKER_00,1180.582,1186.727," However, don't want to respond with angry words or yelling or cursing because it's not  going to benefit me."
+SPEAKER_00,1188.687,1189.717, Trying to make a change here.
+SPEAKER_00,1190.863,1195.237, Then I'm going to figure out what is my best tool to proceed that's going to help me.
+SPEAKER_00,1197.103,1200.754, Work out an arrangement with mom or just tell the teacher you don't know.
+SPEAKER_01,1203.0,1204.0, Okay.
+SPEAKER_00,1204.0,1209.799," And again, be patient with yourself because this type of change takes a while."
+SPEAKER_01,1210.201,1212.718," Yeah, it's probably going to take a while."
+SPEAKER_00,1213.0,1213.571, Yeah.
+SPEAKER_00,1214.0,1217.0," Are you willing to maybe practice this once a day, every day?"
+SPEAKER_00,1217.583,1221.0, It can either be at home or it can be in the classroom this next week?
+SPEAKER_01,1221.02,1225.94," Yeah, I know something comes up and it's open to all school models."
+SPEAKER_00,1226.061,1226.245, Okay.
+SPEAKER_00,1227.02,1229.839, I'm going to just try it and see how it works.
+SPEAKER_00,1230.362,1235.515," If this, I have a lot of tricks up my sleeve, so if this one isn't working, we can modify  it or we can try something else."
+SPEAKER_00,1236.0,1241.653, But try this every day and then we'll just kind of talk about it next week and just kind  of see how it's going.
+SPEAKER_01,1242.388,1243.0, Okay.
+SPEAKER_00,1243.02,1243.245, Okay.
+SPEAKER_00,1244.0,1244.122, Yeah.
+SPEAKER_00,1245.163,1245.551, All right.
+SPEAKER_00,1246.361,1252.639," Listen, I appreciate you wanting to make change and willing to do something about that."
+SPEAKER_01,1253.755,1253.878, Okay.
+SPEAKER_00,1254.0,1254.633, All right.
+SPEAKER_00,1255.0,1256.0, All right.

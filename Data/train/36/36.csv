@@ -1,0 +1,131 @@
+speaker,start,end,text
+SPEAKER_00,14.938,15.939," Hi Sarah, how are you doing today?"
+SPEAKER_01,16.804,17.294, I'm okay.
+SPEAKER_01,17.6,18.6," It could be better, but it could be worse."
+SPEAKER_01,18.6,19.58, I'm hanging in there.
+SPEAKER_00,19.6,20.6, You're hanging in there?
+SPEAKER_01,20.722,21.049, Yeah.
+SPEAKER_00,22.223,25.6, I understand you've been having some symptoms that have been bothering you.
+SPEAKER_00,25.6,26.509, Can you tell me about those?
+SPEAKER_01,28.24,29.998, I'm worried all the time.
+SPEAKER_01,30.922,35.717," Just every day, all day, just so worried about everything."
+SPEAKER_01,36.72,39.07,I've just started back to school after 20 years.
+SPEAKER_01,41.682,42.498, I've been a housewife.
+SPEAKER_01,42.64,46.375," The kids are now grown, so why not go back to school?"
+SPEAKER_01,47.841,55.792," Now, for the past seven, eight months, it's just been nothing but worry, worry, worry,  constantly all the time."
+SPEAKER_01,56.6,60.375," I'm worried about home, worried about school, and it's affecting my life."
+SPEAKER_00,62.524,65.395," All right, so a lot of worrying."
+SPEAKER_00,66.761,70.797, How many days would you say you worry in a typical week?
+SPEAKER_01,71.64,73.372, How many days don't I worry?
+SPEAKER_01,75.182,80.677," I'd say most days, Monday through Friday, Saturday, it's just always worrying."
+SPEAKER_01,81.781,86.212," On Monday through Friday, I'm worried about school, or when I'm at school, I'm worried  about home."
+SPEAKER_01,86.6,91.678," Then on the weekends, I know the school week's coming up, and then I'm just worried about  managing everything."
+SPEAKER_01,91.8,92.8, How am I going to deal with everything?
+SPEAKER_01,93.022,93.791, I would say it's a lot.
+SPEAKER_00,94.741,95.974, It's very distressing for you.
+SPEAKER_01,96.641,98.1, Very much so.
+SPEAKER_00,98.12,100.58, You mentioned it's impacting school.
+SPEAKER_01,100.62,103.293," Well, in school, I'm not doing too well right now."
+SPEAKER_01,104.741,106.6," When I was an undergrad, I used to be a straight-A student."
+SPEAKER_01,107.062,120.879," I thought I could do it again, just pick up where I left off, but right now, I'm worried  so much that I'm so focused on worrying that I'm worried about what assignments to do,  worried about, do I have this turned in, that my grades are slipping right now."
+SPEAKER_01,122.064,127.939," When I'm in school, I'm so worried about home, what's going on at home, that I can't pay  attention in class."
+SPEAKER_01,128.0,128.959, It's just all-consuming.
+SPEAKER_00,129.201,134.9," All right, so both at school and at home."
+SPEAKER_01,135.384,136.535," Oh, yes, definitely."
+SPEAKER_00,137.0,139.698, You find it difficult to control the anxiety?
+SPEAKER_01,140.102,140.327, Yes.
+SPEAKER_00,141.0,141.122, Yeah.
+SPEAKER_00,143.188,144.678, That's affecting in a major way.
+SPEAKER_01,145.101,146.717," Yes, very much so."
+SPEAKER_00,147.302,150.98, Let me ask you some other questions that may be tied in with this.
+SPEAKER_00,151.163,151.449, Okay.
+SPEAKER_00,152.643,155.638, Do you use any alcohol or drugs?
+SPEAKER_01,156.857,156.98, Some.
+SPEAKER_00,157.0,157.184, Some?
+SPEAKER_01,158.0,158.102, Some.
+SPEAKER_01,160.566,163.9," I have a drink occasionally, but I'm so worried right now."
+SPEAKER_01,164.0,166.416, My nerves are always on edge right now that I find it helps.
+SPEAKER_01,167.242,169.456, I got under control.
+SPEAKER_00,170.184,170.837, It's under control?
+SPEAKER_00,171.061,171.429, Yeah.
+SPEAKER_00,172.0,173.53, How often would you say you drink?
+SPEAKER_01,175.302,177.492, Maybe some here and there every day.
+SPEAKER_00,179.442,180.588, How much would you say you drink?
+SPEAKER_01,183.542,186.996," Maybe a few glistens of wine a night, but I'm not an alcoholic or anything."
+SPEAKER_00,188.02,188.163, Okay.
+SPEAKER_00,189.101,190.495, How about the drug use?
+SPEAKER_01,191.482,194.815," A little pot, but I find it helps my nerves."
+SPEAKER_00,196.483,197.148, Just now and then?
+SPEAKER_01,199.667,200.677, Maybe a couple times a week.
+SPEAKER_00,201.04,203.517, A couple times a week.
+SPEAKER_00,204.462,208.0, Have you ever had a panic attack?
+SPEAKER_01,208.694,208.755, No.
+SPEAKER_00,209.347,209.449, No?
+SPEAKER_00,211.906,215.98, Have you ever had any trauma in your history?
+SPEAKER_01,216.784,219.92," Well, my grandma, she died when I was young."
+SPEAKER_01,220.303,221.737, She used to take care of us.
+SPEAKER_01,223.0,225.517," She was like a second mom to me, and I saw her that way."
+SPEAKER_01,226.262,228.134," She died when I was young, and she was real young."
+SPEAKER_01,229.667,230.677, I was really close to her.
+SPEAKER_01,233.121,235.597," I think about her a lot now, especially since I have started back in school."
+SPEAKER_01,236.221,238.718," She's always encouraged me, get your education, get it while you can."
+SPEAKER_01,239.081,240.953, Now I've been thinking about her a lot.
+SPEAKER_00,242.162,243.111, She's been on your mind.
+SPEAKER_00,244.181,247.236," When you think about her, what's the feeling that comes up?"
+SPEAKER_01,248.863,253.659," I worry a lot about her, because I'm thinking that I'm upsetting her and her memory."
+SPEAKER_01,254.161,256.678," That if I don't do well, then she will be upset."
+SPEAKER_01,257.0,260.397," Even though I know she's not here anymore, she'll be upset if I'm not doing well."
+SPEAKER_00,262.347,262.694, All right.
+SPEAKER_00,263.181,266.598," When you're thinking about her, you're having some worry?"
+SPEAKER_01,267.0,267.224, Yes.
+SPEAKER_00,268.082,268.776, Okay.
+SPEAKER_00,270.646,271.717, That's been distressing you?
+SPEAKER_01,272.101,273.01," Very much, yes."
+SPEAKER_00,275.685,278.0, I'm going to ask you some different symptoms.
+SPEAKER_00,278.602,283.0, Let me know if you have these symptoms as part of what's going on now.
+SPEAKER_00,284.604,287.0," Do you feel restless, keyed up, or on edge?"
+SPEAKER_01,287.02,287.323, All the time.
+SPEAKER_01,289.828,290.939, Just so tense.
+SPEAKER_00,293.643,297.0, How about you feel like you get tired easily?
+SPEAKER_01,297.949,298.96, I'm tired all the time.
+SPEAKER_00,299.531,299.837, All the time?
+SPEAKER_01,300.592,300.796, Yes.
+SPEAKER_00,301.143,301.408, Yes.
+SPEAKER_00,304.0,308.116," How about, do you find your mind going blank or having trouble concentrating?"
+SPEAKER_01,309.241,315.479," I find I'm trying to think of so many things at once, so I can't focus just on one thing."
+SPEAKER_01,316.0,317.778," Yes, definitely having trouble concentrating."
+SPEAKER_00,318.0,318.606, Trouble concentrating.
+SPEAKER_00,321.301,325.656, Have you noticed that you're more irritable?
+SPEAKER_01,327.926,330.0," I'm not sleeping a lot, so I'm cranky."
+SPEAKER_00,330.735,330.918, Cranky?
+SPEAKER_01,331.402,334.317," I was going to say, according to my husband, a lot irritable."
+SPEAKER_00,335.061,335.347, Okay.
+SPEAKER_00,338.342,339.628, You mentioned you're tense all the time.
+SPEAKER_00,339.648,340.854,Is that like a muscle tension?
+SPEAKER_01,343.475,343.899, Pretty much so.
+SPEAKER_01,344.401,348.834, I feel like my muscles are going to snap.
+SPEAKER_01,348.994,350.358,I feel so rigid all the time.
+SPEAKER_00,351.388,351.714, Okay.
+SPEAKER_00,353.404,354.232, Tell me about your sleep.
+SPEAKER_01,356.462,359.151, Sleep's been... what's sleep?
+SPEAKER_01,359.251,362.0,It's just like non-existent pretty much right now.
+SPEAKER_01,362.764,366.0, I just think trying to go to sleep when you have so much on your mind is hard.
+SPEAKER_00,366.0,367.556, So you have difficulty falling asleep?
+SPEAKER_01,368.184,368.286, Yes.
+SPEAKER_00,369.222,371.0," How about once you fall asleep, do you stay asleep?"
+SPEAKER_01,373.762,382.98," No, because I find like even I'll have nightmares that will just wake me up, and then I just find myself, when I get up, oh my gosh, what do I have to do?"
+SPEAKER_01,384.143,384.985, What am I forgetting?
+SPEAKER_01,385.005,391.0,"So I just always feel like there's something always on my mind that just makes it, if I'm asleep, I can't stay asleep because I wake up thinking about it, and I can't go back to sleep."
+SPEAKER_01,391.04,394.0, It's just some ugly cycle going on right now.
+SPEAKER_00,394.041,395.0, All right.
+SPEAKER_00,396.866,398.98," All right, so sleep has been a big problem for you."
+SPEAKER_01,399.673,399.878, Yes.
+SPEAKER_00,402.361,404.669," Sarah, I'd like to get you in to see a counselor."
+SPEAKER_00,404.89,407.88,I can probably get you in to see one in just a couple days if that's okay.
+SPEAKER_01,408.404,409.939," Oh, I would appreciate that."
+SPEAKER_00,410.245,410.837, That'd be helpful.
+SPEAKER_01,411.0,411.49," Yes, yes."
+SPEAKER_00,412.0,414.633, I want to thank you for answering these questions for me.
+SPEAKER_00,414.653,415.98,This has been really helpful.
+SPEAKER_01,416.204,417.0," No, thank you very much."
+SPEAKER_00,417.02,417.449," Thanks, Sarah."

@@ -1,0 +1,282 @@
+speaker,text,start,end
+SPEAKER_00," Hi Andrea, thanks for coming in.",13.309,14.919
+SPEAKER_01, Thank you.,15.102,15.429
+SPEAKER_00," So I don't know how much you know already about sort of my role here and why you're even here,  so I thought I'd start by telling you a little bit about myself, basically.",16.0,24.739
+SPEAKER_00, My job is to meet with all of the students.,25.241,27.55
+SPEAKER_00,"I meet with everybody about once or twice a semester  and just talk with you a little bit about how things are going, different behaviors that you might be engaging in,  and thinking about any changes you might want to make for your life if you decide that you do.",27.57,41.0
+SPEAKER_00, It's not my job to change you.,41.281,43.149
+SPEAKER_00,I couldn't even if I wanted to.,43.169,44.775
+SPEAKER_00,That's not my role at all.,44.855,45.96
+SPEAKER_00, It's really to help you think about how things are going for you and how you might like making changes or moving forward.,46.301,53.86
+SPEAKER_00, Does that sound okay?,54.082,54.776
+SPEAKER_01, Yeah.,55.816,55.959
+SPEAKER_00," All right, so why don't we start by you telling me a little bit about yourself.",56.02,58.698
+SPEAKER_01, Sure.,59.08,59.321
+SPEAKER_01,"As you know, I'm Andrea.",60.304,61.467
+SPEAKER_01,I'm a junior.,62.169,63.433
+SPEAKER_01,I'm in the marching band.,63.734,64.897
+SPEAKER_01,I play the center sax.,65.017,65.92
+SPEAKER_00," Oh, neat.",66.551,66.878
+SPEAKER_01," Yeah, I'm also in the, I'm a little bit of a band geek.",67.04,69.328
+SPEAKER_01,"I play, you know, the wind ensemble and the jazz band, things like that.",69.849,73.0
+SPEAKER_00," Wow, you really are involved in music.",73.646,74.98
+SPEAKER_01, Yeah.,75.02,75.163
+SPEAKER_00, When did you start?,76.626,77.333
+SPEAKER_01," I started playing about ten years ago, actually.",78.04,79.98
+SPEAKER_00, Wow.,80.0,80.061
+SPEAKER_01," Yeah, I started on the violin first, and then I went on, explored a little with the piano, clarinet, finally found the tenor sax.",81.261,88.559
+SPEAKER_00, Very cool.,90.648,91.312
+SPEAKER_00,I've always wanted to be good at music.,91.412,93.0
+SPEAKER_00," All right, so it sounds like you're in band and a few other musical ensembles.",94.565,98.98
+SPEAKER_00, Any other hobbies you have or things you like to do for fun?,99.442,102.518
+SPEAKER_01," You know, just hanging out with my friends or go to the beach, things like that.",104.044,108.0
+SPEAKER_00, Mm-hmm.,108.122,108.694
+SPEAKER_00, Just kind of everyday sort of stuff.,109.848,111.0
+SPEAKER_01, Yeah.,111.0,111.102
+SPEAKER_00, Okay.,112.0,112.465
+SPEAKER_00,Tell me a little bit about your family.,112.485,113.778
+SPEAKER_01," Well, I have one older brother.",114.882,116.246
+SPEAKER_01,"He's about eight and a half years older than me, my parents, and I have a dog.",116.286,121.158
+SPEAKER_00, Cute.,122.041,122.143
+SPEAKER_00,What kind of dog?,122.449,122.898
+SPEAKER_01, He's a golden retriever.,123.0,123.959
+SPEAKER_00," Oh, nice.",124.041,124.265
+SPEAKER_01, My big boy.,125.404,126.051
+SPEAKER_00, Very fun.,127.462,127.965
+SPEAKER_00,"All right, and how are things going in school for you?",128.508,130.739
+SPEAKER_01, Pretty good.,131.221,131.723
+SPEAKER_01,Grades have been pretty all right.,132.064,133.972
+SPEAKER_01,Still like 3.7-ish.,134.635,135.578
+SPEAKER_00," Okay, great.",136.983,137.766
+SPEAKER_00,So you're doing well.,137.786,138.488
+SPEAKER_00,What sorts of goals do you have for after college or after high school?,138.97,142.0
+SPEAKER_01," I'd like to, you know, I'd like to, of course, graduate high school, hopefully go to a nice Ivy League school.",142.963,149.0
+SPEAKER_00," Oh, all right.",149.0,149.898
+SPEAKER_01," I mean, that might not happen, and then I'd like to go on and become a doctor, study psychology, maybe become a psychiatrist or something.",150.0,156.98
+SPEAKER_00, Okay.,157.444,157.768
+SPEAKER_00,You have some pretty big dreams.,157.788,158.98
+SPEAKER_01, Yeah.,159.041,159.204
+SPEAKER_00, That's great.,160.0,160.361
+SPEAKER_00,That's really exciting to think about that and sort of be looking forward to the future and those things.,160.442,165.0
+SPEAKER_00, All right.,165.02,166.244
+SPEAKER_00,"Well, one thing I'm going to ask you about is, you know, different people have sort of different things that they really value in their life,  whether it's, you know, their cultural identity or their family or their friends or job or hobbies, things like that.",166.264,179.0
+SPEAKER_00," So here's a little sheet that goes through just some basic values that might be more or less important to certain people,  like belonging or sense of community, again, cultural identity or family, friendship, modesty, religion, respect, self-determination and spirituality.",180.003,200.82
+SPEAKER_00," So when you think about yourself, which of these are kind of most important to you in terms of your life?",201.662,206.797
+SPEAKER_01, I think a sense of community and belonging.,208.843,213.0
+SPEAKER_00, Okay.,213.327,213.612
+SPEAKER_01, I think those two and respect.,214.04,217.98
+SPEAKER_00, Okay.,218.382,219.166
+SPEAKER_00,Can you tell me a little bit about why you picked those three?,219.206,221.879
+SPEAKER_01," Yeah, well, I think community and belonging, I kind of related them.",222.723,225.896
+SPEAKER_01, You know how I said I was in the marching band.,227.646,229.0
+SPEAKER_01," I really, you know, I really enjoyed being in like that team setting of, you know, being with other people and all working together towards that one goal.",229.12,238.198
+SPEAKER_01," And then in terms of respect, I kind of view that as one of like my major like rules.",239.341,245.98
+SPEAKER_01, Like I really do think respect is important to respect myself and respect those around me.,246.12,250.839
+SPEAKER_01, So I place great importance in that.,251.02,253.758
+SPEAKER_00," Okay, great.",254.06,254.781
+SPEAKER_00,"So sort of being a part of a group and being a part of a team gives you a sense of belonging, like you said, and sort of a sense of purpose in a way.",254.842,264.76
+SPEAKER_00," And then the respect is really sort of all encompassing, not just authority, but respecting yourself, respecting your teammates or your bandmates and other people around you.",265.24,275.8
+SPEAKER_00," Okay, that's great.",276.041,276.918
+SPEAKER_00, All right.,277.602,277.943
+SPEAKER_00,"Well, one of the things I want to talk to you about sort of relates to belonging and your friends.",278.023,283.0
+SPEAKER_00, So what kinds of things do you like to do when you get together with your friends?,283.844,287.0
+SPEAKER_01," Sometimes we just, you know, go to the movies, go to the beach, like I had said, or sometimes we just get together at someone's house, play some board games and hang out.",288.223,295.98
+SPEAKER_00," And when you're hanging out with friends, is there ever alcohol involved?",297.447,299.96
+SPEAKER_01," Yeah, sometimes.",300.0,300.959
+SPEAKER_00, Okay.,301.281,302.485
+SPEAKER_00,Can you tell me a little bit about how alcohol fits into sort of your social scene?,302.645,306.88
+SPEAKER_01," Well, it's mostly just for parties or party settings.",308.102,312.471
+SPEAKER_01,"It's kind of to get things going and get everything loosened up, as they say.",312.551,316.8
+SPEAKER_00," And so when you go to parties, most of the time there's alcohol there.",318.005,321.0
+SPEAKER_01, Yeah.,321.041,321.184
+SPEAKER_00, Okay.,322.121,322.804
+SPEAKER_00,And how often do you think you would say you're drinking?,322.824,325.377
+SPEAKER_01," I'd say on a not busy month, for instance.",326.1,329.99
+SPEAKER_01,"I'd say about like two weekends out of the month, two or three.",330.09,333.599
+SPEAKER_00, So about half the time you're drinking and half the time you're not.,334.723,338.498
+SPEAKER_00, Can you tell me what's different about the days when you choose to drink versus not to drink?,339.04,343.538
+SPEAKER_01," The days that we drink are mostly, like I said, they're parties.",344.2,347.347
+SPEAKER_01,"So it's more of that whole partying and dancing and, you know, having everyone have fun.",347.988,353.699
+SPEAKER_01," And then when we don't, it's a lot more relaxed.",354.1,355.825
+SPEAKER_01,"It's a lot more hanging out, playing board games, watching a movie.",355.905,359.556
+SPEAKER_01,"It's not, yeah.",359.676,360.86
+SPEAKER_00," So it really depends on what the activity is, whether or not alcohol is going to be there.",361.201,365.0
+SPEAKER_01, Definitely.,365.02,365.245
+SPEAKER_00, Okay.,366.341,366.461
+SPEAKER_00,"And do you notice a big difference or can you tell me about the difference in your enjoyment level at, say, a party versus the night you're playing board games?",366.481,375.519
+SPEAKER_01, I think of them as different.,376.341,378.186
+SPEAKER_01,"I think, you know, like in playing board games and things, it's meant to be relaxing.",378.206,382.88
+SPEAKER_01, So it's nice to have like that kind of breather versus with a party it's a lot more energetic.,383.241,388.673
+SPEAKER_01,After it all it's very draining.,389.695,391.479
+SPEAKER_01, But in the moment it's quite fun to dance and have fun.,392.302,395.377
+SPEAKER_00, Okay.,396.0,396.141
+SPEAKER_00,So there's sort of pros and cons on both sides.,396.343,397.96
+SPEAKER_01, Yeah.,398.02,398.245
+SPEAKER_00, Okay.,399.0,399.281
+SPEAKER_00,What are the things that you like about drinking or like about alcohol?,399.724,402.799
+SPEAKER_01," It's, you know, when we drink we tend to have more fun because I guess we're not, you know, everyone's drinking together.",403.882,412.016
+SPEAKER_01,We're a lot more loosened up and relaxed.,412.056,413.719
+SPEAKER_01, And not really thinking about stresses or things like that.,414.281,417.678
+SPEAKER_01," But it can be, when it's too much drinking, it can be obviously bad.",418.622,424.657
+SPEAKER_00, Okay.,426.082,426.286
+SPEAKER_00," So sort of in the too much drinking or at times, can you tell me some of the less good things or not so good things about alcohol?",427.602,434.92
+SPEAKER_01, A lot of times it will make people stupid.,435.962,439.811
+SPEAKER_01,"Yeah, you know, people make dumb decisions and things like that.",439.831,444.0
+SPEAKER_01, We usually try to be as safe about it as possible.,444.822,448.591
+SPEAKER_01,So we'll like sleep over a friend's house and so that we're not driving.,448.652,452.0
+SPEAKER_01, And it's mostly within our friend group so we're not worried about strangers putting weird things in our drinks.,452.02,458.679
+SPEAKER_01, But definitely some of the ideas people can have when they're drunk can be really stupid.,459.421,465.599
+SPEAKER_00," So you're trying to, like you said, not engage in really dangerous activities.",466.521,471.311
+SPEAKER_00,You're trying to stay put.,471.331,472.453
+SPEAKER_00,You're not driving.,472.473,473.535
+SPEAKER_00,You're trying to stay with people that you trust.,473.575,475.84
+SPEAKER_00," But yeah, it sounds like there's still some things happening from time to time.",476.905,479.899
+SPEAKER_01," Sometimes, yeah.",480.061,480.612
+SPEAKER_00, Can you tell me a little bit about that?,481.283,482.939
+SPEAKER_01," Well, I especially don't like it whenever me or one of my friends, like we drink too much and we end up like throwing up or things like that.",483.441,490.98
+SPEAKER_01," That, I don't, that's not fun.",491.141,492.879
+SPEAKER_00," Yeah, throwing up is never fun.",493.02,494.03
+SPEAKER_01, It's not.,495.0,495.245
+SPEAKER_00, And how often do you think that happens?,496.707,498.0
+SPEAKER_01," For me, that's happened to me once.",498.742,500.207
+SPEAKER_01,It was the first time I ever drank and it was a lot.,500.428,502.656
+SPEAKER_01,I didn't know what I was doing.,502.696,503.96
+SPEAKER_01, I was mixing all kinds of weird things and just kind of taking anything anyone gave me.,504.602,509.855
+SPEAKER_01,That didn't end well.,510.496,511.88
+SPEAKER_01," But after that, I haven't, but I do have friends that still do sometimes, so I'll end up like having to take care of them or something.",512.301,519.779
+SPEAKER_01, It kind of puts it down around my fun.,520.884,522.794
+SPEAKER_00, Okay.,524.701,525.042
+SPEAKER_00,"So on the one side, some of the fun things associated with alcohol are people are just more relaxed, sort of carefree, can kind of let loose a little bit more.",525.082,536.0
+SPEAKER_00," But on the other hand, there's a little bit more, I guess, planning involved because you have to make sure that you're doing it safely or as safe as you can.",536.321,545.559
+SPEAKER_00," And then there can be some other consequences like throwing up or even if it's not you that sometimes you're stuck, your fun is sort of ruined when you're stuck dealing with a friend who drank too much.",546.24,557.0
+SPEAKER_00, Okay.,557.643,557.925
+SPEAKER_00,Any other not so good things about the alcohol?,558.025,560.417
+SPEAKER_01," Yeah, people can get a little sloppy, I guess.",561.0,564.506
+SPEAKER_01,They're all loose with people in corners doing things that should be done in private and that kind of stuff.,564.566,572.86
+SPEAKER_00, So you're kind of stuck being exposed to things you don't need to see.,573.221,576.457
+SPEAKER_01, Yeah.,577.0,577.347
+SPEAKER_00, Got it.,578.0,578.301
+SPEAKER_00,Okay.,578.922,579.082
+SPEAKER_00,All right.,579.383,579.643
+SPEAKER_00,"Well, you mentioned a couple of times that you've made a few decisions to try and limit the dangerous aspect of the drinking.",579.683,587.76
+SPEAKER_00, Why did you make those decisions?,588.0,589.354
+SPEAKER_01," I just, I have an aunt who is an alcoholic, so I see the issues that are involved in movies and things.",590.16,598.399
+SPEAKER_01, I know that junk driving is an issue.,599.24,600.923
+SPEAKER_01,"So I want to be as safe as possible in those terms and be in a setting where we can let loose but still be safe, like at someone's house or someone's parent's home or something.",601.484,612.72
+SPEAKER_01, So I know that there are dangers involved and I guess I want to limit that and still be able to have fun.,614.424,619.92
+SPEAKER_00, Okay.,621.0,621.982
+SPEAKER_00,It sounds kind of similar to your value of respect too.,622.242,626.108
+SPEAKER_00,"So on the one hand, the drinking maybe helps with the belonging community to start.",626.268,632.458
+SPEAKER_00,"If there's too much, then it sort ofcourse.",632.878,635.859
+SPEAKER_01,Then it kind of defeats the purpose.,,
+SPEAKER_00, Right.,636.0,636.28
+SPEAKER_00,"And then with the respect, one of the things you mentioned is really wanting to respect yourself and not sort of cross boundaries, not sort of cross lines.",636.821,645.054
+SPEAKER_00,How do you think that the drinking fits in with that?,646.296,648.559
+SPEAKER_01, In terms of what?,649.621,650.302
+SPEAKER_01,In terms of respect?,650.342,651.324
+SPEAKER_01,"I think, well in a way I do think that drinking is probably a form of disrespect to my own body because I'm not putting things, I'm putting things in it that shouldn't be there.",652.205,661.7
+SPEAKER_00, Okay.,662.041,662.653
+SPEAKER_01," And then, but in terms of ways I am respecting myself, I am respecting myself by trying to stay in someone's house and trying to limit my drinking so I don't get to that blacked out, throwing up and everything.",663.0,677.98
+SPEAKER_01," And try to, you know, let loose but still be in control of my behavior so I'm not going to go with some random person I met into I don't know where to do I don't know what and things like that.",678.3,691.0
+SPEAKER_00, Okay.,691.16,691.561
+SPEAKER_00,So you're sort of looking for that balance of how much you can drink to have some of the positive benefit but not crossover.,692.523,700.88
+SPEAKER_00, Okay.,701.281,701.582
+SPEAKER_00,And what have you come up with at this point?,702.845,704.971
+SPEAKER_00,Do you have sort of a limit that you stick to or are you?,705.011,707.96
+SPEAKER_01," I usually, well I start off by make sure that I make my own drink so I know what's in it and how much is in it so that way I control how much I drink.",708.281,717.0
+SPEAKER_01," So I'll usually just, you know, get one of those cups and then make one drink and then I'll try to make it last as long as possible and I'll be like alright this is my one drink and I'm good.",717.641,729.98
+SPEAKER_01, And that way I still have something in my cup so people aren't going to be like oh here I have some more.,730.0,733.909
+SPEAKER_01,"I'll be like no I'm good I have mine and I'll still be, you know, having some to like let loose a little.",733.929,739.0
+SPEAKER_00, Okay.,739.08,739.281
+SPEAKER_00,And do you feel that that's working pretty well for you or do you sometimes exceed that limit or what do you think?,741.346,746.98
+SPEAKER_01," For the most part it works pretty well because like I said people, you know, if people come asking me trying to pressure me I'll be like no I'm good I have, you know, I still have some like I'll get some later and then never end up getting anything.",747.341,757.94
+SPEAKER_01," But sometimes they'll be like hey let's take a shot and everyone's gathered around like the kitchen or something ready to take a shot and then at that point I'll be like oh well maybe I can take one more and that's when I start, you know, falling into the too much.",758.24,773.66
+SPEAKER_00, So a portion of the time it's working well for you and another portion of the time maybe you'd like to make some adjustments to make it a little smoother.,774.361,784.96
+SPEAKER_00, Okay.,785.461,785.781
+SPEAKER_00,So kind of thinking along those lines how important is it to you to make some changes or make some adjustments to your drinking to sort of fit with your values and your goals for yourself?,786.202,796.96
+SPEAKER_01," I'd like to make sure that I, you know, in terms of respecting myself and my body I'd like to, you know, try to drink less.",798.323,806.659
+SPEAKER_00, Okay.,807.367,807.592
+SPEAKER_01," Like I, you know, it is nice to let loose and have fun but I'd also like it to be so, you know, I'm not damaging my body and I'm like my liver doesn't work by the time I'm like 22.",808.0,817.479
+SPEAKER_01," And, you know, have my friends on board with a similar mentality so we can kind of work at it together as a group, as a community.",819.183,826.84
+SPEAKER_00, Uh huh.,827.161,828.128
+SPEAKER_00,So kind of combining those goals.,828.148,830.0
+SPEAKER_01, Yeah.,830.02,830.143
+SPEAKER_00, Okay.,831.0,831.2
+SPEAKER_00,So you have a goal it sounds like of actually cutting back on your drinking.,831.24,835.987
+SPEAKER_00,How important is it to you to work on that goal on a scale of one to ten where one is not at all important and ten is it's the most important thing right now?,836.428,844.7
+SPEAKER_01, I'd say about like a six or a seven.,845.161,847.94
+SPEAKER_00, Oh okay.,848.286,848.571
+SPEAKER_01," I'd like to work on it but, you know, if I get around to it I get around to it.",849.0,852.015
+SPEAKER_01,If I don't I don't.,852.035,852.598
+SPEAKER_00, Uh huh.,853.0,853.181
+SPEAKER_00,Well why'd you say six or seven rather than like a four?,853.322,855.874
+SPEAKER_01, Because I still think it's important.,857.543,860.497
+SPEAKER_00, Uh huh.,861.347,861.653
+SPEAKER_01," I still, you know, like I said I don't want my body to, especially going to med school, like I know how things affect your body and also affect your social and your school work and things like that.",862.0,872.0
+SPEAKER_01," I know that once I get to college it's not, it's not gonna work out, you know, drinking every weekend and then like trying to wake up early and go to school, take an exam.",872.22,884.956
+SPEAKER_01,I know that's not feasible.,885.056,887.359
+SPEAKER_01,It's not a good idea.,887.419,888.0
+SPEAKER_00," Yeah, looking ahead you can't keep drinking this way and reach the goals that you have for yourself.",888.02,893.0
+SPEAKER_01, Yeah.,893.0,893.122
+SPEAKER_00, Okay.,894.02,894.121
+SPEAKER_00,Well how confident are you that you could cut down if you wanted to?,894.623,897.94
+SPEAKER_01, I think.,898.0,898.163
+SPEAKER_00, On that same scale from one to ten.,899.323,900.818
+SPEAKER_01, I think if I made the decision I was going to for sure then I think definitely like a ten.,901.04,906.197
+SPEAKER_01,I know I'd be really sure.,906.258,907.0
+SPEAKER_00, Oh wow.,907.061,907.566
+SPEAKER_00,Okay.,907.586,907.869
+SPEAKER_00,Why'd you say ten?,907.929,908.717
+SPEAKER_01, It's just because I know that once I make the decision I know I can do it.,909.221,913.0
+SPEAKER_00, Uh huh.,913.122,913.347
+SPEAKER_01, It's making the decision in the first place.,914.0,914.98
+SPEAKER_00, Okay.,915.388,915.673
+SPEAKER_01, Whether.,916.02,916.184
+SPEAKER_00, Okay.,917.2,918.583
+SPEAKER_00,"And so you mentioned, you know, quite a few reasons why you would like to cut down.",918.603,923.912
+SPEAKER_00,Have you thought at all about how you might go about doing that?,925.154,928.559
+SPEAKER_01," Um, I'm thinking of maybe like trying to convince my friends without sounding, you know, dorky or something.",929.802,937.86
+SPEAKER_01," Be like, hey, you know, let's just stay in today.",938.161,940.332
+SPEAKER_01,Like let's not go out or something.,940.352,942.0
+SPEAKER_01," Or just be like, hey, I'm not, like, I'm not going to drink today.",942.16,948.88
+SPEAKER_01," And even if my friends do, like being okay with them drinking around me and not doing it and then them being okay with me drinking, me not drinking and them doing whatever they want.",949.301,957.94
+SPEAKER_00, So sort of trying to plan more activities that don't involve alcohol and then also trying to participate in activities without drinking yourself or maybe even drinking less than you're drinking.,958.982,970.0
+SPEAKER_00, Okay.,970.804,971.126
+SPEAKER_00,Does that sound like a goal you want to work on now or?,971.648,973.92
+SPEAKER_01, I think so.,974.924,975.707
+SPEAKER_01,I think it's very feasible.,975.767,978.016
+SPEAKER_01,I think it's possible.,978.056,978.88
+SPEAKER_00, Okay.,979.441,979.702
+SPEAKER_00,"Um, so I guess we'll talk about, um, less alcohol activities.",980.303,987.098
+SPEAKER_00," I'm just making some notes to myself and then maybe, um, reducing the amount of drinking that you're doing if alcohol is involved.",989.063,995.92
+SPEAKER_00, Okay.,996.501,996.762
+SPEAKER_00,"Um, so that's, that goal sounds feasible.",997.824,1001.451
+SPEAKER_00,"You said, would it be okay if we met in a couple weeks to sort of see how it's going?",1001.471,1005.94
+SPEAKER_01, I think so.,1006.303,1006.747
+SPEAKER_01,I think that's good.,1006.768,1007.697
+SPEAKER_00, Does that sound like something you'd like to do?,1008.0,1009.475
+SPEAKER_01, Yeah.,1010.469,1010.612
+SPEAKER_00, Okay.,1011.0,1011.08
+SPEAKER_00,"Well, I really appreciate you spending the time talking to me.",1011.1,1013.343
+SPEAKER_00,"You know, it sounds like you have a lot of really good goals for yourself, really ambitious goals of going to medical school and, you know, becoming a psychiatrist or, um, some, some other form of physician.",1013.664,1024.559
+SPEAKER_00," Um, you're really looking forward to doing well in school so you can get there.",1025.401,1030.167
+SPEAKER_00,And it sounds like you have a pretty active social life and a lot of friends who you feel probably would be supportive even if you cut down on alcohol.,1030.327,1039.96
+SPEAKER_00," And that, you know, there's a lot of benefits you see both to your body and your health, um, your school performance and even some of the social stuff in terms of feeling a sense of belonging without having to deal with some of the gross consequences of, of, um, drinking too much.",1040.681,1057.0
+SPEAKER_00," Um, so yeah, you know, it really sounds to me like you have a good plan in place and as long as you're willing and interested in meeting again, I'd be very excited to be able to talk with you about how it's going.",1057.12,1071.0
+SPEAKER_01," Yeah, I'd like to.",1071.041,1072.0
+SPEAKER_00," All right, great.",1072.0,1073.389
+SPEAKER_00,"So I'll, I'll plan to see you then in a few more weeks.",1073.45,1075.0
+SPEAKER_01, Perfect.,1075.041,1075.388
+SPEAKER_00,Thanks.,1075.408,1075.673
+SPEAKER_00, Great.,1076.245,1076.408
+Narrator," This time, the counselor began by setting the agenda and emphasizing the student's autonomy right away.",1078.161,1082.799
+Narrator," She used open questions and reflections to build rapport, then turned to a focus on Andrea's values in order to deepen the connection.",1083.361,1089.937
+Narrator, This led easily into a discussion of Andrea's social life and an open question about the role that alcohol plays in it.,1091.201,1096.877
+Narrator, Skillful use of reflections guided the conversation while encouraging the student to open up to the counselor.,1098.14,1103.137
+Narrator," By using a decisional balance, the counselor was able to assess barriers to change as well as to elicit reasons for change and opportunities to affirm Andrea's good decisions.",1104.461,1112.918
+Narrator," She was then able to ask Andrea to expand on her reasons for setting limits with her drinking, which highlighted some of the consequences of alcohol use without using lectures or scolding the student.",1114.561,1124.038
+Narrator," The counselor also tied the drinking behavior to Andrea's values, helping to develop a discrepancy between her personal goals and actions.",1126.023,1132.779
+Narrator, This set the stage for clarification of goals and beginning discussion of a change plan.,1134.084,1137.92
+Narrator," However, the counselor encouraged the student to choose her own behavior or change goal in order to ensure it was something Andrea felt confident she could achieve.",1139.263,1145.96
+Narrator," She ended the session with a summary of their discussion, expressed appreciation for Andrea's participation, and communicated optimism about the plan and her desire to continue working with her in the future.",1146.962,1157.559
+, .,1176.0,1179.0

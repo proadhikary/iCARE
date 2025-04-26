@@ -1,0 +1,230 @@
+speaker,text,start,end
+SPEAKER_00," Hi, this is Dr. Grande.",7.197,8.219
+SPEAKER_00, I hope you find this video useful.,8.66,10.234
+SPEAKER_00," If that's the case, please like it and subscribe to my channel.",11.0,13.936
+SPEAKER_00," As always, thanks for watching.",14.78,16.147
+SPEAKER_00," Hello, Peggy.",18.48,18.702
+SPEAKER_00, How are you doing today?,23.47,24.616
+SPEAKER_00," Hi, Dr. Grande.",25.5,26.051
+SPEAKER_01, I'm okay.,26.868,27.174
+SPEAKER_00, You're okay?,27.643,28.46
+SPEAKER_01, I am.,28.48,28.643
+SPEAKER_00," Yesterday, when you were here at the agency, you took a few different tests.",29.96,34.36
+SPEAKER_00, Do you remember that?,34.401,35.36
+SPEAKER_01, I did.,35.87,36.136
+SPEAKER_00," One of the tests that you took is called the SCL-90, the symptom checklist 90.",37.022,42.939
+SPEAKER_00, Do you remember taking that test?,43.722,44.81
+SPEAKER_01, I think so.,46.402,46.932
+SPEAKER_00, It's 90 items and they're ranked.,47.803,50.497
+SPEAKER_01, Ask me like true and false questions.,51.101,52.7
+SPEAKER_00, They're not true and false.,53.084,53.994
+SPEAKER_00, They're numbers that you select.,54.54,55.557
+SPEAKER_01," Oh, okay.",55.781,56.271
+SPEAKER_01, I do remember that.,56.72,57.516
+SPEAKER_00, Remember that?,57.74,58.373
+SPEAKER_00," So, I have the results from that test and I want to review some of those findings with  you.",59.02,68.258
+SPEAKER_01, Okay.,68.421,69.013
+SPEAKER_00, Is that all right?,69.584,70.013
+SPEAKER_01, Sure.,70.993,71.238
+SPEAKER_00," So, this particular instrument has a number of what we refer to as subscales.",71.36,76.959
+SPEAKER_00," So, these are areas that are measured by the instrument.",78.182,83.776
+SPEAKER_00," For example, depression or anxiety.",85.24,87.718
+SPEAKER_01, Okay.,88.042,88.511
+SPEAKER_00," So, I'm going to review a few of these subscales, ones where you scored a little higher than  we might expect.",89.161,95.594
+SPEAKER_00, I'll just review those with you and see what you think and we can talk about it.,96.282,99.859
+SPEAKER_01, Okay.,100.509,100.774
+SPEAKER_01, Are you recording this?,101.08,101.672
+SPEAKER_00, I'm not.,102.223,102.488
+SPEAKER_00, Are you worried about that?,103.968,104.815
+SPEAKER_01," Well, I think you probably are, but okay.",106.926,109.276
+SPEAKER_00, What makes you think I'm recording it?,110.3,111.411
+SPEAKER_01, Because that happens to me a lot.,112.38,113.65
+SPEAKER_00, It happens to you a lot that you get recorded?,114.92,116.415
+SPEAKER_01," I think so, yes.",117.002,117.675
+SPEAKER_01, Yeah.,118.614,118.798
+SPEAKER_00, Do you remember the last time that happened to you?,118.92,120.194
+SPEAKER_01, Probably yesterday.,120.68,121.19
+SPEAKER_00, And do you think you were recorded while you were taking this?,121.7,123.656
+SPEAKER_01," Probably, yes.",124.08,124.488
+SPEAKER_01, Yeah.,125.958,126.08
+SPEAKER_00, All right.,126.121,126.366
+SPEAKER_00, That sounds worrisome.,127.243,128.019
+SPEAKER_00, That's a feeling you get a lot that you're being recorded?,128.08,129.612
+SPEAKER_01, I worry about it a lot.,130.722,131.618
+SPEAKER_00, You worry about it a lot.,131.72,132.475
+SPEAKER_01, But I know it's happening.,133.085,134.059
+SPEAKER_01, That's why I worry about it.,134.16,135.599
+SPEAKER_00, You're certain that's happening?,135.68,136.558
+SPEAKER_01," Yeah, I am.",136.986,137.68
+SPEAKER_00, All right.,137.7,137.925
+SPEAKER_00," Well, you're not being recorded now.",138.942,140.799
+SPEAKER_01," I know it probably feels like you are, but you're not.",141.262,143.577
+SPEAKER_01, Okay.,144.424,144.689
+SPEAKER_00, Okay.,145.281,145.648
+SPEAKER_00, But I appreciate you bringing up that concern with me.,146.662,148.33
+SPEAKER_00," So a few of the scales where you were a bit elevated on, I want to discuss, as I mentioned.",150.48,157.018
+SPEAKER_00, I need to explain the concept of percentile rank to you.,157.941,162.558
+SPEAKER_00, Okay?,163.388,163.592
+SPEAKER_01, Okay.,164.388,164.592
+SPEAKER_00," Is that a term you've ever heard, percentile rank?",165.0,166.334
+SPEAKER_01, I think so in school.,167.244,168.075
+SPEAKER_00," Maybe in school, right.",168.603,169.375
+SPEAKER_00, That would make sense.,169.963,170.59
+SPEAKER_00," So say, for instance, you had a percentile rank of 65%, right, percentile.",171.7,177.711
+SPEAKER_00, That would mean that your score is equal to or higher than 65% of the people that took  that test.,182.8,190.712
+SPEAKER_01, Okay.,191.977,192.079
+SPEAKER_00, Does that make sense?,192.426,193.059
+SPEAKER_01, Mm-hmm.,193.181,193.344
+SPEAKER_00," So if you took a test on math or English and you were at, say, 75 percentile, you'd be  higher than three-quarters of the people that took the test, 75 percentile.",194.72,208.418
+SPEAKER_01, I think I understand that.,209.242,210.517
+SPEAKER_00, Does that make sense?,210.78,211.658
+SPEAKER_01, I think so.,211.862,212.393
+SPEAKER_00, Okay.,212.923,213.148
+SPEAKER_00," If you want me to come back to that later, just let me know as I go through if it doesn't  make sense.",214.223,217.509
+SPEAKER_01, Okay.,218.202,218.753
+SPEAKER_00, All right.,219.141,220.08
+SPEAKER_00," So areas here on the SCL results where you were a bit higher than we would normally see,  one is the phobic anxiety scale.",220.4,231.874
+SPEAKER_00," On that one, you were about 64 percentile.",233.12,234.67
+SPEAKER_00, So your score was as high or higher than 64% of people that would take it.,237.082,243.417
+SPEAKER_01, To more than half the people in the population.,244.78,247.076
+SPEAKER_00, More than half the people in the same situation as you in outpatient mental health treatment.,247.76,253.959
+SPEAKER_01, So I have more phobic anxiety than most people.,254.24,257.617
+SPEAKER_00, It does seem that way.,258.2,258.97
+SPEAKER_00, Yeah.,259.76,259.882
+SPEAKER_00," So this construct would measure things like being afraid of going out, being afraid of  being in crowds.",260.8,265.971
+SPEAKER_00, Does that connect with you?,266.56,267.919
+SPEAKER_00, Does that seem like a fear that you have?,267.96,269.718
+SPEAKER_01, Yeah.,269.96,270.144
+SPEAKER_00, Can you tell me about that?,270.96,271.674
+SPEAKER_01, I don't like being on public transportation.,272.563,274.332
+SPEAKER_01, Crowds make me nervous.,276.46,277.548
+SPEAKER_01," And if I ever have to public speak, I feel like I'm just going to pass out.",279.42,282.251
+SPEAKER_00, All right.,284.603,284.869
+SPEAKER_00, So it does appear that you have kind of phobic anxiety symptoms.,285.46,288.395
+SPEAKER_00," So that score, that 64 percentile, that kind of makes sense.",289.36,292.77
+SPEAKER_01, I kind of get that.,296.202,297.293
+SPEAKER_01, I get that.,298.081,298.53
+SPEAKER_00, All right.,299.06,299.346
+SPEAKER_00," I want to move on to the next one, which is paranoia.",300.983,304.436
+SPEAKER_00," So in this one, you were at the 84th percentile.",305.7,309.654
+SPEAKER_00, So quite a bit higher.,311.2,312.91
+SPEAKER_01, Is that where you were recording me?,314.56,315.907
+SPEAKER_00, This wasn't recorded.,318.421,319.033
+SPEAKER_00, Nothing was recorded here.,319.36,320.136
+SPEAKER_00, I understand that's a worry that you have.,321.066,322.537
+SPEAKER_01, Are you going to share those results with anybody?,323.423,325.492
+SPEAKER_00," In your particular case, the only people that would be shared with is the rest of the treatment  team and anybody that you sign a release for.",327.08,335.316
+SPEAKER_01," But if the government asked you, you'd have to give them those results?",336.2,339.495
+SPEAKER_00, There's no reason right now why I did that.,340.48,342.959
+SPEAKER_00," There are certain limits to confidentiality, but in your situation here at this clinic,  there's no reason I would share this information with the government or anybody else other  than the people I indicated.",343.08,352.471
+SPEAKER_00, So the rest of the people here would treat you.,353.4,354.972
+SPEAKER_00," And if you wanted to release the results to somebody, you could sign a release, and I  would let them have the results.",356.08,361.227
+SPEAKER_00, Are you worried about the results getting to other people?,363.944,366.193
+SPEAKER_01," Well, I'm worried that I know people are recording me, and I think that that result shows that  I know that's happening.",368.602,376.053
+SPEAKER_01, And now you want to make it look like that means I have a problem when I'm just reporting  what I know is true.,376.7,382.73
+SPEAKER_00," All right, so you're worried that we're trying to prove that you're paranoid.",385.022,391.119
+SPEAKER_01, Yes.,391.482,391.748
+SPEAKER_00, And kind of rigging the results of this test to make it,392.843,400.097
+SPEAKER_01, But this test says that I'm wrong to think that it makes me paranoid.,401.623,405.878
+SPEAKER_00," Oh, I understand.",407.708,408.433
+SPEAKER_01, Okay.,409.503,409.809
+SPEAKER_00," So, these things are really happening.",410.662,412.979
+SPEAKER_01, Yes.,414.133,414.256
+SPEAKER_00, Right?,414.48,414.704
+SPEAKER_00, But the test is arranged so that it's making you look paranoid when you're not.,415.56,418.975
+SPEAKER_01, Exactly.,420.061,420.918
+SPEAKER_00, Because it's not paranoia in your case.,421.424,423.019
+SPEAKER_00, It's really true.,423.344,423.976
+SPEAKER_01, Exactly.,424.282,424.691
+SPEAKER_00, Okay.,425.16,425.242
+SPEAKER_00, So that would explain why your score is elevated on this scale.,426.16,428.997
+SPEAKER_01, Okay.,429.621,429.927
+SPEAKER_00, Is that what you're thinking?,430.56,431.56
+SPEAKER_01," I do, yes.",431.601,432.315
+SPEAKER_00, And I wanted you to know that.,432.642,433.56
+SPEAKER_00," Well, I appreciate you telling me that.",434.368,435.439
+SPEAKER_00," Do you think it's possible that it's working the other way around, that the test is measuring  something that is actually there?",436.002,442.416
+SPEAKER_01," No, I don't think so.",444.692,445.679
+SPEAKER_00, You don't think so?,445.841,446.8
+SPEAKER_00, Okay.,446.8,447.004
+SPEAKER_00," So, you understand that result, that the 84 percentile, you understand what that means?",448.562,454.757
+SPEAKER_00, Higher than we'd expect?,455.92,456.649
+SPEAKER_01, I understand that I'm higher than 84—I'm higher than 84 percent of the population.,457.66,465.198
+SPEAKER_00, Yeah.,466.816,467.04
+SPEAKER_01, But those people just think that's happening.,467.04,469.237
+SPEAKER_01, And I know what is.,469.7,470.272
+SPEAKER_00, Right.,470.741,470.864
+SPEAKER_00, You believe their situation is different than yours?,471.68,472.68
+SPEAKER_00, I do.,473.149,473.313
+SPEAKER_00, Okay.,473.68,473.925
+SPEAKER_00, I understand.,474.925,475.333
+SPEAKER_00," So the last area, the last subscale I want to discuss—there's one global scale I want  to discuss—the last subscale is one that's referred to as psychoticism.",475.941,488.035
+SPEAKER_00, And there you are at the 93rd percentile.,489.36,491.59
+SPEAKER_00, And that's when maybe you can—you hear things other people don't hear or see things  other people don't see or have beliefs or thinking that are far outside the norm and  can't be supported by evidence.,493.96,509.2
+SPEAKER_00, Do you ever feel like that's happening to you?,509.321,511.136
+SPEAKER_01, Are you going to put me away?,511.822,513.03
+SPEAKER_00, There's nothing here that would indicate that I'm going to put you away or send you anywhere.,514.881,518.556
+SPEAKER_00," You know, I just really, the purpose of this is just to discuss the results, to make  sure you understand kind of how these inform our treatment of you.",519.6,527.839
+SPEAKER_00," Like, so we're going to provide treatment to you in part based on these results.",528.341,531.47
+SPEAKER_01, Sometimes I hear things other people don't hear.,534.56,536.519
+SPEAKER_01, I know that.,536.762,537.211
+SPEAKER_00, Okay.,538.069,538.273
+SPEAKER_00," So this is a score that makes sense to you, where you think the test might be right.",538.64,542.533
+SPEAKER_01, Maybe that's true.,544.6,545.273
+SPEAKER_00, Maybe that's true.,545.6,546.029
+SPEAKER_00, Okay.,546.702,546.927
+SPEAKER_01, But I am being recorded.,547.6,548.212
+SPEAKER_00, But you believe you're being recorded.,549.347,550.378
+SPEAKER_00, You're certain of that.,550.6,551.166
+SPEAKER_00, All right.,553.167,553.432
+SPEAKER_00," So you understand those three scores, right, the phobic anxiety, the paranoid scale, subscale,  and the psychoticism subscale.",553.88,563.491
+SPEAKER_00, I'd like to talk about one referred to as the global severity index.,564.68,569.857
+SPEAKER_00," So this kind of takes all the different scores, all different items that you responded to,  and gives us a big picture of how you're doing.",570.72,580.153
+SPEAKER_00," You know, how bad your symptoms are, how bothersome they are overall.",581.68,586.259
+SPEAKER_01, Okay.,587.008,587.273
+SPEAKER_00, Does that make sense?,587.824,588.416
+SPEAKER_01, Uh-huh.,588.661,588.886
+SPEAKER_00," On this one, you were at the 68th percentile.",589.68,592.11
+SPEAKER_00, Close to normal.,594.6,595.355
+SPEAKER_00," Well, a little bit higher than we'd want to see.",596.844,598.548
+SPEAKER_00," Not extremely far out, but it's 18 percentile higher than we'd want.",602.56,606.891
+SPEAKER_01, Okay.,610.62,610.886
+SPEAKER_00," Or than we'd normally see, rather.",613.506,614.633
+SPEAKER_00, So it's a bit of a concern.,615.8,617.553
+SPEAKER_00, Do you feel like overall you're dealing with symptoms okay?,618.5,621.415
+SPEAKER_01," I mean, I don't like to go out much.",624.506,626.131
+SPEAKER_01, And it really frustrates me when I see things or hear things other people don't.,628.96,632.459
+SPEAKER_01, I promise you.,633.79,634.295
+SPEAKER_01," But the other score is high, and it shouldn't be.",634.84,636.758
+SPEAKER_01, So I might be closer to normal than you think.,637.0,639.397
+SPEAKER_00," So with the paranoid, if that scale was accurate, then your estimation, your global severity  might be lower.",639.88,648.637
+SPEAKER_01, I think so.,648.8,649.31
+SPEAKER_01, Yeah.,650.167,650.473
+SPEAKER_00, Closer to that 50 percentile.,650.881,652.356
+SPEAKER_01, I think so.,652.82,655.92
+SPEAKER_00," So even if you were closer to the 50 percentile, you can understand how we're concerned that  your symptoms are somewhat severe.",655.92,665.375
+SPEAKER_00, And we want to make sure we deliver treatment to address that.,666.28,669.276
+SPEAKER_01, Sure.,670.572,670.797
+SPEAKER_00, Is that okay?,670.98,671.491
+SPEAKER_01, It is.,672.062,672.266
+SPEAKER_01, Okay.,673.103,673.797
+SPEAKER_00, So I will meet with the counselor that will be treating you here.,674.161,678.54
+SPEAKER_00," And I'm going to go over these scores, and I'll explain to her what you've explained  to me.",679.002,683.785
+SPEAKER_01, Okay.,684.642,684.887
+SPEAKER_00, In terms of why you think you might have received each score.,685.802,688.579
+SPEAKER_01, Okay.,689.149,689.332
+SPEAKER_00, I'll go over that with her.,689.72,690.496
+SPEAKER_00," And of course, you could discuss that with her too.",690.781,692.28
+SPEAKER_00, And she'll have the results of this test in your chart.,692.34,696.539
+SPEAKER_01, Okay.,697.106,697.392
+SPEAKER_01," She's not going to record our session, is she?",698.062,700.317
+SPEAKER_00, She's not going to be recording.,700.72,701.568
+SPEAKER_01, Okay.,702.944,703.72
+SPEAKER_00," Does that make sense, everything I've talked about here today?",703.76,705.976
+SPEAKER_01, It does.,706.52,706.847
+SPEAKER_01, Okay.,708.255,708.479
+SPEAKER_00, I appreciate you allowing me to go over this set of results with you.,708.56,713.317
+SPEAKER_00," And I'll get you assigned to that counselor, and we'll move forward with treatment.",714.24,719.179
+SPEAKER_01, Okay.,719.663,719.949
+SPEAKER_01, Thank you.,720.724,721.03
+SPEAKER_00, Thank you.,721.52,721.728

@@ -1,0 +1,110 @@
+speaker,start,end,text
+SPEAKER_00,15.319,16.2," Hi Susan, how are you doing today?"
+SPEAKER_01,16.703,17.513," I'm doing good, how are you?"
+SPEAKER_00,18.181,19.254," I'm doing well, thanks for asking."
+SPEAKER_00,20.041,25.4, I want to give you a brief assessment to help measure functions like memory and thinking.
+SPEAKER_00,25.501,26.168, Is that okay with you?
+SPEAKER_01,27.441,28.4, Mm-hmm.
+SPEAKER_00,28.4,31.458," So the first part of this assessment, we're going to be handing the sheet back and forth."
+SPEAKER_01,32.229,32.372, Okay.
+SPEAKER_00,32.821,34.019, I have a table there so you can write on it.
+SPEAKER_01,34.509,34.631, Okay.
+SPEAKER_00,35.08,38.438, And for the second part I'll get that out of your way and I'll work on some other parts  of it.
+SPEAKER_01,38.602,38.724, Okay.
+SPEAKER_00,39.54,40.52, Does that sound good?
+SPEAKER_01,40.642,40.806, Yeah.
+SPEAKER_00,41.52,41.826, All right.
+SPEAKER_00,42.58,45.199, So I want you to take a look at this section right here.
+SPEAKER_00,45.582,46.873," Okay, I have my finger pointed."
+SPEAKER_00,47.64,52.138, Please draw a line going from a number to a letter in ascending order.
+SPEAKER_00,52.74,59.949," I want you to begin here and draw a line from one, then to A, then to two, and so on, and  end here."
+SPEAKER_01,60.664,60.909, Okay.
+SPEAKER_00,62.296,62.48, Thank you.
+SPEAKER_00,73.153,78.599, I want you to copy this drawing as accurately as you can in the space below.
+SPEAKER_01,79.684,80.378, Okay.
+SPEAKER_00,82.583,84.004, Thank you.
+SPEAKER_00,96.32,104.96," So in this empty space here, I'd like you to draw a clock, put in all the numbers, and  set the time to five past four."
+SPEAKER_01,105.0,105.02, Okay.
+SPEAKER_00,114.654,115.678, Thank you for drawing this clock.
+SPEAKER_00,116.363,118.14, You're welcome.
+SPEAKER_00,118.2,121.179, Can you tell me the name of this animal?
+SPEAKER_01,121.585,121.932, Giraffe.
+SPEAKER_00,122.381,123.434, And how about the name of this animal?
+SPEAKER_01,123.92,124.083, Bear.
+SPEAKER_00,125.102,126.031, And the name of that animal?
+SPEAKER_01,127.022,127.532, Hippopotamus.
+SPEAKER_00,128.206,128.879, Thank you.
+SPEAKER_01,129.0,133.54, You're welcome.
+SPEAKER_00,133.54,134.472, This is a memory test.
+SPEAKER_00,135.12,138.736, I'm going to read a list of words that you will have to remember now and later on.
+SPEAKER_00,139.64,140.109, Listen carefully.
+SPEAKER_00,140.68,143.299," When I'm through, tell me as many words as you can remember."
+SPEAKER_00,143.802,146.655, It does not matter in what order you say them.
+SPEAKER_01,147.701,147.864, Okay.
+SPEAKER_00,149.081,153.797," Truck, banana, violin, barn, green."
+SPEAKER_01,154.841,160.497," Banana, truck, violin, green, barn."
+SPEAKER_00,161.5,162.296, Thank you.
+SPEAKER_01,162.48,163.48, You're welcome.
+SPEAKER_00,163.48,166.135, I'm going to read the same list for a second time.
+SPEAKER_00,167.04,171.824," Try to remember and tell me as many words as you can, including words you said the first  time."
+SPEAKER_00,173.363,177.299," Truck, banana, violin, barn, green."
+SPEAKER_01,179.025,182.156," Truck, banana, violin, barn, green."
+SPEAKER_00,183.321,183.524, Thank you.
+SPEAKER_00,184.54,187.629, I will ask you to recall those words again at the end of the test.
+SPEAKER_00,191.2,193.232, I am going to say some numbers when I'm through.
+SPEAKER_00,194.54,197.731, Repeat them to me exactly as I have said them.
+SPEAKER_00,200.24,205.656," Three, two, nine, six, five."
+SPEAKER_01,207.16,209.956," Three, two, nine, six, five."
+SPEAKER_00,211.233,211.6, Thank you.
+SPEAKER_01,211.6,214.28, You're welcome.
+SPEAKER_00,214.28,221.814," Now I'm going to say some more numbers, but when I'm through, you must repeat them to  me in the backwards order."
+SPEAKER_00,224.307,226.899," Eight, five, two."
+SPEAKER_01,228.247,229.536," Two, five, eight."
+SPEAKER_00,230.08,233.999, Thank you.
+SPEAKER_00,234.26,236.335, I'm going to read a sequence of letters.
+SPEAKER_00,237.04,240.097," Every time I say the letter A, tap your hand once."
+SPEAKER_00,240.64,243.389," If I say a different letter, do not tap your hand."
+SPEAKER_00,246.56,280.328, F B A C M N A A J K L B A F A K D E A A A J A M O F A J K L B A F A K D E A A A J A M  O F A A B. Thank you.
+SPEAKER_00,290.42,301.633," Now I ask you to count by subtracting seven from ninety, and then keep subtracting seven  from your answer until I tell you to stop."
+SPEAKER_01,303.103,305.058, So starting with ninety and then going down seven.
+SPEAKER_00,305.461,305.784, That's correct.
+SPEAKER_01,307.42,321.879," Ninety, eighty-three, seventy-six, sixty-nine, sixty-two, fifty-five."
+SPEAKER_00,322.48,322.782, That's good.
+SPEAKER_00,322.882,323.124,Thank you.
+SPEAKER_00,326.12,328.754, I'm going to read you a sentence.
+SPEAKER_00,329.9,333.153, Repeat it after me exactly as I say it.
+SPEAKER_00,335.16,339.997, A bird can fly into closed windows when it's dark and windy.
+SPEAKER_01,341.001,345.039, A bird can fly into closed windows when it's dark and windy.
+SPEAKER_00,345.32,345.562, Thank you.
+SPEAKER_00,347.36,349.892, Now I'm going to read you another sentence.
+SPEAKER_00,351.6,354.433, Repeat it after me exactly as I say it.
+SPEAKER_00,355.96,359.675, The caring grandmother sent groceries over a week ago.
+SPEAKER_01,360.84,363.617, The caring grandmother sent groceries over a week ago.
+SPEAKER_00,364.08,373.4, Thank you.
+SPEAKER_00,373.4,378.711, Tell me as many words as you can think of that begin with a certain letter of the alphabet  that I will tell you in a moment.
+SPEAKER_00,379.7,390.099," You can say any kind of word you want except for proper nouns like Bob or Boston, numbers,  or words that begin with the same sound but have a different suffix."
+SPEAKER_00,390.32,392.814," For example, love, lover, loving."
+SPEAKER_00,393.88,395.991, I will tell you to stop after one minute.
+SPEAKER_00,397.84,398.244, Are you ready?
+SPEAKER_01,400.181,400.402, Yes.
+SPEAKER_00,405.68,409.038, Now tell me as many words as you can think of that begin with the letter S.
+SPEAKER_01,411.722,430.14," Shoes, socks, stockings, sweater, shirt, stripes, suitcase, safe, strategic, surly, sweet, super,"
+SPEAKER_00,435.68,435.741, and
+SPEAKER_00,438.206,440.856, Tell me how a carrot and a potato are like.
+SPEAKER_01,442.04,442.583, They're both vegetables.
+SPEAKER_00,446.08,448.476, Can you tell me how a diamond and a ruby are like?
+SPEAKER_01,449.302,450.008, They're both stones.
+SPEAKER_00,451.66,453.571," And a cannon and a rifle, how are they like?"
+SPEAKER_01,455.32,462.779, They're both weapons.
+SPEAKER_00,463.22,466.796, I read some words to you earlier which I ask you to remember.
+SPEAKER_00,467.6,469.814, Tell me as many of those words as you can remember.
+SPEAKER_01,470.82,474.445," Banana, truck, green, barn, violet."
+SPEAKER_00,484.6,485.792, Can you tell me today's date?
+SPEAKER_01,486.942,487.545," February 10th, 2015."
+SPEAKER_00,490.36,492.133, Can you tell me what day of the week it is?
+SPEAKER_01,493.488,493.774, Tuesday.
+SPEAKER_00,494.14,495.814, Can you tell me what place we're in right now?
+SPEAKER_01,496.52,497.418, Wilmington University.
+SPEAKER_00,498.065,498.833, And what city we're in?
+SPEAKER_01,499.54,499.704, Dover.
+SPEAKER_00,503.434,504.6," Thank you Susan, you did very well."

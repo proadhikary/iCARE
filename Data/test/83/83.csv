@@ -1,0 +1,239 @@
+speaker,start,end,text
+SPEAKER_00,3.871,4.352," Hi, I'm Jordan."
+SPEAKER_00,4.734,7.0,It's so nice to meet you.
+SPEAKER_01,7.724,8.407," Hi, I'm Judy."
+SPEAKER_00,11.523,12.508, How are you doing?
+SPEAKER_01,15.143,15.98, I'm pretty good.
+SPEAKER_00,16.121,17.899," Well welcome, sit down."
+SPEAKER_00,19.027,20.859, Have you ever been to a counseling session before?
+SPEAKER_01,22.067,23.497," No, this will be my first time."
+SPEAKER_00,24.02,26.617," Well okay then, so just a little bit about us."
+SPEAKER_00,27.261,31.94, We're a counseling center and we work with people with a range of different things going on with them.
+SPEAKER_00,32.944,36.639, And between the two of us we can work through whatever is going on with you in your life.
+SPEAKER_00,37.783,42.318," But before we begin, I just wanted to let you know that everything you say here is confidential."
+SPEAKER_00,43.0,48.86, Unless you're intending to harm yourself or other people and then we're obligated to report it for their own safety.
+SPEAKER_00,49.182,49.828, Does that make sense?
+SPEAKER_01,51.0,51.612," Yeah, that makes sense too."
+SPEAKER_00,52.06,53.746, Great.
+SPEAKER_00,53.766,57.518,"So I also just want to forewarn you, today is going to be a lot of questions."
+SPEAKER_00,58.08,61.916, Just trying to get some background of where you're at and where you want to go.
+SPEAKER_00,63.904,67.177," Also, would it be okay with you if I write down some things as we talk?"
+SPEAKER_01,68.0,69.818," Yeah, that's totally fine."
+SPEAKER_00,70.02,71.085, Great.
+SPEAKER_00,71.106,73.276,"So to begin, can you tell me a little bit about yourself?"
+SPEAKER_01,74.0,75.928," Yeah, like I said, my name is Judy."
+SPEAKER_01,75.948,76.49,I'm 42.
+SPEAKER_01,76.631,77.032,I have two kids.
+SPEAKER_01,79.501,82.249," Max, who's eight years old, and Chelsea, who is six."
+SPEAKER_01,82.35,83.312,Max plays soccer.
+SPEAKER_01,83.372,85.117,He's very active around the home.
+SPEAKER_01,86.381,87.926, Like almost too active.
+SPEAKER_01,88.367,92.178,"And Chelsea is a little know-all, but keeps me in line."
+SPEAKER_01,93.0,100.799," And kids are both very active, pretty good in school, get along pretty well, and they're good."
+SPEAKER_01,101.163,101.776, They're good kids.
+SPEAKER_01,101.796,102.0,Sweet kids.
+SPEAKER_00,102.525,102.768, Good.
+SPEAKER_00,102.808,103.576,I'm so glad.
+SPEAKER_00,104.12,109.559, So I'd love to hear what's been going on from your perspective and why you're excited to come here today.
+SPEAKER_01,110.06,113.638," Well, I have a lot of negative stuff going on in my life right now."
+SPEAKER_01,114.08,118.635, I've been very stressed lately because I lost my job pretty recently.
+SPEAKER_01,120.08,125.699, It was a rough time and I haven't been handling it very well according to my husband.
+SPEAKER_01,126.161,129.532, And he told me that I had to come to counseling where he would leave me.
+SPEAKER_01,130.214,131.157,So that's why I'm here.
+SPEAKER_00,132.02,133.304, I'm definitely glad that you came.
+SPEAKER_00,134.447,138.539,When did you notice this change in yourself or notice that this was a problem?
+SPEAKER_01,139.261,141.129," Well, I lost my job about a month ago."
+SPEAKER_01,141.149,142.373,I got laid off a month ago.
+SPEAKER_00,144.521,145.864, Okay.
+SPEAKER_00,145.984,152.419,So it seems like losing your job has really affected your relationship with your husband and family.
+SPEAKER_00,153.602,157.357," You said you have two other kids, that you love with them, right?"
+SPEAKER_01,158.221,161.689," Yes, I have two kids Max and Chelsea."
+SPEAKER_01,162.351,165.519,"I love them a lot and we live all together, the four of us."
+SPEAKER_01,166.421,173.0," The children are wonderful, but I feel like I haven't been a great mom recently to them or my husband."
+SPEAKER_01,173.202,174.515, I think that's unfair to me.
+SPEAKER_00,175.603,177.191, So that leads great into my next question.
+SPEAKER_00,177.231,178.779,What's your relationship with your husband like?
+SPEAKER_01,181.282,187.554," Well, we've had our ups and downs like every marriage."
+SPEAKER_01,188.355,189.978,I spend a lot of time with the kids.
+SPEAKER_01,190.018,190.699,He works a lot.
+SPEAKER_01,191.903,194.13, He's not very close with the kids.
+SPEAKER_01,194.371,196.298,But I'm not as close with my parents.
+SPEAKER_01,196.378,196.98,I'm very close with my mom.
+SPEAKER_01,197.564,199.537, And she's been there for me a lot in the past.
+SPEAKER_00,200.0,200.222, Interesting.
+SPEAKER_00,200.242,201.374,And how long have you been married for?
+SPEAKER_01,202.0,203.657, Just seven years.
+SPEAKER_00,205.141,208.032, And what do you like to do in your free time with your family?
+SPEAKER_00,208.052,209.157,Do you spend time with them?
+SPEAKER_01,210.02,211.665," Yeah, I go to the gym a lot."
+SPEAKER_01,211.705,213.59,That's more of an individual activity for me.
+SPEAKER_01,213.65,216.117,It's something that releases a lot of my stress.
+SPEAKER_01,217.723,221.639," And that's kind of how I, I don't know, it's part of who I am."
+SPEAKER_01,222.181,226.759," But with the kids, I like them and I drive them all over the place all the time."
+SPEAKER_01,227.101,229.859," I like to practice, I like to practice everything."
+SPEAKER_01,230.884,233.678, So there's not a lot of time for me to really have time with my kids.
+SPEAKER_01,234.0,239.476," But I don't know, I like to, you know, we read together every night."
+SPEAKER_01,239.496,240.98,I try to make time for the kids.
+SPEAKER_01,241.421,243.448, And I take them to the beach when it's warm.
+SPEAKER_01,244.171,246.478,"You know, there's a lot of things that we do together."
+SPEAKER_00,247.462,249.488," Good, good."
+SPEAKER_00,249.528,251.395,Do you find you can draw support from your family?
+SPEAKER_00,251.415,252.579,"You mentioned your aunt, but..."
+SPEAKER_01,253.803,258.98," Well, I don't really want to warn the kids because they think they're so young."
+SPEAKER_01,259.683,263.88," And I think they know that something's up, but I don't really know to what extent they know."
+SPEAKER_01,265.688,267.216, But I am closer to my aunt.
+SPEAKER_01,267.236,268.0,She's always been there for me.
+SPEAKER_01,268.602,272.859, But my husband and I have had a rough patch recently since I lost my job.
+SPEAKER_00,274.341,279.779," So, when you're stressed, you sometimes go to your aunt, but do you turn to people for comfort?"
+SPEAKER_00,280.0,285.298, Or do you have an activity that helps you calm down or another method that helps you cope?
+SPEAKER_01,286.02,290.92," Like I said, I have been going to the gym a lot, but I haven't been doing that as much recently."
+SPEAKER_01,291.0,294.635," Maybe, I'm not really sure why I haven't made time for it."
+SPEAKER_01,294.655,296.0,I haven't really felt like myself recently.
+SPEAKER_01,296.201,300.438," But a lot of times, I turn to other things more than people."
+SPEAKER_00,301.482,302.506, What kind of things do you mean?
+SPEAKER_00,302.546,305.297,"Like substances, drugs and alcohol?"
+SPEAKER_01,306.521,313.599," Yeah, I've never used them before, but I feel like it helps me relax, calm down."
+SPEAKER_01,314.0,320.318," And a lot of times, it's something that I feel like I need to be, I guess, relaxed."
+SPEAKER_00,321.622,322.163, Okay.
+SPEAKER_00,322.203,324.029,Do you find that's affecting your family?
+SPEAKER_00,324.049,327.679,Your relationships with them or the way you interact?
+SPEAKER_01,328.401,329.405, It didn't for a while.
+SPEAKER_01,331.09,333.619,"But like I said, about a month ago was a turning point."
+SPEAKER_01,334.762,340.514," And when I lost my job, I do feel very ashamed."
+SPEAKER_01,340.955,342.479,I made a horrible mistake the other day.
+SPEAKER_01,343.742,348.679," I can't believe I'm saying this, but I drove with them in the car after I had a few drinks and they got pulled over."
+SPEAKER_01,349.12,351.347, I felt like I endangered my family.
+SPEAKER_01,351.367,355.178,I felt like I was being a bad mom and that was a really big life to me.
+SPEAKER_00,356.763,358.428, That must have been pretty scary for you.
+SPEAKER_00,358.769,361.92,"But if you think of it this way, it could be a turning point."
+SPEAKER_00,362.361,367.0, And you now notice what you're doing wrong and how you can improve it.
+SPEAKER_00,367.643,371.98, So it's progress that you're admitting that and that you do need to improve on certain things.
+SPEAKER_00,373.067,374.436, Do you take any other medications?
+SPEAKER_01,375.626,376.03, Yeah.
+SPEAKER_00,377.283,378.253, What medications?
+SPEAKER_01,379.545,380.232, Oxycodone.
+SPEAKER_00,381.886,383.235, And why do you have a prescription for that?
+SPEAKER_01,384.1,389.128," Well, I had surgery a few years back and I got fulfilled."
+SPEAKER_01,389.148,396.92,"I didn't really finish all the pills, but I've been taking them recently when I feel like I need to."
+SPEAKER_00,397.161,398.107, Okay.
+SPEAKER_00,398.148,399.356,And how often do you take them?
+SPEAKER_01,400.702,406.0," I've taken three over the course of a month, but I know that I shouldn't be."
+SPEAKER_00,406.785,407.893, How do you feel when you take them?
+SPEAKER_01,409.04,417.88, It's numbing and it allows me to relax and escape from the issues in the home and workplace.
+SPEAKER_01,418.622,425.94," I guess not really a workplace anymore, but I know that I shouldn't be doing what I'm doing and I know that it's wrong."
+SPEAKER_01,427.289,428.295, And I guess that's why I'm here.
+SPEAKER_00,429.0,432.477, How has your family ever had a history of drug abuse problems and drinking?
+SPEAKER_01,433.181,438.957," My dad, I think, was an alcoholic for a while, not really diagnosed."
+SPEAKER_01,440.721,443.046, I grew up with a lot of that in the home.
+SPEAKER_01,443.106,450.699,A lot of just genuine parents didn't mesh too well or a lot of infighting in the home.
+SPEAKER_01,451.1,457.719," And the older I get, the more that I think that it might have been alcohol related on my father's part."
+SPEAKER_01,458.1,459.645, My mother definitely not.
+SPEAKER_01,460.528,463.819,"My father though, and I believe that his father had a problem similar to that as well."
+SPEAKER_00,464.483,466.98, And is it the first time you found yourself turning to it?
+SPEAKER_01,468.483,476.719," A few times in college I found myself depressed, confused about growing up, getting a career."
+SPEAKER_01,477.441,484.98," I wasn't an addict in college, but I would do things with the intention of feeling better and forgetting."
+SPEAKER_01,486.522,490.277, I think that's kind of something that's been beneath the surface for a while.
+SPEAKER_01,491.943,496.94," When I find myself stressful, I can sink back into that."
+SPEAKER_00,498.524,503.579, Have you ever experienced any form of sexual assault or abuse that maybe made you turn to alcohol?
+SPEAKER_01,504.163,504.286, No.
+SPEAKER_00,505.705,507.859, Are you having trouble eating or sleeping?
+SPEAKER_01,510.083,516.98," Eating, yeah, not as much or as healthy as I have before, but sleeping absolutely because of stress."
+SPEAKER_01,517.687,518.838, I find myself not sleeping as well.
+SPEAKER_00,519.904,521.53," Yeah, that definitely happens with stress."
+SPEAKER_00,521.992,523.538,And what's a typical day like for you?
+SPEAKER_01,525.323,533.92," Well, lately my husband's been taking care of the kids more because of last week and the incident with getting pulled over."
+SPEAKER_01,534.161,537.176," He doesn't trust me with the kids, which I guess they understand."
+SPEAKER_01,540.024,547.679," He doesn't trust me to drive kids places because of last week, so he usually will take them to school and I'll make him late for work and that makes him upset."
+SPEAKER_01,548.182,549.172, And there's an argument there.
+SPEAKER_01,550.301,553.554," When I wake up, I'll have a drink, so I'm not too hung up from the night before."
+SPEAKER_01,555.883,560.839," Then I watch my show, I get the mail, and usually there's a bill, so I have a few more drinks."
+SPEAKER_01,561.601,571.92," And then I try to start dinner, but it's usually hard because I'm pretty intoxicated, but I start dinner and usually at the night is the letter of a shit show and the kids are frustrated and you figure it out."
+SPEAKER_00,573.106,575.819, And are you feeling sad or down in addition to being stressed?
+SPEAKER_01,576.184,576.551, I'm pretty sad.
+SPEAKER_01,577.0,577.531, Yeah.
+SPEAKER_00,579.084,582.334," And when you're sad, do you turn to your faith?"
+SPEAKER_00,582.375,583.398,Have you been praying a lot?
+SPEAKER_01,584.722,587.668," Some I used to, but I don't as much anymore."
+SPEAKER_01,587.748,592.198,It's hard to believe that somebody's watching over me with all this negative stuff.
+SPEAKER_00,594.968,597.819, Does other things give you hope besides your faith?
+SPEAKER_01,598.862,599.363, The kids.
+SPEAKER_01,600.747,605.198,Watching them play together and be together really gives me a lot of hope.
+SPEAKER_01,607.741,618.359, I love seeing them do what they love to do and I love it when I know that what I do can enable them to enjoy their activities.
+SPEAKER_01,619.12,627.399," But it's been hard to do that recently because I drive them to school, I've been taking them to activities because my husband's been doing this for me."
+SPEAKER_01,628.101,631.598, So it's getting kind of empty-fills with them getting into the family.
+SPEAKER_00,633.04,634.03, Thank you for sharing that.
+SPEAKER_00,635.502,640.358, So we can start to meet on a regular basis and try to work through all these things together.
+SPEAKER_00,641.801,651.599," From what I've collected, from what you kind of just told me, you're really stressed about losing your job and so you want to find different ways to cope with your stress."
+SPEAKER_00,652.06,661.479," And then also try to rebuild the trust in your family, with your husband, your kids that they may have lost during the driving incident last week."
+SPEAKER_01,662.642,664.527, Sounds a lot like what I want to do.
+SPEAKER_01,664.567,667.034,I hope that you're able to help me with that.
+SPEAKER_00,669.822,676.9," So in order for this to be most effective, let's brainstorm some small steps we can work on."
+SPEAKER_00,678.522,683.278, Maybe make a list together and it can be very small unless it's not too overwhelming at first.
+SPEAKER_00,688.221,693.9," So for instance, to work on the drinking thing, we can start by cutting down the number of drinks slowly today."
+SPEAKER_00,694.401,701.98, And it can be really hard to just stop cold turkey because you can get withdrawal symptoms or it may make you even more stressed out.
+SPEAKER_00,702.301,707.739, So I want you to be able to be confident in the goal you're setting and in yourself.
+SPEAKER_00,708.02,713.94, So can you do one last drink each day or something like that.
+SPEAKER_00,714.341,718.96," So what would you like to achieve from our work together in the future, by the end?"
+SPEAKER_01,719.06,722.256," Yeah, I hear what you're saying."
+SPEAKER_01,722.276,722.739,I understand.
+SPEAKER_01,723.383,725.879, I guess I don't want to stop moving completely.
+SPEAKER_01,726.523,728.779, But it sounds like a very logical solution at this point.
+SPEAKER_01,729.121,731.94, It doesn't sound like something I'd be able to do at this point immediately.
+SPEAKER_01,732.181,734.131, We can maybe get there.
+SPEAKER_01,734.151,735.92,I'm not really sure if we can completely get there.
+SPEAKER_01,737.145,740.98," And then after that, I'd really like to fix my relationship with my family."
+SPEAKER_01,741.804,745.0," So if I go to my husband, we can patch things with my parents too."
+SPEAKER_00,748.403,750.617, So let's start with a goal regarding drinking.
+SPEAKER_00,751.323,752.98, What do you think is a reasonable thing for yourself?
+SPEAKER_01,755.164,759.398," I can start having four drinks a day, maybe four maybe."
+SPEAKER_00,761.188,761.691, That's good.
+SPEAKER_00,761.711,762.456,That's a good one.
+SPEAKER_00,763.642,770.92," Then in a few days you can try having three, and two, and one, until you don't need to turn to alcohol for comfort, and so on and so forth."
+SPEAKER_00,772.726,776.94," If you need a different way to find comfort, you can try stress relieving activities."
+SPEAKER_00,777.081,779.859, So what would be a good activity for you to do?
+SPEAKER_01,781.743,784.735," I think I could try journaling, maybe drawing or painting."
+SPEAKER_01,784.755,785.819,I did a lot of art in college.
+SPEAKER_01,786.201,789.859, I'd really like to get back into that and I would just call it a day.
+SPEAKER_00,790.687,791.636, That's a really great idea.
+SPEAKER_00,793.145,796.96," Then in the future, what are you thinking regarding your career?"
+SPEAKER_01,798.464,799.768, I don't know.
+SPEAKER_01,799.788,803.499,I don't think anyone's going to want somebody as dressed up as me right now.
+SPEAKER_01,805.172,805.899, What was your old job again?
+SPEAKER_01,807.152,807.879, I was a staff captain.
+SPEAKER_00,810.467,813.0," Well, you don't need to jump right back into work again."
+SPEAKER_00,813.02,817.92," That can be a way in the future, or maybe a month or two."
+SPEAKER_00,818.682,823.719," If you think about it in the future, what would be your goal?"
+SPEAKER_01,824.782,830.438," I guess I'd like to get back in the game, but I think more important for me is that I patch things up with my family."
+SPEAKER_01,832.126,834.658, But I do need to try making money again to support the family.
+SPEAKER_01,836.285,839.98, It's not logical for me to assume that I can go a long time without it.
+SPEAKER_01,840.361,846.619," That's why I want to fix my issues, get back in the job, and see what I can do."
+SPEAKER_00,848.727,851.598, What kind of things do you think could help rebuild the trust within your family?
+SPEAKER_01,854.381,861.759," I could block out some time each week to really spend a long time with each of my family members, my kids and my husband."
+SPEAKER_01,863.103,868.739," Kids I don't think really understand what's going on, so I don't have to work as hard with them, but I would still love to."
+SPEAKER_01,869.801,880.78," I just really do need to work in relationship with my husband, go back to what things we used to do together, and see what we can do to get back there."
+SPEAKER_00,883.341,886.753, A way you could do that is try family therapy or couples counseling.
+SPEAKER_00,887.274,888.88,Would you be interested in something like that?
+SPEAKER_01,889.222,890.98," Yeah, that's definitely something we could do."
+SPEAKER_00,891.581,892.983, Great.
+SPEAKER_00,894.105,898.372,"So, I'm very happy that you came to talk to me today."
+SPEAKER_00,898.693,902.92,"From what I heard, it sounds like losing your job has been incredibly stressful for you."
+SPEAKER_00,903.762,906.971, And you turned to substance abuse to try and relieve some of that stress.
+SPEAKER_00,907.433,909.358,Do you feel a little bit better after talking to me?
+SPEAKER_01,910.461,911.042, I absolutely do.
+SPEAKER_01,911.082,918.9,"I feel like the weight has really been lifted off my shoulders, and the fact that somebody is going to be in charge of my recovery, I think is huge."
+SPEAKER_00,919.542,926.0," We'll definitely be working hand in hand, so you're in charge of your recovery, but I'm definitely here to help you along the way."
+SPEAKER_00,926.302,929.98, I really am looking forward to our next session together.
+SPEAKER_00,930.02,930.265, Me too.
+SPEAKER_00,932.16,932.461, Great.
+SPEAKER_00,933.001,946.96,"So, until our next session, I want you to try and journal every time that you're feeling upset or like you need to drink, stress, and then bring your journal and we can go through and find the times you felt like you needed substance to help you."
+SPEAKER_00,947.781,957.715," And in addition to that, maybe try and cut back on your drinking, maybe one less glass or something of wine or anything for now."
+SPEAKER_00,958.957,960.88,"And then next time, let me know how that goes."
+SPEAKER_01,961.925,964.558," Yeah, I can totally make sure of that."
+SPEAKER_00,965.04,965.302, Great.
+SPEAKER_00,965.744,969.0,"So, I want you to know that I really do believe in you and that you can get through this."
+SPEAKER_00,969.722,976.0," And if you continue to come to our sessions, we really can work together to accomplish these goals that we just discussed."
+SPEAKER_01,976.283,977.374, Thanks.
+SPEAKER_01,977.394,977.899,I hope so too.
+SPEAKER_00,978.347,978.49, Great.
+SPEAKER_00,978.51,978.98,Have a good day.
+SPEAKER_01,979.02,979.49, Thank you.

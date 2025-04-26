@@ -1,0 +1,102 @@
+speaker,text,start,end
+SPEAKER_00," Hi, Sherry",14.957,15.277
+SPEAKER_00,How are you doing today?,15.297,17.219
+SPEAKER_01,I've been better.,17.299,17.7
+SPEAKER_00, You've been better?,18.08,18.522
+SPEAKER_00,I understand you haven't been feeling so well lately.,19.848,22.419
+SPEAKER_01, I haven't.,23.546,23.828
+SPEAKER_00,Can you tell me about that?,23.848,24.854
+SPEAKER_01," Yeah, I think I've been depressed.",25.8,28.055
+SPEAKER_00, Been depressed?,28.8,29.285
+SPEAKER_01, For about two months.,30.8,33.325
+SPEAKER_01,It's been getting worse and that's why I'm here.,34.167,36.311
+SPEAKER_01, I haven't been sleeping very well.,40.8,42.466
+SPEAKER_01,I haven't had very much of an appetite.,42.486,46.8
+SPEAKER_01, I haven't been eating very well.,46.88,48.267
+SPEAKER_01,"Last couple of months,",50.86,52.207
+SPEAKER_01,I've lost a bit of weight from it.,52.227,54.78
+SPEAKER_01, I'm tired all the time.,57.568,61.379
+SPEAKER_00, Tired all the time?,61.82,62.422
+SPEAKER_00,Do you find you have low energy?,62.442,66.696
+SPEAKER_01, Yeah.,67.9,68.182
+SPEAKER_00, And you say this has been going on for a couple months?,72.981,74.894
+SPEAKER_01," Yeah, for about two months.",75.8,77.245
+SPEAKER_00, Did anything major happen that you think might have brought this on?,82.041,85.475
+SPEAKER_01," Well, I mean, a big thing that happened between five and six months ago was my cat died.",87.1,101.378
+SPEAKER_00, Sorry to hear that.,103.525,104.632
+SPEAKER_01," I miss him a lot, but I was sad for a little bit.",106.862,113.978
+SPEAKER_01," I'll have days where I miss him, but the last two months have been nothing like what I felt when he died.",115.422,121.998
+SPEAKER_00," The last two months, the symptoms have been more severe or less severe?",123.443,126.8
+SPEAKER_01, More severe.,126.8,127.412
+SPEAKER_00, More severe.,128.183,128.565
+SPEAKER_00, So your cat passed away six months ago?,133.712,135.8
+SPEAKER_01, Yeah.,135.82,136.022
+SPEAKER_00, And these symptoms you've had for the last two months?,138.325,139.78
+SPEAKER_01, Yeah.,139.84,140.082
+SPEAKER_00, So you're not sure if they're really related?,144.068,145.78
+SPEAKER_01," Yeah, I don't know.",147.224,148.407
+SPEAKER_01,"Like, I do miss my cat, but...",148.747,152.056
+SPEAKER_00, Do you think about your cat most days?,155.242,158.378
+SPEAKER_00,How often?,158.398,158.699
+SPEAKER_01," No, just, I would say, you know, a couple times a week it will hit me that, like, he's gone because he's not there.",159.261,167.477
+SPEAKER_01," I'll think about him, but, you know, I'll have bad days without thinking about missing him.",169.462,175.637
+SPEAKER_01, So I don't know if it's that.,178.263,180.015
+SPEAKER_00, All right.,182.572,182.753
+SPEAKER_00," I'm going to ask you some other questions related to depression, if that's okay.",184.463,188.599
+SPEAKER_00, Yeah.,188.881,189.103
+SPEAKER_00," Have you noticed any change in your interest in seeking fun or pleasure, like in how you approach pleasurable activities?",191.702,199.74
+SPEAKER_01," I mean, I feel like I'm still trying to have fun, you know, like I'll still, like I know what I like to do and I'll try to do those things.",200.701,215.6
+SPEAKER_00, What types of things do you still try to do?,218.584,221.036
+SPEAKER_01," I like going out to dinner with my sister and I like reading books and watching movies, so I'll try to do that and enjoy it.",222.221,236.259
+SPEAKER_01," Sometimes it's hard for me to concentrate when I'm reading or watching a movie, like I'll get distracted, but I still try.",236.88,243.619
+SPEAKER_00, You still try?,244.224,244.669
+SPEAKER_01, Uh-huh.,245.8,246.285
+SPEAKER_00," Do you ever feel restless or kind of the opposite of that, like slowed down, like you can't move as fast as you want to?",248.201,258.72
+SPEAKER_01," Yeah, I mean, I have noticed that like as, you know, the last couple months, like at work, it will be hard for me.",258.9,270.52
+SPEAKER_01," It just feels like time is going so slowly and I just like, I want it, like almost like I'm in a dream and like I can't move.",270.92,281.736
+SPEAKER_01,It's weird.,282.957,283.378
+SPEAKER_00, So you feel slowed down?,285.022,286.214
+SPEAKER_01, Yeah.,286.8,287.244
+SPEAKER_00, Any feelings of worthlessness?,291.504,292.77
+SPEAKER_01," I mean, yeah.",295.524,297.373
+SPEAKER_00, Can you tell me about that?,299.608,300.234
+SPEAKER_01," Um, you know, I just don't think that anyone really cares about what happens to me.",301.16,315.059
+SPEAKER_00, How about your ability to concentrate?,320.303,321.589
+SPEAKER_00,Any changes there over the last two months?,321.649,323.659
+SPEAKER_01," Yeah, like it's harder for me to like pay attention to movies and stuff and at work it's, I don't know if it's because I'm tired or what, but it's hard for me to pay attention to the projects I'm supposed to be working on and I have noticed, yes.",324.701,341.859
+SPEAKER_00, Do you have any thoughts related to death or dying?,344.427,347.258
+SPEAKER_01, Not really.,348.83,349.376
+SPEAKER_00, No?,350.29,350.412
+SPEAKER_01, No.,350.861,350.922
+SPEAKER_00, Any drug or alcohol use?,354.184,355.497
+SPEAKER_01, No.,356.709,356.851
+SPEAKER_00, Medical conditions?,358.265,359.073
+SPEAKER_01, None.,360.608,360.79
+SPEAKER_00, Do you ever see or hear things other people can't see or hear?,362.001,367.033
+SPEAKER_01," Not recently, no.",370.871,371.8
+SPEAKER_00, Not recently?,372.363,372.966
+SPEAKER_00,How about before that?,373.931,375.036
+SPEAKER_01," Well, years ago I was hospitalized, but it was because my neighbors said that I was like throwing things and saying things that I didn't say like about the government, but I haven't had anything like that happen for years.",377.721,399.54
+SPEAKER_00, So this is years ago you were hospitalized.,400.041,402.125
+SPEAKER_00,Did they tell you anything about that hospitalization?,403.508,406.555
+SPEAKER_00,Like exactly why?,406.595,407.537
+SPEAKER_01, I don't remember.,409.224,409.83
+SPEAKER_00, You don't remember it?,410.8,412.497
+SPEAKER_00, Did you feel depressed back then like you do now?,412.8,418.236
+SPEAKER_01," Uh, I think maybe.",420.242,422.272
+SPEAKER_01, I think probably some of the same things.,424.705,427.257
+SPEAKER_01, I don't know.,430.224,431.387
+SPEAKER_00,It sounds like it's not clear in your memory what happened.,431.428,435.68
+SPEAKER_01, No.,435.982,436.103
+SPEAKER_01,Yeah.,436.123,436.244
+SPEAKER_00," Have you ever had a period of time where you're too happy, where you had like a lot of energy and just couldn't stop moving?",440.624,450.177
+SPEAKER_00,Nothing like that?,450.197,452.76
+SPEAKER_01, No.,452.8,452.84
+SPEAKER_00, Alright.,455.366,455.568
+SPEAKER_00," Alright, Sherry.",459.845,460.488
+SPEAKER_00,I'm going to get you in to see a counselor.,460.991,462.559
+SPEAKER_01, Okay.,462.984,463.167
+SPEAKER_00, It'll just take you a couple days for us to get you in to see somebody and it's my hope that they can help you.,463.8,472.58
+SPEAKER_00, I want to thank you for answering these questions.,473.684,475.795
+SPEAKER_00,This has been helpful.,475.815,476.498
+SPEAKER_01, Thank you.,477.9,478.25

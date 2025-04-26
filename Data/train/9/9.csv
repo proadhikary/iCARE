@@ -1,0 +1,290 @@
+speaker,start,end,text
+SPEAKER_00,1.061,15.778," Hi Daisy, how you're doing today?"
+SPEAKER_01,18.114,18.359, Not well.
+SPEAKER_00,18.4,18.992, Not well?
+SPEAKER_01,20.196,20.359, No.
+SPEAKER_00,20.42,21.4, What's going on?
+SPEAKER_01,21.561,26.34," Well, remember I had told you that they were downsizing at my job."
+SPEAKER_00,27.451,27.875, I remember that.
+SPEAKER_01,28.32,32.155, So I've been there 20 years at my job.
+SPEAKER_00,33.643,34.593, A long time.
+SPEAKER_01,35.32,35.483, Yeah.
+SPEAKER_01,36.32,38.993, And they're downsizing lately and they let me go.
+SPEAKER_00,40.34,40.993," Well, that's terrible."
+SPEAKER_00,41.461,42.89, I'm sorry to hear that.
+SPEAKER_01,45.014,45.3, Thanks.
+SPEAKER_00,45.32,48.593, Do you have any type of severance or anything like that?
+SPEAKER_01,50.81,50.891, No.
+SPEAKER_00,51.626,51.789, No?
+SPEAKER_01,52.81,52.891, No.
+SPEAKER_01,53.36,55.877," So yeah, it's just, you know, they let me go."
+SPEAKER_01,56.461,57.694, I have really nothing to go on.
+SPEAKER_01,58.442,59.198, I don't know what to do.
+SPEAKER_01,59.542,60.916, I've been at that job so long.
+SPEAKER_01,61.724,62.936, I really don't know how to do anything else.
+SPEAKER_00,63.825,64.694, You used to talk about that job.
+SPEAKER_00,65.32,65.993, You were happy there.
+SPEAKER_01,66.34,67.552," Yeah, I was."
+SPEAKER_01,68.34,73.838," I thought, you know, I envisioned doing that job forever, for a long time."
+SPEAKER_01,74.32,76.132," So, you know."
+SPEAKER_00,77.381,78.492, And that's not going to happen now?
+SPEAKER_01,79.32,79.361, No.
+SPEAKER_00,80.38,84.28," How does this affect your financial outlook, like your bills and such?"
+SPEAKER_01,84.81,85.279," Oh, it's awful."
+SPEAKER_01,85.882,90.28," I mean, we definitely, my husband and I, it's really spiraled out of control."
+SPEAKER_01,90.32,93.32, My husband and I have kind of like joined.
+SPEAKER_01,94.023,98.139, We pay the bills together and so this was half of our income and that's gone.
+SPEAKER_01,98.521,104.32," And because it was kind of more sudden, we didn't really have time to do anything else."
+SPEAKER_01,105.387,106.434," You know, time to prepare."
+SPEAKER_00,107.944,109.374, So it definitely caught you off guard.
+SPEAKER_00,110.561,115.718, Do you have enough income with your husband's job to cover your basic bills?
+SPEAKER_01,116.764,117.835, We're a little bit behind.
+SPEAKER_00,118.32,118.912, A little bit behind?
+SPEAKER_01,119.32,119.789," Yeah, so far."
+SPEAKER_01,120.32,124.24," But if I don't find a job soon, then I don't know what's going to happen."
+SPEAKER_01,124.32,126.394, I don't know how bad it's going to get.
+SPEAKER_00,127.581,133.417, Do you know about how long you have before you fail to meet any financial commitments?
+SPEAKER_01,134.461,138.32," My husband usually deals with the bills, so I'm not quite sure."
+SPEAKER_01,139.043,142.898," But probably in another month or so, it's going to get really bad."
+SPEAKER_00,143.871,144.259, About a month?
+SPEAKER_01,144.32,144.993, Yeah.
+SPEAKER_00,149.105,150.837, What thoughts have you been having?
+SPEAKER_01,153.83,154.198, All sorts.
+SPEAKER_01,154.601,161.2," I mean, I worry that, you know, like my husband and I are arguing because we're under all this stress."
+SPEAKER_01,161.32,163.32, I worry we're going to lose our house.
+SPEAKER_01,164.005,165.877," You know, I'm worried about going to be homeless."
+SPEAKER_01,167.542,169.3," You know, it's embarrassing."
+SPEAKER_01,169.825,171.138, I don't have a job now.
+SPEAKER_01,171.461,172.613, What if I don't find another job?
+SPEAKER_01,173.684,174.896," You know, what are my kids going to do?"
+SPEAKER_01,175.521,179.32," My kids are, you know, relying on us to meet their needs."
+SPEAKER_00,179.32,180.279, They depend on you.
+SPEAKER_01,180.923,184.26," Yeah, so I mean, we could be homeless."
+SPEAKER_01,184.441,186.3, I might not ever get a job again.
+SPEAKER_01,186.966,188.32," You know, I'm not getting any younger."
+SPEAKER_01,189.223,193.718," So I just, I'm afraid that I won't get another job."
+SPEAKER_00,195.461,197.138," Now you said you were laid off, right?"
+SPEAKER_01,197.32,197.483, Yeah.
+SPEAKER_00,198.871,199.32, From the position.
+SPEAKER_00,199.481,201.474, Are you eligible for an unemployment?
+SPEAKER_01,202.973,203.32, I'm not sure.
+SPEAKER_01,203.744,204.876, I'm still looking into that.
+SPEAKER_00,207.36,209.998," Because if you were, I mean, I'm not a labor law expert."
+SPEAKER_00,210.42,215.179," I think if you're laid off, there's probably a decent probability you could get unemployment."
+SPEAKER_00,216.991,218.139, How much of your education are you?
+SPEAKER_01,219.633,220.32, I just have my bachelor's.
+SPEAKER_00,221.32,223.28," Well, that's more than most, right?"
+SPEAKER_00,223.32,224.157, Your bachelor's degree.
+SPEAKER_01,224.32,224.891, Yeah.
+SPEAKER_00,225.682,228.179, You just haven't had to look for a job in a long time.
+SPEAKER_01,228.708,228.912, Right.
+SPEAKER_00,229.932,230.259," 20 years, right?"
+SPEAKER_01,230.32,230.442, Mm-hmm.
+SPEAKER_00,231.562,234.3, Because I'm guessing you thought you were going to retire.
+SPEAKER_01,235.096,235.279, Yeah.
+SPEAKER_00,235.871,236.3," There, right."
+SPEAKER_00,238.047,239.32, So this is upsetting for a lot of reasons.
+SPEAKER_00,239.32,241.017," So you have the financial stressors, right?"
+SPEAKER_00,241.381,242.047, That can't be minimized.
+SPEAKER_00,244.148,245.259, The relational stressors.
+SPEAKER_00,245.542,247.32, You mentioned it's kind of embarrassing.
+SPEAKER_01,247.851,248.034, Yeah.
+SPEAKER_00,248.32,249.32," So it's more like an identity thing, right?"
+SPEAKER_00,249.421,251.259, So you identify with what you did.
+SPEAKER_01,252.096,252.3, Right.
+SPEAKER_00,252.769,252.973, Right.
+SPEAKER_00,254.746,257.918, And now you don't as much because you're not actively working on it.
+SPEAKER_01,258.544,258.687, Yeah.
+SPEAKER_00,260.581,266.32, Did you ever have any coworkers who voluntarily left for other jobs?
+SPEAKER_01,267.667,268.279, Not that I know of.
+SPEAKER_00,270.189,270.977, Not the time you worked there?
+SPEAKER_01,271.769,272.32, Not that I was aware of.
+SPEAKER_01,272.361,273.279, I don't think.
+SPEAKER_01,273.602,276.219," Maybe like one a while ago, but it was a pretty good job, so."
+SPEAKER_00,276.32,277.32, So a lot of people stayed.
+SPEAKER_01,277.32,277.463, Yeah.
+SPEAKER_00,280.142,285.778, Have you ever known anybody who worked for a similar company or in the same field who changed jobs?
+SPEAKER_01,287.782,293.26," Yeah, one of my friends was in a similar field and left the job and eventually found another job."
+SPEAKER_00,294.35,295.158," Yeah, how long it took them?"
+SPEAKER_01,296.626,297.238, It took a while.
+SPEAKER_01,297.606,298.198, It took a while.
+SPEAKER_01,298.723,301.159, Like maybe like two years or so at least.
+SPEAKER_00,301.769,302.32, A long while.
+SPEAKER_01,303.136,303.32, Yeah.
+SPEAKER_01,303.32,305.736," It was a struggle for their family, so I think about that."
+SPEAKER_00,308.885,313.139, Would you need to replace that full income to pay your bills or part of that income?
+SPEAKER_01,314.764,316.32," I mean, probably part of it."
+SPEAKER_01,317.122,323.32," Maybe full would be ideal because, you know, we were comfortable the way we were living."
+SPEAKER_01,324.885,329.32," So full would be ideal, but, you know, we could probably survive on part of it."
+SPEAKER_01,329.703,332.3, It's just not as well as we were living.
+SPEAKER_00,332.422,333.32, All right.
+SPEAKER_00,334.164,337.32," So we've talked about problem solving skills before in earlier sessions, right?"
+SPEAKER_00,337.882,342.939, So have you applied any of those concepts to what's going on now?
+SPEAKER_01,346.001,361.32," I mean, I've been trying to think of, you know, different opportunities that might be open to me now and, you know, being able to spend more time with my kids and things like that."
+SPEAKER_01,361.561,365.179," I've been trying to think of it other ways, my situation."
+SPEAKER_00,365.34,365.728, All right.
+SPEAKER_00,366.742,370.159," So there's an upside in that sense, the time part."
+SPEAKER_00,371.229,372.179, At some point you need to replace the income.
+SPEAKER_01,372.32,372.544, Yeah.
+SPEAKER_00,373.422,374.3, It's very pragmatic.
+SPEAKER_00,374.32,374.871, You need the money.
+SPEAKER_00,375.36,383.3," Have you considered that if you attempted to seek a full time job, didn't work out, you could look at part time jobs?"
+SPEAKER_01,385.582,388.139," I've thought about it, but I'm really having a hard time with it."
+SPEAKER_00,389.56,400.28," What would it mean about you, what would it say about you if you had to take a part time job instead of finding another full time job that's so much of the one you lost?"
+SPEAKER_01,401.249,402.098, What would it mean about me?
+SPEAKER_00,402.32,402.483, Mm-hmm.
+SPEAKER_01,405.581,413.019," That I think if I only had a part time job that I wasn't qualified, that I wasn't good enough for a full time job."
+SPEAKER_00,414.32,414.524, All right.
+SPEAKER_00,416.022,423.14, So you would internalize that and the meaning would be that you're not as valuable?
+SPEAKER_01,423.32,423.402, Yeah.
+SPEAKER_00,427.128,428.32, So it speaks to self worth.
+SPEAKER_00,430.264,439.32," That kind of thinking we've talked about before, right, in other situations can impede you trying to meet your goal."
+SPEAKER_00,442.004,449.28," So what do you do when you're feeling not worthy, when you're feeling worthless?"
+SPEAKER_01,449.422,449.544, Yeah.
+SPEAKER_00,450.32,450.647, What do you do?
+SPEAKER_01,451.34,453.219," Well, right now it's not going well."
+SPEAKER_01,453.381,455.28," I mean, I've been arguing with my husband."
+SPEAKER_01,455.32,456.431, I've been drinking a lot more.
+SPEAKER_01,457.38,460.32," You know, the depression has come back a lot worse."
+SPEAKER_01,460.721,470.019, So it's just starting to become this cycle where I'm drinking and getting into arguments and situations are not getting better and it just keeps snowballing.
+SPEAKER_00,470.606,471.096, Keeps snowballing.
+SPEAKER_01,471.81,471.953, Yeah.
+SPEAKER_00,473.404,477.32, And these behaviors are all things that potentially could impede your goal.
+SPEAKER_00,480.843,484.32," So in a way, there's kind of like a self-fulfilling prophecy element to this."
+SPEAKER_01,484.32,485.096, Yeah.
+SPEAKER_00,486.146,488.28," You agonize, you worry, invest in these thoughts."
+SPEAKER_01,488.647,488.891, Right.
+SPEAKER_00,490.162,499.28," And then to temporarily take away the pain you drink that ends up in more dysfunction, right, with the relationship with your husband."
+SPEAKER_01,499.32,499.422, Yeah.
+SPEAKER_00,500.481,504.32," I imagine if you're intoxicated, you're not looking for new work."
+SPEAKER_01,504.32,504.422, Yeah.
+SPEAKER_00,505.749,505.871, Right.
+SPEAKER_00,507.027,508.32, That wouldn't be ideal timing.
+SPEAKER_00,508.56,518.32," So in a sense, you're not helping things to improve and it all kind of starts with that thinking."
+SPEAKER_01,519.181,530.32, But it's hard when I'm really depressed and the situation's not getting better and I'm just home sitting about drinking while everyone else is carrying on with their life and I'm stuck here.
+SPEAKER_00,530.422,530.626, Right.
+SPEAKER_00,532.466,535.32," And that ties into that kind of worthless type thought, right?"
+SPEAKER_01,535.34,535.524, Yeah.
+SPEAKER_00,536.702,540.32, So you're fulfilling that role of being worthless.
+SPEAKER_00,541.629,542.958, That's how it's manifesting for you.
+SPEAKER_00,543.482,545.32, And that's one thing you can do.
+SPEAKER_00,545.32,545.606, Right.
+SPEAKER_00,546.912,547.279, That's an option.
+SPEAKER_00,548.484,552.939, You can drink and you can have relational struggles.
+SPEAKER_00,554.767,557.3, But is that really what you want out of all this?
+SPEAKER_00,558.35,559.3, Is that the most useful?
+SPEAKER_01,560.044,561.511," No, I know it's not helping."
+SPEAKER_00,564.265,565.712, How do you think you could break that cycle?
+SPEAKER_01,568.4,585.88," I've been thinking about trying to get more organized, like we talked about before with the finances, and trying to figure out exactly how much income we need to be where we want, but to do it maybe by baby steps."
+SPEAKER_01,586.34,593.3," So it's not so overwhelming for me, this thought of getting a new job and making enough money and providing for my family."
+SPEAKER_01,593.825,595.057, It's kind of like breaking it down.
+SPEAKER_00,596.168,596.815," Well, that makes sense."
+SPEAKER_00,597.521,601.32, So your first step would be figuring out what's the minimum amount you really need.
+SPEAKER_01,601.34,601.504, Right.
+SPEAKER_00,602.32,614.28," So you'll shoot for hire, you'll go for it full time, but you realize that you kind of need to know what the minimum is because you know what job offer you could accept and what job offer you'd have to decline."
+SPEAKER_01,615.218,615.32, Right.
+SPEAKER_00,615.442,616.034, So that makes sense.
+SPEAKER_00,616.521,619.199," So armed with that information, then you could go out to the workplace."
+SPEAKER_01,619.851,620.034, Right.
+SPEAKER_00,620.862,626.919," And maybe with a little less anxiety, kind of just know, well, this job's going to, if I get it, that's good."
+SPEAKER_01,627.381,627.524, Right.
+SPEAKER_00,628.36,631.159, Or I might as well not apply to this one because it's not going to work.
+SPEAKER_00,631.32,632.512," So it's efficient, it's time-saving."
+SPEAKER_00,633.32,633.585, It's good.
+SPEAKER_00,634.703,635.508, That sounds logical.
+SPEAKER_00,637.642,639.575, What do you think could get in the way of those steps?
+SPEAKER_00,640.441,641.492, What obstacles are you seeing?
+SPEAKER_01,643.202,650.019," I think just sometimes like the fear of the unknown, like worry about what if this never happens for me?"
+SPEAKER_01,651.027,652.219," You know, what if I don't get a job?"
+SPEAKER_01,653.327,655.219," You know, what if we lose our house?"
+SPEAKER_01,655.34,656.238, What if?
+SPEAKER_00,656.32,657.32, That worry's nagging.
+SPEAKER_01,657.34,657.565, What if?
+SPEAKER_00,658.565,659.32," Yeah, that worry's nagging."
+SPEAKER_00,659.34,659.606, Yeah.
+SPEAKER_01,660.565,660.708, Yeah.
+SPEAKER_00,661.801,669.28," So I think it's pretty likely that with a bachelor's degree, in the background we've talked about other sessions, that you'll get a job."
+SPEAKER_00,669.36,672.219, Let's go with the scenario that you don't.
+SPEAKER_00,673.157,673.3, Right.
+SPEAKER_00,673.34,677.079, And with the understanding that's a pretty low probability event.
+SPEAKER_00,677.783,680.119," Let's just say, okay, what happens then?"
+SPEAKER_00,680.662,683.395, Say you never find another job.
+SPEAKER_00,685.472,686.199, That's the worst case.
+SPEAKER_00,686.32,687.259, Like we would agree that's the worst case.
+SPEAKER_01,687.32,688.32," Yeah, it's pretty awful."
+SPEAKER_00,688.83,689.259, That's pretty awful.
+SPEAKER_00,689.544,689.728, Right.
+SPEAKER_00,690.32,691.3, That's the worst case scenario.
+SPEAKER_00,691.34,692.189, Can't get any worse than that.
+SPEAKER_00,693.501,694.045, What would happen?
+SPEAKER_01,696.32,705.899," I mean, worst case, if we don't get a job, I mean, we would probably, I don't know, like get a smaller house or find a way around it."
+SPEAKER_01,707.568,708.978," I mean, we've been through some tough times."
+SPEAKER_00,709.32,710.3," It would be difficult, right?"
+SPEAKER_00,710.32,711.034," To be fair, right?"
+SPEAKER_00,711.643,713.259," It would be difficult, but you would adapt."
+SPEAKER_01,713.789,713.953, Right.
+SPEAKER_01,714.32,719.896," So, like, it would be difficult, but I think if I really thought about it, you know, we would probably get through it."
+SPEAKER_00,721.481,725.256," So, if we pick up with that, if we say that's really an adaptive response."
+SPEAKER_00,725.336,726.32,Remember we talked about adaptive responses.
+SPEAKER_01,726.381,726.769, Right.
+SPEAKER_00,727.32,728.075," To automatic thoughts, right?"
+SPEAKER_00,728.36,740.799," So, if you're telling yourself that you have the depression and certain anxiety, the craving to drink, you tell yourself, well, the worst that could happen is I don't work for the rest of my life."
+SPEAKER_00,741.44,745.216," Again, acknowledging that's pretty unlikely, right?"
+SPEAKER_00,746.401,749.32," But the worst that could happen is I won't work again, and I might have to adapt."
+SPEAKER_00,749.761,754.936," I might have to have a simpler life in terms of material goods and a smaller house, but I would survive."
+SPEAKER_00,757.082,762.498, What effect might that have on your mood or your thoughts?
+SPEAKER_01,764.281,782.32," I mean, I think when I really think about it, you know, like you said, I think I'm less depressed or think that I'm more able to cope with it, you know, knowing, okay, well, this is the worst that could happen, but maybe it's not as bad as I thought it would be in my head."
+SPEAKER_00,783.443,790.2," So, there's a piece that comes with clarity that comes with accepting what the worst case scenario could be."
+SPEAKER_01,790.871,791.034, Right.
+SPEAKER_00,791.581,799.26," And probably another part of the adaptive response could be, you know, I could live through the worst case scenario, but I think it's important though to acknowledge that it's unlikely."
+SPEAKER_00,800.168,800.956, That's still unlikely.
+SPEAKER_00,801.823,804.26," So, statistics, probability is on your side here."
+SPEAKER_01,804.805,805.027, Right.
+SPEAKER_00,806.681,817.2," So, as you go out into the workplace, the workforce and seek employment, you'll probably have some interviews where you don't get job offers, right?"
+SPEAKER_00,818.045,819.494," But eventually, you'll find out when you do."
+SPEAKER_01,820.32,820.891, Yeah.
+SPEAKER_00,821.502,821.805, Right.
+SPEAKER_00,822.472,823.078,It's just math.
+SPEAKER_01,823.687,824.116, Right.
+SPEAKER_00,824.32,833.619," If you can accept the worst case, then maybe reduce or eliminate that alcohol consumption, maybe reduce that depression, reduce that anxiety."
+SPEAKER_00,835.027,836.078, Does that make sense?
+SPEAKER_01,836.623,836.825, Yeah.
+SPEAKER_01,836.845,837.916,It makes a lot of sense.
+SPEAKER_00,838.708,838.932, All right.
+SPEAKER_00,839.781,848.28," So, let's end there for today, but I want you to try for the next week, I want you to try applying that adaptive response."
+SPEAKER_00,848.886,850.239," Actually, there's two we talked about, right?"
+SPEAKER_00,850.783,852.917, One is you could survive the worst case scenario.
+SPEAKER_00,853.863,857.3," Another one is that probabilistically, it won't happen."
+SPEAKER_01,858.532,858.694, Right.
+SPEAKER_00,860.384,864.32," So, you have kind of two, well, you do have two adaptive responses I want you to apply."
+SPEAKER_00,865.144,868.24," When those automatic thoughts come up, like, I'm never going to work again."
+SPEAKER_01,868.524,869.3, Okay.
+SPEAKER_00,869.32,870.32, This is a catastrophe.
+SPEAKER_01,870.524,871.32," So, like that self-talk."
+SPEAKER_00,872.067,872.189, Yeah.
+SPEAKER_00,872.573,873.32,Apply that self-talk.
+SPEAKER_00,873.682,876.32," So, identify that automatic thought, because we talked about that skill, right?"
+SPEAKER_00,877.125,879.179, And then apply that self-talk right away.
+SPEAKER_01,879.626,879.749, Okay.
+SPEAKER_00,880.603,880.865, All right.
+SPEAKER_00,880.906,882.239,"And let's see, you have the thought record?"
+SPEAKER_01,882.32,882.463, Mm-hmm.
+SPEAKER_00,883.32,883.581, All right.
+SPEAKER_00,883.601,887.895,"So, when that, you know, when you can, fill one of those out, okay, when that happens."
+SPEAKER_00,890.105,892.32," When you have the automatic thought, then you apply the adaptive response."
+SPEAKER_00,893.325,895.717," Even if you can't get it completely filled out, I understand that."
+SPEAKER_00,895.737,896.32,I know there's a lot on there.
+SPEAKER_01,896.422,896.647, Okay.
+SPEAKER_00,897.703,898.79, Just what you can get done on that.
+SPEAKER_00,898.81,900.3,Anything you can do on that would be helpful.
+SPEAKER_01,900.381,900.626, Okay.
+SPEAKER_00,901.441,901.724, All right.
+SPEAKER_00,902.815,903.28,Does that sound good?
+SPEAKER_01,903.32,903.993, Mm-hmm.
+SPEAKER_00,904.606,904.953, All right.
+SPEAKER_00,905.541,907.629," So, I'll schedule you for one week, okay?"
+SPEAKER_00,907.649,908.613,"So, I'll see you then."
+SPEAKER_00,908.633,910.099,We'll see how this goes.
+SPEAKER_00,911.324,915.22," See what progress we can make on this, on the alcohol, on the depression and anxiety."
+SPEAKER_00,915.708,916.157, Okay.
+SPEAKER_00,916.973,917.32, Thanks.

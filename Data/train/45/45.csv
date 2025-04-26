@@ -1,0 +1,155 @@
+speaker,start,end,text
+SPEAKER_00,15.118,16.06, Hi Sherry. how you're doing today?
+SPEAKER_01,16.682,18.299, I'm doing okay.
+SPEAKER_00,18.44,18.867, You're doing okay?
+SPEAKER_00,19.7,22.575, I understand you have been feeling too great lately.
+SPEAKER_01,23.962,25.266," I mean, yeah."
+SPEAKER_01,29.441,34.539, I'm never like feeling awesome really.
+SPEAKER_01,35.301,39.633, But lately it's come to my awareness.
+SPEAKER_01,43.082,46.856, But something might be wrong.
+SPEAKER_00,48.04,48.754, Something might be wrong?
+SPEAKER_00,49.326,50.02, In what way?
+SPEAKER_01,50.04,50.285, Maybe.
+SPEAKER_01,52.427,54.879," Well, it's not anything new."
+SPEAKER_01,56.323,59.491, But I have a lot of trouble sleeping.
+SPEAKER_01,63.08,65.879," You know, I usually, I don't go to bed early."
+SPEAKER_01,66.302,68.6," You know, I might go to bed a little bit late."
+SPEAKER_01,68.6,70.719, But then I wake up always really early.
+SPEAKER_01,70.88,75.537," Like I'll set my alarm for like eight, but I always wake up at like five or something."
+SPEAKER_01,76.36,77.426, And then I can't get back to sleep.
+SPEAKER_00,80.127,80.718, All right.
+SPEAKER_00,80.8,82.016, So you're waking up earlier than you want to?
+SPEAKER_01,82.382,82.749, Yeah.
+SPEAKER_01,83.28,84.91, I can't get back to sleep no matter how hard I try.
+SPEAKER_01,86.5,88.056, And I'm tired still during the day.
+SPEAKER_01,88.743,90.258," You know, I don't have a lot of energy."
+SPEAKER_01,90.48,91.48, But it doesn't matter.
+SPEAKER_01,91.561,93.577, It's just it's hard for me to go to sleep.
+SPEAKER_01,93.92,96.372, And it's been like that for a really long time.
+SPEAKER_01,98.0,98.755, Probably since high school.
+SPEAKER_00,99.286,100.0, Right.
+SPEAKER_01,101.002,108.419," But, you know, lately I just, I realize, you know, some days are better than others."
+SPEAKER_01,110.223,116.909, But it's been a couple weeks ago that really like made me feel like I should have talked  to someone.
+SPEAKER_00,118.268,118.672, What happened?
+SPEAKER_01,120.485,123.138," Well, my brother got married."
+SPEAKER_01,124.144,126.116, And I'm very close to him.
+SPEAKER_01,127.585,129.438, And I was really looking forward to the wedding.
+SPEAKER_01,130.521,142.893," And then when I went, I just, I mean, I didn't not enjoy it, but I just didn't have as much  fun as I thought I would."
+SPEAKER_01,143.64,149.939," And I know it's just because of, you know, my mood, like that I'm always a little gloomy."
+SPEAKER_01,151.082,161.26," You know, like, so my brother says I'm like, you're, you know, so like, but I was really  looking, like I, you know, I step out of my comfort zone."
+SPEAKER_01,161.34,162.611, I like to try new things.
+SPEAKER_01,163.68,164.92, And I was really looking forward to this one.
+SPEAKER_01,164.94,172.919," I used to love, I love weddings, you know, and it's not that I don't love them now, but  I thought I would enjoy it more than I did."
+SPEAKER_01,173.924,176.155, And that kind of like freaked me out.
+SPEAKER_00,177.2,182.138," So your mood, your mood didn't elevate like maybe you hoped it would."
+SPEAKER_01,182.72,182.863, Yeah.
+SPEAKER_01,185.106,192.398," I mean, I would have thought that, I mean, I've been looking forward to this wedding  for a year and a half, but you know, I've helped, you know, my now sister plan it."
+SPEAKER_01,192.84,203.877," And it just wasn't as fun as I wanted it to be, or as I thought it would be, you know."
+SPEAKER_00,205.76,209.218, And realizing this is what brought you in today.
+SPEAKER_01,210.558,210.68, Yeah.
+SPEAKER_01,211.001,217.29," And like right afterwards, like last week, you know, it was, I had more worse days than  better days."
+SPEAKER_01,218.34,234.659," And I would go up early the next morning, even though I had been up late at the wedding,  and just sat there and thought about it and was really just upset by the whole thing,  upset that I couldn't be more happy for, you know, my brother."
+SPEAKER_01,234.96,236.677," For me, really, not even for my brother."
+SPEAKER_01,237.242,238.349, Because I was happy for him.
+SPEAKER_01,240.04,244.659," It just didn't, I didn't feel excited like everyone else."
+SPEAKER_01,245.14,247.129," Everyone else around me was having such a good time, and I was just..."
+SPEAKER_00,249.76,250.087, More down.
+SPEAKER_01,250.76,255.372," Yeah, like I was happier than I would be if I was staying at home by myself, but I wasn't,  I wasn't like everyone else."
+SPEAKER_00,260.548,260.793, All right.
+SPEAKER_00,261.561,267.358, So you mentioned that this is going on from high school?
+SPEAKER_01,268.303,268.507, Yeah.
+SPEAKER_00,269.16,270.109, So how long would that be?
+SPEAKER_01,271.4,276.938,"So I mean, I graduated in 2010, so eight years."
+SPEAKER_00,280.4,280.945, So about eight years.
+SPEAKER_00,282.4,284.38," And you've been, you've been feeling down."
+SPEAKER_00,284.541,287.696," Has the, the sleep been a problem for that long?"
+SPEAKER_01,288.4,301.115," Yeah, I mean, I, a little bit when I was in high school, I thought it was, you know, I  thought it was just a quirk or something about staying up late and like hours in high school,  but it never like got better."
+SPEAKER_01,302.583,312.419," Even when I, you know, started working out of school and stuff, I, my sleep schedule  never came to that normal eight hours a night like you're supposed to."
+SPEAKER_01,312.761,314.976," I know no one's ever is, but it just never, yeah."
+SPEAKER_01,315.7,321.408," So sleep's always been an issue, and I just, like I said, my brother's called me Eeyore  for years just because I..."
+SPEAKER_00,324.188,326.137," Yeah, you mentioned the word gloomy."
+SPEAKER_01,326.64,327.007, Yeah.
+SPEAKER_00,328.395,328.497, Yeah.
+SPEAKER_00,328.88,330.954, So low energy's been a problem for that long as well.
+SPEAKER_01,332.064,332.676, Yeah.
+SPEAKER_00,332.88,333.594, All right.
+SPEAKER_00,334.241,338.498," And you've been waking up earlier than you want, want to."
+SPEAKER_01,338.982,339.166, Yeah.
+SPEAKER_00,339.88,340.084, Yeah.
+SPEAKER_00,341.483,344.599," How about, you, you, you mentioned the depressed mood."
+SPEAKER_00,345.365,346.032, You feel down.
+SPEAKER_00,347.283,349.558, Is that worse than any particular time of the day?
+SPEAKER_01,350.464,352.397," Yeah, I mean, it's worse than that in the morning."
+SPEAKER_00,353.223,353.627, In the morning?
+SPEAKER_01,354.9,359.972," Especially when I'm just like sitting there with my thoughts, when I can't get back to  sleep, it will be bad."
+SPEAKER_01,361.14,378.292," And then, you know, it'll be time to get ready for the day, and I'll be angry and mad that  it's, you know, that I, I can't sleep, and then depressed about, you know, that I'm like  this, that I'm weird."
+SPEAKER_01,379.401,385.655," And then, I mean, as the day goes on, I forget about it a little bit, and it gets a little  bit better in the afternoons."
+SPEAKER_01,386.441,390.299," And nighttime, I'm really like, you know, I enjoy spending time with my family for dinner  and stuff like that."
+SPEAKER_01,390.36,398.173," So, it gets better as the day goes on, but, you know, in the morning, it's, it's bad because  I just spent hours lying there thinking about it."
+SPEAKER_00,399.643,401.077," So, morning, morning's the worst."
+SPEAKER_01,401.503,401.768, Yeah.
+SPEAKER_00,402.503,403.34, All right.
+SPEAKER_00,403.42,406.335," So, I'm going to ask you some other questions related to this."
+SPEAKER_00,407.789,407.972, All right.
+SPEAKER_00,409.824,417.269," You mentioned depressed mood, and you mentioned how you reacted to the wedding, how it was  and what you hoped."
+SPEAKER_00,418.641,423.337, Have you lost interest in other things that might be fun or pleasurable?
+SPEAKER_01,425.347,427.34, I haven't really lost an interest in anything.
+SPEAKER_01,427.681,434.605," Like, I still, you know, I still seek out fun activities, and I still participate in  them."
+SPEAKER_01,435.4,439.697," And, I mean, they'll make me feel better than not doing them."
+SPEAKER_01,441.021,451.519," But it's just, I don't know, it's just, I don't, I guess, my response to them isn't  as high as I see other people enjoying activities."
+SPEAKER_01,452.003,454.137," And I don't, but I do enjoy them."
+SPEAKER_00,454.661,455.6, But it's just not as much.
+SPEAKER_00,455.6,455.927, Not as much.
+SPEAKER_00,457.151,457.559, Okay.
+SPEAKER_00,457.661,457.763, Okay.
+SPEAKER_00,458.701,461.957, Any changes to your appetite or weight?
+SPEAKER_01,463.069,463.212, No.
+SPEAKER_01,463.721,464.974, It stays the same.
+SPEAKER_00,466.192,466.416, All right.
+SPEAKER_00,466.84,472.298," Any feelings of restlessness or the opposite, kind of being slowed down?"
+SPEAKER_00,472.84,473.466, Anything like that?
+SPEAKER_01,474.86,474.962, No.
+SPEAKER_00,476.616,476.697, No?
+SPEAKER_00,477.371,477.758, All right.
+SPEAKER_00,477.84,479.84, You ever feel a sense of worthlessness?
+SPEAKER_01,479.86,479.901, No.
+SPEAKER_00,481.345,482.557, Something like that?
+SPEAKER_00,483.289,483.82, How about concentration?
+SPEAKER_00,484.167,484.799, How's that been?
+SPEAKER_01,484.84,485.84," Well, it's fine."
+SPEAKER_01,486.706,488.84, I can focus on what I need to focus on.
+SPEAKER_00,489.163,489.911, You do okay with that?
+SPEAKER_01,491.411,491.677, Yeah.
+SPEAKER_00,491.941,493.497, Do you ever have thoughts of death or dying?
+SPEAKER_01,494.616,494.758, No.
+SPEAKER_01,494.84,495.146, Okay.
+SPEAKER_00,497.328,498.496, Any drug or alcohol use?
+SPEAKER_01,499.223,499.264, No.
+SPEAKER_00,500.524,501.615, How about medical conditions?
+SPEAKER_01,502.1,502.162, No.
+SPEAKER_00,503.08,503.917, All right.
+SPEAKER_00,504.402,507.417, Have you ever seen or heard things other people cannot see or hear?
+SPEAKER_01,508.917,508.998, No.
+SPEAKER_00,509.08,509.264, All right.
+SPEAKER_00,511.905,516.799," Have you ever had a time, you mentioned your mood is gloomy."
+SPEAKER_00,517.823,523.593," Have you ever had a time when your mood was too happy, like when you're excessively happy,  a lot of energy?"
+SPEAKER_01,526.83,527.218, Not really.
+SPEAKER_01,527.581,543.595," I mean, you know, like there's been times where I've like gone on vacation for like  a week and I've noticed that I was happier than I had been, but nothing ever more than  a couple of days or a week or so."
+SPEAKER_00,544.32,545.136, All right.
+SPEAKER_00,547.946,549.138, You ever been hospitalized before?
+SPEAKER_01,549.708,549.81, No.
+SPEAKER_00,550.626,551.218, All right.
+SPEAKER_00,553.79,555.038, Do you have feelings of hopelessness?
+SPEAKER_01,555.34,555.381, No.
+SPEAKER_00,557.734,558.32, And how's your self-esteem?
+SPEAKER_01,558.32,558.606, Okay.
+SPEAKER_00,559.789,560.198, It's okay?
+SPEAKER_01,560.932,561.177, Yeah.
+SPEAKER_00,561.851,562.157, Pretty good?
+SPEAKER_00,562.32,563.136," All right, Sherry."
+SPEAKER_00,565.91,568.32, I'd like to get you in to see a counselor here at the agency.
+SPEAKER_00,568.541,574.32, It'll probably just take a couple days to get you in with somebody.
+SPEAKER_00,574.422,575.279, Is that okay?
+SPEAKER_01,575.32,576.198," Yeah, it's okay."
+SPEAKER_00,577.669,579.32, I appreciate you answering these questions for me.
+SPEAKER_00,579.32,580.157, This has been helpful.

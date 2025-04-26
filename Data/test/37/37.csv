@@ -1,0 +1,103 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.642," Hi Sarah, how are you doing today?"
+SPEAKER_01,7.0,7.342, I'm alright today.
+SPEAKER_00,10.0,10.523, You're doing alright today?
+SPEAKER_01,14.501,16.465," I am doing alright today, yes."
+SPEAKER_00,23.581,30.336, I understand that you've been having some symptoms and that's what has brought you into our agency.
+SPEAKER_00,30.396,31.198,Could you tell me about that?
+SPEAKER_01,32.606,33.838, I've been having a lot of worry.
+SPEAKER_00,34.388,34.837, A lot of worry?
+SPEAKER_01,35.04,41.739," Yes, a lot of worry on and off for about the past four or five months maybe."
+SPEAKER_00,42.388,43.0, About four or five months?
+SPEAKER_01,43.381,45.669," About four or five months, maybe about six months."
+SPEAKER_01,46.05,48.719,"Just around four, five, six months."
+SPEAKER_01,50.301,53.953, I just started back to school after being a stay-at-home mom for twenty years.
+SPEAKER_01,53.993,55.92,The kids are all off to college now in a way.
+SPEAKER_01,56.322,59.457," I decided why not go back to school, do something else now."
+SPEAKER_01,62.167,65.9," It's just been causing, well I've just been being worried so much lately."
+SPEAKER_00,67.664,69.188," Alright, so a lot of worry."
+SPEAKER_00,69.228,73.96,Some are at four or five or six months it's been going a lot.
+SPEAKER_01,74.687,75.939," Somewhere in there, four, five, six months."
+SPEAKER_00,77.461,84.0, Have you had this worry more days than you haven't had it in that last four to six months?
+SPEAKER_01,84.922,86.025, I've had a lot of good days.
+SPEAKER_01,87.168,89.694,I mean I've had some bad days but I've had a lot of good days too.
+SPEAKER_01,90.496,92.0,So I don't know.
+SPEAKER_00,92.02,92.367, Not quite sure?
+SPEAKER_01,93.469,93.959, Not quite sure.
+SPEAKER_00,97.543,100.558, Do you find the worry difficult to control?
+SPEAKER_01,102.462,103.487, When I do or yes.
+SPEAKER_01,104.613,105.698,"Yes, very much so."
+SPEAKER_00,108.441,113.451, So I'm going to ask you some questions related to this.
+SPEAKER_00,114.774,118.0,Let me know if you've experienced these symptoms.
+SPEAKER_00,119.685,121.96," Do you feel restless, keyed up, or on edge?"
+SPEAKER_01,122.727,123.939," Yes, yes I do."
+SPEAKER_00,124.383,124.584, Okay.
+SPEAKER_00,125.349,127.0,"How about, are you easily tired?"
+SPEAKER_01,128.586,129.232, All the time.
+SPEAKER_01,129.253,129.98,So tired all the time.
+SPEAKER_01,130.204,130.816," Yeah, all the time."
+SPEAKER_00,131.02,131.163, Yes.
+SPEAKER_00,132.704,135.739, Do you have trouble concentrating or finding your mind going blank?
+SPEAKER_01,136.502,137.928, I find my mind just wondering.
+SPEAKER_01,138.39,139.534,Just going blank.
+SPEAKER_01,139.554,140.94,"I would say I'm going to go blank, yes."
+SPEAKER_00,141.563,141.844, Okay.
+SPEAKER_00,143.915,145.0,Do you find that you've been irritable?
+SPEAKER_01,145.041,145.776, Very much so.
+SPEAKER_01,146.0,146.101, Yeah.
+SPEAKER_00,146.141,148.517,Any muscle tension?
+SPEAKER_01,149.04,150.697," Yes, just rigidness."
+SPEAKER_00,152.889,154.0, Tell me about how you've been sleeping.
+SPEAKER_01,156.343,156.884, Not very well.
+SPEAKER_01,156.904,158.788,I'm not going to say very well lately.
+SPEAKER_01,158.808,162.577,"I find it hard just, I can't go to sleep and I can't stay asleep."
+SPEAKER_01,162.597,163.379,It's just been hard.
+SPEAKER_00,167.262,169.919, Do you drink alcohol or use any drugs?
+SPEAKER_01,170.347,170.755," No, I don't."
+SPEAKER_00,171.04,171.201, No.
+SPEAKER_00,172.309,173.98,Have you ever had a panic attack?
+SPEAKER_01,174.286,174.408, No.
+SPEAKER_00,175.143,175.98, Any trauma in your history?
+SPEAKER_01,176.0,176.061, No.
+SPEAKER_00,177.082,177.959, Any mental health disorders at all?
+SPEAKER_01,178.02,178.061, No.
+SPEAKER_00,182.068,184.9, Do you find the symptoms very distressing?
+SPEAKER_01,186.082,186.551," Yes, distressing."
+SPEAKER_01,187.443,187.685, Yes.
+SPEAKER_00,187.725,189.577,In what areas are they distressing?
+SPEAKER_01,190.081,190.364, At home.
+SPEAKER_01,190.384,192.0,So much at home.
+SPEAKER_01,192.0,192.163, Yeah.
+SPEAKER_01,193.828,194.859, I'm doing great in school.
+SPEAKER_00,195.061,195.51, School's okay?
+SPEAKER_01,196.586,197.212, School's going high. 4.0.
+SPEAKER_00,198.545,198.828, Wow.
+SPEAKER_00,198.848,199.152,Very good.
+SPEAKER_01,200.542,200.823, Yes.
+SPEAKER_01,202.008,205.0,"Just at home, I'm just in a constant state of worry all the time."
+SPEAKER_00,206.949,207.96, How about when you go out with friends?
+SPEAKER_01,208.322,208.704, Have fun.
+SPEAKER_00,208.784,209.769,Great times.
+SPEAKER_01,210.452,211.216,Great times with my friends.
+SPEAKER_01,211.236,211.337,Yes.
+SPEAKER_01,211.357,211.879,I love going out.
+SPEAKER_00,214.082,221.96," Is there something specific to your home environment you think might be contributing to this because you don't have it at school, you don't have it socially?"
+SPEAKER_01,222.0,222.04, Eh.
+SPEAKER_01,222.06,224.779,"I mean, we have some problems here and there."
+SPEAKER_00,226.02,227.0, Some problems here and there?
+SPEAKER_01,227.204,227.469, Mm-hmm.
+SPEAKER_00,230.648,232.98, Nothing you could isolate as maybe causing these symptoms?
+SPEAKER_01,233.02,236.899," One of those maybe, maybe not things, but just nothing I can't work through."
+SPEAKER_00,238.02,238.918, Nothing you can't work through?
+SPEAKER_01,239.673,239.837, Yeah.
+SPEAKER_00,244.246,244.809," Alright, Sarah."
+SPEAKER_00,244.829,247.0,"I'm going to get you in to see one of our counselors, if that's okay with you."
+SPEAKER_00,249.605,254.438," Just take a couple days for you to get in, get an appointment set and for you to get in."
+SPEAKER_00,254.458,254.98,Is that okay?
+SPEAKER_01,255.082,255.837, I would like that.
+SPEAKER_00,256.0,257.0, To see a counselor in a couple days?
+SPEAKER_01,257.0,257.102, Yes.
+SPEAKER_00,258.0,258.347, Okay.
+SPEAKER_00,259.683,263.378, I'll get that set up and I want to thank you for answering these questions.
+SPEAKER_00,263.398,264.0,It's been really helpful to me.
+SPEAKER_01,264.694,264.898, Thank you.

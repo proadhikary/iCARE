@@ -1,0 +1,277 @@
+speaker,start,end,text
+SPEAKER_00,11.675,12.376, Barbara Roberts.
+SPEAKER_00,12.636,12.876,Yes.
+SPEAKER_00,13.097,13.657,Hello there.
+SPEAKER_01,13.817,14.679,My name is Dr. Betty.
+SPEAKER_01,14.759,16.202,I'm one of the new GPs in the  practice.
+SPEAKER_01,17.065,18.491,"First of all, what would you like me to call you?"
+SPEAKER_01,19.595,20.82,"Well, you can call me Barbara."
+SPEAKER_01,20.9,21.362, That'll be fine.
+SPEAKER_01,21.683,22.546,"Okay, that's fine."
+SPEAKER_01,23.068,24.795,"Okay, so Barbara, I'm seeing you today."
+SPEAKER_01,24.815,28.328,"But I think  it's usually Dr. Brown that sees you, is that right?"
+SPEAKER_01,28.669,29.814,"Yes, Dr. Brown's my doctor."
+SPEAKER_01,29.834,30.557,Okay.
+SPEAKER_01,31.26,32.645,What  is it that's brought you to see me today?
+SPEAKER_01,33.929,36.619,"Well, I've come about my tummy problem."
+SPEAKER_01,36.639,43.484,I've  got terrible trouble with my stomach and Dr. Brown just doesn't seem to be able to get  to the bottom of it.
+SPEAKER_01,43.504,47.258,I thought perhaps I'd come and see you to see if you could help.
+SPEAKER_01,47.8,48.602," Right, okay."
+SPEAKER_01,49.284,50.968,Can you tell me a bit more about your tummy problems?
+SPEAKER_01,52.832,58.124,"Well, I have this terrible  discomfort nearly all the time."
+SPEAKER_01,58.144,60.329,It very often feels bloated.
+SPEAKER_01,60.349,66.362,I swing between being constipated  and having diarrhoea.
+SPEAKER_01,68.648,73.219,I have sort of cramping feelings sometimes and other times it stabs.
+SPEAKER_01,73.78,75.103, It's a real stabbing feeling.
+SPEAKER_01,77.267,84.543,I often have the urge to go to the toilet and I pass very  smelly wind.
+SPEAKER_01,86.309,90.061,So quite a few symptoms there and some of them sound quite troublesome to  you.
+SPEAKER_01,90.101,90.242,Yes.
+SPEAKER_01,90.262,90.562,Okay.
+SPEAKER_01,91.204,94.953,And how long has this been going on?
+SPEAKER_01,94.973,99.806,"Well, I've traced it back to a holiday  I had in Egypt about four years ago."
+SPEAKER_01,100.648,110.014,I had a horrible bout of sickness and diarrhoea  and I don't think my stomach's ever been really right since then.
+SPEAKER_01,110.034,112.039,"Okay, okay."
+SPEAKER_01,112.059,114.704,So you think  it began about four years ago after this holiday?
+SPEAKER_01,114.945,115.325,Yes.
+SPEAKER_01,115.526,115.987,Okay.
+SPEAKER_01,119.052,125.245,And what sort of treatments have  you tried for this before?
+SPEAKER_01,125.987,129.758,"Well, Dr. Brown gave me some muscle relaxants at the beginning."
+SPEAKER_01,131.76,135.617, But I've been to the health shop and they've been really helpful.
+SPEAKER_01,135.637,141.65,They've given me lots  of different tablets and medicines for different things.
+SPEAKER_01,144.595,145.737,"Oh, and Imodium."
+SPEAKER_01,146.579,149.628,I have Imodium in  my handbag all the time just in case.
+SPEAKER_01,150.411,155.587,"So these different tablets that you've got from the  herbal shop, how are you taking them?"
+SPEAKER_01,157.413,158.315,"Well, different tablets."
+SPEAKER_01,159.278,167.883,"You know, I don't have  the same problem every day so I'll take some tablets for certain symptoms and other tablets  for other things."
+SPEAKER_01,168.324,173.905,So am I right in thinking you perhaps decide on a day-to-day basis what  you're going to take depending on what your stomach's doing?
+SPEAKER_01,174.086,174.346,Yeah.
+SPEAKER_01,174.647,175.791,"Okay, okay."
+SPEAKER_01,177.074,181.023,And what  about tests?
+SPEAKER_01,181.043,182.849,Have you had any tests for these problems?
+SPEAKER_01,183.411,187.563,"Yes, I had in the early days I had  a gastroscopy."
+SPEAKER_01,188.005,190.612,Was that the tube down from the top?
+SPEAKER_00,190.652,190.773,Yeah.
+SPEAKER_01,190.833,195.883,And at the same time I had  a barium enema.
+SPEAKER_01,196.083,196.424,Right.
+SPEAKER_01,196.645,198.731,That was very uncomfortable.
+SPEAKER_00,199.012,199.132,Okay.
+SPEAKER_01,199.152,213.886,"But no, I've tried, well, I don't think  he's tried enough tests because he said after that that they didn't find anything and he's  just not sent me for any more."
+SPEAKER_01,214.046,215.693,That's it now as far as he's concerned.
+SPEAKER_01,215.713,217.902,Sent me back to  the doctor.
+SPEAKER_01,218.162,218.423,Right.
+SPEAKER_01,218.543,221.271,It sounds as though you're not happy with that.
+SPEAKER_01,222.415,228.033,"Well, you know, I think  that actually the NHS are running out of money, aren't they?"
+SPEAKER_01,228.093,236.682,"And he's decided that I've had  enough tests and, you know, if you go on the internet there's loads of tests that he could  have sent me for."
+SPEAKER_01,237.024,237.505,Right.
+SPEAKER_01,238.95,240.576,If I had a bit more money I'd go private.
+SPEAKER_01,241.058,242.805,I just don't think he's  got to the bottom of it.
+SPEAKER_01,242.825,243.207,Right.
+SPEAKER_01,243.408,246.802,So you feel as though actually enough hasn't been done  in the way of tests?
+SPEAKER_01,246.843,247.605,"No, he's not."
+SPEAKER_01,248.146,249.671,"There's loads more he could do, I'm sure."
+SPEAKER_01,249.911,250.252,Right.
+SPEAKER_01,250.653,251.055,Okay.
+SPEAKER_01,253.94,257.134, It sounds like you've had these problems now for about four years.
+SPEAKER_01,257.154,261.008,You've got a lot of  various symptoms in your stomach.
+SPEAKER_01,262.072,269.947,"You've tried a lot of tablets, some prescribed, some herbal  remedies and you've had some investigations but you're not entirely happy that you've  even been investigated thoroughly enough."
+SPEAKER_01,270.37,272.158,"Is that about... I'd say so, yes."
+SPEAKER_00,272.179,273.142,Have I got  the story right?
+SPEAKER_00,273.182,273.283,Yes.
+SPEAKER_01,273.403,273.824,Okay.
+SPEAKER_01,274.787,280.083,"And can I ask you, Barbara, how is all of this affecting  you day to day?"
+SPEAKER_01,280.163,281.768,How's it affecting your life?
+SPEAKER_01,283.212,285.117,"Well, it's had quite a big impact."
+SPEAKER_01,285.137,293.681,"I mean,  the first thing, the biggest thing I suppose is that I went from being full-time to part-time  at work."
+SPEAKER_01,293.761,296.469,I just couldn't sit all day comfortably.
+SPEAKER_01,296.489,297.231,Right.
+SPEAKER_01,298.595,299.979,And so I went part-time.
+SPEAKER_01,299.999,303.008,"But in the  end, about a year ago, I stopped work altogether."
+SPEAKER_01,303.028,304.271,Right.
+SPEAKER_01,305.595,306.137,I miss that.
+SPEAKER_01,306.157,307.12,I miss the girls.
+SPEAKER_01,307.14,312.293,We used  to go out at least once a week to the pictures or for a drink.
+SPEAKER_01,312.313,313.537,That's one thing.
+SPEAKER_01,313.557,318.027,Sounds as  though that's something you quite enjoyed.
+SPEAKER_01,318.669,318.969,Yes.
+SPEAKER_01,319.511,319.832,Yes.
+SPEAKER_01,319.852,321.276,We used to have a laugh.
+SPEAKER_01,321.336,321.597,Right.
+SPEAKER_01,324.86,326.126, I used to go to swing into shape.
+SPEAKER_01,326.327,327.613,I used to go to an exercise class.
+SPEAKER_01,327.693,330.363,That was... I missed  the exercise actually.
+SPEAKER_01,330.403,333.652,That was once a week.
+SPEAKER_01,333.733,336.32,But the thing was I wasn't comfortable...
+SPEAKER_01,338.526,340.453, I never felt quite right doing all this exercise.
+SPEAKER_01,340.494,345.148,I was always worried I was going to be taken  short or... So I stopped that.
+SPEAKER_01,345.168,345.309,Right.
+SPEAKER_01,345.329,353.201,"Then... Well, my husband and I used to go out for  meals."
+SPEAKER_01,354.605,356.491,That's another thing we don't do anymore now.
+SPEAKER_01,356.511,356.611,Right.
+SPEAKER_01,356.671,359.459,"Yes, quite a few things really."
+SPEAKER_01,361.54,367.266," Yes, it does sound as though over the last few years your life has really changed quite  a lot because of these symptoms."
+SPEAKER_01,367.286,367.447,Yes.
+SPEAKER_01,367.527,371.303,It sounds like you're doing... there are a few of the  things that you used to do.
+SPEAKER_01,371.323,372.306,Right.
+SPEAKER_01,372.326,373.229,Yes.
+SPEAKER_01,373.289,376.117,What is it you spend your average day doing now?
+SPEAKER_01,378.683,380.328," Well, I potter around the house."
+SPEAKER_01,380.348,389.609,"I spend perhaps a little bit too much time watching... I've  got a bit hooked on daytime television, I have to say."
+SPEAKER_01,389.629,392.038,"They draw you in, don't they?"
+SPEAKER_01,392.44,393.643, They certainly do.
+SPEAKER_01,394.727,395.368,I read a bit.
+SPEAKER_01,395.388,396.331,There are magazines.
+SPEAKER_01,396.391,398.838,But generally I'm at home.
+SPEAKER_01,399.239,399.44,Right.
+SPEAKER_01,400.52,401.062, Okay.
+SPEAKER_01,401.082,401.382,Okay.
+SPEAKER_01,403.067,411.631,And have there been any times over the last four years that you've noticed  any significant changes in your symptoms?
+SPEAKER_01,411.651,414.863,"For example, have there been any times when  things have been better for you?"
+SPEAKER_01,414.883,429.239,"Well, last year my son got married and I have to say  I was worried that I wouldn't be able to cope with it, that I wouldn't be feeling well enough."
+SPEAKER_01,430.12,433.409," Surprisingly enough, I was in good form."
+SPEAKER_01,433.79,440.432,"I think it was about three weeks in the summer,  getting ready for it and the whole hoo-ha of the wedding."
+SPEAKER_01,440.974,442.762,But I was in really good form  for that.
+SPEAKER_01,443.304,443.545,Yeah.
+SPEAKER_01,443.866,444.107,Right.
+SPEAKER_01,444.127,444.89,That was a good time.
+SPEAKER_01,445.151,445.352,Right.
+SPEAKER_01,445.432,446.758,And how were your tummy symptoms then?
+SPEAKER_01,447.841,449.446, I hardly noticed them.
+SPEAKER_01,449.466,450.248,Right.
+SPEAKER_01,450.469,452.956,It seemed to clear up.
+SPEAKER_01,453.397,453.558,Right.
+SPEAKER_00,453.578,453.658,Yeah.
+SPEAKER_00,453.678,454.2,Which was good.
+SPEAKER_00,454.22,454.32,Right.
+SPEAKER_01,455.541,456.303, That's interesting.
+SPEAKER_01,457.427,462.422,"And are there any times when your tummy symptoms bother you more,  seem particularly bad?"
+SPEAKER_01,464.609,467.136,"Well, I'm having a bit of a bad patch at the moment."
+SPEAKER_01,467.196,469.983,It's particularly  uncomfortable.
+SPEAKER_01,470.004,474.476,I have to say I do notice it when my husband's away.
+SPEAKER_01,474.496,480.813,He travels with his  job and he can be away a couple of times a month.
+SPEAKER_01,480.833,486.872,"And that's not, it's not a bad thing  but it's very often not good then, I have to say."
+SPEAKER_01,486.892,487.334,Right.
+SPEAKER_01,487.415,490.028,"So you notice it's, they're  worse when your husband's not around."
+SPEAKER_01,490.852,492.199,Maybe I'm thinking about it a bit more.
+SPEAKER_01,492.239,493.162,I don't  know when he's not there.
+SPEAKER_01,493.443,493.764,Right.
+SPEAKER_01,496.913,501.042,I know you've been seeing Dr. Brown about this for the last  few years.
+SPEAKER_01,501.945,505.314,What is it that he's said that he thinks might be wrong with you?
+SPEAKER_01,506.137,509.624,"Well, he's,  he thinks it's all in my head."
+SPEAKER_01,510.145,510.366,Right.
+SPEAKER_01,510.587,514.658,"He's, yeah, he says it's stress."
+SPEAKER_01,514.678,514.779,Right.
+SPEAKER_01,514.799,515.14,Okay.
+SPEAKER_01,515.16,519.202,And  what do you think?
+SPEAKER_01,519.764,524.778,"Well, I mean, it can't all be in my head."
+SPEAKER_01,524.858,528.825,I get too much physical  pain for it to be in my head.
+SPEAKER_01,529.025,529.847,"I mean, it's real."
+SPEAKER_01,530.068,532.976,"It's, it's a real pain."
+SPEAKER_00,532.996,534.22,And have you
+SPEAKER_01,535.541,538.409, had any thoughts yourself about what you think might be causing it?
+SPEAKER_01,540.274,545.689,"Well, I mean, I did think  that perhaps it was an infection that hadn't cleared up in the early stages."
+SPEAKER_01,545.81,552.19,"But I think,  I mean, sometimes I think it's IBS."
+SPEAKER_01,552.29,554.219,A friend of mine's got that and it sounds similar.
+SPEAKER_01,554.4,556.629," And then other times I'll think, I wonder if it's an ulcer."
+SPEAKER_01,557.171,557.833,Right.
+SPEAKER_01,558.576,562.889,"On a really bad day,  I start to think it might be cancer."
+SPEAKER_01,563.29,563.571,Right.
+SPEAKER_01,563.591,574.318,"My mother-in-law, my mother-in-law died of  cancer last year and she had a growth that the doctor didn't investigate."
+SPEAKER_01,574.338,574.478,Right.
+SPEAKER_01,574.558,577.972,"By the  time they'd found it, it was the size of a football."
+SPEAKER_01,578.214,579.822,And of course it was too late to  operate then.
+SPEAKER_01,579.963,587.668,"So, you know, when I go to bed at night now, I just feel and make sure there's  nothing different going on."
+SPEAKER_01,587.688,587.969,Right.
+SPEAKER_01,587.989,588.891,"And yeah, I worry about that."
+SPEAKER_01,588.911,595.065,"So you're kind of prodding,  having a feel at night."
+SPEAKER_00,595.246,595.587,Oh yes.
+SPEAKER_01,595.607,596.753,To see if you can feel anything.
+SPEAKER_01,596.975,597.357,Yes.
+SPEAKER_01,597.397,599.966,"I just want to  make sure there's nothing changing down there, you know."
+SPEAKER_01,600.147,600.528,Right.
+SPEAKER_01,601.089,601.571,Okay.
+SPEAKER_01,601.992,602.433,Okay.
+SPEAKER_01,603.095,609.937,"So just to make  sure that I've got the story straight, you've, you've seen Dr. Brown for a couple of years."
+SPEAKER_01,610.76,618.928," You've tried a variety of medications, some prescribed, some from the herbal shop and  none of them really made a great deal of difference."
+SPEAKER_01,619.932,624.429,"You've had some investigations, but you perhaps  feel you've not had enough investigations."
+SPEAKER_01,625.433,630.028,And at times you worry that this could be  something quite serious like a cancer.
+SPEAKER_01,630.971,633.057,"Is that, have I got the story right?"
+SPEAKER_01,633.338,633.578,Yes.
+SPEAKER_00,633.839,634.04,Yes.
+SPEAKER_00,634.16,634.3, Okay.
+SPEAKER_01,634.441,635.163,Okay.
+SPEAKER_01,636.727,639.997,"Barbara, what was it that you were hoping that I'd do for you today?"
+SPEAKER_01,640.017,647.4,"Well,  I thought, you know, you're a new doctor here and you've just finished your medical training."
+SPEAKER_01,647.58,652.196," I wondered whether, you know, with new eyes and a new way of looking at, at the problem."
+SPEAKER_01,653.48,654.784, Right.
+SPEAKER_01,654.804,661.086,"You probably know about different tests, new tests that my doctor doesn't know about,  you know, new developments."
+SPEAKER_01,661.447,661.708,Right.
+SPEAKER_01,661.728,664.339,So perhaps you could send me for some different tests.
+SPEAKER_01,664.981,665.403, Right.
+SPEAKER_01,665.904,666.266,Right.
+SPEAKER_01,666.506,668.814,So you were hoping that I'd send you for more tests.
+SPEAKER_01,669.416,669.697,Hmm.
+SPEAKER_01,670.179,674.211,"Well, I think  there's, there's got to be something that a test might, might reveal."
+SPEAKER_01,674.572,674.913,Right.
+SPEAKER_01,675.715,676.096,Okay.
+SPEAKER_01,676.116,694.364,"Well,  I think Barbara, having, having heard your story and heard about the symptoms, I'm not  sure that actually sending you for more tests at this point would be the most useful thing  that we could do for you."
+SPEAKER_01,696.39,705.196,"And the reason for that is because you've, you've had some of  the main investigations in the last couple of years and they've not shown anything."
+SPEAKER_01,706.459,708.87,And  your symptoms haven't really changed that much.
+SPEAKER_01,709.613,716.105,"So it's very unlikely that if we were  to send you for more tests now that, that they'd show anything different than what we  already know."
+SPEAKER_01,716.125,720.522,"So it would be, I think it would be a waste of time for you to go for more  tests."
+SPEAKER_01,721.646,724.796,"So it's like, do you think it's all in my head then?"
+SPEAKER_01,725.137,725.759,You're going to be like Dr.
+SPEAKER_01,726.0,726.181, Brown.
+SPEAKER_01,726.201,728.106,You think I'm imagining all of this?
+SPEAKER_01,729.851,739.608,"No, I think that you clearly have pain and  it clearly, you have lots of physical symptoms and they clearly getting in the way of your  life and causing you a lot of disability."
+SPEAKER_01,739.628,748.176,"I guess, I guess the way I think about these  things is that they're not necessarily either all in the mind or all in the body."
+SPEAKER_01,749.139,751.626,Sometimes  these things can go together.
+SPEAKER_01,751.646,771.388,"I guess I'm thinking about how you told me that last year  when your son got married and you were very busy and quite happy that somehow your symptoms  seemed less and that when your husband's away, which is something you don't like very much,  somehow your symptoms then will seem greater."
+SPEAKER_01,772.131,785.873,So I guess what I'm wondering Barbara is if  there might be some kind of a link with you between how you're feeling in your mind and  what's going on in your life and how much your symptoms trouble you.
+SPEAKER_01,785.893,789.063,Do you think that's  a possibility?
+SPEAKER_01,791.51,794.959,"Well, I can't see that my mind can be causing this amount of pain."
+SPEAKER_01,794.979,797.69,I'm not  saying that the pain's in your mind.
+SPEAKER_01,797.711,804.252,I guess what I'm saying is that sometimes the way  that we feel and the way that our lives are going can impact how we notice our symptoms.
+SPEAKER_01,811.17,816.716," Given that we've tried medication for you and we've tried investigations and we've drawn  a blank really with those, none of those have really helped you."
+SPEAKER_01,816.756,819.968,I guess I'm wondering whether  now it would be a good idea to try a different approach to your problems.
+SPEAKER_01,820.008,826.789,I think that's  a good approach to your problems.
+SPEAKER_01,826.849,827.672,What sort of approach?
+SPEAKER_01,828.233,838.949,"Well, I guess thinking a little  bit about those other areas of your life, I'm thinking about the fact that over the  last four years your life's really changed."
+SPEAKER_01,838.99,847.545,It seems to have really shrunk down and it  sounds as though you're not doing lots of the things that you used to do that you used  to get pleasure out of.
+SPEAKER_01,847.605,848.207,Is that right?
+SPEAKER_01,848.227,850.074,"Well, I just can't do them."
+SPEAKER_01,850.315,850.797,Yeah.
+SPEAKER_01,850.978,852.042,I can't do them  anymore.
+SPEAKER_01,852.645,871.474,"And I guess I wonder, it sounds as though you've dropped doing those things  because you felt you couldn't do them, but I wonder if in a funny way what's happened  is the fact that you're not doing those pleasurable things now has kind of fed into your feeling  unhappy with the way that your life is at the moment."
+SPEAKER_01,871.634,875.327,And I guess I wonder whether that  can then make your symptoms worse for you.
+SPEAKER_01,877.172,877.814,"Oh, I don't know."
+SPEAKER_01,877.834,878.476,I don't know.
+SPEAKER_01,878.496,899.962,"And I guess  what I'd be wondering is whether one of the approaches we need to be using now is thinking  about what you do with your life and what you do with your day and maybe trying to bring  back some of those pleasurable things, even if it's just meeting up with your female friends  once a week, and whether actually doing those sorts of things might generally improve your  quality of life."
+SPEAKER_01,902.129,922.066,"I'm also thinking about the tablets that you're taking and the fact that  you seem to be taking quite a lot of them and wondering whether it's worth us sitting  and looking at them and maybe trying to rationalize them a little bit and really decide which  are helping you, which are doing nothing, and which may actually be making some of your  symptoms worse, I guess."
+SPEAKER_01,925.074,934.257,"What would you think about trying that slightly different approach  for, say, two or three months just to see whether or not it makes any difference?"
+SPEAKER_01,934.277,939.653,"Well,  two or three months is a long time if there is something going on."
+SPEAKER_01,939.673,942.243,"I mean, that's what  happened to my mother-in-law."
+SPEAKER_01,942.283,944.77,"You know, they left her and didn't spot it."
+SPEAKER_01,947.076,953.358,"Well, I guess  if we did decide to work together like this, this new approach, I'd be seeing you regularly."
+SPEAKER_01,953.9,959.22," We can keep an eye on your symptoms, and if they change, then we can investigate as appropriate."
+SPEAKER_01,959.802,965.923," But if they stay the same, then we could be pretty clear that there's nothing new happening  that we're missing."
+SPEAKER_01,965.943,968.812,How would that sound?
+SPEAKER_01,968.832,975.444,"So, what are you saying then, that I should  come back and see you?"
+SPEAKER_01,975.464,977.732,I think that would be a good idea.
+SPEAKER_01,977.753,992.298,"I think we've only just begun  to talk about it, and I think perhaps you need to have a bit of time to think about  it and then perhaps come back, perhaps if you booked him for a double slot next week,  and that would give us a good chunk of time to think about this new approach."
+SPEAKER_01,992.439,999.526,"And perhaps  if you could also bring your tablets in or make a list of them, we can look at what you're  taking and perhaps go from there."
+SPEAKER_01,1000.288,1001.652,"How would that sound, Barbara?"
+SPEAKER_01,1002.274,1008.762,"Okay, well, to make an  appointment for next week, I'll come back and see you again and talk about it a bit  more."
+SPEAKER_01,1008.802,1009.525,"Yes, I think so."
+SPEAKER_01,1009.666,1011.454,I think that would be a good start.
+SPEAKER_01,1012.076,1014.205,And I'll make a list of the  tablets that I'm taking.
+SPEAKER_01,1014.225,1015.549,I won't bring all the bottles down.
+SPEAKER_01,1015.85,1016.894,"Okay, all right."
+SPEAKER_01,1016.954,1017.276,Okay.
+SPEAKER_01,1017.296,1018.801,All  right.
+SPEAKER_01,1019.022,1020.309,"So, shall I see you again next week?"
+SPEAKER_01,1020.349,1021.675,I'll make an appointment for next week.
+SPEAKER_01,1022.097,1022.238,Okay.
+SPEAKER_01,1022.802,1023.044, All right.
+SPEAKER_00,1023.145,1023.75,"Thank you, Barbara."
+SPEAKER_00,1023.851,1024.134,Okay.
+SPEAKER_00,1024.316,1024.699,Bye bye.

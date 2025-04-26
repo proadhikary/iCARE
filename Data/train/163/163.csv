@@ -1,0 +1,233 @@
+speaker,text,start,end
+SPEAKER_00," Hi Michelle, how are you doing today?",15.398,17.36
+SPEAKER_01," I'm kind of doing, I'm feeling a little bit stressed out.",17.38,22.198
+SPEAKER_00,Stressed?,23.027,23.333
+SPEAKER_01," Yeah, I feel like I have a lot on my plate.",24.564,26.391
+SPEAKER_01,I have this test that I have to take for work.,28.76,31.978
+SPEAKER_00,What kind of test?,32.32,32.728
+SPEAKER_01,It's like an aptitude test.,33.704,34.997
+SPEAKER_01,It has math problems on it and scenarios in order for me to move up to the assistant manager  position.,35.761,43.492
+SPEAKER_00," Right, and that's a job that you've been interested in for a while.",44.503,47.018
+SPEAKER_00," Yes, it is.",47.38,47.952
+SPEAKER_01,That's what you've been talking about.,48.36,49.34
+SPEAKER_01,Yes.,49.462,50.013
+SPEAKER_01," So, I've been just feeling a lot of anxiety about taking the test and then they actually  scheduled for me to take the test and I just got really overwhelmed and I started, I felt  my heart was racing, I felt like my hands were shaking and I just really couldn't concentrate  on the test even though the night before me and my friend did practice problems and  I knew all the answers with no problem, like I didn't miss any of the questions.",50.44,88.735
+SPEAKER_00,You know the material on this test pretty well.,90.28,92.956
+SPEAKER_01,Yes.,94.171,94.579
+SPEAKER_00," But the feelings and that physiological response to heart rate and the sweating, the feelings  of anxiety plus those physiological responses, they got in the way of you completing it,  if you were able to complete it?",94.881,107.738
+SPEAKER_01," No, I wasn't able to complete it and thankfully they gave me a chance to come back.",107.981,111.699
+SPEAKER_01,I just told them I didn't feel well.,111.84,113.193
+SPEAKER_01,So they rescheduled.,113.92,114.859
+SPEAKER_01,So now I'm feeling a lot of anxiety because I'm scared the same thing is going to happen  when I go back.,115.583,120.712
+SPEAKER_00,All right.,123.115,123.519
+SPEAKER_00,So you weren't feeling great about taking the test in the first place?,123.6,126.775
+SPEAKER_01," The day, the night before I felt like I know all the answers but the minute I walked into  the room, all of a sudden all these fears kind of took over.",127.72,137.117
+SPEAKER_00,But did you know that was coming?,137.96,139.759
+SPEAKER_01,Yes.,140.513,140.758
+SPEAKER_00,You did?,140.983,141.33
+SPEAKER_00,Okay.,141.922,142.126
+SPEAKER_01,Yes.,143.003,143.33
+SPEAKER_00,So you had some anxiety in advance?,143.84,144.799
+SPEAKER_01,Yes.,145.677,145.84
+SPEAKER_00,Or not?,146.187,146.452
+SPEAKER_00,You did?,146.86,147.758
+SPEAKER_00,Okay.,147.84,147.983
+SPEAKER_01," I had some anxiety the day before but when I reviewed it with my friend, I'm like, oh,  I know the answers.",148.88,154.156
+SPEAKER_01," I thought that would kind of push it down but I think once I got there, it all came  back up to the surface.",154.36,162.22
+SPEAKER_00,It erupted in that moment and that prevented you.,162.82,164.833
+SPEAKER_00,What do you think is leading to this?,165.96,168.737
+SPEAKER_01," Well, I've always kind of struggled with tests.",169.942,173.213
+SPEAKER_01," Like I can remember when I was in third grade, I had to take this test because I was really  struggling in math.",175.6,185.449
+SPEAKER_01,And I had to pass this test in order to move to the next grade.,187.08,191.396
+SPEAKER_01,And I thought just like this test that I was ready for it.,192.64,195.517
+SPEAKER_01,I had to tutor and I felt really prepared for it.,196.02,198.474
+SPEAKER_01," And then when I took it, I failed and I was held back.",199.54,203.815
+SPEAKER_01," And I feel like, you know, that was so, it was really embarrassing for me to be held  back.",205.3,211.226
+SPEAKER_01," I felt like, I don't want to say but I did feel like a failure at the time because I  felt like I really did know this so I don't know why I couldn't pass the test.",212.04,220.673
+SPEAKER_00," And since that, so this was third grade?",222.52,224.396
+SPEAKER_01,Yes.,225.043,225.411
+SPEAKER_00," And since that, they had testing experience.",225.88,228.54
+SPEAKER_00,Have you had trouble with tests since?,229.346,230.92
+SPEAKER_01,Yes.,231.327,231.47
+SPEAKER_01,I always feel really anxious.,232.081,233.473
+SPEAKER_01," I mean, I'm able to pass tests obviously because I graduated from grade school and went on  to high school.",234.4,241.635
+SPEAKER_01," But it's so hard for me because of this anxiety that I feel that even though I may think I  know it, I may still fail the test anyway.",242.462,250.92
+SPEAKER_01,Maybe like a repeat of what happened.,251.162,252.772
+SPEAKER_00,All right.,255.055,255.319
+SPEAKER_00," So in third grade, you had a really bad testing experience.",255.601,259.052
+SPEAKER_00," And as you moved forward from there, you've never really been thrilled about taking tests.",261.6,266.879
+SPEAKER_01,No.,267.1,267.284
+SPEAKER_00,But you've been able to adapt.,268.32,270.939
+SPEAKER_00,You've been able to take them and still pass them.,271.08,274.918
+SPEAKER_01,Yeah.,275.422,275.687
+SPEAKER_01," I mean, sometimes I get an A.",276.42,277.847
+SPEAKER_00," That's good, right?",280.541,281.174
+SPEAKER_01,Yeah.,281.5,281.766
+SPEAKER_01," I mean, yeah, it is good.",282.562,283.48
+SPEAKER_01," But yeah, it's good.",283.48,284.194
+SPEAKER_00,All right.,284.541,285.48
+SPEAKER_00," But with this particular test, which is not for school, which is for work, this one, this  is more a stumbling block for you.",285.48,293.026
+SPEAKER_01,Yes.,297.719,297.8
+SPEAKER_00,Do you have any ideas as to what may be making this test such a point of anxiety for you?,297.8,305.258
+SPEAKER_01,I think it's just the fact that it's this promotion.,306.021,307.858
+SPEAKER_01,It's almost like the same thing.,308.04,309.129
+SPEAKER_01," If I fail, I'm being held back.",310.4,311.898
+SPEAKER_01,And I feel like it's reliving that moment of being held back.,312.401,315.856
+SPEAKER_01," And that's like a fear that I have that by not being able to pass these tests, they're  holding me back.",316.921,323.595
+SPEAKER_00,All right.,324.186,324.533
+SPEAKER_00," So really that same feeling you had in third grade, that's coming up with this test now.",324.9,331.52
+SPEAKER_01,Yeah.,331.7,332.292
+SPEAKER_01," I mean, I didn't put them together until now, but yeah.",333.524,335.634
+SPEAKER_00," And the other test you'd taken throughout the rest of grade school and high school,  they didn't have that same value attached to them.",336.82,345.255
+SPEAKER_01," No, because they didn't have all that pressure that it was either win or lose, basically.",346.0,352.338
+SPEAKER_00,You could take them again or take that course again.,353.0,355.014
+SPEAKER_01,Or I could take another test to raise the grade if I didn't do good on that test.,355.88,360.439
+SPEAKER_00,So you maybe had more options in school.,361.223,363.499
+SPEAKER_01,Yes.,363.68,363.864
+SPEAKER_01,It wasn't pass or fail.,364.761,366.293
+SPEAKER_00,So it's the pressure.,367.141,368.738
+SPEAKER_00,It's the pressure of you need to get through this.,368.96,371.012
+SPEAKER_00,You don't have the safety nets that you had in school.,372.32,375.32
+SPEAKER_01,Yeah.,375.585,375.708
+SPEAKER_01," If I fail it, then I'm not going to be able to get the promotion.",376.32,379.66
+SPEAKER_01,I would have to wait just like I did.,379.72,381.259
+SPEAKER_01," I'm going to have to wait a certain amount of time, I think an year before I could take  it again.",381.8,385.049
+SPEAKER_00,All right.,386.11,386.498
+SPEAKER_00,So that is a lot of pressure.,386.6,387.355
+SPEAKER_00,That is a lot of pressure.,387.824,388.6
+SPEAKER_01," Yeah, it is.",388.6,389.273
+SPEAKER_00,So is there any time limit to this test for work?,390.503,394.558
+SPEAKER_01," No, there isn't.",395.745,397.018
+SPEAKER_00,There's no time limit?,397.322,398.24
+SPEAKER_01,No.,398.403,398.567
+SPEAKER_00," And how many, is it like a multiple choice?",399.24,401.64
+SPEAKER_01," Yes, it is.",402.007,402.497
+SPEAKER_00,Okay.,402.783,402.967
+SPEAKER_00," And you seem like, like you said you were studying the night before with your friend.",403.861,407.24
+SPEAKER_01,Yes.,407.504,407.667
+SPEAKER_00,You're really well prepared for it.,408.32,409.295
+SPEAKER_01,Yes.,410.498,410.6
+SPEAKER_00,So I have a few thoughts about this.,410.941,412.914
+SPEAKER_01,Okay.,414.309,414.452
+SPEAKER_00," One is I'm wondering, you know, we've talked before about cognitive therapy, about the  core beliefs.",415.864,420.644
+SPEAKER_00," So I'm curious as to what you think about like what core belief may be operating for  you now with this test, this work test.",423.12,435.313
+SPEAKER_01," That I could fail, and then if I fail, I could end up being a failure at all, you know, the  things that I try.",437.4,442.556
+SPEAKER_00,Okay.,443.087,443.291
+SPEAKER_00," So something like I'm a failure or I'm bound to be a failure, I'm destined to be a failure.",443.76,450.46
+SPEAKER_01,I would say like I'm destined to be a failure.,450.541,452.439
+SPEAKER_00,Okay.,453.112,453.296
+SPEAKER_00,Okay.,453.683,453.908
+SPEAKER_00,So I'm destined to be a failure.,454.52,455.52
+SPEAKER_00," So that potentially is a core belief, right, that's operating.",455.64,461.48
+SPEAKER_01,Yeah.,461.601,461.784
+SPEAKER_01," I mean, that's what scares me.",462.56,464.359
+SPEAKER_01," That's exactly the thought that I'm thinking when I'm about to take the test, that if I  don't pass it, it's just going to have like this domino effect of failure.",464.48,471.199
+SPEAKER_00,Okay.,471.626,471.851
+SPEAKER_00," So it could be a core belief, but it's also, it seems like it's still an automatic thought.",472.32,476.778
+SPEAKER_00," Like as you get ready to take that test, you're thinking, I'm destined to be a failure.",477.441,482.056
+SPEAKER_01,Yes.,484.298,484.44
+SPEAKER_00," And you're having what sounds like a panic response, right, with the heart racing.",484.48,489.759
+SPEAKER_01," Yeah, and my hands shaking.",490.0,491.718
+SPEAKER_00,Hands shaking.,492.287,492.96
+SPEAKER_00,Are you in the room alone when you're taking the test?,492.96,495.237
+SPEAKER_01,Yes.,495.884,496.047
+SPEAKER_00,You are.,497.415,497.66
+SPEAKER_00," So no one's really seeing you have this, I wouldn't want to call it a panic attack yet.",497.68,502.898
+SPEAKER_00," We haven't really gotten that far into it, but it sounds like it has some panic-like  features.",503.44,507.55
+SPEAKER_01,Yeah.,508.264,508.427
+SPEAKER_00," Because it's not, it's interfering with you thinking clearly enough to get through the  items.",510.766,515.024
+SPEAKER_00,So okay.,515.96,516.767
+SPEAKER_00," So one thought I have is, have you ever had panic attacks in the past or anything like  this?",518.12,525.767
+SPEAKER_01,Only when I'm...,526.767,527.297
+SPEAKER_00,Other than the third grade thing?,527.683,528.597
+SPEAKER_01," No, not really.",529.187,529.738
+SPEAKER_01," I mean, sometimes I get worked up when I'm about to take a test.",529.88,532.179
+SPEAKER_00,Okay.,532.546,532.75
+SPEAKER_01,But it's only around tests.,533.24,534.438
+SPEAKER_00,And what happens once you get worked up?,535.004,536.779
+SPEAKER_00," Like once your heart rate increases and you have the other physiological symptoms, what...",536.92,542.358
+SPEAKER_01,When I actually do take the test?,543.08,544.75
+SPEAKER_01,I kind of try to work through it and start trying to answer one question at a time to  get to the last question.,546.7,554.43
+SPEAKER_00," So one possible strategy here is, we talked about the adaptive response, right?",555.98,562.8
+SPEAKER_00," So which is that thought that you say to yourself, that self-talk.",562.94,566.657
+SPEAKER_00," I wonder if your adaptive response couldn't be, I can ride this out.",567.48,571.659
+SPEAKER_00,Like you have no time to go on a test.,571.84,573.214
+SPEAKER_01," Yeah, that's true.",573.861,574.453
+SPEAKER_00," I mean, the panic response is only maintained for so long.",574.82,578.517
+SPEAKER_01,And I could also choose maybe questions that I know the answer to automatically.,579.18,582.92
+SPEAKER_01,So that could help maybe relieve some of that stress.,583.281,587.358
+SPEAKER_00," To get some, in a sense, to get some minor victories under your belt by answering those  right, you know you're closer to achieving your goal.",587.92,595.9
+SPEAKER_01,Yes.,595.94,596.042
+SPEAKER_01," And then I feel like I know, at least I know that they'll validate the feeling that maybe  I can pass this test.",597.101,603.175
+SPEAKER_00," So the more items you answer correctly, the less anxious you're going to feel because  you're closer to the end of.",604.981,613.432
+SPEAKER_01," Yeah, definitely.",614.222,615.12
+SPEAKER_01," Because then I start to feel more calm because I know that, I know these questions are definitely  going to be right.",615.321,621.226
+SPEAKER_00," So that's one, well that's a cognitive and behavioral strategy, right?",623.201,628.32
+SPEAKER_00,Like you can wait out the panic.,628.501,630.82
+SPEAKER_00," I mean, you're in the room alone.",630.86,632.679
+SPEAKER_01," Yeah, that's true.",633.103,633.797
+SPEAKER_01,Nobody's there.,633.94,634.389
+SPEAKER_01,Nobody's going to see me if I'm kind of trying to get myself together.,634.94,637.878
+SPEAKER_00,Yeah.,638.403,638.546
+SPEAKER_00," Now the panic's painful, right?",639.26,640.952
+SPEAKER_00,The panic symptoms are painful.,642.18,643.393
+SPEAKER_00," So what you could tell yourself is, yeah, this is unpleasant, but I can ride out these  symptoms because they only last so long.",644.1,651.039
+SPEAKER_01,Okay.,651.467,651.835
+SPEAKER_01,So I could use like self-talk.,652.363,653.898
+SPEAKER_00,Exactly.,654.753,655.08
+SPEAKER_01,Okay.,655.345,655.631
+SPEAKER_00,Yeah.,656.263,656.345
+SPEAKER_00," Because usually I mean panic symptoms can run, you know, five minutes, 10 minutes, 15  minutes, but you have no time limit.",657.14,661.259
+SPEAKER_01," So I can take a, yeah.",662.245,663.78
+SPEAKER_00,Yeah.,663.841,663.923
+SPEAKER_00," So if you can just kind of use that time to focus on the items, as you mentioned, that  you could get right and kind of at the same time be telling yourself, I can ride this  out.",664.82,677.085
+SPEAKER_01,Yeah.,678.024,678.208
+SPEAKER_01," I mean, I've done that in the past, so I can apply it to this test.",679.322,682.775
+SPEAKER_00,So that's worked for you?,684.161,684.957
+SPEAKER_01," Yes, that has worked for me in the past.",686.1,687.29
+SPEAKER_00," So that's certainly one adaptive response to try, right?",688.62,695.297
+SPEAKER_00," Another one could be that although it wouldn't be great to fail, you can retake the test  in a year, right?",696.6,704.82
+SPEAKER_00,You could try again.,704.84,705.371
+SPEAKER_01," Yeah, that's true.",705.881,706.452
+SPEAKER_00," I mean, I know that's not what you want, but the alternative is kind of buying into that  automatic thought.",707.201,713.935
+SPEAKER_00," We know that's not working, right?",714.2,716.094
+SPEAKER_00," I'm destined, that was the word, right?",717.56,719.119
+SPEAKER_00,Like I'm destined to be a failure.,719.24,720.369
+SPEAKER_00,We know that's not working for you.,721.8,722.892
+SPEAKER_01," So even if I have to take the test again in a year, then I'm not going to be a failure  because I still have the chance to take it again.",723.62,731.698
+SPEAKER_01,It's not like I'll never be able to take this test again.,731.92,734.597
+SPEAKER_00," Yeah, you just have another year to study, right?",735.903,739.295
+SPEAKER_00," And of course, you wouldn't have that promotion that time, and that would be an outcome I  know you don't want, but it's not the end of your career.",740.84,748.717
+SPEAKER_00," It's not like something so drastic, right?",749.44,752.219
+SPEAKER_00," It's important to you, and I can appreciate that, but it's not the end of your career.",752.32,756.8
+SPEAKER_00,You're not going to be unemployed.,756.901,758.317
+SPEAKER_01," No, no, definitely not.",758.761,760.093
+SPEAKER_01," And just thinking back and relating it back to the third grade, even though I had to stay  back, I still managed to do well the next year and keep moving up.",761.161,769.999
+SPEAKER_01," And it hasn't really, in the long run, prevented me from doing anything that I wanted to do.",770.74,775.318
+SPEAKER_00,So that's great.,775.76,776.168
+SPEAKER_00," That's another adaptive response, which is I've survived this before.",776.76,779.798
+SPEAKER_01," Yes, I definitely have.",780.401,782.031
+SPEAKER_00," So this one event, I mean, I know you had the incident in third grade with the unpleasant  experience, but this one event, you don't want to let this kind of fashion, well, use  your word, your destiny, right?",783.56,798.439
+SPEAKER_00," This was one unpleasant event that seemed to catch you off guard with the panic-like  symptoms, and fortunately, your employer is going to give you a chance to try this again.",798.64,810.734
+SPEAKER_00," I imagine you can ride out these symptoms, and I think you have the other adaptive response,  which is I've been successful with this before.",813.72,823.056
+SPEAKER_01,Yes.,823.62,823.722
+SPEAKER_01," Definitely, I feel a lot better now because I just know that no matter what happens, I've  been here before, and I can get through it as opposed to that feeling that I'm going  to just fail altogether.",824.6,837.233
+SPEAKER_00," All right, so what we'll do is, when do you have to take the test?",839.345,841.936
+SPEAKER_01," Next week, next Wednesday.",843.061,843.98
+SPEAKER_00,Next week.,844.041,844.959
+SPEAKER_00," All right, so let's schedule one more appointment right before that.",845.02,848.397
+SPEAKER_01,Okay.,848.96,849.266
+SPEAKER_00,We'll make sure that you have these adaptive responses down and you're ready to go.,850.06,855.158
+SPEAKER_01,Okay.,855.881,856.309
+SPEAKER_00," And really, we'll kind of focus on the positive outcome, right?",857.342,862.66
+SPEAKER_01,Okay.,862.68,862.843
+SPEAKER_00," Which is just taking this test, taking one item at a time, and fighting through some  of these physical symptoms you're having.",863.68,871.256
+SPEAKER_01,Okay.,871.74,871.965
+SPEAKER_00,And fighting through the unuseful thoughts.,872.74,875.14
+SPEAKER_01,Okay.,875.71,875.976
+SPEAKER_00,Does that make sense?,876.343,877.078
+SPEAKER_01," I mean, that sounds good because it helped me prepare for the test.",877.48,880.255
+SPEAKER_00,Great.,881.648,882.118
+SPEAKER_00," So, Michelle, I'll see you then and we'll work through it.",882.26,885.919
+SPEAKER_00,I really appreciate you coming in today.,886.141,887.639
+SPEAKER_01," Okay, thank you.",887.822,888.478

@@ -1,0 +1,255 @@
+speaker,text,start,end
+SPEAKER_00," Hi Elise, how you doing today?",14.578,15.399
+SPEAKER_01," I'm good, but there has been an issue, you know how we've been working on like my motivation?",16.14,21.739
+SPEAKER_00, Sure.,22.022,22.206
+SPEAKER_01," Well, it's kind of related to that.",23.121,25.493
+SPEAKER_01, So I'm in school and every few weeks we have like papers to write.,26.78,31.536
+SPEAKER_01," And I know I know it, I know I can do it.",32.96,34.974
+SPEAKER_01, It's just actually sitting down and doing it.,35.78,38.718
+SPEAKER_00," All right, well tell me about the papers.",39.665,40.876
+SPEAKER_01," Well, they're usually about five pages long.",41.702,43.813
+SPEAKER_01," And I just look at it and I'm like, it's five pages.",45.221,47.455
+SPEAKER_01," But I'm like, okay, so I go sit down, you know, at my computer, I'm like, all right,  I'm going to start on references.",48.3,52.31
+SPEAKER_01," So I get, you know, I start off good.",53.3,55.294
+SPEAKER_01," I do the references, but then it's like, I get sidetracked so easily.",56.54,61.359
+SPEAKER_01," And then I end up killing like two hours checking the news, checking, and then it goes to my  phone and then just looking at recipes.",61.78,71.54
+SPEAKER_01," I mean, it gets really off topic.",71.58,73.899
+SPEAKER_01," And then I realized, you know, I haven't done anything.",74.141,76.274
+SPEAKER_00," All right, so you have a five page paper, you sit down to work on it.",77.641,83.037
+SPEAKER_00," You have the references, you get that part taken care of.",84.26,86.255
+SPEAKER_00, But then it sounds like you kind of wander off a little bit.,86.94,89.658
+SPEAKER_01," Oh, big time.",90.04,90.571
+SPEAKER_00," Yeah, okay.",91.142,91.796
+SPEAKER_00, And then what happens after you are done wandering a little bit?,92.502,96.338
+SPEAKER_01," Well, I get kind of annoyed with it.",96.94,100.159
+SPEAKER_01," And then I'm like, well, you know, I've already, you know, it's already nighttime, I'll try  to do it tomorrow.",100.34,105.193
+SPEAKER_01," And then, you know, either tomorrow doesn't happen or the same thing happens.",105.62,109.495
+SPEAKER_01," And then I end up rushing right at the end of, you know, the do tomorrow and getting  all these five pages done.",111.34,117.077
+SPEAKER_01, It's really hard for me.,117.34,119.473
+SPEAKER_00, So you are finishing the assignment on time.,121.163,123.638
+SPEAKER_00, So the problem isn't lateness.,123.94,125.199
+SPEAKER_01," No, I mean, I get it done.",125.825,127.419
+SPEAKER_00, You get it done.,127.581,128.54
+SPEAKER_01, It's just all at the last minute.,128.54,130.114
+SPEAKER_00, So it's really how the time breaks out isn't working out well for you.,130.74,135.338
+SPEAKER_01, Yeah.,136.43,136.675
+SPEAKER_00, You'd rather not be doing it at the last moment.,137.141,139.659
+SPEAKER_01," No, I mean, I try not to.",140.263,142.096
+SPEAKER_01," I mean, I set time aside to go sit down.",142.701,145.02
+SPEAKER_01," I'm like, all right, you know, we're going to start on this paper, then sidetracked.",145.14,149.399
+SPEAKER_01, I'm watching TV.,149.965,150.411
+SPEAKER_01, I'm on my phone.,151.242,152.457
+SPEAKER_01, I'm on some other website.,152.841,154.209
+SPEAKER_00," So these activities that you're engaging in between when you start the work and before  you start writing, so we're gathering the references before you start writing.",156.141,165.153
+SPEAKER_00, You said check an email.,166.74,168.296
+SPEAKER_01, Yeah.,168.741,168.945
+SPEAKER_00," And other kind of, it sounds like unplanned small activities.",169.88,177.82
+SPEAKER_01, Yeah.,178.001,178.267
+SPEAKER_01," I mean, there's small things that keep my attention, but that's not where my attention  needs to go.",178.94,184.29
+SPEAKER_00," These aren't particularly engaging activities, like something you need to do at that moment?",184.9,189.96
+SPEAKER_01, No.,190.571,190.673
+SPEAKER_01," No, I mean, I look up, you know, I start on one reference and then, ooh, this article  looks cool.",191.02,196.069
+SPEAKER_01," Ooh, this article.",196.661,197.559
+SPEAKER_01, I'm researching octopuses or something.,198.6,200.415
+SPEAKER_00, So like distracted?,201.06,201.999
+SPEAKER_01, Yeah.,202.06,202.325
+SPEAKER_01, Distracted is a good word.,203.423,204.411
+SPEAKER_00, And then there's a moment when you kind of catch yourself and realize you haven't really  started writing.,205.661,209.234
+SPEAKER_01," Yeah, but it's like two hours late.",209.925,211.179
+SPEAKER_00, It's too late.,211.26,211.709
+SPEAKER_01, Yeah.,212.26,212.423
+SPEAKER_00, So you're consuming time there.,213.26,214.036
+SPEAKER_00, All right.,214.893,215.178
+SPEAKER_00, So you have a few different levels of activity here.,215.783,218.219
+SPEAKER_00," You have the paper, which it sounds like you're okay writing, but you're maybe not highly  motivated to write.",218.4,226.028
+SPEAKER_00, But you seem to be getting the references done okay.,227.801,229.9
+SPEAKER_01," Yeah, I mean, I get the references done okay.",230.384,232.178
+SPEAKER_00, You collect the material and then the writing part.,232.46,235.897
+SPEAKER_01, That's the difficult part.,236.763,237.62
+SPEAKER_00," And then you have these behaviors in the middle, which you enjoy doing a little, but they're  not something that...",238.302,245.015
+SPEAKER_01," I mean, they're not something that I'm jumping for joy about.",246.104,249.179
+SPEAKER_01, It's just something to procrastinate so I don't have to do my paper.,249.46,255.078
+SPEAKER_01, I don't think that.,255.86,256.738
+SPEAKER_01," I'm not like, oh, I need to check my email so I don't have to do my paper.",257.001,260.196
+SPEAKER_01," It's just, oh, I should check my email.",261.06,263.02
+SPEAKER_01," Oh, I should check my phone.",263.06,264.019
+SPEAKER_01," Oh, I haven't done this in a while.",264.06,265.04
+SPEAKER_01," Oh, I haven't seen this in a while.",265.121,266.615
+SPEAKER_00, But these behaviors still fulfill a purpose.,267.12,269.035
+SPEAKER_00, They do delay the writing of the paper.,269.72,271.897
+SPEAKER_01," Yeah, that's true.",272.26,272.954
+SPEAKER_00," You may not be fully aware of that in the moment, but then you kind of become aware  of that later, that that's the purpose that those behaviors accomplished.",273.561,282.34
+SPEAKER_00, Yeah.,282.707,282.952
+SPEAKER_00, And the other thing that I noticed was that they kept you distracted from the writing.,283.9,286.86
+SPEAKER_01, That's true.,287.207,287.778
+SPEAKER_00, All right.,287.942,288.86
+SPEAKER_00, So the writing of the paper is an activity.,291.108,293.195
+SPEAKER_00, That's a behavior that's something you're not really looking forward to.,294.46,298.275
+SPEAKER_00, What's a behavior that...,299.62,300.594
+SPEAKER_00," What's an activity that you really do look forward to, that you kind of think about and  some level of engagement is there?",300.98,310.658
+SPEAKER_01," Well, there is this new TV show out that they just started a new season and I have it all  recorded, like 24 episodes, but I can't find time to watch it.",310.98,321.399
+SPEAKER_01," But I'm really, you know, I've seen the first season, I'm so interested in it.",321.62,324.815
+SPEAKER_01, I can't wait to see the next one.,325.961,327.39
+SPEAKER_01, I guess that's what makes me really happy right now.,328.94,333.336
+SPEAKER_00, So you're excited about this television show and you have the episodes already recorded.,334.34,338.994
+SPEAKER_00, And maybe one of the reasons you can't find the time is because the time you're using  between the two parts of writing this paper.,340.82,349.077
+SPEAKER_01, Yeah.,349.6,349.804
+SPEAKER_01," I mean, this paper's taken me a lot longer than it should.",350.741,353.574
+SPEAKER_00, All right.,355.209,355.413
+SPEAKER_00, So let's try this.,355.921,357.589
+SPEAKER_00," When you do write the paper, you're really writing it, the writing part, not the preparing  part, but the writing part kind of all at the end, right?",359.84,366.48
+SPEAKER_01, Yeah.,366.745,367.316
+SPEAKER_00," You're getting it done, but it's the night before it's due.",367.5,369.158
+SPEAKER_01," Oh, yeah.",369.4,369.809
+SPEAKER_00, So I want to try a couple of different behavioral strategies here.,371.141,373.638
+SPEAKER_01, Okay.,374.185,374.491
+SPEAKER_00, And these might be similar to what we tried before working with motivation.,375.0,377.974
+SPEAKER_00," One is I think that it might be helpful, and I want you to let me know if I'm right here,  to break, if it's a five-page paper, to break it up into more than one night.",379.42,389.298
+SPEAKER_00," Because right now, functionally, at least a lot of it you're doing on the last night.",389.9,394.097
+SPEAKER_01, Yeah.,395.127,395.249
+SPEAKER_00, Okay?,395.821,396.617
+SPEAKER_00, What would be a more comfortable pace?,397.265,398.839
+SPEAKER_00," For example, how long does it take you to write one page?",399.42,403.939
+SPEAKER_01," About an hour, hour and a half.",406.03,407.237
+SPEAKER_00, All right.,408.085,408.33
+SPEAKER_00," So around an hour to an hour and a half, you can complete one page, edit it, proofread?",408.82,414.419
+SPEAKER_01, Yeah.,415.023,415.248
+SPEAKER_00, Okay.,415.86,416.044
+SPEAKER_00, So it would take about five days for you to complete the whole paper.,416.86,421.637
+SPEAKER_01, Yes.,423.134,423.257
+SPEAKER_00," If you did an hour and a half each day, an hour to an hour and a half each day.",423.42,426.758
+SPEAKER_00, Okay.,427.201,427.426
+SPEAKER_00, What do you have from when the paper's assigned to when it's due?,428.38,430.994
+SPEAKER_01, They give us about a week and a half to do it.,432.22,434.638
+SPEAKER_00, Okay.,435.063,435.267
+SPEAKER_00, So around 10 days?,435.9,436.553
+SPEAKER_01, Yeah.,437.227,437.716
+SPEAKER_00, Okay.,438.573,438.757
+SPEAKER_00," So if you could maintain the pace of an hour to an hour and a half a day, you would be  done in plenty of time.",438.9,446.05
+SPEAKER_01, Mm-hmm.,447.041,447.184
+SPEAKER_00, All right.,448.143,448.347
+SPEAKER_00," Is there a good time to write, like to start writing?",448.98,453.635
+SPEAKER_01," I guess around six o'clock, because then I'm already done eating, I'm home from work,  and I've kind of de-stressed already.",455.14,462.932
+SPEAKER_01, Six o'clock's a pretty good time.,464.18,466.275
+SPEAKER_00," So if you could work without distraction, you would be done by around 7.30 at the latest?",467.02,471.332
+SPEAKER_00, With just one page?,474.04,474.714
+SPEAKER_01," Yeah, with one page.",475.244,475.979
+SPEAKER_00, Okay.,476.428,476.796
+SPEAKER_00, So no distractions and just one page?,477.02,478.597
+SPEAKER_01, Yeah.,479.022,479.839
+SPEAKER_00, All right.,480.594,480.859
+SPEAKER_00, Okay.,480.94,481.124
+SPEAKER_00," So talk about the episodes, the TV episodes that you want to watch.",482.161,486.158
+SPEAKER_01, Okay.,486.662,487.071
+SPEAKER_00, How long are they?,487.54,488.52
+SPEAKER_01, They're an hour.,488.928,489.295
+SPEAKER_00, They're an hour?,489.54,489.928
+SPEAKER_00, Okay.,490.907,491.356
+SPEAKER_00, And what's a time that you could watch those or you get the maximum enjoyment out of watching  them?,491.66,497.083
+SPEAKER_00, Like no distractions?,497.94,498.94
+SPEAKER_01," I guess around eight o'clock, because that's when I'm starting to get ready for bed and  starting to really relax.",500.927,506.091
+SPEAKER_01," And my husband's home by that time, and we can watch it together.",507.481,510.86
+SPEAKER_01, He loves the show too.,510.94,511.83
+SPEAKER_00, Okay.,512.946,513.191
+SPEAKER_00," So eight o'clock's a really good time for you to maximize what you'll get out of the  show, the enjoyment you'll get out of the show.",513.68,521.77
+SPEAKER_00," So what I want to do is try to pair these behaviors together, the behavior of writing,  which is not something that you're necessarily thrilled about all the time, but you are getting  it done just not in the time schedule you like.",524.16,539.173
+SPEAKER_00, And the behavior of watching the show is you are more or less excited about it.,540.3,543.3
+SPEAKER_01," I mean, I'm very interested in that.",543.3,544.573
+SPEAKER_00, That's a great motivator for you.,546.405,547.892
+SPEAKER_00," And I want to try to use it as a motivator, kind of like a reward.",549.5,553.055
+SPEAKER_00," So what I'd like you to try to do is when you get one of these papers assigned, the  five page papers, pick the five nights that you want to work on it.",554.1,565.079
+SPEAKER_01, Okay.,566.156,566.36
+SPEAKER_00, It could be Monday through Friday or whatever works for you.,566.82,568.816
+SPEAKER_01, Okay.,569.607,569.831
+SPEAKER_00, All right?,570.423,570.791
+SPEAKER_00, Clearly within the 10 day window though.,571.26,572.26
+SPEAKER_01, All right.,572.382,573.26
+SPEAKER_00, So five days within the 10 day window do you have to turn in.,573.36,576.093
+SPEAKER_00, And then set that time at six o'clock is when you're going to start because that's a good  time for you to work.,577.52,582.467
+SPEAKER_00," And when you try to work straight through to seven or seven thirty, I know that's a  challenge, right?",585.42,591.276
+SPEAKER_01, Yeah.,591.66,592.374
+SPEAKER_00," When that period of distraction might encroach, right?",592.86,597.14
+SPEAKER_00, We know that might happen.,597.483,598.289
+SPEAKER_00," Focus on, I really want to watch that show at eight o'clock.",599.8,602.114
+SPEAKER_01, So just keep thinking about that when I feel like I'm getting off track?,603.583,606.979
+SPEAKER_00, Yeah.,607.282,607.404
+SPEAKER_00," That's your, in a way, that's your reward.",609.006,610.939
+SPEAKER_00, That's your motivation.,611.1,611.83
+SPEAKER_00," That's kind of what you're looking forward to, to get through something that you don't  necessarily enjoy a lot.",612.5,617.858
+SPEAKER_01, Okay.,618.508,618.835
+SPEAKER_00, You're going to be using what you do enjoy a lot to help push you through that.,619.1,624.237
+SPEAKER_01, Okay.,625.774,625.938
+SPEAKER_00, Okay?,626.693,626.795
+SPEAKER_00," In the process, I hope that the writing becomes more enjoyable.",627.12,630.978
+SPEAKER_00," You know, we'll see.",632.187,633.094
+SPEAKER_00," But whether it does or it doesn't, you still want to be able to complete it.",633.9,636.616
+SPEAKER_01, Yeah.,637.38,637.686
+SPEAKER_00, And not have to stress right at the end.,638.38,639.838
+SPEAKER_01, Yeah.,640.183,640.469
+SPEAKER_00, And not waste that time in the middle.,641.141,642.539
+SPEAKER_01, Yeah.,643.048,643.211
+SPEAKER_00, Right?,643.701,643.844
+SPEAKER_00, That's really eating more time than your show takes.,644.66,645.74
+SPEAKER_01," Really, it is.",646.475,646.74
+SPEAKER_00, Right.,646.781,647.107
+SPEAKER_01," I mean, you're right.",648.849,649.36
+SPEAKER_01, I could watch that show with the amount of time I waste just doing other things.,649.38,653.314
+SPEAKER_00, So the key here is to try to keep it structured.,655.0,658.877
+SPEAKER_00," Like if that plan that I've laid out works for you, does that make sense for you?",659.5,663.019
+SPEAKER_01, It does.,663.26,663.525
+SPEAKER_00, Okay.,664.26,664.954
+SPEAKER_00, Because we can modify it if it doesn't.,665.26,666.312
+SPEAKER_00, Try that now and we can always change it up.,666.96,669.277
+SPEAKER_01, Okay.,669.64,669.763
+SPEAKER_00, If we need to.,671.355,671.62
+SPEAKER_00, But I think that does make sense and it gives you time to finish the paper.,671.62,675.896
+SPEAKER_00, And I think it divides it into manageable periods of time.,677.06,679.596
+SPEAKER_01, Okay.,680.629,680.874
+SPEAKER_00," But the key is here to start on time, six o'clock, and to intend to and try to start  the show on time at eight o'clock.",681.16,689.814
+SPEAKER_00, Try to keep that structure.,690.825,691.756
+SPEAKER_00, So you have the behavior that's not necessarily too excited about but you kind of have to  do at some point.,692.461,698.453
+SPEAKER_01, Yeah.,699.004,699.371
+SPEAKER_00, And that show that you're really looking forward to.,699.881,701.299
+SPEAKER_01, Okay.,702.053,702.318
+SPEAKER_00, You're going to pair those together.,702.522,703.4
+SPEAKER_01," No, I see where you're getting at.",703.804,705.218
+SPEAKER_01, Yeah.,705.42,705.522
+SPEAKER_00, Does this make sense to you?,707.344,708.698
+SPEAKER_00, Do you understand kind of?,708.92,710.42
+SPEAKER_01, Yeah.,710.46,710.542
+SPEAKER_01," You know, that'd help me power through and not do things unrelated.",711.44,716.52
+SPEAKER_01," You might think, well, if I get this paper done, this page done, I get to watch my show  later.",716.54,722.864
+SPEAKER_00, And I think that's a helpful way to think about it.,724.04,726.077
+SPEAKER_00, And that's the cognitive part of this.,726.58,729.639
+SPEAKER_00," So this is a behavioral strategy because we talked about these in the past, right?",730.001,734.16
+SPEAKER_00, This is a behavioral strategy.,734.22,735.332
+SPEAKER_00," The cognitive piece is when you find yourself wandering, right, that you have to detect  that.",736.16,742.209
+SPEAKER_00, And I think you have some level of awareness that's happening.,742.821,744.699
+SPEAKER_01, Yeah.,744.984,745.167
+SPEAKER_00," You have to detect that and say, oh, I want to watch my show.",745.8,748.4
+SPEAKER_00, I'm really looking forward to it.,748.4,749.371
+SPEAKER_01, Okay.,750.772,750.915
+SPEAKER_00, Right?,751.242,751.405
+SPEAKER_00, And that's your motivation to move it through the paper and then you know when eight o'clock  comes.,752.16,756.308
+SPEAKER_01, I get to watch my show.,757.471,757.92
+SPEAKER_00, You get to watch your show!,757.92,758.634
+SPEAKER_01, All right.,758.92,759.9
+SPEAKER_01, That sounds like a plan.,759.981,760.757
+SPEAKER_00, All right.,760.92,761.92
+SPEAKER_00, Very good.,762.328,762.655
+SPEAKER_00," So let's try that for, I'll see you again in roughly two weeks.",762.96,767.38
+SPEAKER_01, Okay.,767.868,768.235
+SPEAKER_00, Do you have a paper assigned between now and then?,768.48,769.733
+SPEAKER_01, I actually do.,770.541,771.072
+SPEAKER_00, You do?,771.48,771.643
+SPEAKER_00, So let's try it with this next paper.,772.621,774.679
+SPEAKER_01, Okay.,775.208,775.29
+SPEAKER_00, The one that will be assigned before I see you again.,775.8,778.353
+SPEAKER_00, And let's try the five day and we'll evaluate how it goes and make any changes if we need  to.,779.6,784.603
+SPEAKER_01, All right.,785.522,785.787
+SPEAKER_00, Sound good?,786.481,786.991
+SPEAKER_01, Yep.,787.603,787.746
+SPEAKER_00, All right.,788.522,788.828
+SPEAKER_01, All right.,789.44,789.624
+SPEAKER_01, Thank you!,790.44,791.011
+SPEAKER_00, I'll see you in a few weeks.,791.44,792.44

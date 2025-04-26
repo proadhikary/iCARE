@@ -1,0 +1,174 @@
+speaker,start,end,text
+SPEAKER_00,14.679,15.56," Hi Jessica, how you doing today?"
+SPEAKER_01,15.56,16.438, I'm okay.
+SPEAKER_00,17.111,17.458, You're okay?
+SPEAKER_01,17.642,17.866, Yes.
+SPEAKER_00,18.901,24.039, I understand you've been having some difficulty with some symptoms lately.
+SPEAKER_01,24.341,24.566, Yes.
+SPEAKER_00,25.441,25.965, Tell me about that.
+SPEAKER_01,30.144,35.554," Well, I've been having a lot of anxiety."
+SPEAKER_01,38.32,39.732, Just been stressed out lately.
+SPEAKER_01,40.701,41.246, Irritable.
+SPEAKER_01,42.8,44.17," You name it, I have it."
+SPEAKER_01,45.48,53.193, The thing that's been troubling me the most though are these memories that don't seem  to go away.
+SPEAKER_01,54.021,63.382," No matter what I do, I just keep remembering this event and it's really taken a toll on  me."
+SPEAKER_00,65.464,69.98, So you're having anxiety and a lot of other symptoms and you're having intrusive memories.
+SPEAKER_00,70.12,71.229, Can you tell me about the event?
+SPEAKER_01,73.442,82.829," Well, I was in a car accident a couple months ago and it was a pretty bad accident but I  was okay."
+SPEAKER_01,84.261,85.016, I was injured.
+SPEAKER_01,85.2,86.549, My car was messed up really bad.
+SPEAKER_01,88.28,94.686," The driver of the other car, I think they were injured pretty bad, more severe than  I was."
+SPEAKER_01,96.261,99.831, And I just can't seem to get that accident out of my mind.
+SPEAKER_00,102.72,105.28, Does it keep replaying that accident?
+SPEAKER_01,105.765,107.019," Yes, over and over."
+SPEAKER_00,107.542,110.876, Can you tell me about how you're experiencing that?
+SPEAKER_01,112.28,120.119," Well, I could be just in the kitchen making a pot of coffee and all of a sudden I'm back  there in the accident."
+SPEAKER_01,120.3,128.057, I'm back in the car with the airbags deployed and sirens coming from a distance.
+SPEAKER_01,130.102,133.037, I try to shake that feeling and I just can't.
+SPEAKER_01,133.56,137.52, And that just overwhelms me so much that I can't do anything.
+SPEAKER_01,137.58,144.896, I just have to go and sit down and I'm stuck in the house just scared to do anything.
+SPEAKER_00,146.6,157.205," So these times when you're reliving the accident, does something trigger that or does that happen  just on its own?"
+SPEAKER_01,159.68,163.579, Sometimes things trigger it and sometimes they just come out of nowhere.
+SPEAKER_01,163.96,177.935," I could be watching a movie and there's a bad car accident and I start thinking about  it or I could be just doing nothing and the memories, they just come back full force."
+SPEAKER_00,180.941,184.097, So this has been clearly causing you distress.
+SPEAKER_01,184.802,185.19, A lot.
+SPEAKER_00,185.68,188.418, Has it been interfering at all with relationships?
+SPEAKER_01,190.344,192.62," Well, yes, I would say."
+SPEAKER_01,194.449,196.559, I haven't been able to go out with my friends.
+SPEAKER_01,196.7,198.559, I just don't want to do anything.
+SPEAKER_01,199.262,205.66, My friends are always trying to get me to go out and get things off of my mind and I  just don't have a desire to.
+SPEAKER_01,205.801,207.875, I don't really want to be around anyone.
+SPEAKER_00,209.402,213.877, Do you find that your mood is irritable or any anger at first?
+SPEAKER_01,215.211,215.68, All the time.
+SPEAKER_00,216.109,216.68, That happens frequently?
+SPEAKER_01,216.68,217.517," Yeah, I'm on edge a lot."
+SPEAKER_00,221.107,225.259," Do you feel like your behavior has become reckless, like taking more chances?"
+SPEAKER_01,225.782,226.476, Somewhat.
+SPEAKER_00,226.782,227.394, Somewhat?
+SPEAKER_01,227.7,228.496, Yeah.
+SPEAKER_00,229.363,232.177, How about your memory of the accident?
+SPEAKER_00,232.68,241.58," Is it constant or does your memory change, like you lose some of that memory?"
+SPEAKER_01,242.7,251.588," Well, there are times when, where it's as clear as a bell and then other times people  ask me details about the accident and I can't remember a thing."
+SPEAKER_00,254.68,256.195, You can't remember any of it?
+SPEAKER_01,257.068,257.129, No.
+SPEAKER_00,257.68,257.843, No?
+SPEAKER_00,259.506,261.519, So the memory kind of comes and goes.
+SPEAKER_01,262.326,262.65," It does, yes."
+SPEAKER_00,263.72,265.728, Who do you hold responsible for the accident?
+SPEAKER_01,268.68,273.68," Well, everybody tells me that I shouldn't but I hold myself responsible for it."
+SPEAKER_01,273.7,276.933," I mean, I try to go in a different way, home from work one day."
+SPEAKER_01,278.72,290.015," It was a way that I've never gone before and, you know, somebody cut me off and I slammed  into them but if I didn't go that way, I would have never gotten into the car accident."
+SPEAKER_00,291.72,294.559, Did the other driver get a ticket from the accident?
+SPEAKER_01,294.762,295.333, I think he did.
+SPEAKER_01,297.224,302.64," I think he got a ticket for reckless driving or failure to yield or something but, I mean,"
+SPEAKER_01,302.76,306.358," if I wasn't on that road, then neither of us would have been in the accident."
+SPEAKER_00,307.165,308.074, So you still blame yourself?
+SPEAKER_01,308.68,309.047, Yeah.
+SPEAKER_00,310.203,312.64, How about your emotional state?
+SPEAKER_00,322.68,331.387," Since these symptoms have started, has it been mostly unhappy or down, neutral, anytime  when you're happy?"
+SPEAKER_01,332.68,334.734," No, nothing seems to make me happy anymore."
+SPEAKER_01,336.791,337.68, I'm just always depressed.
+SPEAKER_00,337.68,338.266, Your mood's always down.
+SPEAKER_01,339.68,339.843, Yeah.
+SPEAKER_00,347.808,349.64, How about with driving?
+SPEAKER_00,349.78,359.358," Like, so have you been avoiding driving or have you driven since the accident?"
+SPEAKER_01,361.606,363.68, I have but I don't if I don't have to.
+SPEAKER_01,364.402,375.459," Like, I definitely avoid going places like if I'm making dinner and I'm missing an ingredient,  then I'll just go without it before driving to the market."
+SPEAKER_01,375.68,378.796, I just I don't want to be behind the wheel of a car.
+SPEAKER_00,379.72,381.693, So you're avoiding it but you have driven.
+SPEAKER_01,382.986,383.66, I have.
+SPEAKER_00,383.68,385.25, Tell me about the experience when you go to drive.
+SPEAKER_01,386.823,387.353," Oh, boy."
+SPEAKER_01,387.9,398.738, So I have to almost prepare myself hours in advance because it's so hard for me to get out the house.
+SPEAKER_00,399.68,401.66, In terms of anxiety or what's going on?
+SPEAKER_01,401.68,402.496," Yeah, yeah."
+SPEAKER_01,402.68,407.58," I'm just having like knots in my stomach and, you know, shortness of breath."
+SPEAKER_01,408.145,409.579, My chest is pounding.
+SPEAKER_01,409.68,411.195, I'm just fearful.
+SPEAKER_01,411.68,415.957, Just it's a lot.
+SPEAKER_01,416.68,417.68, It's very overwhelming.
+SPEAKER_00,417.68,418.292, It's very stressful.
+SPEAKER_01,418.7,418.864, It is.
+SPEAKER_00,420.302,428.586, Do you find that when you are driving that you are more aware of what other cars are doing  and what you're doing in your car?
+SPEAKER_01,430.781,433.237," Yeah, probably more so now than ever."
+SPEAKER_01,434.121,439.118," I'm just always looking out, making sure that I don't cause another car accident."
+SPEAKER_01,439.862,440.993, I'm driving slower.
+SPEAKER_01,442.243,445.68," I'm, you know, I'm waiting longer to switch lanes."
+SPEAKER_01,445.74,448.519," It's just, yeah, definitely."
+SPEAKER_00,449.185,450.579, You're more aware of your surroundings.
+SPEAKER_01,450.801,451.165, Definitely.
+SPEAKER_00,453.422,461.359," So when something surprises us, there's a natural response or startled."
+SPEAKER_00,461.922,463.195, This is called a startled response.
+SPEAKER_00,463.882,464.731, And everybody has that.
+SPEAKER_00,465.941,470.012, Have you noticed that that's changed for you since these symptoms have started?
+SPEAKER_01,472.864,473.129, Yeah.
+SPEAKER_00,473.821,474.427, How's it changed?
+SPEAKER_01,476.496,476.66, Anything.
+SPEAKER_01,477.264,479.398, Everything startles me anymore.
+SPEAKER_01,479.68,485.64," The doorbell ringing, the phone ringing, just, you know, somebody getting up to move their chair."
+SPEAKER_01,485.861,491.399, Any little sound that just has me like looking over my shoulder to see what's going on.
+SPEAKER_00,491.68,492.68, And you find yourself jumping?
+SPEAKER_01,493.333,493.68," Yeah, a lot."
+SPEAKER_00,493.72,493.943, Okay.
+SPEAKER_00,496.367,497.68, How about your ability to concentrate?
+SPEAKER_00,497.961,499.147, Has that changed at all?
+SPEAKER_01,501.904,502.313, It has.
+SPEAKER_01,502.68,503.488, It decreased a lot.
+SPEAKER_01,504.68,506.68, I haven't really been able to concentrate on anything.
+SPEAKER_01,506.941,514.295, I have things all over my house where I've started things and moved on to something else because I can't concentrate on one thing.
+SPEAKER_00,516.802,517.639, All right.
+SPEAKER_00,517.781,519.412, How about sleeping?
+SPEAKER_00,521.244,522.029, How are you doing with sleep?
+SPEAKER_01,524.367,525.135, Not too good.
+SPEAKER_01,526.183,528.956, I'm not getting a lot of sleep at all these days.
+SPEAKER_01,530.021,533.312, I'm up all hours of the night sometimes.
+SPEAKER_01,535.88,537.263, I just wake up for no reason.
+SPEAKER_01,537.303,541.651,Sometimes I'll wake up out of a dream just scared.
+SPEAKER_01,541.871,544.175,I'm just... I'm not sleeping well at all.
+SPEAKER_00,547.387,547.65, All right.
+SPEAKER_00,547.67,548.559,So a lot of challenges with sleep.
+SPEAKER_01,548.76,549.283, Yes.
+SPEAKER_00,553.205,554.68, Do you use any drugs or alcohol?
+SPEAKER_01,554.68,554.721, No.
+SPEAKER_00,555.68,555.823, No?
+SPEAKER_00,555.864,556.68,How about medical problems?
+SPEAKER_01,556.68,556.884, Never.
+SPEAKER_00,557.983,558.751, I  like that.
+SPEAKER_00,560.74,569.111, Are there times from when these symptoms started when you feel kind of separated from your own body?
+SPEAKER_00,570.473,572.556,Like it's like an unreal experience?
+SPEAKER_01,576.143,578.257, I've had a couple experiences like that.
+SPEAKER_00,578.821,579.765, Can you tell me about those?
+SPEAKER_01,582.68,597.999," Well, there was one time I was at work and we were sitting in the cafeteria and just all of a sudden everything seemed to start going in slow motion."
+SPEAKER_01,599.201,606.648, And I could hear people talking but it sounded very slow.
+SPEAKER_01,606.748,617.68,"It was like, it's hard to describe but I could see everything but it just wasn't moving at a normal pace."
+SPEAKER_01,618.121,621.245, I kind of felt like I was watching a movie almost.
+SPEAKER_01,623.028,626.554,And that's happened at least two or three times.
+SPEAKER_01,628.417,630.58,And I didn't really understand what was going on.
+SPEAKER_01,633.024,643.66," A friend of mine told me, she said that I was kind of like spaced out and she was like snapping her fingers in front of my face and I could see her but I couldn't really hear what was going on."
+SPEAKER_01,644.84,646.904, And then I just like snapped out of it.
+SPEAKER_01,647.485,656.68,And everybody was sitting around staring at me and they were talking about what was going on and I had no idea what was happening.
+SPEAKER_01,657.483,659.168, But it was very embarrassing.
+SPEAKER_01,660.493,662.479,They were watching me like I was a movie.
+SPEAKER_00,666.084,667.66, This has happened a few times?
+SPEAKER_01,668.421,673.849," Yeah, in a couple different locations."
+SPEAKER_01,673.889,681.66,"One time I was at work, one time I was at school and these things just happened out of the blue."
+SPEAKER_00,684.603,691.11, How about a time when you felt like the world became unreal?
+SPEAKER_00,691.691,698.659,So you're not detached from your body but the world becomes unreal or dreamlike or distorted.
+SPEAKER_00,698.679,699.68,Have you ever had that happen?
+SPEAKER_01,699.821,699.862, No.
+SPEAKER_00,703.007,703.147, No?
+SPEAKER_00,703.228,705.64,"It's more being separated from your body, more that feeling?"
+SPEAKER_01,705.721,705.823, Yeah.
+SPEAKER_00,708.849,711.479, And you mentioned the time slowing down?
+SPEAKER_01,712.585,715.318," Yeah, very, like slow motion."
+SPEAKER_00,715.7,716.578, Slow motion?
+SPEAKER_01,716.72,720.35," Yeah, like you were watching a movie in slow motion."
+SPEAKER_01,720.391,723.68,The sound and everything was just dragging.
+SPEAKER_00,729.463,733.439," Jessica, I'm going to get you in to see a counselor here if you're okay with that."
+SPEAKER_01,734.163,736.277," Yes, I think that would be okay."
+SPEAKER_00,738.462,744.169, I appreciate you taking the time to explain these symptoms.
+SPEAKER_00,744.189,747.813,I know they're distressing for you and for taking the time to answer my questions.
+SPEAKER_00,747.893,753.38,It's been helpful for me to help figure out what's going on and help manage your care.
+SPEAKER_01,754.609,755.013, Thank you.
+SPEAKER_01,755.034,755.68,I appreciate your help.
+SPEAKER_00,755.823,756.17, Thanks.

@@ -1,0 +1,353 @@
+speaker,text,start,end
+SPEAKER_00," Hi Sam, how are you doing today?",14.839,15.56
+SPEAKER_01, Alright.,16.254,16.499
+SPEAKER_00, You doing alright?,16.927,17.458
+SPEAKER_01, Yeah.,17.601,17.887
+SPEAKER_00," I see that this is the first time you've come in, you've filled out some of the other paperwork.",19.423,24.359
+SPEAKER_01," Yeah, 20 of them.",24.843,26.034
+SPEAKER_00, A lot of pages?,26.824,27.477
+SPEAKER_01, Yeah.,27.701,28.273
+SPEAKER_00, How'd that go?,29.334,29.64
+SPEAKER_01," I mean I've seen that stuff before, but it wasn't too bad.",30.28,32.275
+SPEAKER_00, Nothing surprising in there?,32.96,34.112
+SPEAKER_01," No, pretty standard.",35.485,36.051
+SPEAKER_00, Pretty standard.,37.184,37.552
+SPEAKER_00, Nothing distressing?,37.96,38.96
+SPEAKER_01, Not yet.,39.001,39.776
+SPEAKER_00, Not yet?,40.103,40.429
+SPEAKER_00, Okay.,41.756,41.96
+SPEAKER_00, I'm going to ask you a series of questions as part of a process called intake.,42.08,49.437
+SPEAKER_00, So this document that I'll be making notes on will go in your chart and it'll help guide  your care for the time that you're with me.,50.9,61.414
+SPEAKER_01, Okay.,62.423,63.117
+SPEAKER_00, Alright?,63.607,64.096
+SPEAKER_00, So these questions are going to be more detailed and more emotionally oriented than a lot of  those questions that you were answering on the forms you filled out before.,64.28,77.556
+SPEAKER_01, Okay.,78.972,79.156
+SPEAKER_00, That was more like factual information that we need for insurance or record keeping.,79.36,85.538
+SPEAKER_00, This is more about you and what you've been going through.,86.32,88.735
+SPEAKER_01, Okay.,89.661,90.11
+SPEAKER_00, You comfortable with that?,90.661,91.6
+SPEAKER_01," Yeah, it's okay.",91.763,92.559
+SPEAKER_00, It's okay?,92.641,93.09
+SPEAKER_00, Alright.,93.886,94.049
+SPEAKER_00," If at any time you don't like one of the questions or you don't want to answer one of the questions,  just let me know and we'll just skip over that.",94.6,102.517
+SPEAKER_01," Okay, fair enough.",103.242,103.687
+SPEAKER_00, Alright.,105.714,105.939
+SPEAKER_00, So what brings you in today?,106.061,106.694
+SPEAKER_01, I brought myself in.,107.99,108.737
+SPEAKER_01, Things have just not been fantastic so I figured I might as well get some help.,111.146,116.0
+SPEAKER_01, Before it got worse.,116.282,116.948
+SPEAKER_00, Things haven't been fantastic?,118.48,119.46
+SPEAKER_01, Yeah.,119.909,120.235
+SPEAKER_00, And you're worried they're going to get worse?,121.648,122.735
+SPEAKER_01," Seems like it, yeah.",123.4,124.37
+SPEAKER_00, What would you say that your main problem is that motivates you to come in?,126.342,134.097
+SPEAKER_01, Probably my anxiety.,135.925,137.299
+SPEAKER_01, I'm just nervous about a lot of things a lot of the time and it's kind of trickling into  every area of my life now.,137.881,146.691
+SPEAKER_00, So anxiety?,147.64,148.15
+SPEAKER_01, Mm-hmm.,148.64,149.191
+SPEAKER_00, You said it's like a nervousness?,150.325,151.855
+SPEAKER_01," Yeah, just like nervousness about going places, nervousness about doing things or school or  work or you know graduating college.",152.64,160.04
+SPEAKER_01, Just kind of that whole stage and it's been like that for a while.,160.341,163.918
+SPEAKER_00, How long?,164.4,164.624
+SPEAKER_01, I can remember as far back as like 13 or 14 maybe.,166.905,169.112
+SPEAKER_00, How old are you now?,171.52,172.146
+SPEAKER_01,23,173.52,174.52
+SPEAKER_00, So this is around 10 years you've been coping with this?,174.52,177.52
+SPEAKER_01," Yeah, off and on, yeah.",177.54,178.631
+SPEAKER_00, Off and on?,179.724,180.071
+SPEAKER_01, Yeah.,180.969,181.112
+SPEAKER_00, So there's times when you're not anxious?,181.54,182.52
+SPEAKER_01, Not as bad.,182.54,183.193
+SPEAKER_01, I mean I'm still anxious but not as extreme or I don't deal with it in the same way.,184.062,187.955
+SPEAKER_00," If you were to rate your anxiety on a scale of 1 to 10 with 1 being really no anxiety  and 10 being the worst it's been in the last 10 years, how much anxiety do you have right",190.282,202.878
+SPEAKER_00, now?,203.52,203.581
+SPEAKER_01, I think a 6.,204.52,204.882
+SPEAKER_00, When was the last time you were a 10?,208.224,209.329
+SPEAKER_01, Last weekend?,211.842,212.648
+SPEAKER_00, When was the last time you were a 1?,215.626,216.59
+SPEAKER_01, I'm not really sure.,219.446,220.292
+SPEAKER_00, Approximately?,221.683,222.5
+SPEAKER_01, Maybe like a couple months ago when I was just hanging out with my friends.,222.68,230.097
+SPEAKER_01, We went out and we were partying a little bit and it was nice.,231.52,234.52
+SPEAKER_01, I wasn't too anxious.,234.621,236.278
+SPEAKER_00, About a couple months ago?,236.904,238.035
+SPEAKER_01, Yeah.,238.785,239.051
+SPEAKER_00, Okay.,239.561,239.806
+SPEAKER_00, So the anxiety is one problem.,241.626,244.52
+SPEAKER_00, Any other problems?,244.642,245.52
+SPEAKER_01, I don't think it's a huge problem but I have been drinking a lot.,245.54,251.259
+SPEAKER_01, But it helps with the anxiety but it makes going out and you know I'm more relaxed that  way.,252.223,256.826
+SPEAKER_01, But I can be kind of a compulsive person so once I start I keep going.,258.54,263.52
+SPEAKER_01, So it's not all the time.,263.56,265.48
+SPEAKER_01, It's just happening when I'm going out but I end up drinking too much.,265.52,269.359
+SPEAKER_00, So sometimes when you go out you drink more than you want to?,270.383,274.4
+SPEAKER_01, Yeah.,274.581,274.765
+SPEAKER_00, What happens then?,275.621,276.288
+SPEAKER_01, I make bad decisions or I get sick or the next morning I'm showing up hungover going  to class.,278.483,284.847
+SPEAKER_01, If I make class and you know it's fun for the time being but it's not fun afterwards.,285.52,293.478
+SPEAKER_00, So the consequences of drinking in the longer run.,294.741,297.716
+SPEAKER_00, You're not too fond of those but in the short run.,299.245,300.997
+SPEAKER_01, Yeah.,302.275,302.52
+SPEAKER_01, It helps in the moment.,302.721,304.108
+SPEAKER_00, So you want the anxiety to be lessened.,306.52,309.52
+SPEAKER_00, Do you want the drinking to be lessened?,310.164,311.574
+SPEAKER_01, Probably.,312.826,313.275
+SPEAKER_01, Yeah.,314.336,314.52
+SPEAKER_01, I mean I'd like to still have fun in college but I would like to not be like blacking out  or being able to stop would be nice.,314.801,322.379
+SPEAKER_00, Is that what happens now?,322.561,323.52
+SPEAKER_00, You black out?,323.683,324.52
+SPEAKER_01, Occasionally.,324.969,325.398
+SPEAKER_01, Not every time but sometimes.,325.785,326.52
+SPEAKER_00, Sometimes?,326.622,327.01
+SPEAKER_01, Yeah.,327.561,327.785
+SPEAKER_00, Do you remember the last time you blacked out?,328.621,329.954
+SPEAKER_01, Maybe a month ago.,330.842,333.5
+SPEAKER_00, Month ago?,333.724,334.296
+SPEAKER_01, Yeah.,334.663,334.867
+SPEAKER_01, It's not all the time though.,338.247,339.278
+SPEAKER_00, What age did you start drinking?,340.346,341.594
+SPEAKER_01,14,342.52,343.52
+SPEAKER_00, 14?,343.52,344.52
+SPEAKER_01, Yeah.,344.847,345.051
+SPEAKER_00, Alright.,347.54,348.214
+SPEAKER_00, Any other problems?,348.581,349.377
+SPEAKER_00,You have anxiety,349.52,350.357
+SPEAKER_00,You have drinking alcohol,351.124,353.097
+SPEAKER_00, Any other problems?,354.288,354.853
+SPEAKER_01, I don't think so.,356.55,357.257
+SPEAKER_00, So those are the two main things that are bothering you.,357.882,361.399
+SPEAKER_01, Yeah.,361.54,361.908
+SPEAKER_00, Okay.,362.581,363.255
+SPEAKER_00, Alright.,366.316,366.52
+SPEAKER_00, So I want to ask you some questions about your history.,366.821,371.52
+SPEAKER_01, Okay.,372.193,372.418
+SPEAKER_00, Alright.,372.724,373.01
+SPEAKER_00, And I'm going to try to divide this up into different areas and just kind of move from  one area to the next.,373.902,379.5
+SPEAKER_00, There will be some overlap.,379.52,380.52
+SPEAKER_01, Okay.,380.642,380.969
+SPEAKER_00, So if I ask you the same question more than once it's just kind of part of that overlap  that occurs.,382.303,387.418
+SPEAKER_00, First I'd like to cover your family history.,389.95,392.5
+SPEAKER_00, So can you tell me about your immediate family?,393.688,395.359
+SPEAKER_01, I have one sister.,396.803,398.338
+SPEAKER_01, Mom and dad.,401.146,401.712
+SPEAKER_01, Pretty typical.,403.409,403.934
+SPEAKER_01, My sister is really successful.,407.025,408.5
+SPEAKER_01, She's a doctor.,409.985,410.712
+SPEAKER_01, Though are my parents really successful too.,411.882,413.976
+SPEAKER_01, So basic family.,415.611,416.217
+SPEAKER_00, Alright.,417.928,418.234
+SPEAKER_00, What type of relationship do you have with your sister?,418.52,421.816
+SPEAKER_01," Kind of like a Merry Christmas, Happy Easter type of relationship.",423.56,427.556
+SPEAKER_01, We're more like acquaintances than we are siblings.,429.264,432.52
+SPEAKER_00, Would you describe it as distant?,433.449,434.52
+SPEAKER_01," Yeah, I'd say so.",434.52,435.52
+SPEAKER_01, I mean we're nice.,435.826,436.418
+SPEAKER_01," We're not like, but we're not going to be like involved in each other's lives really.",437.042,441.697
+SPEAKER_00, Do you know what caused the relationship to end up that way?,443.182,447.416
+SPEAKER_01, I don't know.,450.449,450.853
+SPEAKER_01, She was always kind of the ideal child.,452.944,454.5
+SPEAKER_01, She went and did everything that she was supposed to do and it was easy for her.,454.58,457.897
+SPEAKER_01, So constantly being compared to that doesn't really foster a great relationship.,460.52,464.737
+SPEAKER_00, Who compared you to your sister?,465.884,467.136
+SPEAKER_01, My dad usually.,468.985,469.934
+SPEAKER_01, Sometimes my mom.,472.126,472.914
+SPEAKER_01, Depends on the day.,473.54,474.132
+SPEAKER_00," Was this a frequent occurrence, the comparison?",475.783,477.52
+SPEAKER_01," Yeah, for sure.",478.328,479.459
+SPEAKER_00, Do you feel like it had an impact on you?,480.803,482.278
+SPEAKER_01, Probably.,483.847,484.255
+SPEAKER_01," It wasn't like I wasn't trying, but not everything can be as easy as it is for some people.",486.822,490.5
+SPEAKER_01, So a little acknowledgement might be nice.,490.922,494.239
+SPEAKER_00," Alright, so let's move out a little further.",497.005,498.52
+SPEAKER_00," So you talked about your mother, your father, your sister.",498.56,503.436
+SPEAKER_00,Any other siblings?,503.497,504.159
+SPEAKER_01, No.,505.112,505.193
+SPEAKER_00, How about grandparents?,505.641,506.874
+SPEAKER_01, They're around.,509.54,510.03
+SPEAKER_01," Typical grandparents, not super involved, but they're there sometimes.",512.244,514.877
+SPEAKER_00, Good relationship?,516.227,517.015
+SPEAKER_01," Yeah, I mean, you know, grandparents show up and it's always like,  hi, how's it going?",517.862,522.112
+SPEAKER_01, And you see them at the next holiday type of thing.,523.023,525.359
+SPEAKER_00," Alright, so there's not one grandparent you're particularly close to?",526.52,529.48
+SPEAKER_01, I do have one grandfather I talk to on a more personal level than I would my other ones.,531.002,536.38
+SPEAKER_01, But that's gotten more distant in the past couple of years.,537.304,539.957
+SPEAKER_00," How about aunts, uncles, cousins?",544.023,547.138
+SPEAKER_01, I have a couple of cousins that I would hang out with or I'll see out when I'm hanging out with my friends or whatever.,548.464,552.46
+SPEAKER_01, So we'll hang out if we run into each other.,554.426,556.017
+SPEAKER_01, Aunts and uncles I do have.,557.781,559.187
+SPEAKER_01,"They're not super involved either, but everybody's cordial.",559.207,562.138
+SPEAKER_00, Everybody's cordial?,562.904,564.156
+SPEAKER_01," Yeah, nice when they see you type of thing.",564.641,566.379
+SPEAKER_00, Alright.,568.296,568.52
+SPEAKER_00," So when's the last time you spoke, say for example, with one of your cousins?",572.661,577.46
+SPEAKER_01," I think I ran into one of them only two weeks ago, or just out.",578.801,582.419
+SPEAKER_00, A couple weeks ago?,582.561,583.255
+SPEAKER_00, Yeah.,583.642,583.969
+SPEAKER_00, Alright.,585.826,586.357
+SPEAKER_00," Do any of the relatives that you mentioned, are any of them aware of your anxiety and or your drinking?",587.222,594.36
+SPEAKER_01, My parents are.,595.173,595.5
+SPEAKER_01, Yeah.,595.52,595.744
+SPEAKER_00, Nobody else?,598.908,599.336
+SPEAKER_01, My sister knows about the anxiety part of it.,599.742,601.459
+SPEAKER_01," And I think, I'm pretty sure she knows about the drinking, but she doesn't bring it up.",602.761,606.48
+SPEAKER_01," But if my parents know, I'm sure she knows.",608.386,610.359
+SPEAKER_00, Hmm.,611.602,611.765
+SPEAKER_00, So you believe that they told her?,613.56,615.48
+SPEAKER_01, I'm sure.,615.867,616.153
+SPEAKER_01, Yeah.,616.806,616.908
+SPEAKER_00, But she's not mentioned that to you directly?,619.54,620.995
+SPEAKER_01," No, we don't have those types of conversations.",621.981,624.947
+SPEAKER_01,"It's more like, oh, she messed up again, and it's just sort of like this funny thing and then they move on.",625.007,630.799
+SPEAKER_00, Hmm.,632.724,632.928
+SPEAKER_00, Alright.,633.561,634.03
+SPEAKER_00, So you see this bothers you?,635.661,636.732
+SPEAKER_01, Yeah.,637.949,638.132
+SPEAKER_01, It's annoying.,638.622,639.52
+SPEAKER_01, Yeah.,640.602,640.785
+SPEAKER_00," Some of these topics that we're going to touch on in this intake, we can talk about in greater detail later on.",645.121,653.48
+SPEAKER_01, Okay.,653.52,653.602
+SPEAKER_00," Alright, so, and maybe your relationship with your mother and father and your sister would be topics we could touch on later on, maybe not, but I want to let you know that we can come back to anything and review it.",654.62,667.52
+SPEAKER_01, Okay.,667.785,667.949
+SPEAKER_00, Alright.,668.52,668.704
+SPEAKER_00, So I want to move kind of out of family history a bit and through to social relationships.,670.442,677.52
+SPEAKER_01, Okay.,677.52,677.602
+SPEAKER_00, Alright.,678.641,679.025
+SPEAKER_00,"Again, it's kind of similar, a little bit of overlap here.",679.045,680.5
+SPEAKER_00," Can you tell me about any romantic interests, friends, anything like that?",682.122,687.339
+SPEAKER_01," Yeah, I have a guy I've been seeing for like six months, so it's pretty serious for college.",687.721,692.46
+SPEAKER_00, Okay.,693.071,693.336
+SPEAKER_01," And some of my college friends I'm really close with, so they're there with me for a lot.",694.801,698.48
+SPEAKER_00, About how many?,699.561,700.52
+SPEAKER_01, There's three girls that I'm super close with.,702.227,703.439
+SPEAKER_00, Mm-hmm.,703.52,703.826
+SPEAKER_01," And, you know, college, there's a lot of people I'm acquaintances with or I'll see or talk to in class or whatever, but those three girls are kind of the ones I would go to if I needed something.",705.602,713.52
+SPEAKER_00, Alright.,716.683,717.296
+SPEAKER_00, And then you have some other friends that you're not as close to?,718.205,720.48
+SPEAKER_01, Yeah.,720.72,721.021
+SPEAKER_01,"I mean, we're nice and we have fun and, you know, I'm sure if something happened they would bail me out, but they're not like people I'm going to talk to about my problems or anything like that.",721.181,729.179
+SPEAKER_00, Do they know about your problems?,729.823,730.833
+SPEAKER_01, I don't know.,733.725,734.226
+SPEAKER_01,"I guess you could know, like, when I show up to class if I'm over, but I'm sure I'm not the only one doing that, so.",734.928,740.079
+SPEAKER_00," And how about the guy you've seen for six months, does he know about your problems?",742.801,746.319
+SPEAKER_01," Somewhat, yeah.",747.201,747.962
+SPEAKER_01,"He knows about, definitely knows about the anxiety and he's with me a lot when I go out, so if something does happen he's usually helping me out or making sure I get home or whatever.",748.363,758.5
+SPEAKER_00, So he's supportive?,759.785,760.52
+SPEAKER_01," Yeah, really supportive.",761.724,762.459
+SPEAKER_00, Alright.,764.744,765.112
+SPEAKER_00," So some of the questions I'm going to ask you, this gives me a good opportunity to talk about this, I probably could guess the answer to, but I still want to ask, not be presumptuous.",768.163,777.5
+SPEAKER_01, Okay.,777.765,778.01
+SPEAKER_00, Do you have any children?,778.908,779.52
+SPEAKER_01, No.,780.357,780.459
+SPEAKER_00," Okay, how about nieces or nephews?",786.813,787.52
+SPEAKER_01, No.,787.54,787.683
+SPEAKER_00, No.,789.112,789.234
+SPEAKER_00, Any other social relationships that I've missed here that are important to you?,794.304,797.5
+SPEAKER_01," I don't think so, those are the main ones right now.",799.688,801.439
+SPEAKER_00, Yeah?,801.744,801.969
+SPEAKER_00," Alright, she said you were 23.",808.166,809.217
+SPEAKER_01, Mm-hmm.,809.581,809.785
+SPEAKER_00, I'm going to ask you some questions about your medical history.,811.324,814.52
+SPEAKER_01, Okay.,815.214,815.479
+SPEAKER_00, Have you had any surgeries in your lifetime?,819.164,821.419
+SPEAKER_01, I got my appendix removed.,822.683,823.5
+SPEAKER_00, Appendix removed?,824.561,825.214
+SPEAKER_01, Yeah.,825.602,826.132
+SPEAKER_00, Any other serious medical conditions?,828.386,830.399
+SPEAKER_01," No, I've had my wisdom teeth taken out.",831.561,832.52
+SPEAKER_00, Wisdom teeth extracted?,833.52,834.418
+SPEAKER_01, Yeah.,834.704,834.887
+SPEAKER_00, Are you on any medications for physical problems?,840.525,843.319
+SPEAKER_01, No.,843.826,844.091
+SPEAKER_00, Okay.,844.561,844.663
+SPEAKER_00, Alright.,849.54,850.377
+SPEAKER_00, How about your activity level?,855.627,856.835
+SPEAKER_00,Do you stay fairly active?,856.856,857.5
+SPEAKER_01," Yeah, I try to.",857.52,858.336
+SPEAKER_00, Yeah?,858.642,858.847
+SPEAKER_01," I go to the gym like twice a week or whatever, and I go to yoga sometimes, so yeah, I try to get out.",860.783,867.319
+SPEAKER_00, Alright.,868.867,869.418
+SPEAKER_00, So you consider yourself an active person?,871.601,873.52
+SPEAKER_01," Yeah, I try to be in between classes and everything else, but when I do have the time, I enjoy going out and doing things.",873.881,879.798
+SPEAKER_00, Okay.,880.58,881.406
+SPEAKER_00,Would you generally say you're in good health then?,881.426,883.439
+SPEAKER_01," Yeah, physically, yeah.",884.52,885.438
+SPEAKER_00, Physically?,888.153,888.418
+SPEAKER_01, Yeah.,888.663,888.969
+SPEAKER_00, Alright.,893.234,893.52
+SPEAKER_00," No other illnesses, surgeries, procedures, with no?",894.224,897.52
+SPEAKER_01, No.,898.051,898.153
+SPEAKER_00, Alright.,898.622,898.867
+SPEAKER_00, Alright.,899.52,899.683
+SPEAKER_00, So I want to shift gears a little bit again and now talk about psychiatric history.,902.162,907.38
+SPEAKER_01, Okay.,907.683,907.826
+SPEAKER_00, Alright.,908.54,909.193
+SPEAKER_00," And what I'm getting at here is kind of a history of any diagnoses, medications, other times have been treated by a counselor or somebody like a counselor.",910.841,918.52
+SPEAKER_00, Let's start with medications.,919.621,922.234
+SPEAKER_00,Are you on any medications?,922.254,923.239
+SPEAKER_01, No.,924.153,924.336
+SPEAKER_00, Mental health?,924.52,925.071
+SPEAKER_01,No?,925.255,925.316
+SPEAKER_00, How about history of diagnoses?,932.707,935.115
+SPEAKER_00,Have you ever been diagnosed with a mental health condition?,935.216,936.52
+SPEAKER_01," Yeah, I was.",936.801,939.41
+SPEAKER_01,I was seeing a therapist before a couple years ago.,940.232,942.52
+SPEAKER_00, Mm-hmm.,942.826,943.255
+SPEAKER_01, And I saw him a couple of times and I think he said I had some sort of anxiety disorder or something.,943.942,948.44
+SPEAKER_00, Do you remember specifically what he said?,948.56,950.5
+SPEAKER_01, Something more general.,950.601,952.399
+SPEAKER_01," So, like it wasn't about any particular thing.",955.889,957.46
+SPEAKER_00, Mm-hmm.,957.704,958.03
+SPEAKER_01, So I saw him for a little while but I just really wasn't on board with local therapy at that point and I didn't think it was going to help.,960.325,965.239
+SPEAKER_00," How old were you, yourself?",965.762,967.318
+SPEAKER_01, 15 or 16.,967.642,967.765
+SPEAKER_01,15,968.52,969.52
+SPEAKER_01, Yeah.,969.744,969.908
+SPEAKER_00," Alright, so and that was a counselor?",972.49,973.459
+SPEAKER_01, Yeah.,973.54,973.663
+SPEAKER_00, Yeah?,975.377,975.52
+SPEAKER_01, Yeah.,975.561,975.683
+SPEAKER_00," Alright, so you saw the counselor.",978.262,979.567
+SPEAKER_00,The counselor indicated you had some type of anxiety disorder.,979.587,983.5
+SPEAKER_01, Yeah.,983.52,983.622
+SPEAKER_00, Do you feel that was a fair assessment?,987.211,988.52
+SPEAKER_01, I think so.,988.54,988.908
+SPEAKER_01, Yeah.,989.928,990.091
+SPEAKER_00, And how long did you see the counselor?,991.56,993.52
+SPEAKER_01, I think about five or six times maybe.,993.721,996.359
+SPEAKER_00, Five or six sessions?,996.641,997.409
+SPEAKER_01, Yeah.,998.52,998.602
+SPEAKER_00, And why did you discontinue the treatment?,1003.52,1005.52
+SPEAKER_01, I don't know.,1008.225,1009.829
+SPEAKER_01,I just didn't really feel like I was really involved in it and it felt like it was more a waste of my time and his.,1009.85,1013.52
+SPEAKER_01, I wasn't ready.,1013.52,1013.887
+SPEAKER_01, I don't know that I was super on board with the whole anxiety thing at that point.,1014.721,1019.46
+SPEAKER_01, I mean he was nice.,1019.58,1020.424
+SPEAKER_01,There wasn't like an issue with him.,1020.444,1022.572
+SPEAKER_01,"I just don't, I wasn't there.",1022.592,1023.918
+SPEAKER_00, And you mentioned at that time about the drinking?,1028.352,1029.5
+SPEAKER_01, I think I brought it up but I didn't really see it as an issue then.,1030.6,1034.419
+SPEAKER_00, Alright.,1037.336,1037.5
+SPEAKER_00," How about other mental health professionals like a psychiatrist, a psychologist, a marriage and family therapist?",1039.385,1044.46
+SPEAKER_01, My parents told me to see a psychiatrist like maybe once or twice but didn't really stick with that either.,1044.6,1050.4
+SPEAKER_00, You weren't prescribed any medication?,1051.661,1052.874
+SPEAKER_01, No.,1054.091,1054.132
+SPEAKER_00, And what do you think happened there that you didn't stick with that?,1054.54,1057.52
+SPEAKER_01, I think kind of the same thing.,1057.54,1058.643
+SPEAKER_01,I knew that obviously there was something going on but I don't think I was ready to deal with it.,1058.663,1064.44
+SPEAKER_01, And I kind of felt like I had it under control at that point.,1066.52,1069.218
+SPEAKER_00, Can you tell me about when you saw the psychiatrist in relation to when you saw the counselor?,1070.681,1074.857
+SPEAKER_01, It was all within that same time period.,1075.52,1077.096
+SPEAKER_01, I think I saw the counselor first and then maybe the psychiatrist like a week or two later and then followed up with the counselor but I just wasn't really present during any of it.,1077.52,1087.514
+SPEAKER_00, Do you feel you're in a different state of mind now?,1093.661,1095.318
+SPEAKER_01," Yeah, I think so.",1096.409,1097.52
+SPEAKER_00, Tell me about that.,1097.52,1098.255
+SPEAKER_01, I realize now that I'm not handling it like I thought I was and it's affecting other areas of my life.,1098.52,1104.48
+SPEAKER_01," And you know in my senior year of college I need to get my life together and I'm not really doing that too often, so I think it's time to figure something out.",1105.64,1119.46
+SPEAKER_00," Alright, so you feel like you're ready to commit the treatment a little more vigorously at this point?",1120.602,1130.257
+SPEAKER_01," Yeah, I want the help now.",1132.843,1134.419
+SPEAKER_00, And back then?,1134.561,1135.255
+SPEAKER_01, No.,1135.683,1135.826
+SPEAKER_00, No? Okay.,1136.561,1137.357
+SPEAKER_00, And no other treatment providers?,1138.601,1140.48
+SPEAKER_01," No, just those.",1140.52,1140.785
+SPEAKER_00," Okay, just those two.",1141.661,1142.631

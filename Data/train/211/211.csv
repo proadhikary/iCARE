@@ -1,0 +1,134 @@
+speaker,start,end,text
+SPEAKER_01,63.189,63.731, Come in.
+SPEAKER_00,74.84,75.121," Hi, Ms."
+SPEAKER_00,75.162,75.523,Jones.
+SPEAKER_01,75.563,75.804,Yes.
+SPEAKER_00,76.025,76.628,I'm Jane Crohn.
+SPEAKER_00,76.648,78.455,I'm a medical student with the University here.
+SPEAKER_01,78.475,79.018,Nice to meet you.
+SPEAKER_00,79.66,84.164, I've been sent in by Dr. Smith as part of our training as a medical student to do an  interview with you.
+SPEAKER_01,84.184,84.526,Okay.
+SPEAKER_00,84.586,89.409,And then I'll take that information back to Dr. Smith  and then she will come back in and see you then after that.
+SPEAKER_01,89.429,89.67,Okay.
+SPEAKER_00,90.012,90.253,Alright.
+SPEAKER_00,90.554,91.397,How may I address you?
+SPEAKER_01,92.503,93.551, Mrs. Jones is fine.
+SPEAKER_00,93.712,93.913,Alright.
+SPEAKER_01,93.974,94.276,Thank you.
+SPEAKER_00,95.583,96.948, Is that okay with you today to talk?
+SPEAKER_01,97.088,97.991,"Yes, that would be fine."
+SPEAKER_00,98.071,98.413,Thank you.
+SPEAKER_00,100.56,104.604, I'm going to start out today by just talking a little bit with you about your chief  complaint.
+SPEAKER_00,104.624,105.654,What brings you here today?
+SPEAKER_01,105.674,105.816,Sure.
+SPEAKER_01,106.522,108.677, My left elbow has actually been bugging me a lot.
+SPEAKER_01,109.463,115.188," Every once in a while I've been getting a little bit of pain,  extending my arm  and going back to bending it."
+SPEAKER_01,116.88,118.555, Really that's the primary reason I've come in.
+SPEAKER_01,118.615,123.216,I've  attempted to take a little bit of Tylenol to relieve the pain but it's not really seeming to help much.
+SPEAKER_00,124.32,129.885," Before we talk a little bit more about that, is there anything else that you want to talk with  either me or Dr. Smith today?"
+SPEAKER_01,129.925,130.849,"Not that I can think of, no."
+SPEAKER_00,130.869,130.969,Okay.
+SPEAKER_00,134.2,135.231, Tell me more about this pain.
+SPEAKER_01,136.823,138.429, It's just kind of a throbbing pain.
+SPEAKER_01,138.549,140.878,It'll act up kind of randomly throughout the day.
+SPEAKER_01,142.183,147.551, It's not specific to the morning or evening  or even in the middle of the day or night.
+SPEAKER_01,148.84,150.146, It just kind of randomly acts up.
+SPEAKER_01,150.689,153.504,"I would say excessively like when I'm doing work, like after the  dishes."
+SPEAKER_01,155.04,156.144, It'll start to act up.
+SPEAKER_01,156.224,159.757,"If I lift one of my children up, it'll start to act up."
+SPEAKER_01,160.52,164.638, Any sort of exertion is kind of where I've noticed a lot of the pain coming from.
+SPEAKER_00,165.182,166.515, Tell me when did it start for you?
+SPEAKER_01,167.401,169.969, I would say maybe a week and a half to two weeks ago.
+SPEAKER_00,173.301,174.829, You describe the pain as throbbing.
+SPEAKER_00,174.849,178.872,Is there anything else about the pain in terms of the  quality of the pain that you want to describe for me?
+SPEAKER_01,178.913,179.053,No.
+SPEAKER_01,180.24,181.125, Just really throbbing.
+SPEAKER_00,181.145,181.225,Okay.
+SPEAKER_01,181.567,183.517,It started about a week or two weeks ago.
+SPEAKER_00,184.804,187.218, Do you recall what you were doing at the time that it started?
+SPEAKER_01,188.082,191.877, I've been helping my husband clean out the garage lately and we were lifting some boxes.
+SPEAKER_01,193.163,197.406, I didn't notice it at the moment but later in the evening  it started to act up.
+SPEAKER_00,199.922,203.82, I would like to hear a little bit about the severity of it on a pain scale of 1 to 10.
+SPEAKER_00,204.283,205.937, 10 being the worst pain you've ever had.
+SPEAKER_00,206.582,207.651, 1 or 0 being no pain.
+SPEAKER_00,209.265,210.155, How bad is this pain?
+SPEAKER_01,211.122,212.708, I would measure it probably about a 6 or 7.
+SPEAKER_01,214.234,217.186,It's become more of a nuisance  than an actual physical pain.
+SPEAKER_00,220.882,222.435, And is it a 6 or 7 all the time?
+SPEAKER_01,224.184,225.59," Whenever it starts to act up, yes."
+SPEAKER_00,228.321,229.715, And how often a day does that happen?
+SPEAKER_01,230.28,232.171, I would say maybe 2 to 3 times per day.
+SPEAKER_00,233.88,235.527, Do you notice any pattern to that at all?
+SPEAKER_01,236.089,236.19,No.
+SPEAKER_00,238.72,242.377," And can you point exactly to where it is for me, the location of it exactly?"
+SPEAKER_01,242.92,247.768, It's kind of the area that just wraps around the actual elbow  that is really bothering me.
+SPEAKER_00,249.88,253.659, And does that pain go up your arm or down your arm or anywhere else on your arm?
+SPEAKER_01,253.88,255.244," No, it stays right in that area."
+SPEAKER_00,263.44,265.694, Is there anything else that goes on at the same time?
+SPEAKER_00,266.7,268.17, Any other symptoms that happen?
+SPEAKER_00,268.23,270.582,Anything else other than when the pain is  happening there?
+SPEAKER_00,270.662,271.966,Anything else going on for you?
+SPEAKER_01,271.986,273.43,"Not that I've noticed, no."
+SPEAKER_00,277.721,279.352, Is there anything that makes it feel better?
+SPEAKER_01,281.2,283.43, Nothing that completely gets rid of it.
+SPEAKER_01,283.47,289.333,"Tylenol will relieve it for a temporary  period of time, but it hasn't gotten rid of it."
+SPEAKER_00,291.202,292.478, And how much Tylenol do you take?
+SPEAKER_01,293.585,296.48," Whatever it says on the bottle, usually 1 to 2 tablets."
+SPEAKER_00,296.58,298.45, And is that regular strength or extra strength?
+SPEAKER_01,298.51,299.153,Regular strength.
+SPEAKER_00,300.52,303.593," And you just take it across the counter, the normal directions on the bottle?"
+SPEAKER_01,303.693,303.995,Correct.
+SPEAKER_00,305.421,306.772, And does anything make it worse?
+SPEAKER_01,308.56,310.152," Like I mentioned, any sort of exertion."
+SPEAKER_01,311.2,313.011," Picking up a child, doing the dishes."
+SPEAKER_01,314.48,316.125, Pretty much daily living activities.
+SPEAKER_00,316.145,316.767,So using it?
+SPEAKER_01,317.209,317.409,Yes.
+SPEAKER_00,320.68,322.433, Have you seen anybody else for this complaint?
+SPEAKER_01,322.453,322.876,No.
+SPEAKER_00,323.701,327.7, What else have you tried other than the Tylenol and anything else other than Tylenol?
+SPEAKER_01,328.403,331.676, I've attempted to use a heating pad on it and I've also attempted ice.
+SPEAKER_01,332.922,333.933, Neither were successful.
+SPEAKER_00,338.002,344.007," It sounds you've talked a little bit about how it's impacted you to be able to work in the garage,  or do the dishes, or lift your child."
+SPEAKER_00,344.067,346.117,Is there other impact on your life?
+SPEAKER_01,347.485,349.135," Like I mentioned, it's more of a nuisance."
+SPEAKER_01,350.061,352.96, There will be times in the middle of the night that it will start to act up.
+SPEAKER_01,353.04,356.279," If I get up to go to the bathroom, I'll notice pain in my elbow."
+SPEAKER_00,356.561,357.526, Does it wake you at night?
+SPEAKER_01,358.109,363.336,"It doesn't, but if I wake up in the middle of the night,  it will trouble me and fall back asleep."
+SPEAKER_00,366.585,367.251, What do you think it is?
+SPEAKER_01,368.562,369.465, I'm not quite sure.
+SPEAKER_01,369.546,372.377,My best guess is maybe some sort of pulled muscle or something.
+SPEAKER_01,373.645,374.615," But honestly, I don't know."
+SPEAKER_00,377.381,377.702, Alright.
+SPEAKER_00,378.725,382.598,What I'd like to do now is just kind of go through all the things that you've told me and summarized for you.
+SPEAKER_00,383.12,386.06," This is information that I want to take back, but I want to make sure that I have it all correct."
+SPEAKER_00,386.522,389.758," So if I've forgotten something or I've gotten something incorrect, please help me."
+SPEAKER_01,390.447,390.691, Okay.
+SPEAKER_00,391.603,394.12, You came to the clinic today for a complaint of left elbow pain.
+SPEAKER_00,394.361,399.12, And it's pain that you mostly noticed when you were bending it or using it in some capacity.
+SPEAKER_00,399.561,405.08," It's a throbbing pain that happens randomly, but it does happen two to three times during the day."
+SPEAKER_00,405.963,411.1," What you notice about it is if you exert or you extend or flex your elbow at all, that's when it seems to be at its worst."
+SPEAKER_00,411.2,414.999," It's gone on for about a week, maybe to two weeks when you think back on it."
+SPEAKER_00,415.361,419.1, And it started out when you were helping your husband clean the garage and you were lifting lots of boxes.
+SPEAKER_00,419.885,422.019, It's about a six to seven on a pain scale.
+SPEAKER_00,422.481,428.12," And you describe it over and over as being a nuisance, which tells me that it's getting kind of in the way of doing some things that you want to."
+SPEAKER_00,429.464,435.12, You report that it happens probably two to three times a day and that the pain wraps around the joint completely.
+SPEAKER_00,436.006,438.12, You've taken some Tylenol for it across the counter.
+SPEAKER_00,438.743,442.1," You've taken that several times a day, not without much relief."
+SPEAKER_01,442.447,442.753, Right.
+SPEAKER_00,443.181,443.977, That it hasn't helped much.
+SPEAKER_00,444.12,444.964, You've tried a heating pad.
+SPEAKER_00,445.004,445.909,You've tried some ice.
+SPEAKER_00,446.291,447.959,That hasn't really helped either too much.
+SPEAKER_00,448.922,454.558," It sounds like, again, you kept referring to it as a nuisance, that it's just kind of getting in the way of your daily activities."
+SPEAKER_00,455.14,459.12," It doesn't necessarily keep you up at night, but you do notice it at night when you wake up that it's still going on for you."
+SPEAKER_00,459.665,461.12, So sleep doesn't seem to help much.
+SPEAKER_01,461.14,461.283, Right.
+SPEAKER_00,462.12,464.878, And that what you mostly think this could be is a pulled muscle of some type.
+SPEAKER_00,465.763,468.557, Is there anything I've forgotten or that you wanted to tell me about this?
+SPEAKER_01,469.12,469.998," Not that I can think of, no."
+SPEAKER_00,470.222,471.018, All right.
+SPEAKER_00,471.12,472.999, Thank you for telling me about your chief concern.
+SPEAKER_00,473.322,474.777, I'm going to take it back to Dr. Smith.
+SPEAKER_01,475.14,475.896, Thank you very much.

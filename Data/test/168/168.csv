@@ -1,0 +1,174 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.381, How you doing today?
+SPEAKER_01,7.0,7.382, I'm doing all right.
+SPEAKER_00,14.271,14.935, Doing all right?
+SPEAKER_01,16.161,16.241, Yeah.
+SPEAKER_01,16.261,18.915,I'm feeling a little bit better.
+SPEAKER_00,20.241,21.124, Feeling a little better?
+SPEAKER_00,21.145,23.896,I know you've been down for a while.
+SPEAKER_00,23.916,24.277,What's going on?
+SPEAKER_01,25.742,29.836, I just feel like everything's going to be okay.
+SPEAKER_00,31.421,39.354," This is unusual for you because usually you come and talk to me, cut down, depressed."
+SPEAKER_00,39.374,40.476,Something changed recently?
+SPEAKER_01,43.422,47.9, I just feel like I've found the solution and I know what I'm going to do.
+SPEAKER_01,49.164,53.398, I'm not really worried about my depression so I guess I'm feeling a little bit better about it.
+SPEAKER_00,54.423,56.255, Can you tell me about the solution you found for depression?
+SPEAKER_01,57.12,59.265, Yeah.
+SPEAKER_01,59.325,60.828,I know we've talked about it before.
+SPEAKER_01,60.848,65.938,I think that I'm going to commit suicide.
+SPEAKER_00,67.443,68.349, You want to commit suicide?
+SPEAKER_00,68.369,69.215,Do you know how you did that?
+SPEAKER_01,70.0,70.08, Yeah.
+SPEAKER_01,70.12,74.252,I have some pills in my house in the medicine cabinet and I'm going to take those.
+SPEAKER_00,77.06,77.906, When do you plan on doing this?
+SPEAKER_01,80.0,81.648, Probably a couple days from now.
+SPEAKER_01,81.709,83.015,I have some things to get in order.
+SPEAKER_01,84.02,90.599, I want to arrange things and make sure that everything's in order and then I'll do it.
+SPEAKER_00,91.04,92.778, What kind of things do you need to arrange?
+SPEAKER_01,93.462,98.699," I want to make sure that all the documents my husband's going to need, that they're in a place that he can find them."
+SPEAKER_01,99.401,103.495, I'm not going to tell him but I don't want to make things more difficult for him.
+SPEAKER_01,105.14,107.125, Just that kind of thing.
+SPEAKER_01,107.165,111.917,Make sure that everything's in order so that when I'm gone everybody has what they need.
+SPEAKER_00,113.822,122.299," Jill, you've been seeing me for almost a year now and you know by telling me this that I'm going to act to stop you."
+SPEAKER_00,123.181,125.448, I'm going to try to stop you from killing yourself.
+SPEAKER_01,129.24,129.521, Yeah.
+SPEAKER_01,129.761,134.609,"I mean, I want to do it."
+SPEAKER_01,136.231,141.099,I think in the end it's what's going to make things better.
+SPEAKER_01,142.241,149.0," But I guess there's still a part of me that doesn't want to die, doesn't want to do that to my family."
+SPEAKER_01,149.581,161.98, So I guess I'm telling you because I'm not 100% resolved and I guess I wanted to talk it over.
+SPEAKER_00,163.968,167.0, You seem pretty serious though about your timetable and your plan.
+SPEAKER_01,168.082,168.884, Yeah.
+SPEAKER_01,168.904,173.453,"I mean, it's like when you plan to go on a weekend trip."
+SPEAKER_01,173.593,176.94,You're pretty sure you're going to go but if the weather's bad you might not.
+SPEAKER_01,177.945,180.256," So I think, you know, I'm pretty sure."
+SPEAKER_00,182.024,183.189, Is there anything that can stop you?
+SPEAKER_01,187.082,190.589," Um, I don't know."
+SPEAKER_01,190.609,195.98,"I don't, I think, I mean, I feel pretty sure about it."
+SPEAKER_00,197.285,200.739, Do you feel like it's the depression or something else that drove you to this decision?
+SPEAKER_01,201.581,211.94," I feel like, I feel like it's just, you know, the same old things that I was worried about before."
+SPEAKER_01,212.421,219.499," You know, the depression and, you know, my relational issues, my job, like the stuff that gets me down."
+SPEAKER_01,220.02,231.159," And, you know, it just clicked and it was like, you know, I've thought about it before but like I feel like I'm going to feel better."
+SPEAKER_01,232.764,235.98," I feel like it's just going to, I'm going to feel better so."
+SPEAKER_00,236.889,237.96," As you said, it's a solution."
+SPEAKER_01,238.061,238.224, Yeah.
+SPEAKER_00,239.02,240.0, I feel like you come with a solution.
+SPEAKER_01,240.303,240.545, Yeah.
+SPEAKER_00,242.543,245.899," Alright, now we've talked about this issue in the past, right?"
+SPEAKER_00,246.541,253.198," And when you've come in feeling this way, kind of resolved to harm yourself, we sent you over to the hospital."
+SPEAKER_00,254.681,266.319," I know that's not your favorite place but when you go there for however long, it's been usually about five days, you come out feeling a lot better."
+SPEAKER_01,267.347,267.592, Yeah.
+SPEAKER_00,268.404,269.798, Do you feel like this time would be different?
+SPEAKER_01,270.301,278.98," Well, I feel like in the past, you know, I've been thinking about killing myself seriously but now I'm not as scared of it."
+SPEAKER_01,279.623,283.0, So I don't really want you to put me in the hospital because then I won't be able to do it.
+SPEAKER_01,283.661,292.0, And before I was scared so I wanted you to put me in the hospital but now I just want to get it over with and so I really don't want you to do that.
+SPEAKER_00,294.282,303.82," So, like, it's like a part of you saying that you don't want me to stop you but yet you came in here and you told me."
+SPEAKER_01,304.061,304.98, Yeah.
+SPEAKER_00,305.322,308.578, So a part of you seems to be maybe not quite sure.
+SPEAKER_01,309.661,319.399," I guess there will always be a part of me that's a human, you know, that's scared to die and I care about you, you know."
+SPEAKER_01,320.681,334.64," I know you're my counselor but like we've had a relationship and we talk about these kinds of things and I felt like I owed it to you to, you know, be honest with you about how I was feeling because we've had that relationship in the past."
+SPEAKER_01,335.38,355.0," And so I guess I came here because of that and because I felt like I just wanted to talk it over, you know, before I did it because, you know, I come to you to talk about what I'm thinking and so I felt like this would help me like gain the final clarity that I needed."
+SPEAKER_00,357.184,358.0, Has it helped you gain any clarity?
+SPEAKER_01,363.264,363.685, I don't know.
+SPEAKER_01,363.785,372.632,I guess I see that you're saying that like I really need to go to the hospital.
+SPEAKER_01,372.712,381.94,I guess I was hoping a little bit that you would be happy for me that I was feeling better but I think that you want me to go to the hospital so I don't know.
+SPEAKER_01,382.522,387.98," It makes me think about whether it's the right decision, you know."
+SPEAKER_00,389.082,389.98, You mean the suicide?
+SPEAKER_01,390.163,390.449, Yeah.
+SPEAKER_00,391.661,406.0," Sometimes, you know, you've been with me like I said about almost a year now and you've been depressed much of that time and it's not unusual when somebody thinks they've found a solution to depression."
+SPEAKER_00,407.381,415.0, Even if that solution is something that I am against like suicide that their mood would become elevated because you see an end to the pain.
+SPEAKER_00,416.422,421.0, There's other things we can do and have done in the past to try to get you out of pain.
+SPEAKER_01,422.741,434.98," But we have done them in the past and I didn't feel better and now I am feeling better so, you know, I just want you to accept that."
+SPEAKER_00,436.551,436.98, But I'm not going to.
+SPEAKER_00,441.023,445.819, It's my obligation that I'm happy to fulfill to try to keep you alive.
+SPEAKER_00,446.14,465.439," I've seen you this way before and I know it may not seem this way now but when you came out from the suicidal thoughts and the feelings you did well for weeks, sometimes months at a time."
+SPEAKER_00,467.884,470.96, You're seeing really just the darkest when you're in the...
+SPEAKER_01,472.082,473.0," Yeah, but I'm feeling better now."
+SPEAKER_00,474.408,475.0, Temporarily.
+SPEAKER_00,476.0,477.354, Sometimes you feel you've found an end to the pain.
+SPEAKER_00,479.02,479.702, Which I understand.
+SPEAKER_00,479.762,485.819,I mean I understand you're feeling better but you're feeling better because you plan on killing yourself.
+SPEAKER_00,488.02,495.699," And we've talked about how devastating that would be to your family, right, to your friends."
+SPEAKER_00,497.061,497.98, You have all these goals in your life.
+SPEAKER_01,499.0,500.845," Yeah, but I'm just torturing them with my sadness."
+SPEAKER_01,500.905,502.65,I'm just making their lives miserable.
+SPEAKER_01,502.67,506.0,I don't understand how it's going to help them for me to stay alive.
+SPEAKER_01,507.04,508.244," You know, I'm worth more."
+SPEAKER_01,508.705,513.98,"They can have my life insurance and, you know, I won't make them suffer anymore."
+SPEAKER_00,516.08,522.0," So your logic is that if you end your life, you'll free them from having to deal with you."
+SPEAKER_01,523.141,524.01, Yeah.
+SPEAKER_01,524.03,524.96,It feels like the right thing to do.
+SPEAKER_00,527.362,529.185," As you know, I mean, you've signed releases."
+SPEAKER_00,529.225,531.648,"I've talked to your husband, your parents."
+SPEAKER_00,531.948,539.96,"They repeatedly said that despite sometimes the challenge of dealing with your depression, they would much rather have you alive."
+SPEAKER_00,541.224,542.0, Why would they say that?
+SPEAKER_01,544.063,551.0, I think that they're scared of the pain of losing me but I know that they'll feel better eventually.
+SPEAKER_00,552.0,552.98, So they'll get over the grief.
+SPEAKER_01,554.429,554.735, Yeah.
+SPEAKER_00,556.082,556.837, I understand.
+SPEAKER_01,558.0,560.799, And I think that they'll understand that I needed this.
+SPEAKER_00,564.261,566.811," You know, I've been doing this for a while, right?"
+SPEAKER_00,567.414,568.92,I think we've come to have a good relationship.
+SPEAKER_01,570.082,570.98, Yeah.
+SPEAKER_00,572.1,575.248, And I would hope that I've earned your trust and your value in my opinion.
+SPEAKER_00,576.852,580.0,Can I share with you something that I know about suicide?
+SPEAKER_01,581.02,581.449, Sure.
+SPEAKER_00,583.0,583.673, You open hearing it?
+SPEAKER_01,584.082,584.51, Yeah.
+SPEAKER_00,586.321,591.691," There's a lot of ways that people die, right?"
+SPEAKER_00,591.792,595.419,And it's really what eventually will happen to us all.
+SPEAKER_00,597.1,602.346, It's hard for me to imagine a way more devastating than suicide.
+SPEAKER_00,603.907,615.7,"Meaning when somebody dies of an illness or a car accident or any other type of tragic accident, people grieve, right?"
+SPEAKER_00,617.642,620.793, But there's usually not a blame assigned to that.
+SPEAKER_00,620.813,623.0,"I mean, they don't feel guilty."
+SPEAKER_00,624.0,625.0, Does that make sense?
+SPEAKER_00,627.825,633.0, They feel sad because they've lost the person but they don't feel responsible for that person's death.
+SPEAKER_00,635.262,636.323, Suicide is different.
+SPEAKER_00,638.126,644.154,"When somebody commits suicide, their family and friends feel responsible."
+SPEAKER_00,644.854,647.458,They have no answers to all the questions that they have.
+SPEAKER_00,647.478,648.139,They can never get answers.
+SPEAKER_01,649.14,658.9, I'm going to write them a note and tell them everything and tell them it's not their fault because it's not their fault and I just want them to be happy without me.
+SPEAKER_00,660.141,663.0, So you believe the note will take away all that pain?
+SPEAKER_01,665.123,672.0," No, but I think that it will help them realize that they shouldn't feel guilty like you're saying."
+SPEAKER_00,673.082,673.98, It will mitigate that pain?
+SPEAKER_01,675.327,675.551, Yeah.
+SPEAKER_00,676.421,681.65, I can tell you from experience that notes don't really help.
+SPEAKER_00,683.694,686.539,"If anything, it's another artifact that they can agonize over."
+SPEAKER_00,689.18,703.259," I know it's hard to see from your perspective because you're kind of resolved to this and you feel stuck in the pain and you want out, but they will miss you and they will agonize for the rest of their lives because they lost you."
+SPEAKER_00,706.104,711.954, And it's a special horrible type of agony that comes with feeling responsible for causing someone's death.
+SPEAKER_00,714.138,715.0,And I know you don't want that.
+SPEAKER_01,720.582,721.705, I just want to feel better.
+SPEAKER_01,721.725,726.659,I just don't know why you can't let me feel better.
+SPEAKER_00,728.621,730.846, I know it's frustrating and I know it's hard to understand.
+SPEAKER_00,732.91,736.176,"The times when you've gone to the hospital before, you have felt better."
+SPEAKER_00,736.597,738.0,Your outlook was completely different.
+SPEAKER_00,739.06,741.063," Not 100%, but it was completely different when you came out."
+SPEAKER_00,741.384,744.088,Right?
+SPEAKER_00,744.129,750.8,"I mean you're still a little down, but nowhere near the depression where you'd want to hurt yourself."
+SPEAKER_00,753.344,759.0," Is it possible that if you go to the hospital this time, you could come out feeling better again?"
+SPEAKER_01,763.747,764.838," Yeah, it's possible."
+SPEAKER_00,769.245,772.96, I'm going to make arrangements to get you over to the hospital.
+SPEAKER_01,774.02,774.837, I don't want to go to the hospital.
+SPEAKER_00,775.0,775.22, I know.
+SPEAKER_00,775.681,776.162,I know you don't.
+SPEAKER_00,777.263,778.725,And we've had this conversation before.
+SPEAKER_00,781.73,789.0,"I realize that you're not happy with some of the conditions there, but you usually talk finally about the groups."
+SPEAKER_00,790.381,791.563, You usually do well in the groups.
+SPEAKER_00,794.529,799.519,"And typically, well every time you've been to the hospital you come out feeling better."
+SPEAKER_00,804.146,806.128, I know it's not what you want to hear.
+SPEAKER_00,806.148,812.116,"I know you want me to be happy that you're going to end your life, but that wouldn't make me happy."
+SPEAKER_00,814.079,815.0,That wouldn't make anybody happy.
+SPEAKER_00,816.803,820.639," I know you think it would make you happy, but I can tell you it's not the answer."
+SPEAKER_00,824.607,827.014, I'd like you to go voluntarily through this process.
+SPEAKER_00,827.034,828.158,Will you do that?
+SPEAKER_01,831.102,831.163, Go.
+SPEAKER_00,833.1,835.384, You'll go?
+SPEAKER_01,835.464,836.886,Alright.
+SPEAKER_00,837.848,839.311,So I'm going to make arrangements to get you there.
+SPEAKER_00,840.092,845.0,"And when you're there and they're getting ready to discharge you, make sure you set up an appointment to see me right away."
+SPEAKER_00,845.12,850.428," Because usually I'm going to keep you about five, maybe ten days at the most."
+SPEAKER_00,852.27,855.856,"So I know they take care of this, but I'm going to ask you this too."
+SPEAKER_00,855.956,858.96,Make sure that you have an appointment set up to see me so I can see you right after you get out.
+SPEAKER_00,862.041,863.0, Can you do that for me?
+SPEAKER_01,868.281,868.562, Alright.
+SPEAKER_00,869.867,872.9,I'm going to go make those arrangements and we'll get you over there.
+SPEAKER_00,873.163,873.98," We'll get you over there, okay?"

@@ -1,0 +1,152 @@
+speaker,text,start,end
+SPEAKER_00," Hi, Louise.",14.697,15.057
+SPEAKER_00,How you doing today?,15.077,16.839
+SPEAKER_01," Doing pretty well, but I'm kind of concerned about something.",17.4,21.097
+SPEAKER_00, Yeah.,21.981,22.182
+SPEAKER_00,I'm aware you have some symptoms that have been bothering you.,22.604,25.013
+SPEAKER_00,Can you tell me about those?,25.033,25.736
+SPEAKER_01, Sometimes I have problems with my attention and I was looking it up online and I'm really  worried that I might have ADHD.,27.72,36.995
+SPEAKER_00, ADHD?,37.6,37.7
+SPEAKER_00,All right.,37.76,38.182
+SPEAKER_00,So we'll talk about that.,40.248,42.033
+SPEAKER_00,Let me ask you a few quick questions before  we get to that.,42.073,45.828
+SPEAKER_00,Do you ever feel depressed?,45.848,48.22
+SPEAKER_01, No.,48.607,48.647
+SPEAKER_00, No?,49.586,49.749
+SPEAKER_00,Anxious?,49.77,50.076
+SPEAKER_01, No.,50.28,50.321
+SPEAKER_00, Any trouble with drugs or alcohol or anything like that?,52.305,55.159
+SPEAKER_01," Oh, no.",56.034,56.198
+SPEAKER_00, Okay.,56.581,58.309
+SPEAKER_00,Why do you think you have ADHD?,59.334,60.439
+SPEAKER_01," Oh, because I mean I've always had a problem with my attention and I can get distracted  pretty easily.",62.103,69.744
+SPEAKER_00, So trouble establishing attention?,72.28,74.619
+SPEAKER_01, Yes.,75.17,75.456
+SPEAKER_00," How about difficulty in holding attention, like once you have established it?",75.941,79.718
+SPEAKER_01, Yeah.,80.241,80.506
+SPEAKER_00, Trouble with both of those?,81.2,82.057
+SPEAKER_01, Mm-hmm.,82.22,83.159
+SPEAKER_00, All right.,83.2,83.381
+SPEAKER_00,And you mentioned the word distracted?,83.704,85.256
+SPEAKER_01, Yes.,86.2,86.322
+SPEAKER_00, Yeah.,87.2,87.281
+SPEAKER_00,So you find yourself easily distracted?,87.301,88.799
+SPEAKER_01, Yes.,88.981,89.144
+SPEAKER_00, You do?,91.604,91.865
+SPEAKER_00,Okay.,91.885,92.005
+SPEAKER_00,"How about, well, give me an idea of the setting.",92.266,94.692
+SPEAKER_00,So is this at work or  school?,95.274,98.269
+SPEAKER_01," Oh, it's everywhere.",98.881,99.695
+SPEAKER_00, It's everywhere?,100.0,100.388
+SPEAKER_01, Mm-hmm.,101.102,101.306
+SPEAKER_00, All right.,102.0,102.282
+SPEAKER_00,So do you work?,103.37,104.559
+SPEAKER_01," Yes, I do.",105.046,105.393
+SPEAKER_00, Yeah.,105.78,105.862
+SPEAKER_00,Do you go to school?,105.882,106.433
+SPEAKER_01," Yes, I do.",106.821,107.127
+SPEAKER_00, All right.,107.78,108.209
+SPEAKER_00,How old are you?,108.454,108.76
+SPEAKER_01, I'm 24.,108.78,108.903
+SPEAKER_00, All right.,110.76,111.061
+SPEAKER_00,And this problem with the attention affects you at work and at school?,111.743,118.44
+SPEAKER_01, Mm-hmm.,118.683,119.03
+SPEAKER_00, And you said everywhere?,119.54,120.051
+SPEAKER_01," Yeah, pretty much.",120.52,121.125
+SPEAKER_01,It's part of my everyday life now.,121.226,122.538
+SPEAKER_00, All right.,123.181,124.486
+SPEAKER_00,You're 24 now.,124.526,124.968
+SPEAKER_00,When did you first notice the attention problems?,125.008,128.38
+SPEAKER_01," Oh, I've always had that.",129.042,130.147
+SPEAKER_01,"I mean, even when I was in like elementary school, you know,  I was always that kid.",130.167,134.43
+SPEAKER_00, You've had it for a long time?,135.48,136.288
+SPEAKER_01, Yeah.,137.521,138.48
+SPEAKER_00, How about how disturbing it is?,139.481,143.43
+SPEAKER_00,"Like, how much is it interfering with your functioning?",143.631,146.598
+SPEAKER_01," It really, it really does.",147.381,148.998
+SPEAKER_00, It's really problematic?,149.2,149.914
+SPEAKER_01, Yeah.,150.241,150.935
+SPEAKER_00, All right.,153.968,154.189
+SPEAKER_00,Okay.,154.209,154.289
+SPEAKER_00,So I'm going to ask you a few other questions here.,154.43,156.275
+SPEAKER_00,"We talked about  the attention, so it's hard for you to give attention and hold attention.",157.418,161.899
+SPEAKER_01, Yeah.,162.263,162.773
+SPEAKER_00, Let's go with the school environment for now.,164.241,167.69
+SPEAKER_00,Let's talk about school.,167.71,169.474
+SPEAKER_00,How about listening  in class?,170.537,172.27
+SPEAKER_01," No, I don't really have a problem with that.",173.265,174.74
+SPEAKER_00, That's not a problem for you?,175.005,175.76
+SPEAKER_01, No.,176.025,176.189
+SPEAKER_00, How about following instructions?,176.861,177.992
+SPEAKER_01, No.,178.882,178.984
+SPEAKER_00, Tell me about your organizational skills.,181.266,184.479
+SPEAKER_01, I'm very organized.,184.944,185.74
+SPEAKER_00, You're very organized?,185.882,186.678
+SPEAKER_01, Yeah.,186.78,187.041
+SPEAKER_01,I have to be in college.,187.142,188.067
+SPEAKER_00," Do you find yourself avoiding activities that require a lot of mental investment, mental  energy?",191.4,199.645
+SPEAKER_01," No, not really.",200.4,200.727
+SPEAKER_00, No?,201.4,201.502
+SPEAKER_01, No.,203.318,203.4
+SPEAKER_00, All right.,203.4,203.662
+SPEAKER_00,Do you move toward those types of activities?,203.702,205.856
+SPEAKER_01," Oh, I'm not opposed to them.",206.842,207.988
+SPEAKER_01,"Like, I like chess and checkers.",208.129,210.259
+SPEAKER_00, All right.,211.403,211.584
+SPEAKER_00,Do you ever find yourself losing things that you need to complete different  jobs or tasks?,212.908,217.3
+SPEAKER_01, No.,217.585,217.708
+SPEAKER_00, No?,218.32,218.544
+SPEAKER_00,All right.,218.606,218.83
+SPEAKER_00, Okay.,221.664,221.925
+SPEAKER_00,I'm going to change gears and ask you some other questions around a different area.,222.145,228.479
+SPEAKER_01, Okay.,228.88,229.084
+SPEAKER_00," Do you ever find yourself fidgeting, tough to stay still?",229.94,233.86
+SPEAKER_01," Not really, no.",234.264,234.91
+SPEAKER_00, No?,236.241,236.322
+SPEAKER_00,"In school, again, we'll kind of stick with the school environment.",236.362,240.498
+SPEAKER_01, Okay.,241.247,241.39
+SPEAKER_00, Do you find it difficult to stay seated?,241.88,242.88
+SPEAKER_01," No, not at all.",243.283,243.826
+SPEAKER_00, How do you do when you are engaging in a quiet activity?,246.44,249.44
+SPEAKER_01, I do pretty well.,249.501,251.42
+SPEAKER_00, You do okay with that?,251.603,252.42
+SPEAKER_01, Yeah.,252.44,252.542
+SPEAKER_00, You don't find yourself wandering off with that?,253.44,255.42
+SPEAKER_01," No, not at all.",255.44,255.93
+SPEAKER_00, Okay.,257.243,257.323
+SPEAKER_00,Do you ever feel like internally there's a motor running and you can't shut it off?,257.343,261.397
+SPEAKER_01, No.,262.787,262.95
+SPEAKER_00, No?,265.506,265.626
+SPEAKER_00,How about being talkative?,265.686,269.397
+SPEAKER_00,Do you find yourself talkative?,269.417,270.44
+SPEAKER_01, I'm very talkative.,271.127,272.4
+SPEAKER_00, You're very talkative?,272.44,273.032
+SPEAKER_01, Sometimes I end up being rude and I interrupt people.,274.0,277.317
+SPEAKER_01," I just, I gotta get it out.",278.402,279.467
+SPEAKER_00, All right.,282.51,282.837
+SPEAKER_00, So you feel like you talk a lot and that you interrupt?,283.141,286.719
+SPEAKER_01," Yes, I do.",287.768,288.394
+SPEAKER_00, Interrupt people.,289.142,290.72
+SPEAKER_00," In a situation where it would be traditional to like wait in line or wait your turn, do  you find that's difficult for you?",290.72,299.033
+SPEAKER_01, No.,299.863,299.944
+SPEAKER_00, No?,300.904,301.128
+SPEAKER_00," Do you ever find yourself, like for example in class, just saying something, like blurting  something out without giving it much thought?",302.08,310.716
+SPEAKER_01," No, not really.",311.466,312.078
+SPEAKER_00, No?,312.16,312.463
+SPEAKER_00,Okay.,313.17,313.493
+SPEAKER_00, All right.,316.507,316.731
+SPEAKER_00, I think I have what I need here and I want to get you in to see a counselor.,317.902,323.618
+SPEAKER_01, Okay.,324.282,324.568
+SPEAKER_00, If that works for you.,325.242,326.119
+SPEAKER_01, Yes.,326.201,326.344
+SPEAKER_00, Because you did mention this was affecting your functioning.,327.16,328.16
+SPEAKER_01, Yes.,328.16,328.425
+SPEAKER_00, So I want to make sure you get to see a counselor.,329.6,331.297
+SPEAKER_00, It will just take a couple days to get you in to see somebody if that works for you.,332.002,335.319
+SPEAKER_01, That's great.,335.6,336.11
+SPEAKER_01, Thank you.,336.6,337.192
+SPEAKER_00, Yeah.,337.62,337.763
+SPEAKER_00, I appreciate you taking this time with me.,338.6,339.6
+SPEAKER_00, This information has been helpful.,339.824,340.6
+SPEAKER_01, Thank you very much.,340.6,341.559
+SPEAKER_00," Thanks, Louise.",341.62,341.927

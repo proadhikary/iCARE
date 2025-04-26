@@ -1,0 +1,119 @@
+speaker,start,end,text
+SPEAKER_00,0.0,0.1," Hi, Ms."
+SPEAKER_00,0.12,0.24,Watson.
+SPEAKER_01,16.729,19.377," Nice to see you again, Dr. Goldblum."
+SPEAKER_00,20.481,21.62, I'm glad you came back in.
+SPEAKER_00,21.74,25.573, I've got the results now of the blood work that we did after your checkup.
+SPEAKER_00,27.9,34.015," Before we go over any of that, I really wanted to find out from you how things are going  and what you're concerned about."
+SPEAKER_01,34.841,39.54," Well, I'm curious about them because I haven't been very well, right?"
+SPEAKER_01,39.64,40.608, I haven't been feeling very well.
+SPEAKER_01,42.08,43.273, Last week I threw up some blood.
+SPEAKER_00,43.94,45.431, Is that the first time that's happened?
+SPEAKER_01,46.802,48.415," Yeah, the first time."
+SPEAKER_01,49.22,54.036, I threw up blood last week and then again yesterday.
+SPEAKER_01,55.14,56.239, There's something bad going on.
+SPEAKER_01,56.564,57.76, I know there's something bad going on.
+SPEAKER_00,58.66,59.599, What do you think is going on?
+SPEAKER_01,59.905,60.66," Well, cancer, right?"
+SPEAKER_01,60.66,61.569, I think I probably have cancer.
+SPEAKER_01,62.841,63.698, I'm not doing very well.
+SPEAKER_01,64.507,65.679, I'm just not doing very well.
+SPEAKER_00,66.101,69.857," Look, let's try to figure some of this out, okay?"
+SPEAKER_00,70.46,74.053," When you said you were throwing up blood, were you throwing up bright red blood?"
+SPEAKER_00,76.582,78.449," Was it little spots, big spots?"
+SPEAKER_01,81.76,83.0, It was almost filling the toilet.
+SPEAKER_01,83.04,83.796, It wasn't that much.
+SPEAKER_01,84.78,87.654, It was enough that I could see it in the toilet when I was throwing up.
+SPEAKER_00,88.78,90.679, Did you have any other symptoms?
+SPEAKER_01,91.643,93.51," Well, I was feeling sick and I had headaches."
+SPEAKER_00,96.14,97.189, What time of day was this?
+SPEAKER_01,98.52,101.18, I have headaches a lot throughout the day.
+SPEAKER_00,101.2,102.214, But the throwing up the blood?
+SPEAKER_01,102.7,108.395, That was in the morning and then again the other time it was sort of later in the day.
+SPEAKER_01,110.561,113.7, I also wake up in the middle of the night and I'm just covered in sweat.
+SPEAKER_01,113.82,115.517, I know that's another cancer thing.
+SPEAKER_00,116.564,119.078," Well, look, I can understand why you're worried, all right?"
+SPEAKER_00,119.42,127.139," Because throwing up blood is scary and waking up soaked in sweat in the middle of the night,  that doesn't feel right either."
+SPEAKER_00,127.441,130.396, Let me ask you a couple of questions that might help explain things.
+SPEAKER_00,131.3,132.81, When did you have your last drink?
+SPEAKER_01,136.151,137.338," Actually, just before I came here."
+SPEAKER_00,138.122,140.051," Okay, so that was earlier this morning."
+SPEAKER_00,141.78,142.311, What did you have?
+SPEAKER_01,144.306,146.199, I had orange juice and I had some vodka in it.
+SPEAKER_01,146.46,152.039, It's the only thing actually that like steadies me enough to get out the door.
+SPEAKER_01,152.341,154.394," I don't go out that often, but you know."
+SPEAKER_00,155.461,156.553, So tell me how it helps you.
+SPEAKER_01,157.322,158.097, It just steadies me.
+SPEAKER_01,158.342,158.919, It steadies me.
+SPEAKER_01,158.96,160.62," Like I'm, you know, I'm shaking all the time."
+SPEAKER_01,160.64,161.089, I'm just like.
+SPEAKER_00,161.72,168.44," So over the course of a day, in order to steady yourself, in order to feel calmer,  how many drinks do you end up having?"
+SPEAKER_01,171.405,171.813, Five?
+SPEAKER_01,173.222,173.467, Maybe.
+SPEAKER_00,174.1,175.08, Singles or doubles?
+SPEAKER_01,175.1,176.1, I don't measure.
+SPEAKER_01,176.12,176.345, I think so.
+SPEAKER_00,177.321,179.071, Is it mainly vodka?
+SPEAKER_01,180.8,184.099," Sometimes if I'm feeling really like my stomach is really upset, I'll drink cider."
+SPEAKER_01,184.3,186.35, So that's cider or vodka.
+SPEAKER_00,188.3,196.014, And do you ever get that feeling in the morning that some people describe that they wake up  feeling so edgy they need a drink to calm down?
+SPEAKER_01,197.34,198.739, It's like the only thing that works for me.
+SPEAKER_01,198.861,200.012, It's the only thing that works to.
+SPEAKER_00,200.88,203.027," So in the past week, do you think you've been drinking more?"
+SPEAKER_01,206.82,207.586, In the last week?
+SPEAKER_01,209.38,209.849, Not so much.
+SPEAKER_01,210.44,212.455," Maybe the last couple of weeks, maybe."
+SPEAKER_00,213.06,213.747, Has it been daily?
+SPEAKER_01,215.55,215.774," Oh, yeah."
+SPEAKER_00,216.162,216.346, Right.
+SPEAKER_00,217.06,221.112, So the longest you've gone without a drink in the last month would be how long?
+SPEAKER_01,223.963,224.696," I don't know, actually."
+SPEAKER_01,225.001,226.299," I mean, I don't know."
+SPEAKER_01,226.421,228.416," I've got, you know, I've got a lot going on, right?"
+SPEAKER_01,228.94,232.339, So my sister is in Boston.
+SPEAKER_01,232.46,233.297, She's got cancer.
+SPEAKER_01,233.46,236.199," And I know, like, I should be calling her, and I can't do that."
+SPEAKER_01,236.32,238.878," My mom is really sick, and she's horrible."
+SPEAKER_01,239.301,241.037, And I'm the only one who can go see her.
+SPEAKER_01,241.38,245.719," And I go see my mother, and she just yells and screams at me."
+SPEAKER_01,245.98,246.919, And she's got emphysema.
+SPEAKER_01,246.98,247.307, And it's just...
+SPEAKER_00,250.248,253.318," And so for all of those things, the alcohol helps?"
+SPEAKER_01,254.347,254.572, Yeah.
+SPEAKER_00,256.22,263.193," And does it ever happen, sort of by the end of the day, that you have trouble the next  day remembering what happened?"
+SPEAKER_01,264.142,264.693, I guess.
+SPEAKER_01,265.12,267.699," I mean, you know, my days don't differ that much."
+SPEAKER_01,267.86,270.692," But I, you know, I'll fall asleep in front of the television, and then..."
+SPEAKER_01,272.521,274.019, I'm not seeing lots of people.
+SPEAKER_01,274.16,276.82," So I, you know, there's not big events in my life that I would be remembering."
+SPEAKER_01,276.86,281.417," I just, you know, and especially now that I'm feeling so not well, that I..."
+SPEAKER_01,283.46,286.034," Yeah, there's not much that I would have to remember."
+SPEAKER_00,287.06,290.274, Have you tried at all to cut down on your drinking?
+SPEAKER_01,291.902,292.351, I did.
+SPEAKER_01,295.083,302.518," You know, I had a boyfriend who, you know, was sort of casual coming over."
+SPEAKER_01,303.62,309.06, And he basically said he couldn't be with me anymore because I drank too much.
+SPEAKER_01,309.18,310.175, And so I tried.
+SPEAKER_00,310.663,311.357, Yeah.
+SPEAKER_01,311.967,312.273, I tried.
+SPEAKER_00,313.028,313.62, It's hard.
+SPEAKER_01,314.008,314.538," Well, yeah."
+SPEAKER_01,314.804,315.62, And then he laughed.
+SPEAKER_01,315.64,316.191," So who cares, right?"
+SPEAKER_01,316.64,316.783, I mean...
+SPEAKER_00,317.987,318.212, Right.
+SPEAKER_01,318.64,318.947, Who cares?
+SPEAKER_00,319.62,321.167, But have you found yourself feeling guilty about the alcohol?
+SPEAKER_01,324.3,325.573, I feel guilty about my sister.
+SPEAKER_01,326.28,330.359," I feel guilty that I can't, like I just can't, I can't even call her."
+SPEAKER_01,330.62,333.259," Like I can't, right?"
+SPEAKER_01,333.661,337.597," So if I could pull it together, then I could..."
+SPEAKER_00,338.38,347.947, Because what I understand from what you're telling me is that the drinking helps meet  a certain need for you in terms of trying to hold things together with all this stuff  going on.
+SPEAKER_00,348.86,351.133, And it meets a need in terms of trying to keep you calmer.
+SPEAKER_00,352.26,354.979," But at the same time, it's getting you into trouble."
+SPEAKER_00,355.462,357.857, It's getting into trouble in terms of relationships.
+SPEAKER_00,358.42,362.62, But it's also the most likely explanation for why you've been throwing up blood.
+SPEAKER_01,363.006,363.21, Is it?
+SPEAKER_00,363.74,371.331, Why the lab results that I've got are consistent with an amount of alcohol that's too much  for your body to handle.
+SPEAKER_01,372.974,373.24, Really?
+SPEAKER_00,373.525,374.219, Really.
+SPEAKER_01,374.28,380.008," And that means, ideally, that we're going to work together to find a way to do something  about it."
