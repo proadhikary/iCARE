@@ -1,4 +1,4 @@
-# Mental Health Summarization (IIT Delhi X AIIMS Delhi)
+# Mental Health Summarization
 
 This repo contains the code and data for baseline models.
 
