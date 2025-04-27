@@ -13,7 +13,7 @@ from openai import OpenAI
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 ##############################################################################
-genai.configure(api_key = "AIzaSyAFA_5T0JDIQZt_Tf59fto4AYNaJwJFhSk")#"Enter_GeminiAPI_Key")
+genai.configure(api_key = "*******")#"Enter_GeminiAPI_Key")
 openai_client = OpenAI(api_key= "Enter_OpenAI_Key")
 
 ##############################################################################
